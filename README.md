@@ -40,9 +40,10 @@ and then converted to html.
 
 Help pages should use the following format
 
-    # 12.3.4    Page title
+    # 12.3.4    Page title.
 
-    > An short paragraph giving a summary of the main content of the page.
+    > An short paragraph giving a summary of the main content of the page.  Be sure to 
+    remember the initial '>'.
 
     The main text of the help page.  This will need to include terms that
     can be translated, like {{Lamplight}}.
@@ -58,3 +59,34 @@ Help pages should use the following format
     At the end, please put a tag that describes which module the page relates to.
 
     ###### core|eval|comms|charge|costs|datadirect|library|publish|staff|waiting module
+
+
+## Images
+
+Images (screenshots) should be added to the img/ directory.  The number of an image 
+no longer relates to anything (you can call them anything), but the letter (e.g. 123a.png)
+was incremented within a single page of the manual - so 123a.png, 123b.png and 123c.png 
+would all be expected to be on the same page.
+
+
+## Versions
+
+There are currently two versions of the base text for the help manual - v0 and v1.
+There could be more, and different customers can use different versions as their
+base before it's translated.  Currently, v0 is used for all customers except for
+VIP Online, which uses v1.  In principle, though, it'd be possible to add your
+own version number and build from there.  
+
+In short, edit the v0 files.  Also, edit the markdown, not the html which is there
+at the moment - that was included for reference following the initial setup of this
+github approach to things, but will be removed in due course.
+
+The other kind of version is that version that's actually deployed, and is the number
+in the /v/123/ part of the help manual urls and the {{version}} placeholders that
+need to be in the urls.
+
+This kind of version should disappear, but we'll need to keep it in links for now.
+
+The other linkey placeholder is the {{imgpath}}, which can also vary for different 
+customers to enable use of different image sets.
+
