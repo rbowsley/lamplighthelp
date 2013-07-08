@@ -13,7 +13,7 @@ system
 
 To add content to the help manual, you will need to
 
-1. clone this repo (once), or make sure your copy is up to date (pull)
+1. clone this repo (once), or make sure your copy is up to date (frequently, pull)
 2. make your changes
 3. submit a pull request to the `review` branch
 4. once changes have been reviewed, they'll be merged into the `master`
@@ -30,15 +30,19 @@ need to speak to Matt.
 
 Terms to be translated will respect the case, so {{Eval}} will be replaced
 by Evaluation, and {{eval}} as evaluation.  Plurals should be outside the 
-{{placeholders}} (which is admittedly tricky for things like {{staff}}s).
+{{placeholder}}s (which is admittedly tricky for things like {{staff}}s).
 
 
 ## Format of a help manual page
 
-Text of help pages is written in markdown [syntax guide](http://daringfireball.net/projects/markdown/syntax)
+Text of help pages is written in markdown (see the [syntax guide](http://daringfireball.net/projects/markdown/syntax))
 and then converted to html.
 
+Pages files are currently named `chapter-section-subsection_Page_title.markdown`.  It
+won't matter what they're called, but that seems a reasonable convention to follow.
+
 Help pages should use the following format
+
 
     # 12.3.4    Page title.
 
