@@ -1,0 +1,14 @@
+# 9.2.10    {{Comm}}
+
+> To create a mail-merged letter or email for everyone attending a {{work}} record, click '{{comm}}' on the context menu. 
+
+To communicate with the attendees of a {{work}} record, click '{{comm}}' on the context menu. This will open a popup window allowing you to create a {{comm}} (see section [12.1.0  Creating a {{comm}}](/help/index/v/{{version}}/p/12.1.0)) with the attendance details already filled in. 
+
+It will also allow you to use the details on the {{work}} records as merge fields. 
+
+Click on the '{{message}} content' tab and within the text editing toolbar a 'happen merge' (i.e. merge information about what happened) drop-down option is available. Select the fields you wish to be inserted into your {{comm}}. This will take the details entered from the {{work}} record. 
+
+![Communicating with {{work}} record attendees]({{imgpath}}69a.png) 
+
+###### core module
+
