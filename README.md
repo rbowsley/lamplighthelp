@@ -21,8 +21,12 @@ To add content to the help manual, you will need to
 A separate build process will then take the text from here and update
 customer help files and downloads.
 
+Please make frequent commits - one commit should only have changes to one
+page (file).  Reference issues in the commit message (e.g. "Updated
+page on adding work records #123").
 
-## Language pack for tranlsations
+
+## Language pack for translations
 
 The current set of terms that may be used and which should be translated 
 are [listed](./language.markdown).  If additional ones are needed, you'll
@@ -81,7 +85,7 @@ base before it's translated.  Currently, v0 is used for all customers except for
 VIP Online, which uses v1.  In principle, though, it'd be possible to add your
 own version number and build from there.  
 
-In short, edit the v0 files.  Also, edit the markdown, not the html which is there
+But in short, edit the v0 files.  Also, edit the markdown, not the html which is there
 at the moment - that was included for reference following the initial setup of this
 github approach to things, but will be removed in due course.
 
@@ -94,3 +98,8 @@ This kind of version should disappear, but we'll need to keep it in links for no
 The other linkey placeholder is the {{imgpath}}, which can also vary for different 
 customers to enable use of different image sets.
 
+
+## Licence 
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Lamplight Database help manual text</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/mattparker/lamplighthelp" property="cc:attributionName" rel="cc:attributionURL">Lamplight Database Systems Limited</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
