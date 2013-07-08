@@ -1,0 +1,14 @@
+# 4.3.2    Splitting data up: table pagination
+
+> A paginator splits the data in a table into smaller chunks to make it easier to handle. The paginator control lets you move through the 'pages' of your data. 
+
+If there is a lot of information to see, the paginator splits it into chunks to make it easier to deal with. The paginator looks like this and appears at the top of tables:
+
+![Table paginator]({{imgpath}}16a.png)
+
+All the data is split up into 'pages' - click the page number you wish to view to jump forwards or back.
+
+You can also alter the number of rows displayed on each 'page': Change the drop-down value as required. 
+
+###### {{core}} module
+

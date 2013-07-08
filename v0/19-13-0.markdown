@@ -1,0 +1,8 @@
+# 19.13.0    {{Eval}}s
+
+> {{Eval}}s are questionnaires you set up in {{Lamplight}} and use to capture and analyse survey-style data. 
+
+{{Eval}}s are a major step forward for the new version of {{Lamplight}}. We'd worked closely with one of our customers to develop the initial ideas in the older version of {{Lamplight}}. {{Eval}}s, letting you capture and analyse survey-type data, are still a separate module, but is fully integrated into the core system. See section [15.0.0  {{Eval}}s module overview](/help/index/v/{{version}}/p/15.0.0) for more details. 
+
+###### {{core}} module
+
