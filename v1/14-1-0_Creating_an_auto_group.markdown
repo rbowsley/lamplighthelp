@@ -1,0 +1,44 @@
+# 14.1.0    Creating an {{auto group}}
+
+> On the main menu go to {{report}} -> {{group}}s -> Add {{auto group}}. Give the {{group}} a name and description; enter your search criteria, and click 'Save'. 
+
+On the main menu go to {{Report}}s -> {{group}}s -> Add {{auto group}} and you will see the following screen:
+
+![Creating an {{auto group}}]({{imgpath}}568a.png)
+
+This screen is where you set up the criteria for your {{group}}. As you go through you can add different aspects: {{Lamplight}} will include people that meet ALL the criteria you enter. Note too that all numeric and date comparisons in {{Lamplight}} are inclusive (for example >=, not > ).
+
+When you have added all criteria, click the 'save' button in the bottom-right.
+
+**{{Group}} name tab**: the name and description of the {{group}} are to help you and other users of the system remember what this {{group}} is for. Both are required fields.
+
+**{{People}} tab:** do you want a {{group}} of individuals, or organisations? What types of {{people}} do you want?
+
+![{{Auto group}}s - choosing what types of {{people}} to add]({{imgpath}}568b.png)
+
+**Address:** search by address. You can search particular lines of the address, or more reliably search any part of it, or by postcode. When searching by postcode, you can enter multiple postcodes (or partial postcodes) separated by a semi-colon (;). Whenever you search for text, you can select how the search should be carried out: 
+
+  * Exact match - the phrases should be identical, but case-insensitive (so 'hello' matches 'HeLLo')
+  * Match anywhere - will match the entire string wherever it occurs (so 'stone lane' matches '15 Stone Lane', and matches '15 Brightstone Lane', but does not match '15 Stonecroft Lane'.
+  * Starts like - will match any strings that start with the search string
+
+Spaces at the beginning and end of address lines is excluded from searches.
+
+**Relationship:** searches by relationship created between {{people}}. This is not generally used in VIP Online.
+
+**{{User}} fields** are fields set up for {{user}}s, and include the data added on their profiles - organisation size, type etc.
+
+The comparisons vary depending on the type of field. Date and number fields may be matched as either: 
+
+  * Greater than or equal to, meaning that people with a value greater (or later) than or equal to the value you specify will be included.
+  * Less than or equal to
+  * Equal to
+  * between two values (you need to specify a lower and upper value)
+
+Where there are multi-select options, only those that match all of your selections will be included in the {{group}}.
+
+The **{{Outcome}}s** tab lets you search for {{people}} that have {{outcome}} scores above or below a certain level, between certain dates, and even whether that score has been maintained for a certain period of time. This will let you set up {{group}}s like '{{people}} that have high 'creating impact' scores and sustained it for 6 months'. Bear in mind here that {{Lamplight}} treats yes-no {{outcome}}s as 1 - 0 (ie a 'yes' is stored as 1, and a 'no' as a 0, so to find {{people}} that have answered 'yes' to a particular {{outcome}} you'll need to enter 'Outcome score' as 'Equal to' '1'. You will only need to worry about this if you have added your own 'yes-no' {{outcome}}s. 
+
+[View the video](/help/video/id/18)
+###### core module
+
