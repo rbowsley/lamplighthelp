@@ -1,6 +1,6 @@
 # 7.2.0    My {{User}}s
 
-> My {{user}}s are the {{user}}s you {{work}} with often 
+> My {{user}}s are the {{user}}s you {{work}} with most often 
 
 There will often be {{user}}s, {{contact}}s or {{funder}}s that you {{work}} with regularly. Rather than search for them every time or browse through long lists, you can set them up to appear on this tab shown on your homepage. It will allow you to have easy access to their contact details and profiles. 
 
