@@ -16,11 +16,11 @@ When you have added all information, click the 'create/send' button in the botto
 
 ![Saving, testing or creating a {{comm}}]({{imgpath}}83c.png)
 
-You can create a {{comm}} from a {{group}} using the context menu. Creating a {{comm}} this way will automatically populate the recipients list with the members of the {{group}}.
+If you have the {{Comm}} module then you can create a {{comm}} from a {{group}} using the context menu. Creating a {{comm}} this way will automatically populate the recipients list with the members of the {{group}}.
 
 ![Creating {{comm}}s from a {{group}}]({{imgpath}}83e.png)
 
-You can create a {{comm}} from a {{work}} record. Creating a {{comm}} this way will automatically populate the recipients list with the attendees of the {{work}} record. You can also use extra mail merge options ('happen merge') to include parts of the {{work}} record.
+If you have the {{Comm}} module then you can create a {{comm}} from a {{work}} record, using the context menu. Creating a {{comm}} this way will automatically populate the recipients list with the attendees of the {{work}} record. You can also use extra mail merge options ('happen merge') to include parts of the {{work}} record. (see section [9.2.10  {{Comm}}](/help/index/v/{{version}}/p/9.2.10))
 
 ![Creating {{comm}}s from a {{work}} record]({{imgpath}}83d.png)
 
