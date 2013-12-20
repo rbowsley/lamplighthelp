@@ -1,6 +1,6 @@
 # 2.0.0    Introduction
 
-> An overview of {{Lamplight}} and the contents of the help system 
+> An overview of {{Lamplight}} and the contents of the online help system 
 
 {{Lamplight}} is a fully featured management system for charities and voluntary sector organisations. 
 
