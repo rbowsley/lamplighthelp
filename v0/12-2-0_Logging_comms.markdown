@@ -8,6 +8,8 @@ In some cases you may not want to create a document or email, but may need to re
 
 Only the first tab is different: you can record the type, time and {{workarea}} the {{comm}} relates to. 
 
+{{Comm}} logs don't have a duration in {{Lamplight}} so if your {{comm}} took time to complete (e.g. a telephone meeting or writing a detailed letter) then consider capturing it as a {{work}} record instead.
+
 [View the video](/help/video/id/49)
 ###### comms module
 
