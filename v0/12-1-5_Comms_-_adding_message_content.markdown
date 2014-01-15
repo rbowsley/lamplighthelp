@@ -2,7 +2,7 @@
 
 > Your actual {{message}} is entered in the {{message}} content tab. 
 
-Type in your text for the actual message in the message content tab. You can use the rich text editor (except with text messages): see section [4.4.0  Rich text editor](/help/index/v/{{version}}/p/4.4.0) for more help on how to use the editor.
+Type in your text for the actual {{message}} in the {{message}} content tab. You can use the rich text editor (except with text messages): see section [4.4.0  Rich text editor](/help/index/v/{{version}}/p/4.4.0) for more help on how to use the editor.
 
 The core system allows you to do basic mail-merge features, using name and address fields. On the text editor you will see a button with these fields: simply click on one on the drop-down menu to insert the relevant field.
 
@@ -16,11 +16,15 @@ Please be cautious of pasting text from another word document into the text edit
 
 ![Using document templates]({{imgpath}}88b.png)
 
-The first lets you edit the html content of your message directly. The second checks the html you have entered, and filters it if necessary. This filtering happens when you send/create the message, so clicking this button lets you double-check the content of your message. It's worth doing this after pasting text from Microsoft programs to check your message will look OK. In some cases your message will corrupt or even appear to disappear. In this case, there is a problem with the Microsoft formatting codes that you are pasting. You'll need to delete the content of your message, and then click the third button which switches the MS filter on or off. 
+The first button lets you edit the HTML content of your message directly. 
 
-When this is unclicked (it's on by default) the editor will not run the filters and whatever you paste will be sent as it is. This should be OK for emails; but it is very likely to cause problems if you are creating letters; {{Lamplight}} translates html into Rich Text Format documents, but expects valid html to convert (which Microsoft code isn't). If you are needing to do this you may want to send a test email first. 
+The second button checks the HTML you have entered, and filters it if necessary. This filtering happens when you send/create the message, so clicking this button lets you double-check the content of your message. 
 
-When you have completed your message, click the 'save' button in the bottom-right. The {{comm}} will be generated: if it's a document, a download will be created and opened; if an email you'll receive notification that the email(s) were sent. 
+It's worth doing this after pasting text from Microsoft programs to check your message will look OK. In some cases your message will corrupt or even appear to disappear. In this case, there is a problem with the Microsoft formatting codes that you are pasting. You'll need to delete the content of your message, and then click the third button which switches the MS filter on or off. 
+
+When this is unclicked (it's on by default) the editor will not run the filters and whatever you paste will be sent as it is. This should be OK for emails; but it is very likely to cause problems if you are creating letters; {{Lamplight}} translates HTML into Rich Text Format documents, but expects valid HTML to convert (which Microsoft code isn't). If you are needing to do this you may want to send a test email first. 
+
+When you have completed your message, click the 'create/send' button in the bottom-right. The {{comm}} will be generated: if it's a document, a download will be created and opened; if an email you'll receive notification that the email(s) were sent. 
 
 [View the video](/help/video/id/27)
 ###### core module

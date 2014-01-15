@@ -1,6 +1,6 @@
 # 12.6.3    {{Comm}}s - setting up a CampaignMonitor campaign
 
-> A 'campaign' is the email content, linked to a maling list. You can set up your campaign in {{Lamplight}} via {{work}} -> {{comm}} -> create CampaignMonitor campaign 
+> A 'campaign' is the email content, linked to a mailing list. You can set up your campaign in {{Lamplight}} via {{work}} -> {{comm}} -> create CampaignMonitor campaign 
 
 When you start a new CampaignMonitor campaign, you'll see the following screen:
 

@@ -4,7 +4,7 @@
 
 You'll need a {{group}} as the basis of your CampaignMonitor mailing list: see section [14.0.0  Introduction to {{group}}s](/help/index/v/{{version}}/p/14.0.0) for more on {{group}}s. When you are ready, go to {{group}}s -> view all on the main menu and find the {{group}} you want to use. When you open the context menu (right-click on click the menu button), hover your mouse over the '{{Comm}}' option and you'll see some CampaignMonitor options:
 
-![{{Group}}s context menu - campaign monitor options]({{imgpath}}237a.png)
+![{{Group}}s context menu - CampaignMonitor options]({{imgpath}}237a.png)
 
 If this is the first time you are doing this, you'll need to 'Create CampaignMonitor list' first. You'll receive a confirmation message if this was successfuly.
 

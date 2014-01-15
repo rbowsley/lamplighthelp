@@ -7,7 +7,7 @@ CampaignMonitor ([www.campaignmonitor.com](www.campaignmonitor.com)) is a powerf
 As an overview, the link between the two systems works like this:
 
   1. You set up a {{group}} in {{Lamplight}} that you want to use as a mailing list in CampaignMonitor, and then ask {{Lamplight}} to tell CampaignMonitor the email addresses it will need to send to.
-  2. You compose your email in {{Lamplight}}, adn when you're ready you can ask {{Lamplight}} to tell CampaignMonitor to send it for you.
+  2. You compose your email in {{Lamplight}}, and when you're ready you can ask {{Lamplight}} to tell CampaignMonitor to send it for you.
   3. You can view basic campaign statistics in {{Lamplight}}, or log in to CampaignMonitor to access full reports
   4. If anyone clicks on an 'unsubscribe' link in your email, CampaignMonitor receives this notification and passes it on to {{Lamplight}}. {{Lamplight}} updates the 'send email' option on the profile of the person.
 
