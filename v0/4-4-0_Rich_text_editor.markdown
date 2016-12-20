@@ -1,8 +1,8 @@
 # 4.4.0    Rich text editor
 
-> The rich text editors in {{Lamplight}} allow you to create formatted text - for example bold text, bullet points, colours. 
+> The rich text editors in {{Lamplight}} allow you to format text
 
-The rich text editors in {{Lamplight}} allow you to create formatted text - for example bold text, bullet points, colours. The rich text editor will appear automatically when you click the cursor with your mouse inside the text box. If however it doesn't appear, there is a collapse toolbar option, click on the '+' on the right hand side of the text box. 
+With rich text editors in {{Lamplight}} you can create formatted text - for example bold, bullet points, colours. To show the editor, click on the '+' on the top right of the text box. 
 
 ![Collapse toolbar]({{imgpath}}20a.png) 
 
