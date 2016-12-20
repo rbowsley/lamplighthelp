@@ -2,11 +2,11 @@
 
 > You need to open the editor toolbar to reveal the formatting controls 
 
-The rich text editor allows you to use formatted text, like a word processor. When they load initially, you will see the editor looking like this:
+The rich text editor allows you to use formatted text, like a word processor. When it loads initially, you will see the editor looking like this:
 
 ![Standard rich text editor controls - closed]({{imgpath}}21a.png)
 
-To view the controls, click the icon on the right hand side of the toolbar. 
+To view the controls, click the + icon on the top right of the toolbar. 
 
 ![Standard rich text editor controls - plus button]({{imgpath}}21b.png)
 
