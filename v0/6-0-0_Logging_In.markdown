@@ -4,7 +4,7 @@
 
 Enter the web address for the {{Lamplight}} database into the navigation bar of your web browser. 
 
-We recommend that you use Mozilla Firefox or Google Chrome. If you are using Microsoft Internet Explorer we suggest you use the most up-to-date version (currently version 9), although we do support version 7 and 8. We do not support IE version 6.
+We recommend that you use Mozilla Firefox, Google Chrome or Edge browsers. If you are using Microsoft Internet Explorer we suggest you use the most up-to-date version. 
 
 Once the page has loaded, enter your user name (your email address) and your password in the appropriate boxes. The user name and password are case sensitive. 
 
