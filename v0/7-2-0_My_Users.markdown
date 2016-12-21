@@ -10,10 +10,13 @@ If the My {{User}}s tab doesn't appear on your homepage, you may need to enable 
 
 Once the tab is visible and a link has been created, you can use the tab, almost like your own personal address book, specific for your work. To view their profiles right click with your mouse on the {{person}} you'd like to see and this will give you a range of options:
 
-  * View case file - opens the user profile
-  * Edit - allows you to edit the relationship between you and the {{person}}
-  * Delete - Deletes this {{user}}, {{contact}} or {{funder}} from your list - but doesn't delete them from the system
-  * Communicate - it will open the new {{comm}} page where you can send an email, text or write a letter.
+  * View full details - opens the user profile
+  * Edit - allows you to edit the relationship 
+  * Reverse - allows you to reverse the relationship, e.g. from father to son
+  * Close relationship - removes the relationship from the list, but not from the system
+  * Communicate - opens a new {{comm}} page where you can send an email, text or write a letter
+  * Copy address from.... - copies the address details from the {{user}}, {{contact}} or {{funder}} in the Relationships table into the **Contact Details** tab of the {{person}} whose profile you are viewing
+  
 ![my {{user}}s]({{imgpath}}38a.png) 
 
 ###### core module
