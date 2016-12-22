@@ -12,10 +12,10 @@ Once the tab is visible and a link has been created, you can use the tab, almost
 
   * View full details - opens the user profile
   * Edit - allows you to edit the relationship 
-  * Reverse - allows you to reverse the relationship, e.g. from father to son
+  * Reverse - allows you to reverse the relationship
   * Close relationship - removes the relationship from the list, but not from the system
   * Communicate - opens a new {{comm}} page where you can send an email, text or write a letter
-  * Copy address from.... - copies the address details from the {{user}}, {{contact}} or {{funder}} in the Relationships table into the **Contact Details** tab of the {{person}} whose profile you are viewing
+  * Copy address from.... - copies the address details of this {{user}}, {{contact}} or {{funder}} into the **Contact Details** tab on your own profile 
   
 ![my {{user}}s]({{imgpath}}38a.png) 
 
