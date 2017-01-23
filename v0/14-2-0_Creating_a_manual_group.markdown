@@ -6,9 +6,7 @@ To create a new {{manual group}}, go to {{Group}}s -> Add -> Add {{manual group}
 
 ![Adding a {{manual group}}]({{imgpath}}104a.png)
 
-When you have added all the {{people}} you want in your {{group}}, click the 'save' button in the bottom-right.
-
-**{{Group}} name tab**: the name and description of the {{group}} are to help you and other users of the system remember what this {{group}} is for. Both are required fields.
+**{{Group}} name tab**: add a name and description of the {{group}} which will help you and other users of the system remember who this {{group}} consists of. Both are required fields.
 
 **{{Group}} members tab: **In the search box start typing the name of the {{person}} you wish to include in your {{group}}. A drop down-box will appear showing all matches: select the {{person}} you wish to include.
 
@@ -19,6 +17,8 @@ Their name will be added to the table. To remove someone from the list, click th
 You can also add a {{person}} to a {{manual group}} from within their profile. Go the {{Group}}s Tab on their profile and click the add button on the right hand side, you'll get a list of current {{manual group}}s - tick or untick to add or remove. 
 
 ![Adding a {{manual group}}]({{imgpath}}104c.png)
+
+When you have added all the {{people}} you want in your {{group}}, click the 'save' button in the bottom-right.
 
 [View the video](/help/video/id/19)
 ###### core module
