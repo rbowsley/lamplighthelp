@@ -6,7 +6,7 @@ To edit a {{group}}, click {{Group}}s -> View all in the main menu. Right- click
 
  ![Edit a group]({{imgpath}}107a.png)
 
-A window will open with the same screen you see when adding a {{group}} (see section [14.1.0  Creating an {{auto group}}](/help/index/v/{{version}}/p/14.1.0) or section [14.2.0  Creating a {{manual group}}](/help/index/v/{{version}}/p/14.2.0), depending on whether you are editing an {{auto group}} or {{manual group}}). Make any changes you need, and click the 'Save' button in the bottom-right of the popup window. 
+A window will open with the same screen you see when adding a {{group}} (see section [14.1.0  Creating an {{auto group}}](/help/index/v/{{version}}/p/14.1.0) or section [14.2.0  Creating a {{manual group}}](/help/index/v/{{version}}/p/14.2.0), depending on which type of group you are editing). Make any changes you need, then click the 'Save' button in the bottom-right of the popup window. 
 
 ###### core module
 
