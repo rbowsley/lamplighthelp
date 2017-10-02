@@ -8,7 +8,7 @@ As you click on the expense tab a table appears, ready for you to add informatio
 
 Complete all columns on the row by clicking inside the box with your mouse or using the tab button on your keyboard.
 
-  * Date - Use the arrow keys to alter the month. If the year needs to be altered, click over the month, year in between the two arrow keys and the option to type in a different year appears. Click Okay when altered and select the day.
+  * Date - Select the date on the popup calendar.  You can use the arrow keys to alter the month. If the year needs to be altered, click over the month, year in between the two arrow keys and the option to type in a different year appears. Click Okay when altered and select the day.
   * Number - This is the quantity of items purchased.
   * Total amount - of money spent - please ensure decimal place is used
   * Category and Status - choose from the drop-down lists as specified by your system administrators
@@ -21,4 +21,3 @@ If you have more than one expense claim for the {{work}} record, click 'add row'
 When all the details for the piece of {{work}}, including the when and where, attendance and details tab have been completed, click Save. 
 
 ###### costs module
-
