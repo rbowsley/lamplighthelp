@@ -24,7 +24,7 @@ To add the tab, double- click on the 'Tab label: click to add' text. A pop-up wi
 
 Give the tab a name (this is what will appear on the tab in the profile). Select who this tab should appear for, and if you have multiple {{project}}s, you can choose which {{project}}s the tab will be available for. Click the 'save' button in the bottom right hand corner. The main page will update itself, showing the information you have just entered.
 
-You will now need to add some fields to the tab. Note that if a tab does not have any fields in it, it will not be displayed. To add a field, click the 'click to add' button in the central panel for the tab you wish to add the field to.
+You will now need to add some fields to the tab, and you need to do this now.  If you navigate away from this screen now, without adding any fields, you'll be stuck with a tab that is visible in profiles but which you can't edit. If a tab does not have any fields in it, it will not be displayed here. To add a field, click the 'click to add' button in the central panel for the tab you wish to add the field to.
 
 The right-hand panel will now show a 'blank' field. To add the field, double-click the text 'Field name: click to add'. A popup window will appear:
 
