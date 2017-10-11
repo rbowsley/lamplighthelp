@@ -16,9 +16,11 @@ A small pop up window will appear. Begin typing the name of the {{person}} to wh
 
 Below the search box, select the relationship in which they stand to the new user or organisation (e.g. trustee, employer, key worker, my {{user}} - for more information about My {{User}}s see section [7.2.0  My {{User}}s](/help/index/v/{{version}}/p/7.2.0)).
 
-The final option is to select whether you wish this {{person}} to be the default contact for the {{person}}s profile you are currently in. This may be appropriate if you wish to write to an organisation, but address and send it to the manager's personal email account.
+The final option is to select whether you wish this {{person}} to be the default contact for the {{person}}'s profile you are currently in. This may be appropriate if you want to write to an organisation, but address and send it to the manager's personal email account.
 
-Once the relationship has been established the table in the tab will be updated. You can then use the context menu from the table for further actions.
+Below this there is a notes box where you can record any other details that you would like to be shown about this {{person}} in the relationships table. 
+
+Once the relationship has been saved the table in the tab will be updated. You can then use the context menu from the table for further actions.
 
 You can:
 

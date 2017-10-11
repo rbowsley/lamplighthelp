@@ -20,7 +20,7 @@ Save the profile by clicking the save button at the bottom right hand corner of 
 
 You will now see the profile page for the {{person}} you have just entered (see section [8.3.0  Profiles](/help/index/v/{{version}}/p/8.3.0) ). 
 
-Along from their name is a series of buttons; print, del and edit
+Along from their name is a series of buttons; print, delete and edit name
 
 ![The newly added profile]({{imgpath}}45c.png)
 
