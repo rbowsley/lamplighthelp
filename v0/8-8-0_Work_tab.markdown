@@ -19,12 +19,14 @@ To view a {{work}} record right click on the row in the table showing the {{work
   * View full details - opens the {{work}} record in a popup window.
   * Edit - opens the data entry window where you can change the details of the {{work}} or add new attendees. (See section [9.1.0  Adding a {{work}} record](/help/index/v/{{version}}/p/9.1.0) )
   * Delete - removes the {{work}} record from the system
+  * Duplicate - creates an exact copy of the work record, which you can then ammend as you like.  This can be useful if you are creating a similar record for a different date.  Be aware this will copy all content, including notes in the Details tab.
   * Link to {{linked case}} - allows you to add this {{work}} record to a series of records linked together into a {{linked case}}. (See section [13.0.0  {{Linked case}}s](/help/index/v/{{version}}/p/13.0.0) for more on {{linked case}}s)
   * Follow up {{linked case}} - allows you to link a new {{work}} record to this one to add more to a {{linked case}}.
   * Remove link to {{linked case}} - means you can remove this {{work}} record from a {{linked case}}.
   * Close {{linked case}} - flags the {{linked case}} as closed
   * Re open {{linked case}} - will open a {{linked case}} that has previously been closed.
-  * View {{linked case}} details - opens a list of {{work}} records, {{outcome}}s and {{comm}}s that are linked to that {{linked case}}.
+  * View {{linked case}} details {{linked case}} details - opens a list of {{work}} records, {{outcome}}s and {{comm}}s that are linked to that {{linked case}}.
+  * Edit {{linked case}} - takes you to a screen which edits the details of the {{linked case}} itself.
   * {{Comm}} - opens the {{comm}}s window (See section [12.0.0  {{Comm}}s](/help/index/v/{{version}}/p/12.0.0) for more on {{comm}}s) and enters the names of the {{people}} that attended the piece of {{work}} as the recipients.
   * Add {{outcome}}s - opens the {{outcome}}s data entry window (see section [11.1.0  Adding {{outcome}}s](/help/index/v/{{version}}/p/11.1.0) for more on {{outcome}}s). The date, time, {{workarea}} information and {{people}} who attended the piece of {{work}} will be added automatically to the {{outcome}}s input screen. 
 

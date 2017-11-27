@@ -12,7 +12,7 @@ This shows the {{outcome}}s information for this {{person}} only. The radar diag
 
 The 'data-entry' table lists all the {{outcome}}s down the right, and then months along the top. You can click a single cell, or existing score, to add or edit an {{outcome}}. The right-most column lets you add several {{outcome}}s at once; enter the scores, and then at the bottom of the table set the date and {{workarea}} and click to save.
 
-The table view shows the date of the {{outcome}}, a summary of the result, and the {{linked case}}s it is attached to are displayed in the table.
+The table view at the bottom of the page shows the date of the {{outcome}}, a summary of the result, and the {{linked case}}s it is attached to are displayed in the table.
 
 The order in which the records are displayed can be changed by clicking on the column headings. The default setting for viewing outcomes is 5 to a page but more or less can be viewed at once by choosing an option from the select box. Alternatively you can use the numbers to move through the records.
 
@@ -29,9 +29,13 @@ Right clicking on a row of the {{outcome}} table will give you a range of option
   * Delete - removes the {{outcome}} from the system for that user.
   * Link to {{linked case}} - allows you to add this {{outcome}} to records linked together into a {{linked case}}. (See section [13.0.0  {{Linked case}}s](/help/index/v/{{version}}/p/13.0.0) for more on {{linked case}}s)
   * Remove link to {{linked case}} - means you can remove this {{outcome}} from a {{linked case}}.
-  * Close {{linked case}} - flags the {{linked case}} as closed
+   * Close {{linked case}} - flags the {{linked case}} as closed
   * Re open {{linked case}} - will open a {{linked case}} that has previously been closed. 
-
+ * View {{linked case}} details - takes you to a screen to see the details of the {{linked case}} itself.
+ * Edit {{link case}} allows you to edit the details of the {{linked case}} itself.
+ 
+ * Communicate - will show if you have the {{comm}}s module, and allow you to communicate with the person whose {{outcomes}}'s are being recorded.
+ 
 [View the video](/help/video/id/11)
 ###### core module
 

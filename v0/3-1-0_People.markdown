@@ -9,6 +9,7 @@
   * {{User}}s
   * {{Staff}}
   * {{Contact}}s
+  * {{Volunteer}}s
   * {{Funder}}s
 
 Organisations can fall into any of the following categories:
@@ -17,6 +18,8 @@ Organisations can fall into any of the following categories:
  * {{Contact}}s
   * {{Funder}}s
   * {{Org}}s
+  
+The customisation of your system means that some of the descriptions below may be innacurate for you, as one or more of these roles may have been adapted to match your service.  The title will be correct, but the description may not match.
 
 ### {{User}}s
 
@@ -32,7 +35,11 @@ are the {{people}} that it is useful for you to have a record of (GPs, Social wo
 
 ### {{Org}}s
 
-can be used however you like: you may wish to keep a list of suppliers, or local schools, for example.
+can be used however you like: you may wish to keep a list of suppliers, or local schools, for example, or another organisation on your system, if you do volunteer brokerage.
+
+### {{Volunteer}}s
+
+are individuals who volunteer with your organisation
 
 ### {{Funder}}s
 
