@@ -2,7 +2,7 @@
 
 > Each database operator has the ability to customise aspects of {{Lamplight}} to their preference. The changes they make will not affect anyone else. 
 
-Go to admin -> system administration -> change my personal settings THISISANEW LINE
+Go to admin -> system administration -> change my personal settings 
 ![Personal]({{imgpath}}189a.png)
 
  You can:
