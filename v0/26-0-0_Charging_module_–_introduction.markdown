@@ -1,4 +1,4 @@
-# 26.1.0    Charging module introduction
+# 26.0.0    Charging module introduction
 
 > The charging module allows you to set charges for attending a {{work}} record, and then decide who should pay that charge. 
 
@@ -14,7 +14,7 @@ Charging policies determine how much each {{person}} attending should be charged
 
 Both charge and payee policies can take various factors into account in their calculations. You create these policies to do what you need them to do. 
 
-__Creating policies__
+**Creating policies**
 
 For example, you might have a charging policy that charges everyone £50, and a payee policy that says that the {{person}} attending pays the full amount. A more complex example of a charging policy would: 
 
@@ -33,7 +33,7 @@ When you create a {{work}} record using these policies, {{Lamplight}} will calcu
 
 By using these policies it is possible that the amount charged for someone attending a {{work}} record will not be the same as what they pay: indeed often the {{person}} attending will not pay anything. In these cases, the 'charge' should be thought of as the total amount paid by all parties (i.e. funders) for that person attending. 
 
-__Stacking policies__
+**Stacking policies**
 
 Although you can set-up mutiple rules in the same policy, and determine the order in which they enact, each person can only be affected by the first rule process.  For example, If the first rule in a policy charges a volunteer £10 based on their attendance, no further rules will be process for that person.  This is very important to bear in mind as you read through the rest of this help section.
 
