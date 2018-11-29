@@ -1,23 +1,19 @@
-# 8.13.0    Deleted profiles
+# 8.13.0    Archiving profiles
 
-> Deleted profiles are archived, and can be restored if needed. 
+>Administrators can both archive and permanently delete profiles. Archiving is straight-forward and reversible. However, permanent deletion cannot be undone.
 
-Once you have deleted a profile, they are archived in the system. This means that the work you have done with them will be included in reports. these profiles can be re-instated from the archive, by an operator of Manager access level and above.
+__Archiving__
+ To archive a profile you will need to have manager level access to the system or above. Search for the profile that you want to archive and at the top right of the page, under the menu bar, click the archive button.  
 
-__Undeleting a profile__
-From the main Menu, choose People -> View -> {{user}} (or different role as appropriate.) -> All
+__Reinstating archived profiles__
+Only managers and system administrators have the permissions to unarchive profiles.
+To find the one that you want go to the People tab above the menu bar, choose View->{{user}} (or whatever the role of the person you are looking for was)->All. Click in the large search bar above the table to expand it, and select 'Limit list to Archived people', then click the 'Fetch data' button on the right of the screen. 
 
-Click in the large search bar. If you have permission to undelete you'll see three options, the middle of which is labelled 'Limit list to'.
-In this select box, choose 'Deleted People' and then press the 'Fetch Data' button.
+You now have a table showing all the archived people with that role type on your system. Once you have found the person you need to reinstate in this table, click on the menu to the left of their name (or right click anywhere in that row of the table) and choose the 'unarchive' option.
 
-![Find deleted profiles]({{imgpath}}1202a.png)
 
-Click to go to profile of the deleted {{user}}, and from the options on the top right choose 'undelete'.
-
-![Find deleted profiles]({{imgpath}}1203a.png)
-
-__Deleting a duplicate profile though the duplicate warning__
-You also receive a warning of any deleted possible duplicates when you create a new user. [8.4.0  Adding a profile](/help/index/v/{{version}}/p/8.4.0))).  When creating a user with the same name, it will warn you of a possible duplicate. When you see the deleted profile, you can click on their name in the duplicate box. When their profile appears, click on the undelete button on the top right of their profile, as in the image above.
+__Finding an archived profile though the duplicate warning__
+When you create a new profile you may receive a warning of possible duplicates already on the system. This happens in Lamplight detects people with similar names to the one you're entering. It will look at archived profiles as well as current ones. If you see that the person you're adding is already on the system, click on their name in the duplicates table. This will open up their profile, and you if you are a manager or system admin you will see an 'undelete' box at the the top right of their profile. 
 
 
 ###### core module
