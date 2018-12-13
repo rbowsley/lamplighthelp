@@ -5,7 +5,7 @@
 **Archiving**
  To archive a profile you will need to have manager level access to the system or above. Search for the profile that you want to archive and at the top right of the page, under the menu bar, click the archive button.  
 
-__Reinstating archived profiles__
+**Reinstating archived profiles**
 Only managers and system administrators have the permissions to unarchive profiles.
 To find the one that you want go to the People tab above the menu bar, choose View->{{user}} (or whatever the role of the person you are looking for was)->All. Click in the large search bar above the table to expand it, and select 'Limit list to Archived people', then click the 'Fetch data' button on the right of the screen. 
 
