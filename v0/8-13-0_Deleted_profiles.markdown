@@ -2,7 +2,7 @@
 
 >Administrators can both archive and permanently delete profiles. Archiving is straight-forward and reversible. However, permanent deletion cannot be undone.
 
-__Archiving__
+**Archiving**
  To archive a profile you will need to have manager level access to the system or above. Search for the profile that you want to archive and at the top right of the page, under the menu bar, click the archive button.  
 
 __Reinstating archived profiles__
