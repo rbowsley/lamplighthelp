@@ -12,7 +12,7 @@ To find the one that you want go to the People tab above the menu bar, choose Vi
 You now have a table showing all the archived people with that role type on your system. Once you have found the person you need to reinstate in this table, click on the menu to the left of their name (or right click anywhere in that row of the table) and choose the 'unarchive' option.
 
 
-__Finding an archived profile though the duplicate warning__
+**Finding an archived profile though the duplicate warning**
 When you create a new profile you may receive a warning of possible duplicates already on the system. This happens in Lamplight detects people with similar names to the one you're entering. It will look at archived profiles as well as current ones. If you see that the person you're adding is already on the system, click on their name in the duplicates table. This will open up their profile, and you if you are a manager or system admin you will see an 'unarchive' box at the the top right of their profile. 
 
 
