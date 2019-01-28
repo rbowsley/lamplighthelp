@@ -103,7 +103,7 @@ Please use tags from the following list (which is case sensitive):
  - Next steps
  - Experienced user
  - Advanced topics
- - Saving time tips
+ - Time saving tips
  - System admin
  - {{Report}}
  - {{Group}}
