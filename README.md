@@ -19,7 +19,9 @@ To add content to the help manual, you will need to
 4. once changes have been reviewed, they'll be merged into the `master`
 
 A separate build process will then take the text from here and update
-customer help files and downloads.
+customer help files and downloads.  This will happen nightly, so updates should
+appear the following day.  If you want to rebuild immediately, go to 
+https://lamplight.online/en/help/rebuild (when logged in).
 
 Please make frequent commits - one commit should only have changes to one
 page (file).  Reference issues in the commit message (e.g. "Updated
@@ -39,7 +41,7 @@ by Evaluation, and {{eval}} as evaluation.  Plurals should be outside the
 
 ## Format of a help manual page
 
-Text of help pages is written in markdown (see the [syntax guide](http://daringfireball.net/projects/markdown/syntax))
+Text of help pages is written in a limited markdown (see the [syntax guide](http://daringfireball.net/projects/markdown/syntax))
 and then converted to html.
 
 Pages files are currently named `chapter-section-subsection_Page_title.markdown`.  It
@@ -48,23 +50,40 @@ won't matter what they're called, but that seems a reasonable convention to foll
 Help pages should use the following format
 
 
-    # 12.3.4    Page title.
+    # 12.3.4    Page title, with a single '#' at the start.
 
     > An short paragraph giving a summary of the main content of the page.  Be sure to 
-    remember the initial '>'.
+    remember the initial '> '.
 
     The main text of the help page.  This will need to include terms that
     can be translated, like {{Lamplight}}.
 
     Just keep writing...  Links to other pages should be inserted as links in the normal
-    way [12.3.4  Title of the page linked to](/help/index/v/{{version}}/p/12/3/4),
-    but including the {{version}} placeholder (for now - see below).
+    way [12.3.4  Title of the page linked to](/help/index/p/12.3.4).  To link to a Word or PDF version of a page, 
+	append /format/docx or /format/pdf to the link.
+	
+	Historically links have needed a {{version}} placeholder, but these are no longer required and can be removed.  
+	If it's left it'll just be ignored, so removing them is just for tidying up.
 
     Images are inserted like this:
-    ![Text describing the image, including {{Lamplight}} placeholders]({{imgpath}}123a.png)
-    i.e. as markdown images, but include an {{imgpath}} placeholder (for now, anyway).
+    ![Text describing the image, including {{Lamplight}} placeholders](123a.png)
+    i.e. as markdown images.  Images can be called anything, and should be saved in the /img folder 
+	of this repository.  Historically they have needed an {{imgpath}} placeholder but this is no longer necessary
+	and can be removed.
 
-    At the end, please put a tag that describes which module the page relates to.
+    You can tag pages with none, one or more tags.  To do so, add a '##### Tags' line, with each tag appearing on 
+	a separate line below it, as shown below.
+
+
+    ##### Tags
+	Getting started
+	System admin
+	
+	##### Links
+	[You can also add links to other resources (which can be external links if appropriate)](http://www.whatever.com)
+	[System admin](/en/help/index/p/tagged_System Admin)
+
+    At the end, please put a tag that describes which module the page relates to (the line should start ######)
 
     ###### core|eval|comms|charge|costs|datadirect|library|publish|staff|waiting module
 
@@ -76,27 +95,39 @@ no longer relates to anything (you can call them anything), but the letter (e.g.
 was incremented within a single page of the manual - so 123a.png, 123b.png and 123c.png 
 would all be expected to be on the same page.
 
+## Tags
 
+Please use tags from the following list (which is case sensitive):
+
+ - Getting started
+ - Next steps
+ - Experienced user
+ - Advanced topics
+ - Saving time tips
+ - System admin
+ - {{Report}}
+ - {{Group}}
+ - {{Activity}}
+ - {{Profile}}
+ 
+ The first four are intended to indicate the 'difficulty' of the page, and so any particular page should not
+ use more than one of these.
+
+	
+All pages tagged with a particular tag will be listed if you visit https://lamplight.online/en/help/index/p/tagged_Profile
+Note that tags will not be translated in the page address, and the {{}} removed.  However text on screen will be translated,
+so you could visit the page https://lamplight.online/en/help/index/p/tagged_Group and see pages about 'Lists' (as the translation
+of {{Group}}.
+You can use whatever you like as a tag, but tags should be from the following list.  Any page should only have one
+of the first four tags, intended to be in increasing 'difficulty'.
+	
 ## Versions
 
-There are currently two versions of the base text for the help manual - v0 and v1.
-There could be more, and different customers can use different versions as their
-base before it's translated.  Currently, v0 is used for all customers except for
-VIP Online, which uses v1.  In principle, though, it'd be possible to add your
-own version number and build from there.  
+There used to be two versions of the base text for the help manual - v0 and v1.  
+There isn't any more (different repositories could be used if a customisation was needed)
 
-But in short, edit the v0 files.  Also, edit the markdown, not the html which is there
-at the moment - that was included for reference following the initial setup of this
-github approach to things, but will be removed in due course.
-
-The other kind of version is that version that's actually deployed, and is the number
-in the /v/123/ part of the help manual urls and the {{version}} placeholders that
-need to be in the urls.
-
-This kind of version should disappear, but we'll need to keep it in links for now.
-
-The other linkey placeholder is the {{imgpath}}, which can also vary for different 
-customers to enable use of different image sets.
+/v/{{version}} and {{imgpath}} placeholders are old and no longer required (though won't do any harm
+if left) and can be removed.
 
 
 ## Licence 
