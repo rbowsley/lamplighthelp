@@ -1,4 +1,4 @@
-# 2.0.0    Introduction
+# 1.0.0    Introduction
 
 > An overview of {{Lamplight}} and the contents of the online help system. 
 
