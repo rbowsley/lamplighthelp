@@ -1,6 +1,6 @@
-# 6.0.0    Logging In
+# 2.0.0    Logging In
 
-> Go to [https://www.lamplight3.info/](https://www.lamplight3.info/) and enter your user name and password. 
+> Go to [https://lamplight.online/](https://lamplight.online/) and enter your user name and password. 
 
 Enter the web address for the {{Lamplight}} database into the navigation bar of your web browser. 
 
