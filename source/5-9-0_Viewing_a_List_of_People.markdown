@@ -1,4 +1,4 @@
-# 8.2.0    Viewing a List of {{People}}
+# 5.9.0    Viewing a List of {{People}}
 
 > Use the '{{people}}' menu to view lists of all {{people}}. 
 
