@@ -1,4 +1,4 @@
-# 3.7.0    Hiding information
+# 3.9.0    Hiding information
 
 > Some things are hidden on screen until you need them: click the + sign to show them 
 
