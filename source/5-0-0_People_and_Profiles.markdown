@@ -1,4 +1,4 @@
-# 5.0.0    Profiles
+# 5.0.0    People and Profiles
 
 > Every {{person}} in {{Lamplight}} has their own profile. A profile is a way of bringing together all information about a person in one place.
 
