@@ -1,10 +1,10 @@
-# 10.2.0    Viewing all {{referral}} records
+# 6.3.0    Viewing All {{Referral}} Records
 
 > To view all {{referral}} records, click '{{work}} -> view -> {{referral}}' on the main menu 
 
 The {{referral}}s list shows additional information, including the referrer, and who the {{referral}} was made to.
 
-![Viewing {{referral}}s]({{imgpath}}196a.png)
+![Viewing {{referral}}s](196a.png)
 
 This lists all {{referral}} records occurring within a set date range, ordered by date, with the most recent showing at the top.  The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
 
@@ -12,7 +12,7 @@ __Restrict by date and work area__
 
 To restrict the listing to particular dates or {{workarea}}s, click the search bar or the '+' icon on the right of the search bar, and search options will appear. Change the details and click the 'fetch data' button and the table will update showing the requested information.
 
-![Searching for particular {{referral}} records]({{imgpath}}1206a.png)
+![Searching for particular {{referral}} records](1206a.png)
 
 __Restrict by custom fields__
 
