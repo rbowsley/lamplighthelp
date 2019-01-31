@@ -1,4 +1,4 @@
-# 11.1.4    Recording the {{outcome}} values
+# 8.1.4    Recording the {{Outcome}} Values
 
 > {{Outcome}}s are recorded as yes-no responses, scores, or numbers. Enter as many as you need to. 
 
@@ -6,7 +6,7 @@ The {{outcome}}s that you measure are 'snapshots' at a particular time. These ar
 
 In our example system, these are some of the {{outcome}}s we are measuring:
 
-![Example {{outcome}} categories]({{imgpath}}78a.png)
+![Example {{outcome}} categories](78a.png)
 
 Under each {{outcome}} there may be some explanatory text in a smaller font.
 
