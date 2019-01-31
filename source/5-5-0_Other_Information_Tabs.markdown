@@ -1,4 +1,4 @@
-# 8.7.0    Other information tabs
+# 5.5.0    Other Information Tabs
 
 > You can capture additional information as needed; to edit details on a tab click 'edit' on the tab. 
 
@@ -18,8 +18,8 @@ Fields may take a number of different forms:
   * Number box - enter only numbers
   * Charity number look-up - allow the charity number of an organisation to be entered, along with a link to their page on the Charity Commission web-site
 
-If the option you need is not there speak to your system administrator, or if you have the appropriate permission levels, see section [18.3.0  System Administration - Custom profile tabs and fields for {{people}}](/help/index/v/{{version}}/p/18.3.0) 
+If the option you need is not there speak to your system administrator, or if you have the appropriate permission levels, see section [18.3.0  System Administration - Custom profile tabs and fields for {{people}}](/help/index/p/18.3.0) 
 
-[View the video](/help/video/id/10)
+
 ###### core module
 
