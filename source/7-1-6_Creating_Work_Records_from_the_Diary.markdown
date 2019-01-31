@@ -16,5 +16,8 @@ Once {{work}} records have been created, their appointment time and date can be 
 
 To view more information about the piece of {{work}} left click over the {{work}} record. This will also allow you to edit the {{work}} record and print it, if required by using the icons in the top right hand corner of the {{work}} record. 
 
+#####Tags
+Time saving tips
+
 ###### core module
 
