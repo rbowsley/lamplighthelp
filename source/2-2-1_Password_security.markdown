@@ -1,4 +1,4 @@
-# 6.1.0    Password security
+# 2.2.1    Password security
 
 > Some tips for keeping {{Lamplight}} secure. 
 
