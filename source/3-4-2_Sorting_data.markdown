@@ -1,4 +1,4 @@
-# 3.3.2    Sorting data
+# 3.4.2    Sorting data
 
 > You can sort data in a table by clicking on the column header. 
 
