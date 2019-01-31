@@ -1,4 +1,4 @@
-# 3.6.0    Double-clicking
+# 3.7.0    Double-clicking
 
 > Double-clicking items in a user profile lets you edit just that item. 
 
