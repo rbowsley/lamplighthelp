@@ -1,10 +1,10 @@
-# 9.2.0    Viewing all {{work}} records
+# 7.3.0    Viewing All {{Work}} Records
 
 > To view all {{work}} records, click '{{Work}} -> view' on the main menu. 
 
 To view a list of all {{work}} records, click on '{{Work}}' on the main menu, hover over 'view' on the sub-menu and click '{{work}}' on the drop-down list. You will see the following screen:
 
-![{{Work}} records list]({{imgpath}}59a.png)
+![{{Work}} records list](59a.png)
 
 This lists all {{work}} records occurring within a set date range, ordered by date with the most recent showing at the top.  The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
 
@@ -12,7 +12,7 @@ __Restrict by date and work area__
 
 To restrict the listing to particular dates or {{workarea}}s, click the search bar or the '+' icon on the right of the search bar, and search options will appear. Change the details and click the 'fetch data' button and the table will update showing the requested information.
 
-![Searching for particular {{work}} records]({{imgpath}}59b.png)
+![Searching for particular {{work}} records](59b.png)
 
 __Restrict by custom fields__
 
@@ -26,7 +26,7 @@ __Saving your view__
 
 You can adjust the columns shown in the table, by right clicking in the headings row of the table.  This will show you a list of rows.  Ticked rows are shown, and unticked rows are hidden.  You can change this by clicking on the item you wish to show or hide. If you wish to make that change the default view, click again and from the bottom of the pop-up list, choose 'Save table columns layout'.  This will now be shown as the default view for you.  This only affects you, and not the rest of your team.  Choose 'Reset table columns layout' to return to the system standard.  (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)
 
-![Saving table column layout{{work}} records]({{imgpath}}1205a.png)
+![Saving table column layout{{work}} records](1205a.png)
 
 __Downloading and printing the table__
 
