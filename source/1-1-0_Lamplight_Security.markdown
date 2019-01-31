@@ -2,15 +2,15 @@
 
 > Details of the security provisions in Lamplight.
 
-### Physical security.
+### Physical security
 
 Our servers are hosted by Amazon Web Services (AWS), and all our resources are located in the London region.  The data-centre is accredited to ISO27001, among others – details of compliance with numerous security and Information Governance standards is available at ([https://aws.amazon.com/compliance/](https://aws.amazon.com/compliance/)).
 
-### Server security.
+### Server security
 
 All services that are not needed on the server are turned off. Remote access uses encrypted connections, using non-standard logins and public/private key authentication (and encrypted private keys). Our server provider does not have access to the server or the data on it. Servers are isolated from the internet and access is only permitted from particular locations.  Two-factor authentication is always used to access control panels.  Firewalls are enabled limiting traffic by type and source.
 
-### Application security.
+### Application security
 
 Authorisation and access control across the entire application defaults to ‘no access’ unless you are logged in and have the appropriate permissions. No application code is located in public directories on the server. Passwords are stored securely (not in plain text), but password policy (strength, frequency of changes etc) are for the customer to decide and adopt.  Repeated login attempts take an increasingly long time to complete.
 
