@@ -1,4 +1,4 @@
-# 7.2.2    Delete a {{Work}} Record
+# 7.2.3    Delete a {{Work}} Record
 
 > To delete a record, right-click on it and click 'delete'. Not everyone will have sufficent access rights to delete records. 
 
