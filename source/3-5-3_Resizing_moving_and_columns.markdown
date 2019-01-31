@@ -1,4 +1,4 @@
-# 3.4.3    Resizing, moving and columns
+# 3.5.3    Resizing, moving and columns
 
 > You can change the way a table looks by changing the size of columns, and show or hide different columns. 
 
