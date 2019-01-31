@@ -5,7 +5,7 @@
 The first steps to getting started in Lamplight are to understand some of the key terms used, and knowing how to log in. 
 
 
-#####Tags
+##### Tags
 Getting Started
  
 
