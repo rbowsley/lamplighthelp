@@ -1,4 +1,4 @@
-# 4.10.0    Loading
+# 3.10.0    Loading
 
 > A rotating loading indicator shows in the top-right when {{Lamplight}}'s talking to the server. 
 
