@@ -1,18 +1,18 @@
-# 10.1.2    {{Referral}}s - attendance
+# 6.1.2    {{Referral}}s - Attendance
 
 > The attendance tab stores who was involved in the {{referral}} 
 
 The attendance tab records details of everyone who was involved in the {{referral}}. As well as {{user}}s, this can include {{org}}s, {{staff}}, or others - anyone with a profile in the system. Initially you will see your name as a member of {{staff}} in the list: 
 
-![Adding {{referral}} {{people}}]({{imgpath}}194a.png)
+![Adding {{referral}} {{people}}](194a.png)
 
 To add additional {{people}}, start typing their name in the box. When you have typed at least three letters, a drop-down menu will appear showing all matches: select the name you are looking for. They will be added to the table. 
 
-![Adding additional {{referral}} {{people}}]({{imgpath}}194b.png)
+![Adding additional {{referral}} {{people}}](194b.png)
 
 To alter the attendance type or role for a particular person, click on the table cell and a drop-down box will appear. Select the appropriate option. Your system administrator can add options to these lists (see section [18.2.0  System Administration - Lists](/help/index/v/{{version}}/p/18.2.0)). 
 
-![Adding roles of {{referral}} {{people}}]({{imgpath}}194c.png)
+![Adding roles of {{referral}} {{people}}](194c.png)
 
 In the case of {{referral}}s, there are additional roles that may be relevant and can be useful when running {{report}}s. These are: 'referrer' (who made the {{referral}}); 'Referred to' (the member of {{staff}} that's accepted the {{referral}}); and 'Service {{user}} referred' (the actual {{person}}that was referred). 
 
