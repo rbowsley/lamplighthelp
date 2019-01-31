@@ -1,4 +1,4 @@
-# 3.3.1    Context Menus
+# 3.4.1    Context Menus
 
 > Context menus appear when you right-click on the row of a table, use the Apple key click or click the menu button on the right of a table.. These menus give you various actions. 
 
