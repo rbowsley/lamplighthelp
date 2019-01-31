@@ -1,10 +1,10 @@
-# 7.1.1    Diary navigation
+# 4.1.1    Diary navigation
 
 > Use the icons in the top-right of the diary to change dates or view 
 
 You can use the calendar navigation toolbar to change when the diary is displayed. 
 
-![Diary navigation]({{imgpath}}36a.png)
+![Diary navigation](36a.png)
 
 In order from left to right, the buttons:
 
@@ -16,8 +16,8 @@ In order from left to right, the buttons:
 
 To select a single day view click on the day shown on the top of the diary page.
 
-![Diary day header]({{imgpath}}36b.png) 
+![Diary day header](36b.png) 
 
-[View the video](/help/video/id/3)
+
 ###### core module
 
