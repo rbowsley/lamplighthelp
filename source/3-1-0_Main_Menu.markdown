@@ -1,8 +1,8 @@
-# 3.1.0    Menu Bar
+# 3.1.0    Main Menu
 
 > The menu is the main way that you will navigate around the system. 
 
-You will use the menu bar along the top of the screen to get around the system. 
+You will use the menu along the top of the screen to get around the system. 
 
 The first line of menu items (starting with 'Home') can be clicked; this then displays the heading menu for that section. If you click any of these headings a dropdown sub-menu may appear. Simply click on the sub-menu item to go to the page you need.
 
