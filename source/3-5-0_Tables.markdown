@@ -1,4 +1,4 @@
-# 3.4.0    Tables
+# 3.5.0    Tables
 
 > Tables in {{Lamplight}} have many features. 
 
