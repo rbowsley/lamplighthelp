@@ -1,4 +1,4 @@
-# 10.1.1    {{Referral}}s - when and where
+# 6.1.1    {{Referral}}s - When and Where
 
 > The When and where tab stores information about when and where the {{referral}} happened. 
 
@@ -8,7 +8,7 @@ When selecting a {{workarea}}, you must select one {{workarea}}, and may select 
 
 You can also choose a location if relevant to your referral / organisation.
 
-![When the {{referral}} happened]({{imgpath}}193a.png) 
+![When the {{referral}} happened](193a.png) 
 
 ###### core module
 
