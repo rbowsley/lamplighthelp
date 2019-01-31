@@ -1,4 +1,4 @@
-# 3.1.0    {{People}}
+# 5.0.0    {{People}} 2
 
 > {{Lamplight}} stores details of {{people}}. Each of these can be of various types and have different roles: this section explains the differences and how they can be used. 
 
@@ -45,7 +45,7 @@ are individuals who volunteer with your organisation
 
 are the individuals or organisations that fund you or to whom you would like to apply for funding.
 
-See section [8.4.0  Adding a profile](/help/index/v/{{version}}/p/8.4.0) to see how to add a new {{person}}. 
+See section [8.4.0  Adding a profile](/help/index/p/8.4.0) to see how to add a new {{person}}. 
 
 ###### core module
 
