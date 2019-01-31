@@ -1,4 +1,4 @@
-# 6.2.0    {{Referral}S Tab: Viewing Records for a Particular Person
+# 6.2.0    {{Referral}s Tab: Viewing Records for a Particular Person
 
 > The {{referral}}s tab shows details of all the {{referral}}s a particular {{person}} has been involved in. 
 
