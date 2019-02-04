@@ -1,4 +1,4 @@
-# 9.5.0    Closing a {{Linked Case}}
+# 9.6.0    Closing a {{Linked Case}}
 
 > When the '{{linked case}}' is complete - the issue has been resolved, perhaps - mark it as closed. You cannot add new records to a closed {{linked case}}. 
 
