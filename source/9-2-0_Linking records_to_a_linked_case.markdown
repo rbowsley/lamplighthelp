@@ -2,9 +2,9 @@
 
 > You can link existing records to a case in two ways, either through the context menu, or by dragging and dropping them in a table. 
 
-To link a {{work}} or other record to an existing {{linked case}}, click 'link to {{linked case}}' on the context menu. This will open up a dialogue box where you can start typing the name of the case to find the one that you need. 
+To link a {{work}} or other record to an existing {{linked case}}, click 'link to {{linked case}}' on the context menu next to any activities record (or right click on the record in a table). This will open up a dialogue box where you can start typing the name of the case to find the one that you need. 
 
-Alternatively you can click on the context menu next to any activities record (or right click on the record in a table), and choose the option 'link to {{linked case}}. This will open the same dialogue box as mentioned above. 
+Alternatively, if you are looking at a table of records in a {{person}}'s profile where some are already linked to a case, you can drag other records in this table and drop them over the one that is linked. This will add them to the same case. This option is not possible in systems where there is a search bar above the table. 
 
 If a record is already linked to a {{linked case}}, you cannot link it to another. The 'link to {{linked case}}' option will be disabled (grey text). You will need to remove the link to the existing {{linked case}} first (see section [9.9.0  Removing a link to a {{linked case}}](/help/index//p/9.5.0) ).
 
