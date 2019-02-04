@@ -1,4 +1,4 @@
-# 9.2.5    Follow up {{linked case}}
+# 9.4.0    Follow Up a {{Linked Case}}
 
 > If you've opened a {{linked case}}, you can follow it up easily by clicking 'follow up {{linked case}}'. The new record will be linked to the old one. 
 
