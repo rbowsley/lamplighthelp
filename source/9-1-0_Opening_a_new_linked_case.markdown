@@ -1,8 +1,8 @@
-# 13.2.0    Opening a new {{linked case}}
+# 9.1.0    Opening a new {{linked case}}
 
 You can create a new {{Linked case}} either through the '{{linked case}} View' tab, or as you link a {{work}} or other record to a {{linked case}}.
 
-__Through the '{{linked case}} View' tab.__
+**Through the '{{linked case}} View' tab.**
 
 If you scroll down to the bottom of this tab, you'll see a section called 'Create a new {{linked Case}}'.
 
@@ -10,9 +10,9 @@ This will include the {{linked case}} name, (which is often the name of the {{us
 
 Once you have completed the details, use the save button to save the case.
 
-![Starting a new {{linked case}}]({{imgpath}}95a.png)
+![Starting a new {{linked case}}](95a.png)
 
-__While linking a record to the case__
+**While linking a record to the case**
 
 Using the context menu from a view of {{work}} or other records, you can choose the 'Link to {{linked case}}' option, which will create a pop-up box, the same as above.  As you type, matches to existing {{linked case}}s will be displayed, or you can enter a new {{linked case}} name, complete the details as above, and save.
 
