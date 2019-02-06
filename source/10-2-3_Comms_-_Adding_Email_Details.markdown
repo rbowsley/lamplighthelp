@@ -1,10 +1,10 @@
-# 12.1.3    {{Comm}}s - setting email details
+# 10.2.3    {{Comm}}s - Adding Email Details
 
-> Enter additional information required for your emails, and the way they are sent. 
+> Filling out the email details tab. 
 
-If you are sending emails, you will need to complete the additional email fields.  Email systems often require the reply-to address to match the sender address, and may not send the email at all if they don't. If you are not sure about this you'll need to check with your system administrator or email provider.
+If you are sending emails, you will need to complete the email details tab.  Email systems often require the reply-to address to match the sender address, and may not send the email at all if they don't. If you are not sure about this you'll need to check with your system administrator or email provider.
 
-Emails are sent through your own email system (We have a handbook to support this), and will appear in your outbox.  Replies will be sent to your own email.
+Emails are sent through your own email system and will appear in your outbox.  Replies will be sent to your own email.
 
 You can give the email a subject title in the text box.
 
