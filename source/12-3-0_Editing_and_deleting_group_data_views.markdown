@@ -1,4 +1,4 @@
-# 11.3.0    Editing and Deleting {{Group}} Data Views
+# 12.3.0    Editing and Deleting {{Group}} Data Views
 
 > Once you have saved a {{group}} data view it is possible to go back to edit it to show extra information, or to delete it altogether. 
 
