@@ -1,4 +1,4 @@
-# 17.4.4    Splitting {{Outcome}} {{Report}} Data
+# 13.4.4    Splitting {{Outcome}} {{Report}} Data
 
 > To explore any differences in {{outcome}} results in more detail, it is possible to split the data by background personal factors (for example, gender). 
 
