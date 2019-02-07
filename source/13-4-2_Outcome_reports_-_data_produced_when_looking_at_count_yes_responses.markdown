@@ -1,10 +1,10 @@
-# 17.3.2    {{Outcome}} {{report}}s - data produced when looking at 'count yes responses'
+# 13.4.2    {{Outcome}} {{Report}}s - Data Produced When Looking at 'Count Yes Responses'
 
-> Counting number of yes responses' does just that - it doesn't look for change, just the number of 'yes' {{outcome}}s achieved. 
+> Counting the number of yes responses' does just that - it doesn't look for change, just the number of 'yes' {{outcome}}s achieved in the timescale you choose. 
 
 In {{outcome}}s {{report}}s, you can select 'Count number of yes responses' in the 'How to summarise the data', and you will see a table similar to this:
 
-![{{Outcome}}s {{report}}ing - count yes results]({{imgpath}}134a.png)
+![{{Outcome}}s {{report}}ing - count yes results](134a.png)
 
 The columns in this table show:
 
@@ -15,6 +15,6 @@ The columns in this table show:
   * Number of different {{people}} with 'no' response - as above but for 'no' responses - that is, there is a 'no' recorded, not that they have 'no response'. Note though that one {{person}} with both a 'no' and a 'yes' response will be counted in this and the previous columns.
   * Number of different {{people}} with any response - the total number of {{people}} who have any response at all. 
 
-[View the video](/help/video/id/31)
+
 ###### core module
 
