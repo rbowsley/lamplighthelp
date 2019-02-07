@@ -1,4 +1,4 @@
-# 14.3.0    Creating a {{merge group}}
+# 14.3.0    Creating a {{Merge Group}}
 
 > A {{merge group}} is a {{group}} which is created by combining the members of existing {{group}}s together. 
 
@@ -6,10 +6,10 @@
 
 On the main menu go to {{Group}}s -> add -> add {{merge group}}s. You will need to give the {{group}} a name and description. 
 
-![Adding a {{merge group}}]({{imgpath}}183a.png)
+![Adding a {{merge group}}](183a.png)
 
 After that, on the '{{Group}}s' tab start typing the name of the first {{group}} that you want to include in your {{merge group}}.  When you find it, click to add it to the table. Continue to find the {{group}}s you want to include until all have been added, then click Save. 
 
-[View the video](/help/video/id/20)
+
 ###### core module
 
