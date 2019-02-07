@@ -1,10 +1,10 @@
-# 14.8.1    Creating {{group}} data views
+# 12.1.0    Creating {{Group}} Data Views
 
 > Any {{group}} data view may be used with any {{group}}. To set up a new {{group}} data view, go to {{Group}}s->{{Group}} data views->Add on the main menu. 
 
 When you enter the new {{group}} data view screen, you will see the screen below:
 
-![Adding a {{group}} data view]({{imgpath}}111a.png)
+![Adding a {{group}} data view](111a.png)
 
 **View name tab:** you will first need to give the view a name and description. The name is what you will see mostly, so try and choose something that you will remember what it's for in the future. Both the name and description are required fields and should contain an indication of the options you have selected, the field headings you have chosen to view.
 
@@ -24,10 +24,10 @@ When you enter the new {{group}} data view screen, you will see the screen below
 
 Simply select the information you require.
 
-![{{group}} data view - {{work}}]({{imgpath}}111b.png)
+![{{group}} data view - {{work}}](111b.png)
 
 When you have added all the information you wish to see, click the 'save' button in the bottom- right. 
 
-[View the video](/help/video/id/21)
+
 ###### core module
 
