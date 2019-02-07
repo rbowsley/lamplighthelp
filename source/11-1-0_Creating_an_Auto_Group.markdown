@@ -1,10 +1,10 @@
-# 14.1.0    Creating an {{auto group}}
+# 11.1.0    Creating an {{Auto Group}}
 
 > On the main menu go to {{Group}}s -> Add -> Add {{auto group}}. Give the {{group}} a name and description; enter your search criteria, and click 'Save'. 
 
 On the main menu go to {{Group}}s -> Add -> Add {{auto group}} and you will see the following screen:
 
-![Creating an {{auto group}}]({{imgpath}}103a.png)
+![Creating an {{auto group}}](103a.png)
 
 **{{Group}} name tab**: The first thing that you need to do on this screen is to give your {{group}} a name and a description.  Choose something that makes it clear who your {{group}} is made up of as these fields are used to remind you and other users of what the {{group}} is for. Both are required fields. There is also a tick box to allow you to 'lock' the group. This means that only you will be able to edit the {{group}} once it has been created.
 
@@ -16,7 +16,7 @@ The next step is to use the tabs at the top of the page to select which types of
 
 **{{People}} or organisations tab:** Do you want a {{group}} of individuals, or organisations? What types of {{people}} do you want?
  
-![{{Auto group}}s - choosing what types of {{people}} to add]({{imgpath}}103b.png)
+![{{Auto group}}s - choosing what types of {{people}} to add](103b.png)
 
 You cannot create a {{group}} of both {{people}} and organisations. The search for the type of {{person}} (e.g. {{user}}, {{staff}},{{contact}} etc.) is an 'OR' search: it will include those that meet **any** of the criteria selected, not just those that meet all of them. At the bottom of this page there is the option to select the date profiles were added to the system. For example, 
 greater than or equal to 1st January 2017 would give you a list of all those added since the beginning of 2017.
@@ -48,19 +48,19 @@ These tabs may contain a variety of different types of field.
 
 To identify people attending at least one session of Cookery after 1st April 2012 and before 31st March 2013:
 
-![Automatic {{groups}} - {{work}} records tab example 1]({{imgpath}}103c.png)
+![Automatic {{groups}} - {{work}} records tab example 1](103c.png)
 
 To identify people attending an Initial Assessment between 1st April 2012 and 30th September 2012 (equivalent to people attending between Start of Q1 2012 and End of Q2 2012)
 
-![Automatic ((groups)) - {{work}} records tab example 2]({{imgpath}}103d.png)
+![Automatic ((groups)) - {{work}} records tab example 2](103d.png)
 
 To identify new users - people attending the centre after 1st April 2013 that had never attended before then:
 
-![Automatic {{groups}} - {{work}} records tab example 3]({{imgpath}}103e.png)
+![Automatic {{groups}} - {{work}} records tab example 3](103e.png)
 
 To identify attendees who have completed the course - service users who in Q3 2013 attended at least 6 sessions of the 10 session Gardening course
 
-![Automatic {{groups}} - {{work}} records tab example 4]({{imgpath}}103f.png)
+![Automatic {{groups}} - {{work}} records tab example 4](103f.png)
 
 Finally, you can filter by {{workarea}}, attendance type and role, and any custom {{work}} fields you have added to your system.
 
@@ -73,6 +73,5 @@ The fields in the **{{Referral}}** and **{{Grant}}** tabs work like those in the
 When you have added all criteria, click the 'save' button in the bottom-right.
 
 
-[View the video](/help/video/id/18)
 ###### core module
 
