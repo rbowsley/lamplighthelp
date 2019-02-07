@@ -1,10 +1,10 @@
-# 17.3.1    {{Outcome}} {{report}}s - data produced when looking at change
+# 13.2.3    {{Outcome}} {{Report}}s - Data Produced When Looking at Change
 
 > The 'Difference between earliest and latest scores' looks at each {{person}}, and works out the difference between the earliest and latest scores in your date range. It then averages these for everyone. 
 
 If you select 'Difference between earliest and latest scores' in the 'How to summarise the data', you will see a table similar to this:
 
-![{{Outcome}}s {{report}}ing - difference between scores]({{imgpath}}133a.png)
+![{{Outcome}}s {{report}}ing - difference between scores](133a.png)
 
 The columns in this table show:
 
@@ -22,6 +22,6 @@ There are a number of additional statistics that {{Lamplight}} calculates: right
 
 You can also generate an 'infographic' for a particular {{outcome}}, simply by clicking on the row of the table. This will take you down to show you some of the figures from the table, presented in a more visual manner to help you understand what they might be telling you. 
 
-[View the video](/help/video/id/31)
+
 ###### core module
 
