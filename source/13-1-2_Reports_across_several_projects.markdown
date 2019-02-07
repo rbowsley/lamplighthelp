@@ -1,0 +1,15 @@
+# 13.1.2    {{Report}}s Across Several {{Project}}s
+
+> The {{project}}s tab lets you run {{report}}s for several {{project}}s combined. 
+
+If you have access to more than one {{project}} (see section [3.7.0  {{Project}}s](/help/index/p/3.7.0) ) you will also see a '{{Project}}s' tab:
+
+![{{Project}} {{report}}ing tab](128a.png)
+
+Simply tick the boxes for the {{project}}s you wish to {{report}} on, and {{Lamplight}} will aggregate all {{project}}s into a single {{report}}.
+
+Note that if you use {{group}} or {{workarea}} filters in the previous tab (see section [17.1.1  {{Report}} filters](/help/index/p/17.1.1) ) you need to be sure that these {{groups}} or {{workarea}}s are shared across all {{project}}s. 
+
+
+###### core module
+
