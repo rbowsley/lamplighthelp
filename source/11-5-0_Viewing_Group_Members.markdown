@@ -4,7 +4,7 @@
 
  ![View group members](106a.png)
  
- You can also view the list of names of {{group}} members alongside information that you hold about them by using a {{data view}}. To find out more about this, see [Section xxxxx {{Group}} Data Views}(ref here)
+ You can also view the list of names of {{group}} members alongside information that you hold about them by using a {{group data view}}. To find out more about this, see [Section xxxxx {{Group Data Views}}](ref here)
 
 
 ###### core module
