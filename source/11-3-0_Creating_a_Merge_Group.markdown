@@ -1,4 +1,4 @@
-# 14.3.0    Creating a {{Merge Group}}
+# 11.3.0    Creating a {{Merge Group}}
 
 > A {{merge group}} is a {{group}} which is created by combining the members of existing {{group}}s together. 
 
