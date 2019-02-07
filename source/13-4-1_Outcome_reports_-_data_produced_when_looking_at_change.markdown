@@ -1,4 +1,4 @@
-# 13.2.3    {{Outcome}} {{Report}}s - Data Produced When Looking at Change
+# 13.4.1   {{Outcome}} {{Report}}s - Data Produced When Looking at Change
 
 > The 'Difference between earliest and latest scores' looks at each {{person}}, and works out the difference between the earliest and latest scores in your date range. It then averages these for everyone. 
 
