@@ -4,6 +4,8 @@
 
 In the recipients tab add the {{people}} you wish to send the {{comm}} to. These are added in the same way that you add attendees to {{work}} records: see section [9.1.2  Adding attendance details to a {{work}} record](/help/index/p/9.1.2) for more help.
 
+You can also use the search box to find a {{group}} which you have already set up to all members of the {{group}}. 
+
 You can use relationships in {{comm}}s, if your administrator has set it up. For some types of relationship ('employee', for example), you may wish to address your {{comm}} to the individual but use their {{work}} address, which is stored in the linked profile (their employers). If this is enabled, you'll see both the individuals name in the search box, as well as any other links to other {{people}} that you can use. 
 
 ![Adding recipients to a {{comm}}](85a.png)
