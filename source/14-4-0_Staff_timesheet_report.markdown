@@ -1,4 +1,4 @@
-# 17.7.0    {{Staff}} timesheet {{report}}
+# 14.4.0    {{Staff}} Timesheet {{Report}}
 
 > {{Staff}} timesheet {{report}}s provide a summary and breakdown of how {{staff}} time is spent, captured through the {{Staff}} Management Module 
 
@@ -6,7 +6,7 @@ Information is taken from each {{staff}} timesheet, which in turn is taken from 
 
 To run a {{staff}} timesheet {{report}}, on the main menu go to {{report}}s -> more -> {{staff}} timesheet {{report}} 
 
-![{{Staff}} timesheet {{report}} results]({{imgpath}}184a.png)
+![{{Staff}} timesheet {{report}} results](184a.png)
 
 The {{report}} presentation tab allows you to select how you wish to view the {{report}} data. Once the selection has been made, click 'run {{report}}' in the bottom right hand corner. 
 
