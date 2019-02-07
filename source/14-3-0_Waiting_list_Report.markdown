@@ -1,4 +1,4 @@
-# 17.9.0    {{Waiting list}} {{Report}}
+# 14.3.0    {{Waiting List}} {{Report}}
 
 > {{Waiting list}} {{report}}s show you the number of {{people}} on your {{waiting list}}s over time, and the length of time they have been on them. 
 
@@ -6,7 +6,7 @@ The {{waiting list}} {{report}} provides a number of ways to analyse the numbers
 
 On the first tab, select the date ranges as normal, and a {{group}} if needed. You can also restrict the {{report}} to particular {{waiting list}}s if needed, too.
 
-If available, the {{project}}s tab will aggregate data across several {{project}}s (see [17.1.2  {{Report}}s across several {{project}}s](/help/index/v/{{version}}/p/17.1.2)).
+If available, the {{project}}s tab will aggregate data across several {{project}}s (see [17.1.2  {{Report}}s across several {{project}}s](/help/index/p/17.1.2)).
 
 The final tab, report presentation provides options on the way data is shown, the way dates are handled, and allows you to {{report}} based on the information in particular fields on profiles.
 
