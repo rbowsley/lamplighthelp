@@ -1,6 +1,6 @@
 # 10.2.3    {{Comm}}s - Adding Email Details
 
-> Filling out the email details tab. 
+> Filling out the email details tab
 
 If you are sending emails, you will need to complete the email details tab.  Email systems often require the reply-to address to match the sender address, and may not send the email at all if they don't. If you are not sure about this you'll need to check with your system administrator or email provider.
 
@@ -16,7 +16,8 @@ You can also choose how to send out your email.
 
 3. A single email blind copied (bcc) to all recipients.  This is the option to use if you do not wish email recipients to see who else has received the email, and their email address.  This is standard practice for mailings and email to groups of people who will not have this information already. 
 
-Within this section you can also choose whether to send multiple, individual emails, or a single one cc or bcc-ed to everyone. If you are sending to a large number of recipients, and particularly if there are attachments, we strongly recommend that you send a single email. {{Lamplight}} is not designed as a mass- marketing tool, and large volumes of large emails create problems with our mail delivery servers. 
+If you are sending to a large number of recipients, and particularly if there are attachments, we strongly recommend that you send a single email, especially if your email provider has limits on the number of emails sent out daily.
+
 
 ###### core module
 
