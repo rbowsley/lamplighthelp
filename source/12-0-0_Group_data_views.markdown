@@ -1,4 +1,4 @@
-# 14.8.0    {{Group}} data views
+# 12.0.0    {{Group}} data views
 
 > {{Group}} data views are a way of selecting the information you wish to view about {{people}}. 
 
@@ -6,8 +6,8 @@
 
 It is best not to create {{group}} data views with too much in them: if you are asking for a lot of information it will need a large table with multiple columns which would be difficult to view.  It would also take longer for {{Lamplight}} to process and show the data. It is  better to create a number of {{group}} data views for different purposes.
 
-To use the {{group}} data views you have created, see section [14.8.2  View {{group}} members using {{group}} data views](/help/index/v/{{version}}/p/14.8.2) . 
+To use the {{group}} data views you have created, see section [14.8.2  View {{group}} members using {{group}} data views](/help/index/p/14.8.2) . 
 
-[View the video](/help/video/id/21)
+
 ###### core module
 
