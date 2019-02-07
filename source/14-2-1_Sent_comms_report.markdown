@@ -1,4 +1,4 @@
-# 17.6.1    Sent {{comm}}s {{report}}
+# 14.2.1    Sent {{Comm}}s {{Report}}
 
 > From the main menu select {{report}}s -> {{comm}}s {{report}}. 
 
