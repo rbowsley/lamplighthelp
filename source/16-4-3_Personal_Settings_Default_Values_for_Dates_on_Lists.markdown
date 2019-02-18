@@ -32,3 +32,5 @@ Choosing any of the options from this dropdown will add a column to the end of a
 When you’re viewing a single {{activity}} record ({{work}}, {{outcome}} or {{referral}}, for example) there is an attendance table included. You can use this series of dropdowns to specify a {{group}} data view which {{Lamplight}} will then use to determine what information will be included in the attendance table columns. This can be useful if you want to see addresses and contact details when viewing a {{work}} record, for instance. 
 
 If you are not certain how to make {{group}} data views, please see XXXXXXXXXXXXXXXXXX 
+
+###### core module
