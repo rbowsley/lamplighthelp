@@ -1,4 +1,4 @@
-# 5.6.0    Archiving profiles
+# 5.6.1    Archiving profiles
 
 >Administrators can both archive and permanently delete profiles. Archiving is straight-forward and reversible. However, permanent deletion cannot be undone.
 
