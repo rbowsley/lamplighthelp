@@ -1,9 +1,10 @@
-# 18.6.2    System Administration - operator permission levels
+# 16.5.1    System Administration - Operator Permission Levels
 
-> {{Lamplight}} has the following permission levels for database operators that control what they may see and do. Some of these options will depend on your system configuration. 
+> Each database operator in {{Lamplight}} is allocated a level of access to the system. There are a number of levels which will control what they can see and do. 
 
-{{Lamplight}} has the following permission levels for database operators that control what they may see and do. Some of these options will depend on your system configuration.
+The different levels of access that you can choose from are:
 
+Table?????????????
 
 * **Receptionist:** intended for occasional or low level staff. Operators can add and edit their own records. Within profiles they are only able to view the contact details, relationships, {{work}} records and {{eval}}s tabs. They are unable to work with {{group}}s, {{outcome}}s, {{comm}}s or run {{report}}s.
 * **Data entry:** intended for basic data entry use. Operators can add {{user}}s and {{work}} records, but may only view and edit records they have created. They cannot create {{group}}s or {{comm}}s, or delete data.
@@ -14,6 +15,6 @@
 * **{{Project}} Admin (where applicable):** has full system admin access as well as management of {{project}}s where a system has more than one.
 
 
-[View the video](/help/video/id/42)
+
 ###### core module
 
