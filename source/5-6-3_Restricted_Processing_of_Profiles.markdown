@@ -36,7 +36,7 @@ From here you can click on the name in the table to view the profile. You will s
 If the restriction needs to be lifted and the data subject has been notified that it will be, you can ‘Allow processing’ by clicking the button.
 
 
-#####Tags
+##### Tags
 GDPR
 
 ###### core module
