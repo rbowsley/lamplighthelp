@@ -4,7 +4,7 @@
 
 'Restricted processing' is a particular right for data subjects under the GDPR (art 10(1)(a)-(d). If a data subject requests that processing is restricted then their data can still be stored but can't be processed unless it is with their consent or relates to legal claims, the rights of others or reasons of important public interest. 
 
-**To restict processing**
+**To restrict processing**
 
 Open the relevant profile and click the ‘restrict processing’ button on the right-hand side of the
 profile:
