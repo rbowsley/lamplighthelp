@@ -1,4 +1,4 @@
-# 5.0.0    Profiles
+# 5.0.0    {{People}} and {{Org}}s
 
 > {{Lamplight}} stores details of {{people}} and {{org}}s. Each of these can be of various types and have different roles: this section explains the differences and how they can be used. 
 
