@@ -2,7 +2,7 @@
 
 > {{Lamplight}} stores details of {{people}} and {{org}}s. Each of these can be of various types and have different roles: this section explains the differences and how they can be used. 
 
-{{Lamplight}} holds details of the individuals, families and {{org}}s that you work with or are involved with in some other way.
+{{Lamplight}} holds details of the individuals, families and {{org}}s that you work with or are involved with in some other way. Each one of these will have its own profile on your system. 
 
 {{People}} can fall into any of the following categories:
 
