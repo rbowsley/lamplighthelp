@@ -1,4 +1,4 @@
-#  Archiving, Deleting and Restricted Processing of Profiles
+#  5.6.0 Archiving, Deleting and Restricted Processing of Profiles
 
 >Administrators can both archive and permanently delete profiles. They can also restrict the processing of data in a specific {{person}}'s account if there is a request for them to do so. 
 
