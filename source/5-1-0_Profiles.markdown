@@ -6,9 +6,11 @@ Every individual and every organisation has a profile. This holds all the inform
 
 ![{{Lamplight}} search as you type](4a.png)
 
-Every system will have different tabs, though almost all will start with the Contact Details tab.  The first tabs will normally contain demographic information or information about people, and the later ones information on the activities you do with them.
+A profile is made up of a series of tabs containing the information you want to store about these {{people}}. Every system will have different tabs, though almost all will start with the Contact Details tab.  The first tabs will normally contain demographic information or information about people, and the later ones information on the activities you do with them.
 
-Your system administrator can add tabs that you see, and the information on them. These can vary depending on whether you are looking at a profile for a {{user}}, member of {{staff}} etc, or whether they are an individual, a family, or an organisation. They can also vary for different {{project}}s (see section [18.3.0  System Administration - Custom profile tabs and fields for {{people}}](/help/index/p/18.3.0) for information about setting up tabs and fields, and section [3.7.0  {{Project}}s](/help/index/p/3.7.0) for more about {{project}}s). 
+ You can store different information about the different kinds of {{people}} on the database. So, you can store one set of information for {{user}}s and a different set of information for {{funder}}s or your {{staff}}. For example, you might see presenting needs and medical history for your {{user}}s, CRB information for {{staff}}, and information about application deadlines and criteria for {{funder}}s. They can also vary for different {{project}}s in your system, if you have more than one.
+
+Your system administrator can add tabs that you see, and the information on them.  (see section [18.3.0  System Administration - Custom profile tabs and fields for {{people}}](/help/index/p/18.3.0) for information about setting up tabs and fields, and section [3.7.0  {{Project}}s](/help/index/p/3.7.0) for more about {{project}}s). 
 
 ###### core module
 
