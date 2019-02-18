@@ -1,8 +1,8 @@
-# 5.0.0    {{People}} 2
+# 5.0.0    Profiles
 
-> {{Lamplight}} stores details of {{people}}. Each of these can be of various types and have different roles: this section explains the differences and how they can be used. 
+> {{Lamplight}} stores details of {{people}} and {{org}}s. Each of these can be of various types and have different roles: this section explains the differences and how they can be used. 
 
-{{Lamplight}} holds details of the individuals, families and organisations that you {{work}} with or are involved with in some other way.
+{{Lamplight}} holds details of the individuals, families and {{org}}s that you work with or are involved with in some other way.
 
 {{People}} can fall into any of the following categories:
 
@@ -15,7 +15,7 @@
 Organisations can fall into any of the following categories:
 
   * {{User}}s
- * {{Contact}}s
+  * {{Contact}}s
   * {{Funder}}s
   * {{Org}}s
   
