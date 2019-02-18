@@ -1,4 +1,4 @@
-#  16.3.2 Removing Two Factor Authentication from Your Phone
+#  16.3.2 Removing Two Factor Authentication from Your Account
 
 > If your phone is lost of stolen, you should ask your system administrator to reset two factor authentication for your login as soon as possible. 
 
