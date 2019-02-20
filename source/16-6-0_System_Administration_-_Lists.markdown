@@ -4,6 +4,10 @@
 
 There are a number of drop-down lists which exist in {{Lamplight}}. These can all be added and edited in the same way.
 
+**To find the relevant list:**
+- Click admin on the main menu, then choose system administration.
+- Under the Manage drop-down list section, click on the list you would like to alter.
+
 **To edit existing items:**
 
 - double-click the text you wish to change: 
