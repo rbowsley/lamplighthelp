@@ -1,4 +1,4 @@
-# 18.7.1 Custom Tabs and Fields
+# 16.7.1 Custom Tabs and Fields
 
 > You can set up and customise tabs and fields that appear on profiles and {{activity}} records. There are number of different types of field that you can choose to capture your information. 
 
