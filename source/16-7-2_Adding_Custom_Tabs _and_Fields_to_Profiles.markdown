@@ -71,6 +71,7 @@ You may want to link fields together so that you can enter multiple records unde
 
 - When you have selected all the fields you want to link together, release the left mouse button. When you do this the links will be saved, and the background colours change to show this.
 - You can create several groups of linked fields on the same tab. These links are indicated by the different background colours of the fields.
+- If you wish to remove a link from fields in a tab, click the left mouse button and drag the red rectangle back over the group of linked fields. This will remove the link.
 
 **Changing the order of fields in a tab**
 
