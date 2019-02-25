@@ -19,6 +19,7 @@ There are a number of different ways in which custom fields in profiles can be u
 **Types of custom field**
 
 The table below gives details of how each custom field works, and how you can use each type of field to report on. 
+**Please note: if you add a custom field or tab to {{Outcomes}} records, this will only be visible if you add a column to the table of {{outcomes}} records. It is not possible to report on this in any other way.**
 
 PICTURES?
 
