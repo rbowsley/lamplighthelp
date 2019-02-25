@@ -85,19 +85,5 @@ Attendance
 details
 
 
-__Adding custom columns to the 'Attendance' table__
-
-The other option you'll see in the 'Manage drop-down lists' section is 'view and edit custom columns on the attendance table'.  If you look at the {{work}} records Attendance table in the attendance tab, you'll see that you have a number of columns, including name, attendance type, and role.  It's possible to add additional custom columns here, and you may already have some.
-
-Follow the link, and you'll see a familiar three column set-up.  In this section, the first column is simply a label, as every field appears in the attendance table, and not in its own tab.  Follow the same procedure as for {{work}} records above, to create a new item in the left-hand column, calling it something useful for your team, as an aid to memory.
-
-Click on the item in the left-hand column, and you'll be able to add a new field and options in the centre and then right columns.  Once created these will appear after the system tabs, in the {{work}} Record attendance table.
-
-Things to consider
-* The attendance table can become quickly crowded if you add many columns, and so consider what you need carefully, and the length of the field title.
-* Reporting is more limited on custom fields than it is for normal fields in a work record.  You can report on them in {{work}} reports, and display them in a person's {{work}} records profile tab, but they can't be used in groups, and only in Dataviews using a custom template.
-* You can hide other columns you don't need in the table, by right clicking in the table header row and deselecting ones you don't need.  Right click again and choose 'Save table columns layout' to always show only the selected rows.  This only applies to your user, and can be different for each person.
-
-
 ###### core module
 
