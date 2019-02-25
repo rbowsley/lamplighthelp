@@ -1,4 +1,4 @@
-# 16.7.3    Adding and Editing Custom Tabs and Fields to Work and Other Records
+# 16.7.4    Adding and Editing Custom Tabs and Fields to Work and Other Records
 
 > It is possible to add additional tabs and fields to your {{work}}, {{outcome}} and other records through System Administration.
 
