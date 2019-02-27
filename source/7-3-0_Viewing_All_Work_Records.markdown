@@ -34,9 +34,6 @@ If you wish to make that change the default view, right click again on the heade
 
 If you wish to download the information you have searched for into a spreadsheet, click the 'Download' button at the bottom of the table'.  Clicking the print button will open a new tab, with the table in a print friendly format.  Split print allows you to create multiple print friendly tables, split by whatever item you choose.
 
-**Activity view templates**
-
-If you often view your {{work}} records and would like to save your filter settings, system administrators can set up activity view templates. For more information please see XXXXXXXXXXXX
 
 ###### core module
 
