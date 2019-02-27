@@ -5,6 +5,7 @@
 See below for explanations of the different fields:
 
 **Do you want to use {{message}}s at all?**
+
 {{Message}}s are an optional function in Lamplight. They are not used in reports, but can be a useful way of keeping track of things that need to be accomplished.
 
 {{Message}}s are associated with a date and time, assigned a category and/or flag (these are specified in admin>system administration>Manage drop-down lists>{{Message}}s), and can be marked as complete, along with a date and time, when accomplished.
