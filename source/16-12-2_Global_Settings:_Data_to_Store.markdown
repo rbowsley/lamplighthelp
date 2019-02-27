@@ -4,7 +4,7 @@
 
 See below for explanations of the different fields:
 
-**Do you want to use {{message}}s at all?
+**Do you want to use {{message}}s at all?**
 {{Message}}s are an optional function in Lamplight. They are not used in reports, but can be a useful way of keeping track of things that need to be accomplished.
 
 {{Message}}s are associated with a date and time, assigned a category and/or flag (these are specified in admin>system administration>Manage drop-down lists>{{Message}}s), and can be marked as complete, along with a date and time, when accomplished.
@@ -34,7 +34,7 @@ Enabling this option will mean that profiles can be created in this way despite 
 If you want to use this option, it is important to remember that such profiles will need updating following their creation.
 
 
-### {{work}} records
+### {{Work}} records
 
 **Do you want to store{{work}} records?**
 {{work}} records are enabled by default in Lamplight. They allow users to record {{work}} they have done and can be used in many ways, including producing detailed reports. For most Lamplight users, they represent key element of their system.
