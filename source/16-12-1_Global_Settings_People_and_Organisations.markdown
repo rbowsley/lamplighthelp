@@ -5,19 +5,19 @@
 
 ### Profiles
 
-**Do you want to keep service user names anonymously?**
+**- Do you want to keep service user names anonymously?**
 
 If this option is not enabled, the name is a required field for creating a service user profile. With this option enabled, service user profiles can be created without entering a name. Profiles can be identified by their lamplight ID numbers, which are automatically assigned. They can still be created with names as well, so it is possible to have a mixture of profiles that are and are not anonymous.
 
-**Do you want to store middle names?**
+**- Do you want to store middle names?**
 
 This option enables an extra field on profiles, and when adding a new profile, for the entry of middle names.
 
-**Do you want to be able to store details of relationships between different {{people}}?**
+**- Do you want to be able to store details of relationships between different {{people}}?**
 
 This option enables profiles to be linked by relationship. For more information on relationships in Lamplight, see the Appendix at the end of this guide.
 
-**Should the "default contact" box be ticked by default?**
+**- Should the "default contact" box be ticked by default?**
 
 This option appears when linking two profiles and determines whether the profile is to be used as the default contact. This is how it appears when adding a relationship:
 
@@ -29,7 +29,7 @@ It is advised to only have one profile set as the default contact for each {{org
 
 Note that this option only takes effect when the setting ‘Do you want to use relationships between {{people}} in {{work}} and other records?’ is enabled.
 
-**Do you want to be able to add new profiles from the relations tab?**
+**- Do you want to be able to add new profiles from the relations tab?**
 
 This option enables you to create profiles using the ‘Find {{people}}’ box when adding relationships to profiles. If the desired profile does not exist, it will be created using just the name you entered the box. You will need to navigate to the profile afterwards to update the profile with other details. It will automatically have been created as a {{person}} who is a ‘service user’, or the equivalent in your system.
 
@@ -37,23 +37,23 @@ If this option is enabled and you go to create a profile in this way, you will b
 
 xxxxxx Picture here XXXXXX
  
-**Do you want to use relationships between {{people}} in {{work}} and other records?**
+**- Do you want to use relationships between {{people}} in {{work}} and other records?**
 
 If this option is not ticked then you will not be able to use default contacts in your system. If you choose to enable this option then there will be a ‘default contact’ tickbox when you set up a new relationship. 
 
-**Do you want to allow multiple default contacts for a single profile?**
+**- Do you want to allow multiple default contacts for a single profile?**
 
 When you set up a relationship you have the option to create the {{person}} you are linking as a ‘default contact’ for the profile it is linked to (see ‘Should the "default contact" box be ticked by default?’ above). Ticking this ‘multiple default contacts’ box will allow you to link many profiles to a single {{person}} or {{org}}, each as the default contact. 
 
 It is advised to only have one profile set as the default contact for each profile, otherwise the system will not always make the desired selection when addressing communications. Only tick this box if you have a specific reason for needing multiple default contacts for a single profile.
 
-**What types of {{people}} do you want to store details of?**
+**- What types of {{people}} do you want to store details of?**
 
 Lamplight has two types of profiles enabled by default: ‘{{person}}’ and ‘{{org}}’. If you do not need to use both, this is where you can disable the type you don’t need.
 
 In addition, you can enable ‘family’ profiles. These can be useful if you need to record specific details about a family as well as the individuals in that family. For example, whether members of that family have access to a car, or details of their immigration status or housing situation. If you do decide to use family profiles, you may also need to think about linking family members to the family profile using relationships.
 
-**What roles may different {{people}} or {{org}}s have?**
+**- What roles may different {{people}} or {{org}}s have?**
 
 Every profile in Lamplight is given a role. The default options for these roles are:
 - {{service user}}
@@ -65,19 +65,19 @@ Every profile in Lamplight is given a role. The default options for these roles 
 
 If you don’t need to use any one of these, you can disable it here to avoid complication when adding new profiles.
 
-**How to check for duplicates when entering new {{people}}?**
+**- How to check for duplicates when entering new {{people}}?**
 
 This option governs how the system searches for similar profiles to prevent the creation of duplicates. The options are shown below.
 
 xxxxxx Picture here xxxxxx
  
-**Do you want to enable autosave on profile custom tabs?**
+**- Do you want to enable autosave on profile custom tabs?**
 
 This option can be useful if you often forget to use the save button to save the information you have entered into custom profile tabs. It will save automatically in this case. Be careful enabling this option though, because any information you delete or overwrite will be lost automatically, without requiring you to click the save button. There is no way to cancel or undo once it has autosaved.
 
 ### Searching
 
-**How do you want searches to display the results?**
+**- How do you want searches to display the results?**
 
 This option governs how information is displayed in the search bar in the top-right corner of the screen when matches are found.
 
@@ -89,7 +89,7 @@ Changing the options to full name, postcode, email address, for example, will ca
 
 XXXXXX Picture here XXXXXX
  
-**Do you want to show relationships in the main menu search?**
+**- Do you want to show relationships in the main menu search?**
 
 Profiles in Lamplight can be linked using relationships. This option allows profiles to be displayed in the search bar according to the relationships that profile has. It is similar to the way in which linked profiles are displayed when searching to add attendees to {{work}}, {{outcome}} or {{referral}} records.
 
@@ -97,13 +97,13 @@ Enabling this option can help you to distinguish between {{people}} who have sim
 
 xxxxxx picture here xxxxxx
 
-**If you type a number in the search, do you want to search the Lamplight IDs?**
+**- If you type a number in the search, do you want to search the Lamplight IDs?**
 
 As well as searching by name, you can use the search box to find profiles based on date of birth, email address or ID number. You can also search for case ID numbers or {{work}} record ID numbers.
 
 A profile’s ID number is automatically generated by Lamplight whenever you add a new profile to the system. If you regularly search using numbers but do not use the ID numbers generated by Lamplight, you may want to disable this option to limit the number of search results.
 
-**Sort search results by...**
+**- Sort search results by...**
 
 This option does not affect how results are listed in searches from the search box in the top right corner of the screen. Rather, it governs how profiles are listed in the tables you see when you use the main menu items under {{people}}>view, for example when viewing all service users.
 
@@ -113,7 +113,7 @@ You can sort search results by first name, surname or full name.
 
 xxxxxx Picture here xxxxxx
  
-**Minimum number of search results before searching again**
+**- Minimum number of search results before searching again**
 
 In the main menu search bar, Lamplight will try different ways of searching until it finds some results. By default, it will only try additional searches if it does not find any results.
 
@@ -131,7 +131,7 @@ The top-right search bar works in the following way:
 
 ### Adding new profiles
 
-**Do you want to split up the "{{person}} -> add" main menu item?**
+**- Do you want to split up the "{{person}} -> add" main menu item?**
 
 This option governs the way that new profiles are created from the main menu.
 
@@ -144,7 +144,7 @@ This setting does not change the options available, it just changes how they are
 
 xxxxxx Picture here xxxxxx
  
-**Which fields are essential (required to add a profile) for a {{person}}?**
+**- Which fields are essential (required to add a profile) for a {{person}}?**
 
 Essential fields are those that must be completed to create a profile. Each of these ten drop-down menus lists all the fields available in {{person}} profiles. Selecting a field from one of these menus will add it to the initial profile creation page, which must be completed before a new profile can be saved.
 
@@ -164,7 +164,7 @@ It might be advisable to limit the number of essential fields to those critical 
 
 Note that if you specify an essential field, profile types will automatically be split in the main menu and this will override the split up the "{{person}} -> add" main menu item option.
 
-**Which fields are essential (required to add a profile) for an {{organisation}}?**
+**- Which fields are essential (required to add a profile) for an {{organisation}}?**
 
 As with the essential fields required for a {{person}} profile, you can use the drop-down menus in this setting to specify which fields are required to add an {{organisation}} profile. 
 
