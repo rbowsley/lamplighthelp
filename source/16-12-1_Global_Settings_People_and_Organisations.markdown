@@ -5,7 +5,7 @@
 
 ### Profiles
 
-**- Do you want to keep service user names anonymously?**   
+#### Do you want to keep service user names anonymously?**   
 If this option is not enabled, the name is a required field for creating a service user profile. With this option enabled, service user profiles can be created without entering a name. Profiles can be identified by their lamplight ID numbers, which are automatically assigned. They can still be created with names as well, so it is possible to have a mixture of profiles that are and are not anonymous.
 
 **- Do you want to store middle names?**   
