@@ -1,0 +1,133 @@
+16.12.4 Global Settings - Data Display Options
+
+> System administrators can change what is seen by default in tables of records
+
+The fields in this tab are:
+
+### Data Tables: {{Work}} and Similar Records
+
+- **Do you want data tables to display full details?**
+
+   This option changes the default table layout in tables where profiles are listed (for example in {{people}}>view>{{service user}}>all) to include ‘First name’, ‘Surname’ and ‘Alternative name’.
+ 
+    xxxxxxx picture here xxxxxx
+    
+   If this option is not selected, only the ‘Name’ field will be displayed by default.
+    
+    xxxxx picture here xxxxxx
+ 
+   It will remain possible to change columns displayed in these tables individually using the contextual menu shown when right-clicking on the table header.
+   
+   xxxxxx picture here xxxxx
+   
+ 
+- **Do you want data tables to display case details?**
+
+   If you select this option, your {{work}}>view tables (e.g. {{work}}, {{outcomes}} etc) will automatically display case information when they open. The fields include case ID, case name and case open. If this box is left unticked it is still possible to choose to view these columns by right clicking on the table header row and ticking the options that you wish to include.
+
+- **Do you want {{work}} data tables to add hidden columns for description and follow up text?**
+
+  Choosing this option will add ‘description’ and ‘follow-up’ options to the header of the {{work}}>view>{{work}} table, so that you can view any information added to those work record fields. It will also add a ‘{{referral}} description’ option to the {{work}}>view>{{referrals}} table, which displays information from the direction, success and notes fields of {{referral}} records.
+  
+  xxxxxx picture here xxxxxx
+ 
+- **Do you want data tables to display locations?**
+
+  This option governs whether there is a ‘Location’ column in the tables accessible through {{work}}>view in the main menu. Enabling these can be useful as it allows the entries to be sorted by location (by clicking on the column header).
+  
+  xxxxxx picture here xxxxxx
+ 
+- **Do you want search bars within profile tabs (for {{work}}, {{referral}}, {{grant}}, {{comm}} and {{evaluation}} tabs)?**
+
+   This option enables the search bar in each of the listed profile tabs. Clicking the search bar will expand it to show options that can be used to filter the results displayed in the table below. It will also allow you to add certain extra data columns. This option can be useful if you have many records linked to profiles and need to filter them to get a useful view of the data.
+   
+   xxxxxx picture here xxxxxx
+ 
+   Note that having the search bar available can confuse database operators using the system for the first time, as tables will only show records within a date range (this is set by default to show two months in the past and two months in the future), which can lead to people thinking their old data has disappeared. When this option is disabled, all records are shown.
+
+
+### Data Tables: {{People}}
+
+- **How do you want lists of {{people}} sorted by default?**
+
+   This option changes how lists of {{people}} are sorted in tables such as the ones accessible via {{people}}>view in the main menu. Irrespective of this setting, it remains possible to change the way profiles are sorted by clicking on the column headers. This option simply changes the way they are presented before you click anything, potentially saving time if you always want profiles listed in a certain order.
+   
+- **Do you want to sort names by full name or surname, firstname?**
+
+   It is advised that you make your selection of how you want lists sorted from the field above, and then you will not need to use this one.
+
+- **In what order do you want lists of {{people}} sorted by default?**
+
+   This setting determines whether results are sorted in ascending order (i.e. from lowest to highest value, or from A to Z) or descending order (i.e. from highest to lowest value, or from Z to A). It is used in conjunction with the setting How do you want lists of {{people}} sorted by default? to decide how results are displayed in tables. You can reverse this order whenever viewing a table by clicking on the table column header. Clicking again will reverse the order.
+   
+### Data Display: Miscellaneous
+
+- **How many rows per page do you want your tables to display?**
+
+   This determines how many items appear on each page when tables are displayed. If there are more records that can be shown on one page, the options above the table (as shown below) allow you to navigate to other pages of results.
+   
+   xxxxxx picture here xxxxxx
+ 
+   Choosing a lower value can speed up loading times and might be preferable if you are using an older computer or a mobile data connection. Higher values will mean more results are displayed on each page, giving you access to more results in one place.
+As you can see in the image above, once you’ve run the table you still have the option to display different numbers of results on each page. This setting simply governs the default behaviour.
+
+- **Should custom field tables display date the data was added?**
+
+   It is possible to turn groups of custom fields into tables. This can be useful if you want to add sets of data on numerous occasions. This is achieved in the custom tabs and fields editor by clicking and dragging a box around a series of fields, as shown here.
+   
+   xxxxxx picture here xxxxxx
+  
+   Once grouped, fields are displayed with a green box around them to show that they have been made into a table. This can be undone by simply dragging another box around the same items.
+   
+   These fields will then be displayed as a table, as shown here.
+   
+   xxxxxx picture here xxxxxx
+ 
+   Enabling the global setting for custom field tables to display date the data was added will add an extra column to the table to record the date of the entry, as shown here.
+   
+   xxxxxx picture here xxxxxx
+ 
+- **Do you want to enable multi-project group reports?**
+   This option enables multi-project group reports. They can be accessed through groups>view>multi project report, as shown here.
+ 
+   This allows database operators who have access to more than one project to use a group data view to present information about a group across multiple projects. This is only applicable to auto-groups, as manual groups cannot be shared across projects and, of course, the group criteria must be such that profiles across those projects will be included.
+
+- **Do you want to translate the terms used in Lamplight to your own preferences?**
+
+   Selecting this option will enable a menu item in admin>system administration>Customise Lamplight called ‘change terms used in Lamplight’, as shown here.
+   
+   xxxxxx picture here xxxxxx
+ 
+   This extra menu allows some terms in Lamplight to be translated for all users, so that instead of the default term another is used. This can help database operators to match the functions of the system to the way they work, and therefore navigate their database more easily.
+
+  For example, if you refer to those who use your services as clients rather than users, you could enter ‘client’ into the box corresponding to ‘user’ to translate that term throughout your system.
+  
+  xxxxxx picture here xxxxxx
+ 
+   These translations occur in many places across the system, so the term will be the same throughout.
+
+- **Should custom field tables display date the data was added?**
+   
+   It is possible to turn groups of custom fields into tables. This can be useful if you want to add sets of data on numerous occasions. This is achieved in the custom tabs and fields editor by clicking and dragging a box around a series of fields, as shown here.
+   
+   xxxxxx picture here xxxxxx
+  
+   Once grouped, fields are displayed with a green box around them to show that they have been made into a table. This can be undone by simply dragging another box around the same items.
+   These fields will then be displayed as a table, as shown here.
+   
+   xxxxxx picture here xxxxxx
+ 
+   Enabling the global setting for custom field tables to display date the data was added will add an extra column to the table to record the date of the entry, as shown here.
+   
+   xxxxxx picture here xxxxxx
+ 
+- **Do you want to enable multi-project group reports?**
+
+   This option enables multi-project group reports. They can be accessed through groups>view>multi project report, as shown here.
+   
+   xxxxxx picture here xxxxxxx
+ 
+   This allows database operators who have access to more than one project to use a group data view to present information about a group across multiple projects. This is only applicable to auto-groups, as manual groups cannot be shared across projects and, of course, the group criteria must be such that profiles across those projects will be included.
+
+
+###### core system
