@@ -13,14 +13,14 @@ XXXXXX Picture here XXXXXX
 
 The different tabs you will see here are:
 
-People and organisations - for options on profiles, searching and adding new profiles (see XXXXXXX)
-Data to store - for options on {{work}}, {{outcome}}, {{referral}} and {{grant}} records (see XXXXXXX)
-{{Cases}} - for options on your {{case}} records (see XXXXXXX)
-Data display options - for options on data tables and miscellaneous data display (see XXXXXXX)
-Communications - for options on your communications (see XXXXXXX)
-Security settings - for length of time before automatic logout, and setting up 'my user' restrictions (see XXXXXXX)
-Staff module - you will only see this if you have the staff management module (see XXXXXXX)
-Charge module - you will only see this if you have the charging module (see XXXXXXX)
+- People and organisations - for options on profiles, searching and adding new profiles (see XXXXXXX)
+- Data to store - for options on {{work}}, {{outcome}}, {{referral}} and {{grant}} records (see XXXXXXX)
+- {{Cases}} - for options on your {{case}} records (see XXXXXXX)
+- Data display options - for options on data tables and miscellaneous data display (see XXXXXXX)
+- Communications - for options on your communications (see XXXXXXX)
+- Security settings - for length of time before automatic logout, and setting up 'my user' restrictions (see XXXXXXX)
+- Staff module - you will only see this if you have the staff management module (see XXXXXXX)
+- Charge module - you will only see this if you have the charging module (see XXXXXXX)
  
 
 ###### core module
