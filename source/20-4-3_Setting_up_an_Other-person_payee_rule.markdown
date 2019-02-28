@@ -1,10 +1,10 @@
-# 26.4.3    Setting up an Other-person payee rule
+# 20.4.3    Setting up an Other-person Payee Rule
 
 > To add an other-person payee rule, click 'admin' -> system administration and click on 'set up charge module rules and policies'. Click the 'create new other person payee rule' Button. 
 
 To add an other-person payee rule, click 'admin' -> system administration and click on 'set up charge module rules and policies'. Click the 'create new other person payee rule' button. 
 
-![Setting up an other-person payee rule]({{imgpath}}254a.png)
+![Setting up an other-person payee rule](254a.png)
 
 The screenshot shows a rule set up with two 'bands', which are explained below. An other-person rule will allocate an amount to be paid by a third-party, for example, a funder. For example, you may have a contract with a Local Authority that will pay a proportion of the training costs for people living in their area. 
 
