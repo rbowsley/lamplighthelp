@@ -1,4 +1,4 @@
-# 26.2.1    Setting up charge rules - general points
+# 20.2.1    Setting up charge Rules - General Points
 
 > Explains the common features of charge rules, and some tips to get them to do what you intend 
 
