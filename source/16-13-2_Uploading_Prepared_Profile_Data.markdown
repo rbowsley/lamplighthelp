@@ -25,6 +25,9 @@ It is important that all the information is matched to a field. If importing to 
 ### Options
 
 - Validating data: The system will ensure all the data are checked before uploading, and list any records not imported due to invalid data.
+
+The next three options are only relevant if you are adding data to existing profiles. If you are creating new profiles in the system then please ignore these.
+
 - Duplicate data: This will check each name and address for duplicates.
 - Titles and suffixes: New titles and suffixes will be added to the lists of available ones (be cautious in case of typos).
 - Overwrite existing records: Matches the profile ID numbers in the .csv file to a profile in the system, and overwrites existing information (including blank information) with the new data.
