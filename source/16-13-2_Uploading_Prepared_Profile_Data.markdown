@@ -13,7 +13,8 @@ Profile data can only be uploaded by a database operator with System Administrat
 - Choose the type and role of the profiles you are importing.
 - Give the ‘source’ of your data a name if you choose. This means that if you import often from the exact same format spreadsheet, your previous matching choices are saved for next time. If this is a second import of the same information, select the previous source.
 - Click the ‘Browse…’ button and locate the .csv file to be uploaded.
-- Click the ‘upload file’ button.
+- Click the ‘upload file’ button. 
+- If the upload was successful you will receive confirmation. If it wasn't then your file was too big (over 1MB), or not a csv file. 
 - On the next page will be displayed the fields Lamplight has been able to match, and to what they have been matched. Check these, scrolling right if needed.
 - Any fields the system has not been able to match will also be displayed. Check these, correct your spreadsheet as necessary, and restart the upload.
  
@@ -30,7 +31,11 @@ It is important that all the information is matched to a field. If importing to 
 
 ### Upload
 
-- Click ‘upload’. You can now see what the system has done. 
-- At this point, it is recommended to open a second browser tab and investigate the imported information. If there is a problem with the upload, return to this tab and click the ‘Undo’ button to remove the imported data. **Once this tab has been closed, the upload can no longer be undone.**
+- Click ‘upload’. This may take some time, depending on the size of your spreadsheet. 
+- When it is done you will be shown 'Upload results'. 
+- At this point it is recommended that you leave {{Lamplight}} open on this tab and open a second browser tab to check the data in some of the profiles where information has been added or changed. 
+- If there is a problem with the upload, return to {{Lamplight}} in the orignal browser window and click the ‘Undo’ button to remove the imported data. **Once this tab has been closed, the upload can no longer be undone.**
+- Undoing the upload will allow you to edit your spreadsheet and then upload again.
+- If you are happy with the results of the upload then you can close the tab.
 
 ###### core module
