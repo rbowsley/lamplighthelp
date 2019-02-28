@@ -1,12 +1,12 @@
-# 26.2.6    Creating a date-based charge rule
+# 20.2.6    Creating a Date-based Charge Rule
 
 > To set up a date-based charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new date based charge rule' button. 
 
 To set up a date-based charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new date based charge rule' button. 
 
-![Setting up an attendance- role based charge rule]({{imgpath}}247a.png)
+![Setting up an attendance- role based charge rule](247a.png)
 
-Section [26.2.1  Setting up charge rules - general points](/help/index/v/{{version}}/p/26.2.1) explains the 'name' and 'previous rules' fields. 
+Section [26.2.1  Setting up charge rules - general points](/help/index/p/26.2.1) explains the 'name' and 'previous rules' fields. 
 
 A date-based charge rule will calculate charges based on when a {{person}} was added to the {{work}} record, or when they booked. It can optionally also filter for attendance types and roles. We have added this rule with the idea of 'early bird discounts' and 'late cancellation penalty' type rules, although there are bound to be other scenarios. 
 
