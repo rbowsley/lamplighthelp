@@ -1,4 +1,4 @@
-# 26.7.0    Setting your accounts package in {{Lamplight}}.
+# 20.7.0    Setting up Your Accounts Package in {{Lamplight}}.
 
 > To set your accounts package in {{Lamplight}}, go to admin -> system administration -> change global settings. Go to the 'charge module' tab and select the accounts package you use. Click 'save'. 
 
