@@ -1,4 +1,4 @@
-# 26.2.3    Setting up or editing a role-based charge rule
+# 20.2.3    Setting up or Editing a Role-based Charge Rule
 
 > To set up a role-based charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new role-based charge rule' button. 
 
