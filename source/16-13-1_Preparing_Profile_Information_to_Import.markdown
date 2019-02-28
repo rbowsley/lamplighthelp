@@ -6,7 +6,7 @@
 
 Information is imported by uploading a spreadsheet in .csv format. It can be imported into standard and custom profile fields, but not repeating fields. 
 
-The spreadsheet should look like the example below, with field names across the top, and content below in each column. The name of each column header must exactly match the field name in your Lamplight system (you may want to copy and paste the text from Lamplight to be certain).
+The spreadsheet should look like the example below, with field names across the top, and content below in each column. The name of each column header must exactly match the field name in your Lamplight system (you may want to copy and paste the text from Lamplight to be certain). Lamplight will not be able to import data that it does not recognise, and it uses column headers to work out where the information should go. 
 
 xxxxxx Picture here xxxxxx
 
