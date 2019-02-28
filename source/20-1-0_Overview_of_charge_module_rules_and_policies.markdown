@@ -1,8 +1,8 @@
-# 26.1.1    Overview of charge module rules and policies
+# 20.1.0    Overview of Charge Module Rules and Policies
 
 > A rule contains a single logic step to calculate part of a charge, and how to allocate that charge. A policy is a combination of rules. 
 
-A Policy is made up of one or more Rules. There are several different types of rules that look at the {{work}} record and the {{person}} listed to calculate charges and payees. Charge policies and Payee policies use a similar approach. 
+A policy is made up of one or more Rules. There are several different types of rules that look at the {{work}} record and the {{person}} listed to calculate charges and payees. Charge policies and Payee policies use a similar approach. 
 
 When you save a {{work}} record, {{Lamplight}} will cycle through each {{person}} attending, and cycle through each rule in the policy, checking any criteria set and acting on the result. 
 
