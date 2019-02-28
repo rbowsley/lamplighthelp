@@ -1,4 +1,4 @@
-# 26.2.2    Setting up a flat-rate charge rule
+# 20.2.2    Setting up a Flat-rate Charge Rule
 
 > To set up a flat-rate charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new flat-rate charge rule' button. 
 
