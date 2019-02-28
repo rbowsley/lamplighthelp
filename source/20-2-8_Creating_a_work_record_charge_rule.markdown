@@ -1,12 +1,12 @@
-# 26.2.8    Creating a {{work}} record charge rule
+# 20.2.8    Creating a {{Work}} Record-based Charge Rule
 
 > To set up a {{work}} record charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new {{work}} record charge rule' button. 
 
 To set up a {{work}} record charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new {{work}} record charge rule' button. 
 
-![Setting up a {{work}} record charge rule]({{imgpath}}249a.png)
+![Setting up a {{work}} record charge rule](249a.png)
 
-Section [26.2.1  Setting up charge rules - general points](/help/index/v/{{version}}/p/26.2.1) explains the 'name' and 'previous rules' fields. It's likely that you will want to tick the 'Should previous rules apply if there is no match using this rule?' box. 
+Section [26.2.1  Setting up charge rules - general points](/help/index/p/26.2.1) explains the 'name' and 'previous rules' fields. It's likely that you will want to tick the 'Should previous rules apply if there is no match using this rule?' box. 
 
 {{Work}} record charge rules will calculate the charge based on the {{work}} record involved. Rates can be based on {{workarea}}s and {{subworkarea}}s, {{staff}} attending, and the location(s) used. These rates can be fixed, percentages or hourly rates - in which case the duration of the {{work}} record is used. 
 
