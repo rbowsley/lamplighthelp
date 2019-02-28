@@ -1,10 +1,10 @@
-# 26.4.1    Setting up an Attendee payee rule.
+# 20.4.1    Setting up an Attendee Payee Rule.
 
 > To add an attendee payee rule, click 'admin' -> system administration and click on 'set up charge module rules and policies'. Click the 'create new attendee payee rule' Button. 
 
 To add an attendee payee rule, click 'admin' -> system administration and click on 'set up charge module rules and policies'. Click the 'create new attendee payee rule' button. 
 
-![Setting up a {{work}} record charge rule]({{imgpath}}252a.png)
+![Setting up a {{work}} record charge rule](252a.png)
 
 An attendee payee rule is very simple: the person or organisation listed on the {{work}} record pays. All you need to do is specify the amount: this can be a percentage or a fixed amount (in £s). 
 
