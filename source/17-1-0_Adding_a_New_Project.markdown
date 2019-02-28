@@ -1,56 +1,56 @@
-# 17.1.0 Adding a New Project
+# 17.1.0 Adding a New {{Project}}
 
-> When you add a new project, you will need to make decisions about how your new project and existing projects work together
+> When you add a new {{project}}, you will need to make decisions about how your new {{project}} and existing {{project}}s work together
 
-When we say we’ve ‘added a new project’, what we’ve done is given you the ability to add a new project to your system. This is because a lot of the decisions about how your new project and existing projects work together are taken as you create it.
+When we say we’ve ‘added a new {{project}}’, what we’ve done is given you the ability to add a new {{project}} to your system. This is because a lot of the decisions about how your new {{project}} and existing {{project}}s work together are taken as you create it.
 
-To add and amend projects, you’ll need to be a Project Administrator. This is a level above System Administrator and is only used when a system has multiple projects. You can’t add this level of access yourself but will need to ask Lamplight to do this for you.
+To add and amend {{project}}s, you’ll need to be a {{Project}} Administrator. This is a level above System Administrator and is only used when a system has multiple {{project}}s. You can’t add this level of access yourself but will need to ask Lamplight to do this for you.
 
 
 ### Overview
 
-When you begin adding a project you can choose what (if anything) you wish to copy from an existing project. 
+When you begin adding a {{project}} you can choose what (if anything) you wish to copy from an existing {{project}}. 
 
-Copying profile fields or work areas, for example, will allow you to report on those same profile fields or work areas across both projects. If you simply create a blank project and add a new field, for example ‘Gender’, even though you may have a field of the same name in another project, because they were created separately they will not be linked in Lamplight (they’ll have a different field ID number), so you will have to report on them separately.
+Copying profile fields or work areas, for example, will allow you to report on those same profile fields or work areas across both {{project}}s. If you simply create a blank {{project}} and add a new field, for example ‘Gender’, even though you may have a field of the same name in another {{project}}, because they were created separately they will not be linked in Lamplight (they’ll have a different field ID number), so you will have to report on them separately.
 
-What happens when you ‘copy’ elements of an existing project to a new project is that the fields are shared with the new project. For example, if I copy all profile fields, the gender field will be shared. I can then run one report to show the gender of clients across both projects. However, as the fields are shared, if I delete the gender field in the new project it will delete it across all projects it is shared with.
+What happens when you ‘copy’ elements of an existing {{project}} to a new {{project}} is that the fields are shared with the new {{project}}. For example, if I copy all profile fields, the gender field will be shared. I can then run one report to show the gender of clients across both {{project}}s. However, as the fields are shared, if I delete the gender field in the new {{project}} it will delete it across all {{project}}s it is shared with.
 
 The normal process to follow would be:
 
-- When you create the project, share the type of fields (profile fields, work areas etc) that you want the projects to have in common
+- When you create the {{project}}, share the type of fields (profile fields, work areas etc) that you want the {{project}}s to have in common
 - Then go through and manually unshare any individual fields which are not appropriate
 - Ask Lamplight to unshare any individual areas which you cannot unshare yourself
 
 
-### Adding a new project
+### Adding a new {{project}}
 
-   - Go to the System Administrator page from the main menu, by choosing Admin > System Administration. From here, find the section called ‘Manage Projects’. 
-   - The ‘Add, edit and remove projects’ option will take you to a table like this.
+   - Go to the System Administrator page from the main menu, by choosing Admin > System Administration. From here, find the section called ‘Manage {{Project}}s’. 
+   - The ‘Add, edit and remove {{project}}s’ option will take you to a table like this.
  	 
    xxxxxx Picture here xxxxxx
    
-   - To add a new project, right click on any existing projects in the table, and when the menu appears click ‘Add new’. You’ll see this dialogue box.
+   - To add a new {{project}}, right click on any existing {{project}}s in the table, and when the menu appears click ‘Add new’. You’ll see this dialogue box.
  
-**Project Name**
+**{{Project}} Name**
 
-   - Enter the name of the new project. Although all projects may be part of your organisation, choose a name which distinguishes it. 
+   - Enter the name of the new {{project}}. Although all {{project}} may be part of your organisation, choose a name which distinguishes it. 
 
-**Create Project Profile**
+**Create {{Project}} Profile**
 
-   - Creating a project profile will create a new profile with that project name, to allow you to assign referrals etc to it.
-   - If you want to have a blank project, and to start it entirely from scratch, simply leave the rest of the options blank and click save. You’ll have created a new project.
+   - Creating a {{project}} profile will create a new profile with that {{project}} name, to allow you to assign referrals etc to it.
+   - If you want to have a blank {{project}}, and to start it entirely from scratch, simply leave the rest of the options blank and click save. You’ll have created a new {{project}}.
    
 **Copying Settings**
 
-   If you want your new project to incorporate elements of an existing project you can choose which one to copy settings and information from. 
-   - Use the drop-down to select a project.
+   If you want your new {{project}} to incorporate elements of an existing {{project}} you can choose which one to copy settings and information from. 
+   - Use the drop-down to select a {{project}}.
    - Choose which areas to copy across. When you choose an area (for example profile tabs and fields or work areas), it copies all the tabs and fields across.
-   - Once completed, click save, and your new project will be created.
+   - Once completed, click save, and your new {{project}} will be created.
    
 **Changing Sharing**
 
-   Now you’ve set-up your project, you may wish to adjust some of your sharing settings.
-   - Automatic Sharing. Some field are automatically shared across projects and cannot be unshared. These include:
+   Now you’ve set-up your {{project}}, you may wish to adjust some of your sharing settings.
+   - Automatic Sharing. Some field are automatically shared across {{project}}s and cannot be unshared. These include:
       - Attendance types and roles
       - Name title and suffixes
       - Referral success and direction categories
