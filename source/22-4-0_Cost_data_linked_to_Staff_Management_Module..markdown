@@ -12,7 +12,7 @@ The calculation will be automatic, provided that:
 - The {{staff}} member has been added to the attendance list.
 - The {{staff}} member's attendance type is 'attended' and their role is 'staff'.
 
-If this has been set up, you can run a {{work}} report to show you the costs (this will include staffing and expenses) of the {{work}} that you have done. When running the report simply choose 'Cost data' from the 'Data to show' list on the report presentation tab. (For more on running reports please see XXXXXXXXXXXXXXXXXXXX).
+If this has been set up, you can run a {{work}} report to show you the costs (this will include staffing and expenses) of the {{work}} that you have done. For more on this please see XXXXXXXXXXXXXXXXXXXX).
 
 **Authorising Expenses**
 
