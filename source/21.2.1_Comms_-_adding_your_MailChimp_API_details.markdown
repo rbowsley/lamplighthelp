@@ -1,6 +1,9 @@
-# 12.7.1    {{Comm}}s - adding your MailChimp API details
+# 21.2.1    {{Comm}}s - adding your MailChimp API details
 
 > You need to tell {{Lamplight}} about your MailChimp account so the two systems can talk to each other, through the system admin menu. 
+
+xxxxx THIS IS JUST A PLACEHOLDER - NEEDS UP-TO-DATE INFO XXXXXX
+
 
 Once you've set up your MailChimp account, you'll need you API key. This is similar to (but not the same as) a username and password that one computer program uses to identify itself to another. 
 
