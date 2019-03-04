@@ -1,6 +1,6 @@
 # 22.4.0    Cost Data Linked to the Staff Management Module.
 
-> The Costing Module can be linked to the Staff Management Module to allow the {{staff}} cost connected to a {{work}} record to be calculated. 
+> The Costing Module can be linked to the Staff Management Module to allow the {{staff}} cost connected to a {{work}} record to be calculated. It also limits who can authorise and pay expenses. 
 
 **Calulating Staffing Costs**
 
