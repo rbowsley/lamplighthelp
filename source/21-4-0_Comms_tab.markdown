@@ -1,4 +1,4 @@
-# 21.4.0 The {{Comm}}s Tab
+# 21.4.0 Viewing an Individuals' Work Records - The {{Comm}}s Tab
 
 > If you have the {{Communication}}s Module then you will also see a {{communication}} tab in profiles. This shows a record of all {{comm}}s you've had with this {{person}} or {{org}}
 
