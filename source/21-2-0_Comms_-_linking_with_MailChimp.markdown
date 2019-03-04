@@ -2,6 +2,9 @@
 
 > MailChimp is bulk mailing software that provides advanced reporting on your email communications. {{Lamplight}} can automatically link to and use MailChimp to send out email newsletters.
 
+XXXXXXXXXXXXXXXXXX THIS IS JUST A PLACEHOLDER - NEEDS UPDATED INFO XXXXXXXXXXXXXXXXXXXXX
+
+
 MailChimp ([www.mailchimp.com](www.mailchimp.com)) is a powerful email marketing tool that lets you send bulk emails and report on the number that get successfully delivered, read, or forwarded. It can also manage subscriptions and unsubscriptions. This is a free service if you have fewer than 2,000 people on your mailing list and send under 12,000 emails in a month. 
 
 To use MailChimp with {{Lamplight}} you need to have the {{Comm}}s module.
