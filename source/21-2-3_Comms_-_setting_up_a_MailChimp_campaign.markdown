@@ -1,6 +1,9 @@
-# 12.7.3    {{Comm}}s - setting up a MailChimp campaign
+# 21.2.3    {{Comm}}s - setting up a MailChimp campaign
 
 > A 'campaign' is the email content, linked to a mailing list. You can need to create the content of your campaign within MailChimp.
+
+xxxxx THIS IS JUST A PLACEHOLDER - NEEDS UP-TO-DATE INFO XXXXXX
+
 
 Follow the on-screen prompts within MailChimp to set up your newsletter.
 
