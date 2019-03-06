@@ -1,6 +1,6 @@
-# 22.3.0    Costing Module: Finance Management
+# 24.3.0    Costing Module: Finance Management
 
-> The finance management section, which is only available if you have the Costing Module, allows an overview of all costs to be viewed and managed. Expenses can be marked as authorised and subsequently paid.
+> The finance management section, which is only available if you have the Expense Module, allows an overview of all costs to be viewed and managed. Expenses can be marked as authorised and subsequently paid.
 
 This section can be found under 'Admin' on the main menu. 
 
