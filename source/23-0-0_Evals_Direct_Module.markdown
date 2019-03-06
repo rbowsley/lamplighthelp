@@ -1,4 +1,4 @@
-# 24.0.0    {{Eval}}s Direct Module
+# 23.0.0    {{Eval}}s Direct Module
 
 > The {{Eval}}s Direct Module allows your to ask your clients to fill out evaluations directly online rather than relying on inputting the data manually. 
 
