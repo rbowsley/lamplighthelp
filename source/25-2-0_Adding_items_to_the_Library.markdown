@@ -1,13 +1,14 @@
-# 21.1.0    Adding items to the Library
+# 25.2.0    Adding Items to the Library
 
 > To add an item directly to the library, on the admin menu, click library. 
 
 As you enter the Library, you'll see a list of all items that have been added, and below them an 'add item' button. When you click this you'll see the form to add an item:
 
-![Library]({{imgpath}}199a.jpg)THIS ISANEWLINE
+![Library](199a.jpg)
+
 Complete as many field boxes as applicable. The 'Tag' box acts as a 'search as you type' box so that you can search for an existing Tag and assign new library items to it. To create a new tag, write the tag title in the box and click 'add new tag' when it has been successfully attached it will appear within the library item, as seen in the image below:
 
-![Library tag]({{imgpath}}199b.jpg)
+![Library tag](199b.jpg)
 
 For a web link to be saved, ensure it is, for example www.lamplight3.info/, NOT https://www.lamplight3.info/
 
