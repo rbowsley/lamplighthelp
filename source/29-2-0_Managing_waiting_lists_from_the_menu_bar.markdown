@@ -1,12 +1,17 @@
-# 25.2.1    Managing {{waiting list}}s from the menu bar
+# 29.2.0    {{Waiting List}}} Module: Managing {{Waiting List}}s from the Menu Bar
 
-> To view all {{waiting list}}s, on the main menu go to {{work}} -> view -> {{waiting list}}s. 
+> Once you have {{waiting lists}} on your system, it's possible to manage them from the menu bar
 
-A table will display all of the {{waiting list}}s that have been created, and their status.
+### Finding a Waiting List
 
-With this table, as with others in {{Lamplight}}, if you have a number of {{waiting list}}s shown in the table you can show more rows in the table and if you have multiple pages you can change the page number. You can also sort the table by clicking on the column header.
+- To view all {{waiting list}}s, on the main menu go to {{work}} -> view -> {{waiting list}}s. 
+- A table will display all of the {{waiting list}}s that have been created, and their status.
 
-Along from each {{waiting list}}, there is also a menu button, if it has been enabled within your personal settings, which allows further steps to be taken using the information of the specific {{waiting list}}. If you do not have a menu button, move the mouse over the {{waiting list}} name and right click - the same context menu will appear.
+xxxxxx Picture here xxxxxx
+
+ - With this table, as with others in {{Lamplight}}, if you have a number of {{waiting list}}s shown in the table you can show more rows in the table and if you have multiple pages you can change the page number. You can also sort the table by clicking on the column header.
+
+- Along from each {{waiting list}}, there is also a menu button, if it has been enabled within your personal settings, which allows further steps to be taken using the information of the specific {{waiting list}}. If you do not have a menu button, move the mouse over the {{waiting list}} name and right click - the same context menu will appear.
 
 ![{{waiting list}} context menu]({{imgpath}}229a.png)
 
