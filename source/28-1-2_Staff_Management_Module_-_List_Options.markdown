@@ -1,4 +1,4 @@
-# 27.1.2    {{Staff}} Management Module: List Options
+# 28.1.2    {{Staff}} Management Module: List Options
 
 > You can make alterations to the content of the dropdown lists within the {{staff}} management module. This relates to the lists you will choose from in training, appraisal and absence records
 
