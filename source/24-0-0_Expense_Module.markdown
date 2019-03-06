@@ -1,6 +1,6 @@
-# 22.0.0    Costing Module
+# 24.0.0    Expense Module
 
-> The Costing Module enables you to store and track costs associated with your work
+> The Expense Module enables you to store and track costs associated with your work
 
 This module will enable you to allocate costs to staff and other resources so that you can calculate what your different services costs.
 
