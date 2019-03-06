@@ -1,4 +1,4 @@
-# 22.1.0 Costing Module Set-up
+# 24.1.0 Expense Module Set-up
 
 > There are two areas to set up in System Administration to support the adding of expenses to the system: cost status items and cost categories
 
