@@ -1,4 +1,4 @@
-# 22.2.0    Costing Module: Adding Details of Expenses
+# 24.2.0    Expense Module: Adding Details of Expenses
 
 > To add expense detail to a new {{work}} or other record, use the 'Expenses' tab while adding the record. 
 
