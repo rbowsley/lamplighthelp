@@ -8,10 +8,10 @@ As database operators you have the ability to specify whether a specific profile
 
 By default, no profiles are published. 
 
-**To publish a {{person}} or {{org}}'s profile:
+**To publish a {{person}} or {{org}}'s profile:**
 
 - Go to their profile (see section [8.1.0  Finding {{people}}](/help/index/p/8.1.0) for information about profiles) 
-- Click on the **Publishing** tab.  
+- Click on the 'Publishing' tab.  
 - In this tab you will be able to see whether the profile can be published, whether it is currently published, and whether the profile can be updated via the Publishing API.
 - Find the field 'Currently published (double click to edit)', and double click over the word 'No' (if it says yes then this profile is already published).
 - Tick the box.
