@@ -24,12 +24,12 @@ xxxxxx Picture here xxxxxx
    - **Changing the list order**
    You can change the order of list of categories by dragging and dropping. Left click and hold on the item you wish to move and drag it with your mouse to its new position. You’ll see the other options adjust to make space for it. Once it’s in the correct place, release the mouse button. 
    
-   - **Deleting a list item **
+   - **Deleting a list item**
 Underneath your list of categories, you’ll see a grey rectangle with ‘Drag here to delete’ written in it. If you want to remove a list item, you can simply click and drag the box that it is in over the grey box. When you let go, you’ll see the option you deleted appear in the grey box.
 
 xxxxx Picture here xxxxxx
 
-###Non-contact work
+### Non-contact work
 
 Please note, if you wish to add a new work area to be used in your non-contact work records, please add these as standard work areas. You can then contact Lamplight so that we can assign them specifically to non-contact work records.
 
