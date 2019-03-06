@@ -1,4 +1,4 @@
-# 24.5.0    View, Edit and Delete Details of a {{Eval}}s Direct Campaign
+# 23.5.0 {{Eval}} Direct: View, Edit and Delete Details of a Campaign
 
 > To view details for a particular campaign, view all campaigns (see section [23.2.0  Viewing existing {{Eval}}s Direct campaigns](/help/index/p/23.2.0)) and then use the context menu. 
 
