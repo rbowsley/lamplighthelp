@@ -8,7 +8,7 @@ As part of the system set-up your system administrator will have decided firstly
 
 You can choose to publish them either when you’re adding a new record or by going to in edit an existing one. 
 
-**To publish a {{work}} record:**
+### To Publish a {{Work}} Record
 
 - If this record doesn't already exist, you will need to start by creating a new one and completing it in full (see section [9.1.0  Adding a {{work}} record](/help/index/p/9.1.0) for more information).
 - If it is an existing record, find it and open it to edit (see XXXXXXXXX).
@@ -33,7 +33,12 @@ xxxxxx Picture here xxxxxx
    - If people can add themselves to the record through your site, this sets a maximum number who will be accepted.
 
 
-If you no longer wanted to publish the record, open the record in an 'edit' mode (see section [9.2.2  Edit a {{work}} record](/help/index/p/9.2.2)) and untick the **Publish this record via {{Lamplight}} API?** 
+### To Edit and Remove Sharing from a {{Work}} Record
+
+- Find the record and choose 'edit' on the context menu (see section [9.2.2  Edit a {{work}} record](/help/index/p/9.2.2)).
+- Edit any of the fields that you would like to change.
+- If you want to stop sharing this record, untick the checkbox next to 'Publish this record via {{Lamplight}} API?'
+- Save your changes.
 
 ###### publish module
 
