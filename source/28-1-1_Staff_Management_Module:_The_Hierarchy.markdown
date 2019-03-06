@@ -1,4 +1,4 @@
-# 27.1.1    {{Staff}} Management Module: the Hierarchy
+# 28.1.1    {{Staff}} Management Module: the Hierarchy
 
 > To ensure personnel files are kept secure and confidential a hierarchy system can be put in place. This will allow only {{staff}} members and their manager to view their full profile. 
 
