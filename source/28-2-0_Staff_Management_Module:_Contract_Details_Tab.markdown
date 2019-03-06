@@ -1,4 +1,4 @@
-# 27.2.0 {{Staff}} Management Module: Contract Details Tab
+# 28.2.0 {{Staff}} Management Module: Contract Details Tab
 
 > Contract detail information is used by the timesheet system in its calculations. 
 
