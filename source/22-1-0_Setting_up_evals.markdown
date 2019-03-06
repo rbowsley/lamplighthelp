@@ -1,4 +1,4 @@
-# 23.1.0    Setting Up {{Eval}}s
+# 22.1.0    Setting Up {{Eval}}s
 
 > A System Administrator can set up new {{eval}} templates for you to use in {{Lamplight}}
 
