@@ -1,4 +1,4 @@
-# 27.2.0 Publishing Module: Settings in System Administration
+# 28.2.0 Publishing Module: Settings in System Administration
 
 > As system administrator you have the authority and responsibility to set the permission levels for the types and details of information that may be transferred from {{Lamplight}} to the public facing site that has been granted permission to receive it. 
 
