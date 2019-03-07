@@ -1,4 +1,4 @@
-# 25.4.0 Waiting Lists Module: Managing {{Waiting List}}s from {{Referral}} Records
+# 30.4.0 Waiting Lists Module: Managing {{Waiting List}}s from {{Referral}} Records
 
 > {{People}} and {{org}}s can be added to {{waiting list}}s from a {{referral}} record 
 
