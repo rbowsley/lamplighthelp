@@ -1,4 +1,4 @@
-# 27.3.2 Publishing Module: Publishing {{Work}} Records
+# 28.3.2 Publishing Module: Publishing {{Work}} Records
 
 > To assist in publicising your events and advertising the services you offer to a wider audience, the publishing module takes your {{work}} record information and allows it to be shared with your public facing site. 
 
