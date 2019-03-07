@@ -1,4 +1,4 @@
-# 27.3.0 Publishing Module: Publishing to the Remote Site
+# 28.3.0 Publishing Module: Publishing to the Remote Site
 
 > Once you have set up the settings to decide what information can and cannot be shared with your website, you will need to decide which records to publish on an individual basis
 
