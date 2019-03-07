@@ -1,4 +1,4 @@
-# 27.2.1    Publishing Module: Rebuilding Search Indexes
+# 28.2.1    Publishing Module: Rebuilding Search Indexes
 
 > When you publish a particular profile or {{work}} record, {{Lamplight}} builds a searchable index from that record
 
