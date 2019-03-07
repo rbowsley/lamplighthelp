@@ -1,4 +1,4 @@
-# 28.0.0    {{Staff}} Management Module
+# 29.0.0    {{Staff}} Management Module
 
 > The {{Staff}} Management Module enables you to capture detailed personnel information for {{staff}} and volunteers. 
 
