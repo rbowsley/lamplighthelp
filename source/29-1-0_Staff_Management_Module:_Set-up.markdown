@@ -1,4 +1,4 @@
-28.1.0 {{Staff}} Management Module: Set-up
+29.1.0 {{Staff}} Management Module: Set-up
 
 > Before using the {{Staff}} Management Module you will need to set up a {{staff}} hierarchy and list items which enable you to specify absence, training and other categories
 
