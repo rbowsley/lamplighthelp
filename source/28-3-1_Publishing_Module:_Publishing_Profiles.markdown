@@ -1,4 +1,4 @@
-# 27.3.1 Publishing Module: Publishing Profiles
+# 28.3.1 Publishing Module: Publishing Profiles
 
 > With the publishing module you have the opportunity to publish profiles from your {{Lamplight}} database onto a public facing site 
 
