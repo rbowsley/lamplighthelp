@@ -1,4 +1,4 @@
-# 28.3.0 {{Staff}} Management Module: Add, Edit and Delete {{Staff}} Activity Information
+# 29.3.0 {{Staff}} Management Module: Add, Edit and Delete {{Staff}} Activity Information
 
 > With the {{Staff}} Management Module you can add training, absence, appraisal and non-contact records to {{staff}} profiles
 
