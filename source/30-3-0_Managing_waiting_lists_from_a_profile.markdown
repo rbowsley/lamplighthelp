@@ -1,4 +1,4 @@
-# 29.3.0    Managing {{Waiting List}}s from a Profile
+# 30.3.0    Managing {{Waiting List}}s from a Profile
 
 > It is possible to add {{people}}and {{org}}s to {{waiting list}}s directly from their profile 
 
