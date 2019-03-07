@@ -1,4 +1,4 @@
-# 29.2.0    {{Waiting List}}} Module: Managing {{Waiting List}}s from the Menu Bar
+# 30.2.0    {{Waiting List}}} Module: Managing {{Waiting List}}s from the Menu Bar
 
 > Once you have {{waiting lists}} on your system, it's possible to manage them from the menu bar
 
