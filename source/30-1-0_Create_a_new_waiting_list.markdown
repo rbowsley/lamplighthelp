@@ -1,4 +1,4 @@
-# 29.1.0    {{Waiting Lists}} Module: Create a New {{Waiting List}}
+# 30.1.0    {{Waiting Lists}} Module: Create a New {{Waiting List}}
 
 > To create a new {{waiting list}}, from the main menu click on {{work}}, hover over add and click on {{waiting list}}s 
 
