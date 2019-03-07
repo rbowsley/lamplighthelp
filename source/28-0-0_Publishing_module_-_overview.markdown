@@ -1,4 +1,4 @@
-# 27.0.0    Publishing Module
+# 28.0.0    Publishing Module
 
 > Publishing is different to every other module in that rather than adding sections within Lamplight that you can then use, it adds the ability to connect a website or application to Lamplight using your Lamplight API
 
