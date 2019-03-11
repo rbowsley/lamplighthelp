@@ -69,7 +69,8 @@ It is only recommend to use this if you have an understanding of HTML.
 Once you have completed your template, click the ‘Save’ button in the bottom, right-hand corner. 
 Try using it and testing the formatting before returning to make additional changes.
 
-**Editing or Deleting a Template*
+
+### Editing or Deleting a Template
 
 The contextual menu used to create a new communications template also contains ‘Edit’ and ‘Delete’ options, which can be used to amend a template or delete one. 
 
