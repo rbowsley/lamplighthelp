@@ -1,6 +1,6 @@
 # 8.2.0    The {{Outcome}}s Tab
 
-> The {{outcome}}s tab shows the change you've seen over time 
+> The {{outcome}}s tab in a {{person}}'s profile shows the change you've seen over time 
 
 {{Outcome}}s information for the individual or organisation are displayed on this tab. They can also be added here.
 
