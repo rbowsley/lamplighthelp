@@ -1,4 +1,4 @@
-# 14.2.2    Logged {{Comm}}s {{Report}}
+# 14.1.2    Logged {{Comm}}s {{Report}}
 
 > From the main menu select {{report}}s -> {{comm}}s {{report}}. 
 
