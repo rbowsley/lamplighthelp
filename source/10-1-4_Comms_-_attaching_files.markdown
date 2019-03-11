@@ -1,4 +1,4 @@
-# 10.2.4    {{Comm}}s - Attaching Files
+# 10.1.4    {{Comm}}s - Attaching Files
 
 > You can attach up to 8 files to an email
 
