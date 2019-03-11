@@ -1,4 +1,4 @@
-# 10.2.2    {{Comm}} Recipients
+# 10.1.2    {{Comm}} Recipients
 
 > Decide who you want to send the {{comm}} to. You can enter individual names, or the name of a {{group}}. 
 
