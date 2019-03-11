@@ -1,4 +1,4 @@
-# 10.2.0    Creating a {{Comm}}
+# 10.1.0    Creating a {{Comm}}
 
 > To create a {{comm}}, go to {{Work}} -> {{comm}} -> create {{comm}} on the main menu. 
 
