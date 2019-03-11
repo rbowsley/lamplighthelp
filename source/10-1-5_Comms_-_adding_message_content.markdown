@@ -1,4 +1,4 @@
-# 10.2.5    {{Comm}}s - Adding Message Content
+# 10.1.5 {{Comm}}s - Adding Message Content
 
 > Your actual message is entered in the message content tab. 
 
