@@ -1,4 +1,4 @@
-# 10.2.3    {{Comm}}s - Adding Email Details
+# 10.1.3    {{Comm}}s - Adding Email Details
 
 > Filling out the email details tab
 
