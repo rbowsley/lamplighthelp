@@ -47,14 +47,4 @@ PICTURES?
 | Web address | For additional websites - also providing a link to the site | No | Yes | Yes | Yes | Yes |
 
 
-**Linked Fields**
-
-Linked fields are useful for saving information that you will view through the profile. You will not be able to use them in reports, {{groups}} or {{group data views}}.
-
-Most of the time your fields will have a single value that doesn't change (unless you enter an incorrect value by mistake!). For example, a person only has one date of birth, and this will never change. In some other cases you may need to be able to enter multiple records under a particular field. For example, you may need to be able to enter multiple text entries describing medical conditions as a person's medical condition changes. You may also need to be able to {{group}} a set of records together - in this example you may need a 'date diagnosed' field, a 'description of condition' field, and a medication 'field', all linked together. On the profile, this would be displayed as a table:
-
-
-
-
-
 ###### core module
