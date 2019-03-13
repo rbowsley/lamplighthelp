@@ -1,4 +1,4 @@
-# 2.0.0    Logging In
+# 2.2.0    Logging In
 
 > Go to [https://lamplight.online/](https://lamplight.online/) and enter your user name and password. 
 
