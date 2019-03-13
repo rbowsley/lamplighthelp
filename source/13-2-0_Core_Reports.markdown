@@ -1,4 +1,4 @@
-    13.2.0 Core {{Reports}}
+    # 13.2.0 Core {{Reports}}
     
     > Core {{reports}} are available on every system if these parts of {{Lamplight}} have been chosen in the global settings
     
