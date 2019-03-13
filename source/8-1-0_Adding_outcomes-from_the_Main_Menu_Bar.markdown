@@ -1,6 +1,8 @@
-# 8.1.0    Adding {{Outcome}}s
+# 8.1.0    Adding {{Outcome}}s from the Main Menu Bar
 
 > To add an {{outcome}} record, go to {{Work}}->Add->{{Outcome}}s on the main menu. 
+
+**Need to show can add Outcomes records from different places - radar chart, outcomes tab, table in the outcomes tab***
 
 To add an {{outcome}} record, go to {{Work}}->Add New->{{Outcome}}s on the main menu. You will see the main screen for entering {{outcome}} records:
 
