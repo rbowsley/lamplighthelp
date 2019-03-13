@@ -1,4 +1,4 @@
-# 8.1.5    Add {{Outcome}}s for {{People}} Attending a {{Work}} Record
+# 8.1.8    Add {{Outcome}}s for {{People}} Attending a {{Work}} Record
 
 > Create a new {{outcome}} record for everyone attending by clicking 'add {{outcome}}s' on the context menu. 
 
