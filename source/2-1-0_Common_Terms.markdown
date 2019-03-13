@@ -2,7 +2,7 @@
 
 > More coming soon
 
-
+XXXXXX From **terminology** section of training manual
 
 
 
