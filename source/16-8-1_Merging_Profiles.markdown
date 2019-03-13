@@ -18,7 +18,7 @@ For each tab that appears in the two profiles you will be asked how you want to 
 
 The source profile (which is the one that will be archived once the profiles are merged) is always the one listed on the right. The destination profile (which is the one which you will keep once the profiles are merged) will always be the one on the left. The data that you see on the left-hand side of the screen once when you are merging sections is the data that will ultimately be kept in the profile for that person.
 
-**XXXXXXXXX Needs section on what the different merge options mean XXXXXXXXX **
+**XXXXXXXXX Needs section on what the different merge options mean XXXXXXXXX**
 
 When you have merged each section you can return to the top of the View and merge profiles section and delete the source profile.
 
