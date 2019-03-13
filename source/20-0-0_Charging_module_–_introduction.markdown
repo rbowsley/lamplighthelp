@@ -1,4 +1,4 @@
-# 26.0.0    Charging Module Introduction
+# 20.0.0    Charging Module Introduction
 
 > The charging module allows you to set charges for attending a {{work}} record, and then decide who should pay that charge. 
 
