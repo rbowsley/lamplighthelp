@@ -1,4 +1,4 @@
-# 16.7.1 Which Custom Fields to Choose in Profiles
+# 16.7.3 Which Custom Fields to Choose in {{activity}} records
 
 > Custom tabs and fields can be added to activity records to allow you to capture additional information that you may need to record about what is happening. 
 
