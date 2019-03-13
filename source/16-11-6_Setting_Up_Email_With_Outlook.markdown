@@ -1,4 +1,4 @@
-#    16.11.5 Setting Up Email With an Outlook Account
+#    16.11.6 Setting Up Email With an Outlook Account
 
 >Instructions for setting up email in {{Lamplight}} if you have an Outlook account.
 
