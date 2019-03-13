@@ -1,4 +1,4 @@
-# 13.1.5    Exporting {{Report}}s
+# 13.1.7 Exporting {{Report}}s
 
 > When you run a {{report}} each table has a 'download' link below it. If you click this the table will be downloaded as a spreadsheet file. 
 
