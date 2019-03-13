@@ -1,4 +1,4 @@
-# 8.2.0    The {{Outcome}}s Tab
+# 8.2.0    Viewing {{Outcome}}s Records for a Particular Person - The {{Outcome}}s Tab
 
 > The {{outcome}}s tab in a {{person}}'s profile shows the change you've seen over time 
 
