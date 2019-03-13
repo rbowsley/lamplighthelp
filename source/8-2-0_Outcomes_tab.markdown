@@ -2,6 +2,8 @@
 
 > The {{outcome}}s tab in a {{person}}'s profile shows the change you've seen over time 
 
+XXXXXXXNeeds sorting so the adding outcomes info is in separate tabs?XXXXXXX
+
 {{Outcome}}s information for the individual or organisation are displayed on this tab. They can also be added here.
 
 {{Outcome}}s can be displayed as a radar diagram, in a 'data-entry' table, and in a simple table view. The radar chart shows and lets you add new data by clicking on the chart; the 'data-entry' table shows {{outcome}}s down the side and months along the top, and lets you add new measures in bulk. 
