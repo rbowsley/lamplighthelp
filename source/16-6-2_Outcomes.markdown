@@ -46,7 +46,7 @@ Before you make any changes, you need to be aware of the implications of editing
 - Make the changes. 
 - Press enter on your keyboard to save. To edit and delete, follow the guidelines as detailed in section [18.2.1  System Administration - {{Workarea}}s](/help/index/p/18.2.1).
 
-**Deleting {{Outcome}}S
+**Deleting {{Outcome}}s**
 
 Before you delete an {{outcome}} you need to be aware of the implications. For more on this see XXXXXXXX.
 
