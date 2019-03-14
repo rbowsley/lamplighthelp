@@ -38,11 +38,21 @@ xxxxxx Picture here xxxxxx
 - Set a minimum and maximum value (e.g. as above, your scale might be 1 (minimum) and 10 (maximum)). If you are creating a yes/no {{outcome}} use the minimum value of 0 and the maximum value of 1. Press enter to save.
 - Continue these steps until all measures that you need are added.
 
-**Editing and deleting outcomes**
+**Editing {{Outcome}}s**
 
-To edit and delete, follow the guidelines as detailed in section [18.2.1  System Administration - {{Workarea}}s](/help/index/v/18.2.1).
+Before you make any changes, you need to be aware of the implications of editing an {{outcome}}. For more on this see XXXXXXXX.
 
-When deleting, make sure to delete each {{outcome}} indicator in turn, before deleting the {{outcome}} category box. 
+- To edit an {{outcome}}, double-click on the text you wish to change and edit.
+- Make the changes. 
+- Press enter on your keyboard to save. To edit and delete, follow the guidelines as detailed in section [18.2.1  System Administration - {{Workarea}}s](/help/index/p/18.2.1).
+
+**Deleting {{Outcome}}S
+
+Before you delete an {{outcome}} you need to be aware of the implications. For more on this see XXXXXXXX.
+
+- When deleting, make sure to delete each {{outcome}} indicator in turn, before deleting the {{outcome}} category box. 
+- To delete an {{outcome}}, left click the indicator and hold the mouse button down to drag it to the grey ‘Drag here to delete’ box at the bottom of the page.
+- Release the mouse button to drop it in the box.
 
 
 ###### core module
