@@ -48,6 +48,10 @@ Select the required tab, and in the middle column, choose the button 'Click to a
 * You may also see fields about publishing, if you have the publishing module.  See: 
 Click save once you have completed the appropriate fields.
 
+**Adding Options to a Field**
+
+XXXXXXXXX See adding Options in Profile custom tabs - probably need to standardise between XXXXXX
+
 **Editing a tab**
 
 To edit a tab, select the tab in the left-hand column, and when the tab information shows in the middle column, double click on the text 'Tab name', and edit the existing information (as above)
@@ -58,7 +62,7 @@ To edit a tab, select the tab in the left-hand column, and when the tab informat
 Choose the field you wish to edit in the centre column, and select it.  In the right-hand column, you will see the field information appear (you may need to scroll up if you have a long list of fields.)  Double click on the non-bold text, where it says 'Field: _name_.  From here follow the process as above to edit and save the field.
 
  
-__Adding fields to a system standard tab__
+**Adding fields to a system standard tab**
 
 All records have the tabs 'Where and Where', 'Attendance', ( this may be called 'respondent' or 'Involved' in some cases), and Details.  You can't edit of delete the fields which already exist in these tabs (this can only be done by Lamplight), but you can add additional fields to them by 'creating' them in System Admin.  Create a tab with the correct name as below, (capitalisation is essential), and add fields to it.  
 
