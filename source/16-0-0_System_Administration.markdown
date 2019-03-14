@@ -1,4 +1,4 @@
-# 16.0.0    System Administration
+# 16.0.0 System Administration
 
 > System administration allows you to set up and change the settings on your {{Lamplight}} system. This is where you can alter drop-down lists, add new database operators, and manage many other aspects of your system. 
 
@@ -8,8 +8,8 @@ To view the system administration page, click 'admin' on the main menu, then cho
 
 The main functions that an administrator can perform are:
 
-- adding new users to the system, assigning the appropriate user level and deleting them where necessary
-- adding to or changing the drop-down lists that appear in {{Lamplight}}
+- adding new database operators to the system, assigning the appropriate user level and deleting them where necessary
+- adding to or changing the drop-down lists that appear in {{Lamplight}} in profiles and records
 - creating new custom tabs and fields on profiles and records
 - setting login and password policies for users
 - turning features - such as {{message}}s and {{case}}s - on and off in global settings
