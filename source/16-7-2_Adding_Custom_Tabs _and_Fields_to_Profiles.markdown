@@ -80,7 +80,7 @@ PICTURE HERE
 
 Repeat this process until you have added all the tabs, fields and options that you require.
 
-**Adding linked fields**
+**Linked fields**
 
 You may want to link fields together so that you can enter multiple records under a single field (for more on this see XXXXXXXXX)
 ![Adding linked fields](146g.png). Remember, if you do this you will not be able to use the data in the linked fields for reporting, creating {{group}}s or {{group data views}}. This is most suitable for historic information you need to hold but do not need to report on, such as previous addresses.
@@ -95,7 +95,7 @@ You may want to link fields together so that you can enter multiple records unde
 - You can create several groups of linked fields on the same tab. These links are indicated by the different background colours of the fields.
 - If you wish to remove a link from fields in a tab, click the left mouse button and drag the red rectangle back over the group of linked fields. This will remove the link.
 
-**Changing the order of fields in a tab**
+### Changing the order of fields in a tab
 
 You can re-order tabs, fields and options by dragging them to the required position. 
 
@@ -103,7 +103,7 @@ You can re-order tabs, fields and options by dragging them to the required posit
 - Drag the tab/field/option up or down the list until it's in the right place. 
 - Let go of the mouse button and the tab/field/option will drop into position and the new order will be saved.
 
-**Editing tabs and fields**
+### Editing tabs and fields
 
 You can return to this screen at any time to edit or add tabs and fields. 
 
@@ -121,7 +121,7 @@ To edit the tab or field:
  - Double click on the text of the optio, , e.g. 'Female'. This will open up the dialogue box.
  - Make the changes that you need, then press 'enter' on your keyboard to save. 
  
- **Deleting Tabs, Fields and Options**
+ ### Deleting Tabs, Fields and Options
  
  To delete any tab, field or option:
  
