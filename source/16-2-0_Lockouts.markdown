@@ -1,4 +1,4 @@
-#  16.2.0 Lockouts
+#  16.2.0 System Administration - Lockouts
 
 > If a database operator has tried to log in to their account 10 times without success the account will be locked. It is also possible to temporarily lock the acccount of an operator if you do not want them to access the system for any reason
 
