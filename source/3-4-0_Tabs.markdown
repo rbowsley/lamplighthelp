@@ -1,12 +1,18 @@
 # 3.4.0    Tabs
 
-> Tabs are used a lot in {{Lamplight}}. Click on a tab along the top to see the information 
+> When you see a tab in {{Lamplight}}, click on it to see the information held there 
 
-Many of the screens in {{Lamplight}} use tabs:
+Many of the screens in {{Lamplight}} use tabs. For example you will see them along the top of a profile:
 
-![A tab view in {{Lamplight}}](26a.png)
+![Profile tab view in {{Lamplight}}](26a.png)
 
-click on a tab to view the information. The current tab is highlighted in dark green. 
+Or when you are creating a report:
+
+![Report tab view in {{Lamplight}}](3.4.0a.PNG)
+
+Click on a tab to open it and view the information held there. 
+
+The current tab is always in a different colour, for example the current profile tab is darker than the others, while the current report tab is white. 
 
 
 ###### core module
