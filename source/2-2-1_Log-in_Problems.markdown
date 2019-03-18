@@ -8,7 +8,7 @@ If you enter a username or password which is not stored in {{Lamplight}}, two th
 
 If the database does not recognise your username, you will see a 'login failed' error message below the sign-in boxes.
 
-![Username not recognised](2.2.0a.png)
+![Username not recognised](2.2.0a.PNG)
 
 You will see the same message if your password is not recognised.
 
@@ -19,7 +19,7 @@ If this problem persists, you may need to change your password or check with you
 
 You may also see a message that you are locked out of the sytsem.  
 
-![Locked out of the system](2.2.0b.png)
+![Locked out of the system](2.2.0b.PNG)
 
 This could be because you’ve tried to log in to your account ten times without success. Failed attempts don’t all have to be at once, so can be across several sessions, days or weeks. 
 
