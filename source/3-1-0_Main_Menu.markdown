@@ -21,6 +21,10 @@ If you see a black arrow pointing to the right on the sub menu this will mean th
 
 Throughout this manual you will see instructions shown with an arrow, for example 'go to {{work}} -> view all on the main menu'. The arrow -> indicates the {{work}} sub- menu. 
 
+You can also find out more about the main menu in our introductory training video below. 
+
+<iframe width="640" height="564" src="https://player.vimeo.com/video/282516727" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+
 
 ###### core module
 
