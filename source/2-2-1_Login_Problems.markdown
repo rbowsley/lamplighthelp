@@ -19,7 +19,7 @@ If this problem persists, you may need to change your password or check with you
 
 You may also see a message that you are locked out of the sytsem.  
 
-![Locked out of the system](2.2.0b.PNG)
+![Locked out of the system](2.2.0b.png)
 
 This could be because you’ve tried to log in to your account ten times without success. Failed attempts don’t all have to be at once, so can be across several sessions, days or weeks. 
 
