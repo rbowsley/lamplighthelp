@@ -13,4 +13,6 @@ The row data and column data select boxes enable you to segment your data by the
 The 'Data to show' options allow you to count your data in different ways. 
 
 
-More information to be added.
+xxxxxxMore information to be added.xxxxxx
+
+xxxxxxReading the report - what do the different columns mean?xxxxxx
