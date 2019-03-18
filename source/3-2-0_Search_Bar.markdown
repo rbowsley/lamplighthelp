@@ -18,5 +18,9 @@ However, if you click the 'Go' button a different search will be carried out. {{
 
 Finally, if you click the 'help' button, a search will be carried out of the online help system and the help manual will open in a new tab on your browser. {{Lamplight}} will show you the best matches, and you can then click through to read the whole section. 
 
+View our training video to find out more about the search bar:
+
+<iframe width="640" height="564" src="https://player.vimeo.com/video/282516727" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+
 
 ###### core module
