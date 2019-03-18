@@ -1,6 +1,6 @@
 # 3.2.0 Search Bar
 
-> The search bar in the top right-hand corner of each screen lets you search in three ways - search as you type to find {{people}}, a full search of the whole database or the option to search the help manual
+> The search bar in the top right-hand corner of each screen can be used in three ways - to find {{people}}, to do a full search of the database or to search for help
 
 In the top right-hand corner of each screen there is a search bar. 
 
