@@ -1,4 +1,4 @@
-# 2.2.1 Log-in Problems
+# 2.2.1 Login Problems
 
 > The most common problems that people have when logging in are when they are entering a username or password which {{Lamplight}} does not recognise
 
