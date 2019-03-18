@@ -6,7 +6,7 @@ You will use the menu along the top of the screen to get around the system.
 
 The first line of menu items (starting with 'Home') can be clicked; this then displays the heading menu for that section in the coloured bar below. 
 
-![{{Lamplight}} initial menu](3.1.0a.png)
+![{{Lamplight}} initial menu](3.1.0a.PNG)
 
 (The categories that you see in your own system may differ to those shown in the picture above - this is due to each system beind customised for the organisation using it.)
 
@@ -17,7 +17,7 @@ If you click many of these headings a dropdown sub-menu will appear. Simply clic
 
 If you see a black arrow pointing to the right on the sub menu this will mean that there are more options to show. Just click on the arrow to display these.
 
-![{{Lamplight}} menu expanded](3.1.0b.png)
+![{{Lamplight}} menu expanded](3.1.0b.PNG)
 
 Throughout this manual you will see instructions shown with an arrow, for example 'go to {{work}} -> view all on the main menu'. The arrow -> indicates the {{work}} sub- menu. 
 
