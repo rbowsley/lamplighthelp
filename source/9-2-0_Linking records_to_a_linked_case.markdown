@@ -10,7 +10,7 @@ If a record is already linked to a {{linked case}}, you cannot link it to anothe
 
 You also cannot link a record to a {{linked case}} which has been closed. In this instance you will need to re-open the {{linked case}} before you can attach the record. For information on this, (see section [9.7.0 Re-opening a closed {{linked case}}](/help/index//p/9.7.0)).
 
-Once a record is linked to a {{linked case}} it appears in the '{{linked case}} view' tab, within the {{case}} that it is linked to. It also continues to appear in its appropriate tab, for example the {{work}} records tab. 
+Once a record is linked to a {{linked case}} it appears in the '{{linked case}} view' tab, within the {{linked case}} that it is linked to. It also continues to appear in its appropriate tab, for example the {{work}} records tab. 
 
 ###### core module
 
