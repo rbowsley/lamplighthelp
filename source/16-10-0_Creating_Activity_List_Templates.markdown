@@ -2,7 +2,7 @@
 
 > {{Activity}} list templates can be used to view your {{work}} and other activities records. They are similar to report templates, letting you save the criteria that you want to use to search so that you can choose it from a menu list
 
-You can create templates to view different types of activity record in Lamplight – for example {{work}}, {{outcomes}}, or {{referrals}} (you may not use all of these in your system).
+You can create templates to view different types of activity record in Lamplight – for example {{work}}, {{outcome}}s, or {{referral}}s (you may not use all of these in your system).
 
 **To Create a Template**
 
