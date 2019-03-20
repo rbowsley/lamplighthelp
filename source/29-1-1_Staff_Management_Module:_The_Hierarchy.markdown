@@ -3,7 +3,7 @@
 > To ensure personnel files are kept secure and confidential a hierarchy system can be put in place. This will allow only {{staff}} members and their manager to view their full profile. 
 
 
-Due to the potentially sensitive nature of the data held within the {{Staff}} Management Module (pay details, annual leave etc), {{staff profiles}} are governed by a hierarchy. System Administrators will need to put this in place.
+Due to the potentially sensitive nature of the data held within the {{Staff}} Management Module (pay details, annual leave etc), {{staff}} profiles are governed by a hierarchy. System Administrators will need to put this in place.
 
 By default, the only person who can see a profile is the database operator whose profile it is. Once you structure the hierarchy, this  allows managers in the same branch to see (and report) on those who are below them on the branch. Any other {{staff}} member who views a colleagues profile, who does not have access rights, will only be able to view the 'normal' tabs, and not the {{Staff}} Module tabs.
 
