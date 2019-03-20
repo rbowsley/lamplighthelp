@@ -10,7 +10,7 @@ The spreadsheet should look like the example below, with field names across the 
 
 xxxxxx Picture here xxxxxx
 
-There is no need to enter tab information, just the field name. Only one combination of profile type ({{person}}, {{org}} or {{family}}) and role ({{service user}}, {{staff}}, {{volunteer}}, {{contact}} or {{funder}}) can be imported at a time, so a separate sheet is needed for each (e.g. one for {{person}}>{{service user}}s, another for {{person}}>{{staff}}).
+There is no need to enter tab information, just the field name. Only one combination of profile type ({{person}}, {{org}} or {{family}}) and role ({{user}}, {{staff}}, {{volunteer}}, {{contact}} or {{funder}}) can be imported at a time, so a separate sheet is needed for each (e.g. one for {{person}}>{{user}}s, another for {{person}}>{{staff}}).
 
 The spreadsheet should have a column for each field to be imported, and must be saved in .csv format. Note that saving an Excel workbook in .csv format will only save the current tab, .csv files do not support multiple sheets.
 
@@ -59,11 +59,11 @@ Columns can be in any order, and need not be included if they won’t contain an
 
 Information can be uploaded to existing profiles. This tends to be more complex than creating new profiles, and it is therefore not recommended as a regular process.
 
-Lamplight can match uploaded data to existing profiles using the ID field (a unique reference number for each profile in Lamplight). The simplest way to find profile IDs is to use a group/list with a group/list data view, although you can also find the ID number manually.
+Lamplight can match uploaded data to existing profiles using the ID field (a unique reference number for each profile in Lamplight). The simplest way to find profile IDs is to use a {{group}} with a {{group}} data view, although you can also find the ID number manually.
 
 **Downloading Names and Profile IDs**
 
-Create a {{group data view}} showing the profile ID field. It can also be useful to include the fields to be import. Create a {{group}} of the profiles into which data will be imported, and then view it using the {{group data view}}. Ensure that ‘Show All’ records is selected at the top of the table, then click the ‘Download’ link at the bottom and open the file in Excel.
+Create a {{group}} data view showing the profile ID field. It can also be useful to include the fields to be import. Create a {{group}} of the profiles into which data will be imported, and then view it using the {{group}} data view. Ensure that ‘Show All’ records is selected at the top of the table, then click the ‘Download’ link at the bottom and open the file in Excel.
 
 xxxxxx Picture here xxxxxx
  
