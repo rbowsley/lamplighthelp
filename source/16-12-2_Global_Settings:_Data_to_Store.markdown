@@ -155,21 +155,21 @@ xxxxxx Picture here xxxxxx
    As with {{work}} records, {{outcome}} records and {{referral}} records, you can choose whether to enable {{message}}s with grant records. Disabling this option will prevent the ‘{{Message}}s’ tab from appearing when entering grant records.
 
 
-### {{Evaluation}} records
+### {{Eval}} records
 
 - **Do you want to use {{message}}s with {{evaluation}} records?**  
 
-   As with {{work}} records, {{outcome}} records, {{referral}} records and grant records, you can choose whether to enable {{message}}s with {{evaluation}} records. Disabling this option will prevent the ‘{{Message}}s’ tab from appearing when entering {{evaluation}} records.
+   As with {{work}} records, {{outcome}} records, {{referral}} records and grant records, you can choose whether to enable {{message}}s with {{eval}} records. Disabling this option will prevent the ‘{{Message}}s’ tab from appearing when entering {{eval}} records.
 
-- **Do you want to use simple or tabular attendance information on {{evaluation}} records?**   
+- **Do you want to use simple or tabular attendance information on {{eval}} records?**   
 
-   As with respondents in {{outcome}} and {{referral}} records, profiles can be added to {{evaluation}} records using either the default table style or simple search boxes. In the simple search box view on {{evaluation}} records, there is one field for ‘Who completed the {{evaluation}}’, as shown below.
+   As with respondents in {{outcome}} and {{referral}} records, profiles can be added to {{eval}} records using either the default table style or simple search boxes. In the simple search box view on {{evaluation}} records, there is one field for ‘Who completed the {{eval}}’, as shown below.
 
    xxxxxx Picture here xxxxxx
 
-- **Show date to when adding {{evaluation}} records?**   
+- **Show date to when adding {{eval}} records?**   
 
-   As with {{referral}} records, you can choose to specify a ‘date to’ as well as a ‘date from’ for {{evaluation}} records, allowing you to show a duration rather than a single point in time.
+   As with {{referral}} records, you can choose to specify a ‘date to’ as well as a ‘date from’ for {{eval}} records, allowing you to show a duration rather than a single point in time.
 
 
 ###### core system
