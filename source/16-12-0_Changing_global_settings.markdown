@@ -15,7 +15,7 @@ The different tabs you will see here are:
 
 - People and organisations - for options on profiles, searching and adding new profiles (see XXXXXXX)
 - Data to store - for options on {{work}}, {{outcome}}, {{referral}} and {{grant}} records (see XXXXXXX)
-- {{Case}}s - for options on your {{case}} records (see XXXXXXX)
+- {{Linked case}}s - for options on your {{linked case}} records (see XXXXXXX)
 - Data display options - for options on data tables and miscellaneous data display (see XXXXXXX)
 - Communications - for options on your communications (see XXXXXXX)
 - Security settings - for length of time before automatic logout, and setting up 'my user' restrictions (see XXXXXXX)
