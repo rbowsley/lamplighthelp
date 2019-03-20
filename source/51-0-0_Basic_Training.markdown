@@ -1,4 +1,4 @@
-# 5.1.0 Basic Training
+# 51.0.0 Basic Training
 
 >Basic Training is a collection of videos aimed at new staff, to give them an understanding of how information is recorded in Lamplight.
 
