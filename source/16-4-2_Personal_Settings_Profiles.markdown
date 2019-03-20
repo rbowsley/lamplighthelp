@@ -40,9 +40,9 @@ When you have ticked the tabs that you would like to see, you can left click the
  
 - **How would you like {{outcome}}s displayed on profiles?**
 
-   There are 3 different choices of how to view {{outcome}}s in the ‘{{outcomes}}‘ profile tab.
+   There are 3 different choices of how to view {{outcome}}s in the ‘{{outcome}}s‘ profile tab.
    
-   - **The radar chart:** this option gives you a radar chart which shows you all the {{outcomes}} recorded for a set of measures. You can also add new scores to the chart directly, or to a set of drop-down boxes. 
+   - **The radar chart:** this option gives you a radar chart which shows you all the {{outcome}}s recorded for a set of measures. You can also add new scores to the chart directly, or to a set of drop-down boxes. 
       
       xxxxxx picture here xxxxxx
       
@@ -51,7 +51,7 @@ When you have ticked the tabs that you would like to see, you can left click the
       xxxxxx picture here xxxxxx
       
       
-   - **Normal table:** Each row of this table shows one time that a measure has been recorded. You can re-order the table by date, category, {{work area}} or individual measure, depending on the information you are looking for. 
+   - **Normal table:** Each row of this table shows one time that a measure has been recorded. You can re-order the table by date, category, {{workarea}} or individual measure, depending on the information you are looking for. 
        
       xxxxxx picture here xxxxxx
 
