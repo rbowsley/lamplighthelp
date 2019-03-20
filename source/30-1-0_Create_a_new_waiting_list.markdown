@@ -1,4 +1,4 @@
-# 30.1.0    {{Waiting Lists}} Module: Create a New {{Waiting List}}
+# 30.1.0    {{Waiting List}}s Module: Create a New {{Waiting List}}
 
 > To create a new {{waiting list}}, from the main menu click on {{work}}, hover over add and click on {{waiting list}}s 
 
@@ -27,13 +27,13 @@ Creaating a new {{waiting list}} is like adding a record in Lamplight.
 
    - **{{Work}} Record Auto-removal**
    
-   - To activate auto-removal based on a {{work}} records, select the checkbox titled ‘Remove people from {{waiting lists}} automatically when they attend a {{work}} record’. 
-   - Choose the {{workarea}} and {{subworkareas}} to which this applies. You can select more than one {{work}} area or {{subworkarea}}. If you are choosing {{subworkareas}}s be sure to deselect the {{workarea}} associated with it, or Lamplight will ignore your {{subworkarea}} selection.
+   - To activate auto-removal based on a {{work}} records, select the checkbox titled ‘Remove people from {{waiting list}}s automatically when they attend a {{work}} record’. 
+   - Choose the {{workarea}} and {{subworkarea}}s to which this applies. You can select more than one {{work}} area or {{subworkarea}}. If you are choosing {{subworkarea}}s be sure to deselect the {{workarea}} associated with it, or Lamplight will ignore your {{subworkarea}} selection.
 - If you choose not to select a {{workarea}} at this point, the people on the {{waiting list}} will be automatically removed when they ‘attend’ any {{work}} record.
 
    - **{{Referral}} Record Auto-removal**
    
-   - Select the ‘Remove people from {{waiting list}} automatically when they attend a {{referral}} record?’ to remove someone from the {{waiting list}} when they are involved in any {{referral}} as a {{service user referred}}, whether a {{referral}} ‘in’ to you, or a {{referral}} out. 
+   - Select the ‘Remove people from {{waiting list}} automatically when they attend a {{referral}} record?’ to remove someone from the {{waiting list}} when they are involved in any {{referral}} as a {{user}} referred, whether a {{referral}} ‘in’ to you, or a {{referral}} out. 
 
    **Alerts**
    
@@ -49,7 +49,7 @@ Creaating a new {{waiting list}} is like adding a record in Lamplight.
  
     **{{Project}} Sharing**
  
-   If you have multiple {{projects}}, you’ll see an additional ‘{{Project}} sharing’ tab, letting you choose which {{project}}s this {{waiting list}} will be available for. It’s important to note that although different {{project}}s will be able to use this list when shared, each {{project}} will have its own list, and the names in the list will remain confidential to each {{project}}.
+   If you have multiple {{project}}s, you’ll see an additional ‘{{Project}} sharing’ tab, letting you choose which {{project}}s this {{waiting list}} will be available for. It’s important to note that although different {{project}}s will be able to use this list when shared, each {{project}} will have its own list, and the names in the list will remain confidential to each {{project}}.
    
    
  When all the information has been added, click the 'save' button on the bottom right hand corner. You have now created your new {{waiting list}}.
