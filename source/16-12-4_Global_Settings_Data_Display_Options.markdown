@@ -8,7 +8,7 @@ The fields in this tab are:
 
 - **Do you want data tables to display full details?**
 
-   This option changes the default table layout in tables where profiles are listed (for example in {{people}}>view>{{service user}}>all) to include ‘First name’, ‘Surname’ and ‘Alternative name’.
+   This option changes the default table layout in tables where profiles are listed (for example in {{people}}>view>{{user}}>all) to include ‘First name’, ‘Surname’ and ‘Alternative name’.
  
     xxxxxxx picture here xxxxxx
     
@@ -23,11 +23,11 @@ The fields in this tab are:
  
 - **Do you want data tables to display case details?**
 
-   If you select this option, your {{work}}>view tables (e.g. {{work}}, {{outcomes}} etc) will automatically display case information when they open. The fields include case ID, case name and case open. If this box is left unticked it is still possible to choose to view these columns by right clicking on the table header row and ticking the options that you wish to include.
+   If you select this option, your {{work}}>view tables (e.g. {{work}}, {{outcome}}s etc) will automatically display case information when they open. The fields include case ID, case name and case open. If this box is left unticked it is still possible to choose to view these columns by right clicking on the table header row and ticking the options that you wish to include.
 
 - **Do you want {{work}} data tables to add hidden columns for description and follow up text?**
 
-  Choosing this option will add ‘description’ and ‘follow-up’ options to the header of the {{work}}>view>{{work}} table, so that you can view any information added to those work record fields. It will also add a ‘{{referral}} description’ option to the {{work}}>view>{{referrals}} table, which displays information from the direction, success and notes fields of {{referral}} records.
+  Choosing this option will add ‘description’ and ‘follow-up’ options to the header of the {{work}}>view>{{work}} table, so that you can view any information added to those work record fields. It will also add a ‘{{referral}} description’ option to the {{work}}>view>{{referral}}s table, which displays information from the direction, success and notes fields of {{referral}} records.
   
   xxxxxx picture here xxxxxx
  
@@ -37,7 +37,7 @@ The fields in this tab are:
   
   xxxxxx picture here xxxxxx
  
-- **Do you want search bars within profile tabs (for {{work}}, {{referral}}, {{grant}}, {{comm}} and {{evaluation}} tabs)?**
+- **Do you want search bars within profile tabs (for {{work}}, {{referral}}, {{grant}}, {{comm}} and {{eval}} tabs)?**
 
    This option enables the search bar in each of the listed profile tabs. Clicking the search bar will expand it to show options that can be used to filter the results displayed in the table below. It will also allow you to add certain extra data columns. This option can be useful if you have many records linked to profiles and need to filter them to get a useful view of the data.
    
