@@ -83,7 +83,7 @@ Repeat this process until you have added all the tabs, fields and options that y
 **Linked fields**
 
 You may want to link fields together so that you can enter multiple records under a single field (for more on this see XXXXXXXXX)
-![Adding linked fields](146g.png). Remember, if you do this you will not be able to use the data in the linked fields for reporting, creating {{group}}s or {{group data views}}. This is most suitable for historic information you need to hold but do not need to report on, such as previous addresses.
+![Adding linked fields](146g.png). Remember, if you do this you will not be able to use the data in the linked fields for reporting, creating {{group}}s or {{group}} data views. This is most suitable for historic information you need to hold but do not need to report on, such as previous addresses.
 
 - Create the fields you wish to link on the same tab, and make sure that they are next to one another in the correct order. 
 - Select them both. To do this, click and hold the left mouse button to the left of the first field you want to link. A small red rectangle will appear. 
