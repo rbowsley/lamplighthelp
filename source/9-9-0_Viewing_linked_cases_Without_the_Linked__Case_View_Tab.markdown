@@ -4,7 +4,7 @@
 
 When you are viewing records, find a record which is linked to the relevant {{linked case}}, right-click on it and select 'View {{linked case}} details'. You will not see this option if you have a {{linked case}} tab in your system. 
 
-The system administrator can also choose to enable the {{linked case}} view so that it is accessible from within a profile. They will need to go to admin -> system administration -> change global settings and on the '{{linked cases}}' page tick 'Do you want the {{linked case}} tab on profiles?'. 
+The system administrator can also choose to enable the {{linked case}} view so that it is accessible from within a profile. They will need to go to admin -> system administration -> change global settings and on the '{{linked case}}s' page tick 'Do you want the {{linked case}} tab on profiles?'. 
 
 When you open a profile, an extra tab will appear. 
 
