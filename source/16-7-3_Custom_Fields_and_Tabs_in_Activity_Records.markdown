@@ -12,8 +12,8 @@ There are a number of different ways in which custom fields in profiles can be u
 
 - Use it to filter reports: this allows you restrict the results you see based on the field. For example, if you have added a field called 'Team', with the options 'Youth', 'Older People' and 'Working Age Parents', you could then filter the report so that it only shows you the results for activity records which have chosen the 'Youth' team. (For more on filtering reports, see XXXXXXXXX).
 - Use it for presenting reports: this allows you to show columns in a report using this field. So using the above example, you could run a report on the number of {{work}} sessions you've had in the last six months, and then choose to present it by your 'Team' field. This would then give you a column or row for each of the options in that field - 'Youth', 'Older People' and 'Working Age Parents', so that you could see the results for each different group at a glance. (For more on report presentation see XXXXXXXXX).
-- For creating {{groups}}: again, using the above field example you can create auto-{{groups}} to show you everyone who has attended a {{work}} session that was tagged with 'Older People' in the last six months. (For more on auto-{{groups}} see XXXXXXXXX).
-- For creating {{group dataview}s: you could set up a {{group dataview}} to show you the number of times a person had attended a {{work}} record tagged as 'Youth' in the last two years. (For more on {{group dataview}}s please see XXXXXXXXX.)
+- For creating {{group}}s: again, using the above field example you can create auto-{{group}}s to show you everyone who has attended a {{work}} session that was tagged with 'Older People' in the last six months. (For more on {{auto group}}s see XXXXXXXXX).
+- For creating {{group} data views: you could set up a {{group}} data view to show you the number of times a person had attended a {{work}} record tagged as 'Youth' in the last two years. (For more on {{group}} data views please see XXXXXXXXX.)
 - Add as a column in a record table: you can view tables of records from the main menu (to find out more please see XXXXX). In this example, you could use the search bar above the table to add in a column showing for each of the options.
 
 **Types of custom field**
@@ -24,7 +24,7 @@ The table below gives details of how each custom field works, and how you can us
 PICTURES?
 
 
-| Field name | Description |For filtering reports | For presenting reports | For creating {{groups}} | As a {{group dataview}} column | As a column in a record table |
+| Field name | Description |For filtering reports | For presenting reports | For creating {{group}}s | As a {{group}} data view column | As a column in a record table |
 | :--------- | :---------- | :------------------- | :--------------------- | :---------------------- | :----------------------------- | :----------------------------- |
 | Select box | A drop-down list of options which operators will be able to choose one of | Yes | Yes | Yes | Yes | Yes |
 | Multi-select box | A drop-down list of options from which operators select as many as apply | Yes | Yes | Yes | Yes| Yes |
