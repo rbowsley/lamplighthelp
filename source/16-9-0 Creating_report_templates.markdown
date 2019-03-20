@@ -14,7 +14,7 @@ To create a {{report}} template, use the 'Admin' option in the main menu, and ch
 
 ![System admin {{report}} showing the {{report}} templates section](1212a.png)
 
-Choose 'Add edit and remove {{report}} templates, to enter this section.  Once in this page, you will see options to add {{report}} templates for {{work}}, {{rereferral}}s, {{Linked case}}s, {{outcomes}}s, and any of the modules you have enabled.  You'll be able to see existing templates which you can edit.  You'll also see an 'add' button at the bottom of each section.
+Choose 'Add edit and remove {{report}} templates, to enter this section.  Once in this page, you will see options to add {{report}} templates for {{work}}, {{referral}}s, {{Linked case}}s, {{outcome}}s, and any of the modules you have enabled.  You'll be able to see existing templates which you can edit.  You'll also see an 'add' button at the bottom of each section.
 
 ![{{work}} {{report}} templates](1213a.png)
 
@@ -31,7 +31,7 @@ The other difference when creating a {{report}} template, are the dates.  Within
 
 ![{{work}} {{report}} dynamic dates](1215a.png)
 
-Finally, when run, {{reports}} display the information requested in the template, but can then be altered, to break down the numbers in different ways for example.  This means that one {{report}} may be created as a template and then changed in a number of different ways, to more easily give a range of data for your reporting from a single {{report}}
+Finally, when run, {{report}}s display the information requested in the template, but can then be altered, to break down the numbers in different ways for example.  This means that one {{report}} may be created as a template and then changed in a number of different ways, to more easily give a range of data for your reporting from a single {{report}}
 
 **Viewing {{report}} templates**
 
