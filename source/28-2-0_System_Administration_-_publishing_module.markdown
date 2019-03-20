@@ -21,7 +21,7 @@ You will need to configure these settings to determine what can be published fro
 **{{People}} and {{Org}}s Tabs**
   
 - ‘{{People}}’ refers to any profile in Lamplight which is added under ‘{{People}} > add {{person}}’ in the main menu. 
-- The {{Org}} tab identifies profiles which were added as {{org}}s. If you have '{{families}}' activated as a role, there will also be a ‘{{Families}}’ tab. The options here relate to:
+- The {{Org}} tab identifies profiles which were added as {{org}}s. If you have '{{Family}}' activated as a role, there will also be a ‘{{Family}}’ tab. The options here relate to:
    - which roles can be published
    - what details to publish
    - what information can be added to Lamplight from a website/application
@@ -31,9 +31,9 @@ You will need to configure these settings to determine what can be published fro
 
 You can use these tabs to identify exactly which parts of the work or referral records can be published, and which information can be added to these records from an external site. This is just the permission for parts of records to be published, but each work or referral record will also need to be published manually as you create or edit it.
 
-**{{Projects}}**
+**{{Project}}s**
 
-If you have multiple Lamplight {{projects}}, this identifies which ones will allow publishing.
+If you have multiple Lamplight {{project}}s, this identifies which ones will allow publishing.
 
 **API Key and Details**
 
