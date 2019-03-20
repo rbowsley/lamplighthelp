@@ -48,19 +48,19 @@ These tabs may contain a variety of different types of field.
 
 To identify people attending at least one session of Cookery after 1st April 2012 and before 31st March 2013:
 
-![Automatic {{groups}} - {{work}} records tab example 1](103c.png)
+![Automatic {{group}}s - {{work}} records tab example 1](103c.png)
 
 To identify people attending an Initial Assessment between 1st April 2012 and 30th September 2012 (equivalent to people attending between Start of Q1 2012 and End of Q2 2012)
 
-![Automatic ((groups)) - {{work}} records tab example 2](103d.png)
+![Automatic ((group))s - {{work}} records tab example 2](103d.png)
 
 To identify new users - people attending the centre after 1st April 2013 that had never attended before then:
 
-![Automatic {{groups}} - {{work}} records tab example 3](103e.png)
+![Automatic {{group}}s - {{work}} records tab example 3](103e.png)
 
 To identify attendees who have completed the course - service users who in Q3 2013 attended at least 6 sessions of the 10 session Gardening course
 
-![Automatic {{groups}} - {{work}} records tab example 4](103f.png)
+![Automatic {{group}}s - {{work}} records tab example 4](103f.png)
 
 Finally, you can filter by {{workarea}}, attendance type and role, and any custom {{work}} fields you have added to your system.
 
@@ -68,7 +68,7 @@ The **{{Outcome}}** fields tab is where you can search for {{people}} based on t
 
 The fields in the **{{Referral}}** and **{{Grant}}** tabs work like those in the {{work}} tab, allowing you to search for {{people}} involved in a {{referral}} or {{grant}} record respectively. 
 
-**{{Cases}}**:  This tab allows you to create a list of {{people}} who are involved in a particular case by case name, category or within a given timeframe.
+**{{Case}}s**:  This tab allows you to create a list of {{people}} who are involved in a particular case by case name, category or within a given timeframe.
 
 When you have added all criteria, click the 'save' button in the bottom-right.
 
