@@ -2,7 +2,7 @@
 
 > System administrators and managers can archive a profile once it is no longer active and you don't need to add information to it or amend information that is already in it
 
-Archiving is straightforward and reversable. When a profile is archived, it can still be counted in reports (if the ‘Include archived profiles?’ field is selected on the report filters page - for more on this see XXXXXXXXXXXX), but will not be included in {{Groups}}. The profile itself will not be visible and it cannot be searched for using the search box at the top right of the page. 
+Archiving is straightforward and reversable. When a profile is archived, it can still be counted in reports (if the ‘Include archived profiles?’ field is selected on the report filters page - for more on this see XXXXXXXXXXXX), but will not be included in {{group}}s. The profile itself will not be visible and it cannot be searched for using the search box at the top right of the page. 
 
 **Archiving a profile**
 
