@@ -28,10 +28,10 @@ And when looking at a record in your diary, it would show like this:
    If you want this information to show in the diary, you will need to ensure you are recording it in your work records. For the most part you won’t need to change this.
 
 
-- **{{Group}} data view to use on my users home page tab**
+- **{{Group}} data view to use on my {{user}}s home page tab**
 
-   Use this drop-down list to select a {{group}} data view you would like to apply on your ‘My {{Users}}’ home page tab. This will customise the information that appears in the table of that tab, so you can choose what data you it would be useful for you to see there. 
-   For example, if you have a data view showing address details, and choose to use that to view your ‘my users’ table, it would look something like this:
+   Use this drop-down list to select a {{group}} data view you would like to apply on your ‘My {{User}}s’ home page tab. This will customise the information that appears in the table of that tab, so you can choose what data you it would be useful for you to see there. 
+   For example, if you have a data view showing address details, and choose to use that to view your ‘my {{user}}s’ table, it would look something like this:
 
    xxxxxx Picture here xxxxxx
 
@@ -62,15 +62,15 @@ And when looking at a record in your diary, it would show like this:
    After you have saved changes to this option, refresh your browser for the changes to take effect.
 
 
-- **Show {{case}} options on context menus**
+- **Show {{linked case}} options on context menus**
 
-   You may use {{case}}s in your work. 
+   You may use {{linked case}}s in your work. 
 
-   If you do not choose to show {{case}} options on context menus, then when you are viewing the menu for a {{work}} record your options will look like this:
+   If you do not choose to show {{linked case}} options on context menus, then when you are viewing the menu for a {{work}} record your options will look like this:
 
    xxxxxx Picture here xxxxxx
 
-   If you select this option your menu will also display options related to {{case}}s, as shown below: 
+   If you select this option your menu will also display options related to {{linked case}}s, as shown below: 
 
    xxxxxx Picture here xxxxxx
 
@@ -95,7 +95,7 @@ And when looking at a record in your diary, it would show like this:
 
 - **Use tabs on forms**
 
-   By default, {{Lamplight}} shows forms such as {{work}}, {{referral}} and {{outcomes}} records split into separate tabs. If you untick this box, when you go to enter a new {{work}} record, instead of seeing it across a number of tabs it will appear as one long form.
+   By default, {{Lamplight}} shows forms such as {{work}}, {{referral}} and {{outcome}}s records split into separate tabs. If you untick this box, when you go to enter a new {{work}} record, instead of seeing it across a number of tabs it will appear as one long form.
 With this box checked your {{work}} record appears like this:
 
    xxxxxx Picture here xxxxxx
