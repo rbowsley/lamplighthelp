@@ -53,7 +53,7 @@ xxxxxx Picture here xxxxxx
 
    **View Mailchimp Status**
    
-   - If you have the {{Comm}}s Module and your {{Lampglight}} is linked to Mailchimp, it is possible to communicate with people on the {{waiting list}} through Mailchimp. See XXXXXXXXXXXX.
+   - If you have the {{Comm}}s Module and your {{Lamplight}} is linked to Mailchimp, it is possible to communicate with people on the {{waiting list}} through Mailchimp. See XXXXXXXXXXXX.
    
    **Communicate**
    
