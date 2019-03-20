@@ -21,7 +21,7 @@ The dialogue box will ask you to add in more details about your upload:
 •	Web address: for when you are adding media from the internet. The address must include http://
 •	Category: these are set up by your administrator (for more information on this see.......). Once the record is added they can be used to search for different categories of media.
 •	Select file: browse your computer for the appropriate file.
-•	Add to search index: by ticking this box you are asking {{Lamplight}} to index this new record so that you can search for it using the top search box. If you do this, {{Lamplight}} will try to open the file and read its contents, then add these, plus the file name and description, to the search index. To search in the top-right search bar you will need to put in the term you're searching for and then press 'Go'. {{Lampglight}} will search for indexed files match your search term.
+•	Add to search index: by ticking this box you are asking {{Lamplight}} to index this new record so that you can search for it using the top search box. If you do this, {{Lamplight}} will try to open the file and read its contents, then add these, plus the file name and description, to the search index. To search in the top-right search bar you will need to put in the term you're searching for and then press 'Go'. {{Lamplight}} will search for indexed files match your search term.
  
 When you have finished your upload, the media tab will show thumbnails of all of your files or links.
 
