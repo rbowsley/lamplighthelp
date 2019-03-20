@@ -1,6 +1,6 @@
-#    13.5.0 {{Referral}} {{Reports}}
+#    13.5.0 {{Referral}} {{Report}}s
 
->{{Referral}}{{reports}} allow you to count and summarise {{referral}}s within specific timeframes
+>{{Referral}}{{report}}s allow you to count and summarise {{referral}}s within specific timeframes
 
 
 {{Referral}} {{report}}s collate information captured within {{referral}} records, and information collected about those involved in the {{referral}}s can be used to add additional {{report}} presentation options. 
