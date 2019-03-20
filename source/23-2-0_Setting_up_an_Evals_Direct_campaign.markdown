@@ -43,6 +43,6 @@ Before you start, you will need the {{Eval}}s and {{Eval}}s Direct modules enabl
 Further reading
 * [({{Eval}}s overview 15.0.0)](/help/index/p/15.0.0)
 * [(Creating an {{eval}} 15.1.1)(/help/index/p/15.1.1)
-* [Viewing {{eval data}} 15.1.2)(/help/index/p/15.1.2)
+* [Viewing {{eval}} data 15.1.2)(/help/index/p/15.1.2)
 * [{{eval}} reporting 17.5.0)(/help/index/p/17.5.0)
 
