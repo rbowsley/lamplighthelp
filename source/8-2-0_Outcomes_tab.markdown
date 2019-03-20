@@ -16,11 +16,11 @@ The 'data-entry' table lists all the {{outcome}}s down the right, and then month
 
 The table view at the bottom of the page shows the date of the {{outcome}}, a summary of the result, and the {{linked case}}s it is attached to are displayed in the table.
 
-The order in which the records are displayed can be changed by clicking on the column headings. The default setting for viewing outcomes is 5 to a page but more or less can be viewed at once by choosing an option from the select box. Alternatively you can use the numbers to move through the records.
+The order in which the records are displayed can be changed by clicking on the column headings. The default setting for viewing {{outcome}}s is 5 to a page but more or less can be viewed at once by choosing an option from the select box. Alternatively you can use the numbers to move through the records.
 
-To add new outcomes click on the Add button on the right hand side of the screen.
+To add new {{outcome}}s click on the Add button on the right hand side of the screen.
 
-For more on outcomes see section [11.0.0  {{Outcome}}s - overview](/help/index/p/11.0.0) .
+For more on {{outcome}}s see section [11.0.0  {{Outcome}}s - overview](/help/index/p/11.0.0) .
 
 Right clicking on a row of the {{outcome}} table will give you a range of options:
 
@@ -34,9 +34,9 @@ Right clicking on a row of the {{outcome}} table will give you a range of option
    * Close {{linked case}} - flags the {{linked case}} as closed
   * Re open {{linked case}} - will open a {{linked case}} that has previously been closed. 
  * View {{linked case}} details - takes you to a screen to see the details of the {{linked case}} itself.
- * Edit {{link case}} allows you to edit the details of the {{linked case}} itself.
+ * Edit {{linked case}} allows you to edit the details of the {{linked case}} itself.
  
- * Communicate - will show if you have the {{comm}}s module, and allow you to communicate with the person whose {{outcomes}}'s are being recorded.
+ * Communicate - will show if you have the {{comm}}s module, and allow you to communicate with the person whose {{outcome}}s are being recorded.
  
 ###### core module
 
