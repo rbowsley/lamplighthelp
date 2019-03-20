@@ -1,8 +1,8 @@
-# 5.6.1    Archiving profiles
+# 5.6.1 Archiving Profiles
 
 > You are likely to archive profiles when {{people}} have stopped using your service day to day so you don't need to update their data or add new records, but you still want to include them in reports
 
-When you archive a profile, any {{person}} or {{org}} that has been involved in work can still be counted in report, and it is possible to set up {{groups}} showing details of archived profiles. The archived {{person}} or {{organisation}} will not be found if you use the search box at the top right of your {{Lamplight}} screen however. 
+When you archive a profile, any {{person}} or {{org}} that has been involved in work can still be counted in report, and it is possible to set up {{group}}s showing details of archived profiles. The archived {{person}} or {{organisation}} will not be found if you use the search box at the top right of your {{Lamplight}} screen however. 
 
 **Archiving**
 To archive a profile you will need to have manager level access to the system or above. Search for the profile that you want to archive and at the top right of the page, under the menu bar, click the archive button.  
