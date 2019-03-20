@@ -5,9 +5,9 @@
 
 ### Profiles
 
-- **Do you want to keep service user names anonymously?**   
+- **Do you want to keep {{user}} names anonymously?**   
 
-   If this option is not enabled, the name is a required field for creating a service user profile. With this option enabled, service user profiles can be created without entering a name. Profiles can be identified by their lamplight ID numbers, which are automatically assigned. They can still be created with names as well, so it is possible to have a mixture of profiles that are and are not anonymous.
+   If this option is not enabled, the name is a required field for creating a {{user}} profile. With this option enabled, {{user}} profiles can be created without entering a name. Profiles can be identified by their lamplight ID numbers, which are automatically assigned. They can still be created with names as well, so it is possible to have a mixture of profiles that are and are not anonymous.
 
 - **Do you want to store middle names?**   
 
@@ -15,7 +15,7 @@
 
 - **Do you want to be able to store details of relationships between different {{people}}?** 
 
-   This option enables profiles to be linked by relationship. For more information on relationships in Lamplight, see the Appendix at the end of this guide.
+   This option enables profiles to be linked by relationship. For more information on relationships in {{Lamplight}}, see the Appendix at the end of this guide.
 
 - **Should the "default contact" box be ticked by default?**   
 
@@ -31,7 +31,7 @@
 
 - **Do you want to be able to add new profiles from the relations tab?**   
 
-   This option enables you to create profiles using the ‘Find {{people}}’ box when adding relationships to profiles. If the desired profile does not exist, it will be created using just the name you entered the box. You will need to navigate to the profile afterwards to update the profile with other details. It will automatically have been created as a {{person}} who is a ‘service user’, or the equivalent in your system.
+   This option enables you to create profiles using the ‘Find {{people}}’ box when adding relationships to profiles. If the desired profile does not exist, it will be created using just the name you entered the box. You will need to navigate to the profile afterwards to update the profile with other details. It will automatically have been created as a {{person}} who is a {{user}}.
 
 
    If this option is enabled and you go to create a profile in this way, you will be presented with a message letting you know that you are about to create such a profile.
