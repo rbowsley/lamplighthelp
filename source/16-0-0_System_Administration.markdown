@@ -12,7 +12,7 @@ The main functions that an administrator can perform are:
 - adding to or changing the drop-down lists that appear in {{Lamplight}} in profiles and records
 - creating new custom tabs and fields on profiles and records
 - setting login and password policies for users
-- turning features - such as {{message}}s and {{case}}s - on and off in global settings
+- turning features - such as {{message}}s and {{linked case}}s - on and off in global settings
 - creating report and {{activity}}s templates that are available to all users
 - uploading profile data
 - merging and permanently deleting profiles.
