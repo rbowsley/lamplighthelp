@@ -4,7 +4,7 @@
 
 The date and {{workarea}} fields on the when and where tab are required. Many organisations will be able to simply ignore the time for the purposes of outcome records.
 
-When selecting a {{workarea}}, you must select one {{workarea}}, and any number of {{subworkarea}}s. To add a {{workarea}}, click on the appropriate radio button / {{work area}}
+When selecting a {{workarea}}, you must select one {{workarea}}, and any number of {{subworkarea}}s. To add a {{workarea}}, click on the appropriate radio button / {{workarea}}
 
 ![Adding an {{outcome}} record {{workarea}}- when and where](1208a.png)
 
