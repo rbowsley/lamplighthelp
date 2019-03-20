@@ -21,7 +21,7 @@ The table below gives details of how you can use each type of field to report on
 PICTURES?
 
 
-| Field name | Description |For filtering reports | For presenting reports | For creating {{groups}} | As a {{group dataview}} column |
+| Field name | Description |For filtering reports | For presenting reports | For creating {{group}}s | As a {{group}} data view column |
 | :--------- | :---------- | :------------------- | :--------------------- | :---------------------- | :----------------------------- |
 | Select box | A drop-down list of options which operators will be able to choose one of | Yes | Yes | Yes | Yes |
 | Multi-select box | A drop-down list of options from which operators select as many as apply | Yes | Yes | Yes | Yes| 
