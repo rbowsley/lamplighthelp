@@ -6,7 +6,7 @@ CHECK CAREFULLY - NEEDS WORK ON TYPES OF FIELD AND REPORTING
 
 The other option you'll see in '{{Work}} record custom tabs and fields' is 'view and edit custom columns on the attendance table'.  
 
-If you look at the {{Attendance}} tab in a {{Work}} record you will see the attendance table. There are a number of columns, including name, attendance type, and role.  It's possible to add additional custom columns here (you may already have some.)
+If you look at the Attendance tab in a {{Work}} record you will see the attendance table. There are a number of columns, including name, attendance type, and role.  It's possible to add additional custom columns here (you may already have some.)
 
 **Adding a new column**
 
