@@ -1,6 +1,6 @@
-# 51.1.0 The Homepage and Diary
+# 51.1.0 The Home Page and Diary
 
-> These videos will give you an introduction to the Lamplight homepage, navigating around the system and searching for specific information. They also look at how the diary works, and other tabs on the Lamplight homepage
+> These videos will give you an introduction to the Lamplight home page, navigating around the system and searching for specific information. They also look at how the diary works, and other tabs on the Lamplight home page
 
 There are two videos in this section:
 
