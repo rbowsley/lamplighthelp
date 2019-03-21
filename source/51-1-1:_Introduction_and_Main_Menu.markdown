@@ -17,7 +17,7 @@ In the next video we’ll look at the home page tabs and the diary tabs, and how
 
 First, we’ll look at the main menu.
 
-#### Main Menu
+### Main Menu
 
 The main menu bar shows you the different sections in your {{Lamplight}} system.  This is the coloured bar towards the top of the screen, in our system it’s green. You’ll see the options we have are Home, {{People}}, {{Work}}/{{Activity}}, {{Group}}s, {{Report}}s and Admin.  In your own system, although the names may be different, they will still do the same thing.  The most common change is for {{group}}s to be renamed ‘Lists’.  
 
@@ -29,7 +29,7 @@ Why not pause the video, and take a moment to try this in your system?
 
 Once you have tried it, click on the ‘Home’ option in the main menu at the top of the screen to bring you back to your home page.  These menu options are always found at the top of the screen whatever you’re doing and are your key method of navigating.
 
-#### Searching
+### Searching
 
 At the very top right of the {{Lamplight}} screen you’ll see a grey search box with 'search profiles or help' written in it.  A profile is the individual entry for any {{person}} or {{org}} you know and have entered into into {{Lamplight}}.  This search box is the easiest way to find a profile, or to get help.
 
