@@ -16,7 +16,7 @@ These tabs are unique to your system and contain information that your organisat
 
 We have a few tabs in this system, containing examples of the types of fields you might come across. I’ll show you some now, and then I’ll ask you to try them in your system.
 
-#### Personal and Other Tabs
+### Personal and Other Tabs
 
 As well as simple text fields (which we saw in the contact details tab) we have many other options for entering data. We’ll start with our custom tab called ‘Personal’. You may well have one of the same name, but the contents will differ.
 Click the ‘Edit tab’ button to the right. You’ll see we have various fields in which to enter data.
@@ -59,7 +59,7 @@ To show you this, I’ll navigate to the profile of a {{funder}} using the searc
 
    Populate the fields, click ‘Save’, and when the tab reloads, you’ll see the data in their own row in the table. To add another set of information, repeat this process. Each time a new row will be created, and you can add more as needed.
 
-#### Next Tabs
+### Next Tabs
 
 Now you’ve seen the types of fields available in {{Lamplight}}, take some time to explore your custom tabs. If you’ve been following along with this video series, complete the custom tabs in the {{user}} profile you created in video 2.1. When you reach a tab called {{Message}}s, {{Waiting List}}s, or {{Referral}}s, stop. We’ll cover these in a different video.
 
