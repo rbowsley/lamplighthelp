@@ -12,7 +12,7 @@ Whenever you enter a record, you always use the first three tabs in the record, 
 
 A quick reminder that you may have additional custom fields on any of your tabs that we don’t have.  A custom field is one created uniquely for your organisation, and so we can’t show the ones that you have in this video, though we’ll demonstrate some examples.  Speak to your system administrator or implementer if you have a question about these.
 
-#### When and Where
+### When and Where
 
 We start with the time and date.  For most organisations the time of your {{referral}} won’t matter, so you can ignore it.  The date shows by default as the day that you are adding it, and you can change this if needed.  If you have a ‘Date to’ field, the second date will normally be the same as the first.
 
@@ -22,11 +22,11 @@ We start with the time and date.  For most organisations the time of your {{refe
    
 If you use locations you can also select a location here, although it’s not required.
 
-#### Switching Tabs
+### Switching Tabs
 
 To move to the next tab, either click the ‘Next’ button in the bottom right, or at the top of the section select the next tab along. A quick tip, if you click the ‘Next’ button and see a blank screen, try scrolling up!
 
-#### Attendance
+### Attendance
 
 Your next tab may be called ‘Attendance’ or may use a simpler version called ‘Involving’.  Both tabs do the same job, allowing you to record who is involved in the {{referral}}.  In the same way as relationships, you can only add in profiles which are already in the system.
 
@@ -43,13 +43,13 @@ Of course, if you are recording a {{referral}} out, some of these roles will be 
 
 Once you’ve entered the records check that each profile is shown as attending in the right capacity, by looking at the ‘role’ column in the attendance table.  You can change the role by left clicking on the name of the role in the table (for example {{user}} referred), and then clicking again to access the drop-down list and choosing a new option.
 
-#### Involving
+### Involving
 
 If your tab is called ‘Involving’ instead of ‘Attendance’ then you have a simple version of recording who is involved in {{referral}}s.  You have a field or search box for each of the different roles: the person being referred, the referrer, and who they are being referred to.  Simply start to enter the appropriate profile names in each search box, and then choose the name you are looking for from the drop-down list that appears.
 
 Now we’ll move to the next tab.
 
-#### Details
+### Details
 
 The third tab is the ‘Details’ tab.   As you would expect, we use this to record the detail of the {{referral}}.  Let’s look through the fields.
 - {{Referral}} direction: This field records whether the {{referral}} is being made in to you, out to another organisation, or is an internal {{referral}}.  Recording this is often very important for your reporting.
