@@ -1,4 +1,4 @@
-# 5.5.0 Videos
+# 50.0.0 Videos
 
 > {{Lamplight}} offers a number of videos which cover basic training, as well as providing guidance on how to do some reporting and system administration tasks
 
