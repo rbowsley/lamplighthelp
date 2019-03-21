@@ -7,7 +7,7 @@
 
 > Script
 
-Hello everyone, this is Steve from Lamplight.  Welcome to {{Lamplight}} basic training starting with introductions to the main menu, homepage and diary.
+Hello everyone, this is Steve from Lamplight.  Welcome to {{Lamplight}} basic training starting with introductions to the main menu, home page and diary.
 
 This short video is an introduction to the main menu and search function.
 
@@ -39,7 +39,7 @@ You can also run a full search by pressing the ‘Go’ button. This runs a full
 
 You can also search for help.  Pop your query in the search box and hit the ‘Help’ button.  You’ll be taken to a new window with a list of search results.  From this page you can also see the contents of the whole help manual and download it if you want to.
 
-We suggest you take a short while to repeat what you’ve learned in your own system, referring back to this video if useful. Keep rolling for an introduction to the diary and homepage, otherwise thanks for taking this training video.
+We suggest you take a short while to repeat what you’ve learned in your own system, referring back to this video if useful. Keep rolling for an introduction to the diary and home page, otherwise thanks for taking this training video.
 
 
 ##### No Manual
