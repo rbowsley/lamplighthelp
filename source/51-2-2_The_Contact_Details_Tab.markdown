@@ -15,7 +15,7 @@ As you can see, we’re now looking at someone’s profile.
 You can as always see the main menu at the top of the page. Below this is the name of the profile, and a row of profile tabs.
 The tab we’ll look at first is the ‘Contact details’ tab, which is the one you’ll see first in many systems. If it isn’t in yours, click where it says ‘Contact details’ to view it.
 
-#### Contact Details
+### Contact Details
 
 The ‘Contact details’ tab is a standard one, found in all systems. In yours it could have been renamed, or may contain additional fields. A ‘field’ is a box where you can enter information. To the right of the page, you’ll see the ‘Edit address’ button. Clicking it will allow you to edit the address section of this tab. Let’s do that now.
 
@@ -30,13 +30,13 @@ Once you save, you’ll see the information you entered.
 
 There are a couple of useful extras in this view, in the form of links. The ‘view map’ button next to the postcode will open a new tab, showing that postcode in Google Maps. The ‘send’ button will open a new email to them in your default email programme if this has been set up on your computer. The ‘visit’ button will take you to their website.
 
-#### Contact Permissions
+### Contact Permissions
 
 When you have completed and saved the address details, you will need to click on the ‘Contact details’ tab again to reload it. Now when you scroll down, you’ll see two other sections.
 
 The ‘Contact permissions’ section shows whether or not you have permission to contact the {{person}} or {{org}}. If ‘Allow email’ is set to ‘No’, then {{Lamplight}} will not send email to them, even if you have added them to a mailing list. You can edit this section using the ‘edit’ button on the right, then saving in the same way.
 
-#### Profile Roles
+### Profile Roles
 
 The final section is ‘Role - main relationship(s) to you’. These are the different roles a {{person}} can have in {{Lamplight}}, and they reflect the types we saw when we created the profile.
 
