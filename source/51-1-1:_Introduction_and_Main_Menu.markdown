@@ -1,4 +1,4 @@
-# 51.1.1 Basic Training: Introduction and Main Menu
+# 51.1.1 Introduction and Main Menu
 
 > This video introduces you to finding your way around Lamplight using the main menu and search functions
 
