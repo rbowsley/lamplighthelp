@@ -12,7 +12,7 @@ This short video is an introduction to the concept of {{referral}}s.
 
 You can download a transcript of these videos if it’s helpful for you and can read along.  You can pause the video at any time and try what we’ve done in your own system or our test system.  We’d encourage you to do this regularly during the video – after all you can pause as often as you like.  We’ve found practice and building muscle memory are by far the best ways of learning.
 
-#### Referrals
+### Referrals
 
 If you’re adding information into {{Lamplight}}, there are really only two different types of page you’ll see.  Once you’ve experienced both of these, everything else will look quite familiar.  The first type is the demographic type profile tab, and the second is activity type record.  These are things that happen, which is to say, the {{work}} and other types of activity you do with your {{user}}s.
 
