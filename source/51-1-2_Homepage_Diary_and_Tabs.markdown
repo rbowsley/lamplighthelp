@@ -1,16 +1,16 @@
-# Homepage Diary and Tabs
+# Home Page Diary and Tabs
 
-> Staying on the homepage, this video shows different ways to view your diary and optional filters that you can apply to it. It also explains the other home page tabs
+> Staying on the home page, this video shows different ways to view your diary and optional filters that you can apply to it. It also explains the other home page tabs
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/281952413" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 
 > Script
 
-Welcome to an introduction to the homepage and diary. This is video 2 of 2 of the Introduction to Lamplight group.
-Let’s look at your homepage.
+Welcome to an introduction to the home page and diary. This is video 2 of 2 of the Introduction to Lamplight group.
+Let’s look at your home page.
 
-On many pages within the system there is a secondary menu, which we refer to as ‘tabs’ or the ‘tab menu’. You’ll see this on the homepage, underneath the words ‘Welcome to {{Lamplight}}’. You’ll see a number of different tabs depending on your system set-up, and each of these has different information.  These may include ‘My Diary’, ‘Diary’, ‘My {{user}}s’, ‘My {{message}}s’, and ‘Recently viewed profiles’.  You can choose which tab appears first on your homepage, and we’ll show you how to change this at the end of the video.
+On many pages within the system there is a secondary menu, which we refer to as ‘tabs’ or the ‘tab menu’. You’ll see this on the home page, underneath the words ‘Welcome to {{Lamplight}}’. You’ll see a number of different tabs depending on your system set-up, and each of these has different information.  These may include ‘My Diary’, ‘Diary’, ‘My {{user}}s’, ‘My {{message}}s’, and ‘Recently viewed profiles’.  You can choose which tab appears first on your home page, and we’ll show you how to change this at the end of the video.
 Let’s look at each of these now.
 
 #### My Diary
@@ -58,7 +58,7 @@ It’s possible to choose which tabs you see on your home page, and to choose th
 
 What you can see on the next screen will depend on what level of access you have to the system, but everyone will have a section which says 'Customise {{Lamplight}}'.  Once you've found that box, select 'change my personal settings'.  The page you see here has lots of different options for customising how you see {{Lamplight}}.  Any changes that you make here will only affect what you see, and will not affect others who use your system.  
 
-For now, all we want to change are the home page tabs, and these appear at the top of the page.  To choose which ones you would like to see on your home page, tick the ones you want and leave any that you don't want unticked.  You can also change the order they appear in by dragging and dropping them to new positions in the list using the left mouse button.  Once you have made any changes you want, don't forget to go to the very bottom of the page to save your changes.  Saving your changes is always important in {{Lamplight}}. Click F5 to refresh your system and you’ll see the changes in your Homepage tab.
+For now, all we want to change are the home page tabs, and these appear at the top of the page.  To choose which ones you would like to see on your home page, tick the ones you want and leave any that you don't want unticked.  You can also change the order they appear in by dragging and dropping them to new positions in the list using the left mouse button.  Once you have made any changes you want, don't forget to go to the very bottom of the page to save your changes.  Saving your changes is always important in {{Lamplight}}. Click F5 to refresh your system and you’ll see the changes in your home page tab.
 
 
 If you want to you can carry on to the next set of videos about profiles, otherwise thank you very much for joining us.
