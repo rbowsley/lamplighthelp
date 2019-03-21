@@ -14,7 +14,7 @@ The first three tabs are the basis of every {{work}} record, and at this point, 
 
 We’ll save this {{work}} record by clicking ‘Save’ in the bottom-right-hand corner. It’s now shown in the table in the ‘{{Work}} records’ tab. We’ll look at how this table works in a moment, but first, we’ll create one more {{work}} record, which makes use of custom fields.
 
-#### Additional Tabs
+### Additional Tabs
 
 I’ll navigate to a {{volunteer}} profile using the search bar, and go to their ‘{{Work}} records’ tab. I’m going to create a {{work}} record for a {{volunteer}} support session we had earlier today, by clicking the ‘Add’ button.
 
@@ -36,7 +36,7 @@ It consists of a series of check-boxes with which to record the topics we covere
 
 I’ll complete the tab, and once I’ve finished, I’ll click ‘Save’.
 
-#### Module Tabs
+### Module Tabs
 
 You may also have a variety of tabs relating to modules in your system, such as ‘Media’, ‘Expenses’ or ‘Charging’, and you may also have a ‘Tasks’ tab. We’ll cover each of these separately.
 
