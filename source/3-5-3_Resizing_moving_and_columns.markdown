@@ -2,12 +2,15 @@
 
 > You can change the way a table looks by changing the size of columns, and show or hide different columns
 
+### Resizing Columns
+
 All columns can be resized. On the column headers, hover over the dividing line between one column and the next. You will see the cursor change to a left-right resize icon:
 
 ![Resizing table columns](18a.jpg)
 
 Click and drag the column to change its width. 
 
+### Selecting Columns to View
 
 Many tables in {{Lamplight}} have columns which are hidden. When you right click on the coloured header row of the table you will see a list of all the available columns you can view. You can tick and untick by each one (you will need to do this one at a time) to choose the information you would like to view in your table. This enables you to select appropriate information to download if required (see section [3.5.4  Downloading tables](/help/index/p/3.5.4)). 
 
