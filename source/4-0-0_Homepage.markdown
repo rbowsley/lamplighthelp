@@ -1,8 +1,8 @@
-# 4.0.0    Homepage
+# 4.0.0 The Home Page
 
-> The home page is the first page you reach after logging in, and can be reached by clicking 'home' on the main menu at any time. 
+> The home page is the first page you see after logging in, and can be reached by clicking 'home' on the main menu at any time 
 
-You can customise that tabs that appear on your homepage (without affecting other system operators) via the Admin section - see section [18.12.0  My personal settings - customising {{Lamplight}}](/help/index/p/18.12.0) for more information. 
+You can customise the tabs that appear on your home page (without affecting other system operators) in System Administration - see section [16.4.1  Personal Settings - Logging In and General Settings](/help/index/p/16.4.1) for more information. 
 
 ###### core module
 
