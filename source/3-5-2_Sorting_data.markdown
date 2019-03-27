@@ -6,6 +6,12 @@ To sort the information by a table column, for example date, click in the colour
 
 ![Sorting data in a table](17a.png) 
 
+There is more information on this in our video, 'How to Filter your Records'.
+
+<iframe width="640" height="564" src="https://player.vimeo.com/video/279243736" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+
+##### Tags
+Next steps
 
 ###### core module
 
