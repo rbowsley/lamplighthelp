@@ -8,7 +8,7 @@ To add a new profile, go to the top menu bar, click on '{{People}}' and select '
 
 At this point you will see one of two things. 
 
-- A drop-down menu asking you to choose the type of {{person}} you wish to create - (see [5.1.0  {{Profiles}}](/help/index/p/5.1.0) for more information about these roles. 
+- A drop-down menu asking you to choose the type of {{person}} you wish to create - (see [5.1.0  {{Profiles}}](/help/index/p/5.1.0) for more information about these roles.) 
 
 ![Add new {{person}} through dropdown menu](1200a.png)
 
@@ -37,6 +37,10 @@ Along from their name is a series of buttons; 'Print', 'Restrict Processing', 'A
 - Restricted processing: When a {{person}} requests that you restrict the processing of their data (under the GDPR), you can add restricted processing to a profile so that you can't edit it, and it will not be included in any reporting.
 - Archive: will remove the profile from the active system, and archive it so it will not appear in day to day use. It can still be retrieved if needed, and can also be included in reports. For more on this see [16.8.2 Archiving Profiles](/help/index/p/16.8.2).
 - Edit name: will open up a form so that you can edit the name and type of profile. 
+
+If you would like to see how this is done, we have a vidoe, 'Creating a Profile'.
+
+<iframe width="640" height="564" src="https://player.vimeo.com/video/279238826" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 
 ###### core module
