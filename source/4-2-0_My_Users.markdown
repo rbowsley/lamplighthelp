@@ -19,8 +19,16 @@ Once the tab is visible and a relationship has been created, you can use the tab
  - Communicate - opens a new {{comm}} page where you can send an email, text or write a letter (you will only see this if you have the {{Comm}}s Module).
  - Copy address from.... - It is unlikely that you will need to use this when looking in the My {{user}}s tab, as it will copies the address details of this {{user}}, {{contact}} or {{funder}} into the Contact Details tab on your own profile, replacing your current details. It is not possible to undo this action. 
  
- You can also customise what columns you see in the table in the 'My {{user}}s' tab using a {{group}} data view. For more on using data views in this way, see [16.4.2 Personal Settings - Profiles](/help/index/p/16.4.2)
-  
+You can also customise what columns you see in the table in the 'My {{user}}s' tab using a {{group}} data view. For more on using data views in this way, see [16.4.2 Personal Settings - Profiles](/help/index/p/16.4.2).
+
+If you would like to see more about this, you can watch our video 'Home Page Diary and Tabs'.
+
+<iframe width="640" height="564" src="https://player.vimeo.com/video/281952413" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+ 
+
+##### Tags
+Time saving tips
+Next steps
 
 ###### core module
 
