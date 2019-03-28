@@ -25,6 +25,8 @@ Whichever of these you see, the details page will be where you add the basic inf
 
 - There may be some more information that you have to provide. This depends on whether your organisation has chosen to make it a requirement to include certain information in a profile (for example, an individual's permission to store their data.)
 
+- If you have multiple projects in your system, you may also be asked to choose a project-sharing policy. Ask your Project Administrator about this if you’re uncertain. If you need to continue at this point, click ‘no sharing’, which can be updated later. 
+
 - Save the profile by clicking the save button at the bottom right hand corner of the screen.
 
 You will now see the profile page for the {{person}} you have just entered. (If you get a pop-up box which tells you that you may be about to create duplicates, see the next page [5.2.1 Creating Duplicate Profiles](/help/index/p/5.2.1).)
