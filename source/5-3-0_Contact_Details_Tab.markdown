@@ -1,6 +1,6 @@
-# 5-3-0    Contact Details Tab
+# 5-3-0 The Contact Details Tab
 
-> To add address and other contact details, click 'edit address' on the contact tab. 
+> To add address and other contact details, click 'edit address' on the contact tab
 
 The new profile is blank except for the name you have entered. To add contact information click edit on the contact details tab. 
 
