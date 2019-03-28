@@ -1,38 +1,42 @@
-# 5.2.0    Adding a profile
+# 5.2.0 Adding a Profile
 
-> To add a new profile for a {{person}}, click '{{people}} -> add new' on the main menu. 
+> To add a new profile for a {{person}} or {{org}}, click '{{people}} -> add new' on the main menu
 
-To add a new profile move your mouse up to the menu bar to the {{People}} option and select Add from the sub menu that appears.
-
-At this point your system may function in one of two ways.  In many systems, you will see a drop-down menu, asking you to choose the type of {{person}} you wish to create - see [3.1.0  {{People}}](/help/index/p/3.1.0) for more information about these roles. 
-
-![Add new {{person}} through dropdown menu](1200a.png}
-
-Alternativly, it will take you straight to the page to add a {{person}}, and you'll be able to choose the type of {{person}} at the bototm of this page as shown below. 
+To add a new profile, go to the top menu bar, click on '{{People}}' and select 'Add' from the sub menu that appears.
 
 ![Add new {{person}} on the main menu](45a.png)
 
-You will then see a page on which to add the basic information about that individual or organisation.
+At this point you will see one of two things. 
+
+- A drop-down menu asking you to choose the type of {{person}} you wish to create - (see [5.1.0  {{Profiles}}](/help/index/p/5.1.0) for more information about these roles. 
+
+![Add new {{person}} through dropdown menu](1200a.png)
+
+- Or the page where you will add details of the {{person}} or {{org}}. You'll be able to choose the type of {{person}} at the top of this page, and their role at the bottom, as shown below. 
 
 ![Adding a new {{person}}](45b.png)
 
-All profiles, whether they are for {{user}}s, {{staff}}, {{funder}}s, {{org}}s or {{contact}}s start from the same initial input page. However, they must be either a person or an organisation (you may also have 'family' as an option): select which using the 'Type' options.
+Whichever of these you see, the details page will be where you add the basic information about that individual or organisation.
 
-If you are entering a {{person}} you will see input boxes for title, first name, surname and suffix. (Titles and Suffixes will be available if your system administrator has added them in the system administration section). If you are entering an organisation you will see an input box for the organisation name.
 
-Once you have entered the name of the {{person}}, if you did not so so thought the main manu, you'll have the option to select what kind of profile you are creating - see [3.1.0  {{People}}](/help/index/p/3.1.0) for more information about these roles. 
+- All profiles, whether they are for {{user}}s, {{staff}}, {{funder}}s, {{org}}s or {{contact}}s start from the same initial input page. However, they must be either a {{person}} or an {{org}} (you may also have '{{family}}' as an option): select which using the 'Type' options.
 
-Save the profile by clicking the save button at the bottom right hand corner of the screen.
+- If you are entering a {{person}} you will see input boxes for title, first name, surname and suffix. (Titles and suffixes will be available if your System Administrator has added them in the 'system administration' section). If you are entering an {{org}} you will see an input box for the {{org}} name.
 
-You will now see the profile page for the {{person}} you have just entered (see section [8.3.0  Profiles](/help/index/p/8.3.0) ). 
+- There may be some more information that you have to provide. This depends on whether your organisation has chosen to make it a requirement to include certain information in a profile (for example, an individual's permission to store their data.)
 
-Along from their name is a series of buttons; print, delete and edit name
+- Save the profile by clicking the save button at the bottom right hand corner of the screen.
+
+You will now see the profile page for the {{person}} you have just entered. (If you get a pop-up box which tells you that you may be about to create duplicates, see the next page [5.2.1 Creating Duplicate Profiles](/help/index/p/5.2.1).)
 
 ![The newly added profile](45c.png)
 
-  * Print: will open up a new tab in your web browser with their profile information for you to choose which tabs of information you wish to print.
-  * Delete: will delete their profile from view, and archive it so it will not appear in day to day use (but can be retrieved if needed).
-  * Edit name: will open up a form so that you can edit the name and type of profile. 
+Along from their name is a series of buttons; 'Print', 'Restrict Processing', 'Archive' and 'Edit name'.
+
+- Print: will open up a new tab in your web browser with their profile information for you to choose which tabs of information you wish to print.
+- Restricted processing: When a {{person}} requests that you restrict the processing of their data (under the GDPR), you can add restricted processing to a profile so that you can't edit it, and it will not be included in any reporting.
+- Archive: will remove the profile from the active system, and archive it so it will not appear in day to day use. It can still be retrieved if needed, and can also be included in reports. For more on this see [16.8.2 Archiving Profiles](/help/index/p/16.8.2).
+- Edit name: will open up a form so that you can edit the name and type of profile. 
 
 
 ###### core module
