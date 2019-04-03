@@ -1,4 +1,4 @@
-#  5.6.3 Restricted Processing of Profiles
+#  16.8.4 Restricted Processing of Profiles
 
 > If a {{person}} requests that processing of their data is restricted, it is possible to ensure this in Lamplight.
 
