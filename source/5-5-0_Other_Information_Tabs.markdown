@@ -17,7 +17,7 @@ There are a number of different types of field:
 - Number box - {{Lamplight}} will only accept numbers in this box - no text, spaces or other characters.
 - Charity number look-up - allows the charity number of an organisation to be entered, along with a link to their page on the Charity Commission web-site.
 
-If the option you need is not there, speak to your system administrator about what needs to be added. If you have the appropriate permission levels, see section [16.7.2 Adding Custome Tabs and Fields in Profiles](/help/index/p/16.7.2). 
+If the option you need is not there, speak to your System Administrator about what needs to be added. If you have the appropriate permission levels, see section [16.7.2 Adding Custome Tabs and Fields in Profiles](/help/index/p/16.7.2). 
 
 You can edit a number of the fields in each tab at the same time. To do this, click on 'Edit tab' to the right of the page. Click on 'Save' at the bottom right of the page when you have finished. 
 
