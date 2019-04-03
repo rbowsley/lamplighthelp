@@ -6,6 +6,8 @@ All {{report}}s have the same set of filters initially, shown below:
 
 ![{{Report}} filters](1216a.png)
 
+TODO
+
 The date from and date to fields will show records dated between these two dates, including the dates selected.
 
 The {{workarea}} button allows you to filter for particular {{workarea}}s, or {{subworkarea}}s.
@@ -25,7 +27,8 @@ The role filter will filter based on how the person attended the activity, for e
 Profile type drop-down option allows you to filter by {{person}}, {{organisation}} or {{family}} profiles (if they have been enabled by your system administrator). 
 'Include information about linked profiles' will information about attendees enter via default relationships (For example, entered in the attendance table as {{person}} 1, {{person}} 2).
 You can also choose to exclude anonymous attendees from your {{report}}s.  This may be useful when reporting on particular activities, and can also be useful when troubleshooting reports, where you are seeking to understand how many of the ‘unknown’ breakdown results are from anonymous users, and how many have simply not been entered.
-
+ 
+ xxxxxx Add archived profiles filter xxxxxxx
 
 ###### core module
 
