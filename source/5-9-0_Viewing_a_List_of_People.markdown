@@ -12,8 +12,8 @@ To view a list of all {{user}}s:
 - There is a search bar above the table which you can use to filter by:
   - Specific text.
   - {{People}} who are current, archived, restricted for processing and who have been added through the publishing API (you will only see this if you have Manager level of access or above).
-  - Type of profile. You can limit the list to {{people}}, {{org}}s or 
-- If you click on the menu button to the left of any of them, or right-click in a table row, the context menu come up.
+  - Type of profile. You can limit the list to {{people}}, {{org}}s or {{families}}.
+- If you click on the menu button to the left of any of the {{people}} or {{org}}s in the list, or right-click in a table row, the context menu comes up.
 
 ![Viewing People Context Menu](5.9.0a.png)
 
@@ -26,6 +26,11 @@ To view a list of all {{user}}s:
 To view other types of {{people}}, go to {{people}} -> view all-> and select the type of {{person}} you want to see:
 
 ![View all people by type](43b.png) 
+
+
+##### Tags
+Next steps
+Profile
 
 ###### core module
 
