@@ -2,6 +2,9 @@
 
 > The attendance tab stores who was involved in the {{referral}} 
 
+
+TODO xxxxxx need to put 'involving' version in here XXXXX
+
 The attendance tab records details of everyone who was involved in the {{referral}}. As well as {{user}}s, this can include {{org}}s, {{staff}}, or others - anyone with a profile in the system. Initially you will see your name as a member of {{staff}} in the list: 
 
 ![Adding {{referral}} {{people}}](194a.png)
