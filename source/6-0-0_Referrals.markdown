@@ -1,9 +1,15 @@
-# 6.0.0    {{Referral}}s
+# 6.0.0 {{Referral}}s
 
 > {{Referral}}s records contain the detail of the {{referral}}s your {{user}}s are involved in. 
 
-You can store {{referral}}s made to you, made by you, or internal {{referral}}s as required. 
+A {{referral}} record contains the detail of a {{referral}} in to or out of your organisation.  
 
+The information is added to the profiles of all involved: the referrer, the {{staff}} involved, and the {{user}}.
+
+
+##### Tags
+Getting started
+{{Activity}}
 
 ###### core module
 
