@@ -1,33 +1,40 @@
 # 16.8.2 Archiving Profiles
 
-> System administrators and managers can archive a profile once it is no longer active and you don't need to add information to it or amend information that is already in it
+> System Administrators and Managers can archive a profile once it is no longer active and you don't need to add information to it or amend information that is already in it
 
-Archiving is straightforward and reversable. When a profile is archived, it can still be counted in reports (if the ‘Include archived profiles?’ field is selected on the report filters page - for more on this see XXXXXXXXXXXX), but will not be included in {{group}}s. The profile itself will not be visible and it cannot be searched for using the search box at the top right of the page. 
+Archiving is straightforward and reversable. When a profile is archived, it can still be counted in reports (if the ‘Include archived profiles?’ field is selected on the report filters page, (for more on this see [13.1.1 Report Filters](/help/index/p/13.1.1)), and you can also run {{group}}s of archived {{people}} and {{Org}}s. The profile itself will not be visible, and it will not be found if you use the search box at the top of the screen, or search boxes for attendance tables in {{activity}} records.  
 
-**Archiving a profile**
+**Only database operators with a Manager level of access to {{Lamplight}} or above will be able to archive, find, and unarchive profiles.**
 
-- Open to the profile to be archived.
-- Click the ‘Archive’ button in the top, right-hand corner.
+### Archiving a Profile
 
-XXXXXX Picture here XXXXXX
+- Find the profile to be archived.
+- Click the ‘Archive’ button in the top right-hand corner.
 
-**Finding archived profiles
+### Finding Archived Profiles
 
 - Click {{people}} in the main menu.
 - Move your cursor over the relevant profile role and select ‘all’.
-
-XXXXXX Picture here XXXXXX
-
-- Click to expand the search bar above the table.
+- Click on the search bar above the table to expand it.
 - In the ‘Limit list to’ field, select ‘Archived {{people}}’.
 
-XXXXXX Picture here XXXXXX
+![Archived Profile Search](813a.png)
 
-**Unarchiving an archived profile**
+### Finding an Archived Profile through the Duplicate Warning
 
-- Follow the steps above to find archived profiles.
-- Locate the profile in the table and access the contextual menu (either by right-clicking anywhere in the row or left-clicking the menu button in the leftmost column).
-- Select ‘unarchive’.
+- When you create a new profile you may receive a warning of possible duplicates already on the system. Lamplight checks new profiles against those with similar names to the one you're entering, and that includes archived profiles.
+
+![Duplicate Profiles Warning](813b.png)
+
+- If you see that the profile you're adding is already on the system, click on their name in the duplicates table to open the profile. 
+- **If you do not unarchive this profile, it will be possible to add information to it (including personal information and {{activity}} records), but it will not be possible to find them again when using the search box at the top of the page. 
+
+For more on this see [5.2.1 Creating Duplicate Profiles](/help/index/p/5.2.1).
+
+### Unarchiving an archived profile
+
+- Find the archived profile (see above), and open it.
+- Click the ‘unarchive’ button to the top right of the screen. 
 
 
 ###### core module
