@@ -12,13 +12,16 @@ The first tab that you come to when creating a {{referral}} record is the 'When 
 
 **{{Workarea}}s**
 
-The {{workarea}} is a requred field, so you will need to fill one in on every record. You can only choose one {{workarea}}, and once you have done this a {{subworkarea}} menu will pop out. You can choose as many of these as you like.
+- The {{workarea}} is a requred field, so you will need to fill one in on every record. 
+- You can only choose one {{workarea}}, and once you have done this a {{subworkarea}} menu will pop out. 
+- You can choose as many of these as you like.
 
 ![The {{Referral}} Record](6.1.1a.png) 
 
 **Location**
 
-If they have been set up, you will see a list of locations below the {{workarea}}s. You can select one of these if it is relevant to your {{referral}}/organisation.
+- If they have been set up, you will see a list of locations below the {{workarea}}s.  
+- You can select one of these if it is relevant to your {{referral}}/organisation.
 
 
 If you want to see how this works in practice, you can watch our video, 'Creating a {{Referral}}.' 
