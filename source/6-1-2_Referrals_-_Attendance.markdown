@@ -1,25 +1,71 @@
-# 6.1.2    {{Referral}}s - Attendance
+# 6.1.2 {{Referral}}s - Attendance
 
-> The attendance tab stores who was involved in the {{referral}} 
+> The attendance tab is a place to record details of the {{people}} and {{org}}s involved in the {{referral}} 
 
 
-TODO xxxxxx need to put 'involving' version in here XXXXX
+There are two different ways this tab may be displayed.
 
-The attendance tab records details of everyone who was involved in the {{referral}}. As well as {{user}}s, this can include {{org}}s, {{staff}}, or others - anyone with a profile in the system. Initially you will see your name as a member of {{staff}} in the list: 
+### Attendance
+
+If the tab on your {{referral}} record shows as 'Attendance', you can include as many people as you would like in the table. As well as {{user}}s, this can include {{org}}s, {{staff}}, or others - anyone with a profile in the system. /the table looks like this: 
 
 ![Adding {{referral}} {{people}}](194a.png)
 
-To add additional {{people}}, start typing their name in the box. When you have typed at least three letters, a drop-down menu will appear showing all matches: select the name you are looking for. They will be added to the table. 
+**Adding Attendees**
+
+To add additional attendees:
+- Start typing their name in the 'search' box. 
+- When you have typed at least three letters, a drop-down menu will appear showing potential matches. 
+- If you do not see the name that you are looking for, keep typing until it appears in the list. 
+- Click on the name that you want, and they will be added to the table. 
 
 ![Adding additional {{referral}} {{people}}](194b.png)
 
-To alter the attendance type or role for a particular person, click on the table cell and a drop-down box will appear. Select the appropriate option. Your system administrator can add options to these lists (see section [18.2.0  System Administration - Lists](/help/index/v/{{version}}/p/18.2.0)). 
+**Altering Role and Attendance Type**
+
+To alter the attendance type or role for a particular person (e.g. from 'Attended' to 'For reference', for example):
+- Click on the table cell where that information is showing. 
+- A drop-down box will appear. 
+- Select the appropriate option. These options are customised for your system, and your system administrator can add options to them as necessary (see section [16.6.0  System Administration - Lists](/help/index/v/{{version}}/p/16.6.0)). 
 
 ![Adding roles of {{referral}} {{people}}](194c.png)
 
-In the case of {{referral}}s, there are additional roles that may be relevant and can be useful when running {{report}}s. These are: 'referrer' (who made the {{referral}}); 'Referred to' (the member of {{staff}} that's accepted the {{referral}}); and 'Service {{user}} referred' (the actual {{person}}that was referred). 
+In the case of {{referral}}s, there are additional roles that may be relevant and can be useful when running {{report}}s. These are: 
+- 'Referrer' (who made the {{referral}}).
+- 'Referred to' (the member of {{staff}} who accepted the {{referral}}). 
+- 'Service {{user}} referred' (the actual {{person}}that was referred). 
 
-There is also the option to add any further notes concerning the attendees. Click in the notes box along from their name to add further detail. To remove someone added in error, click the delete box - the right-hand table cell of the row you wish to delete. This will check and then remove them only from the table, not the database. Although it's unlikely to be relevant in {{referral}}s, you can also add the number of {{people}} that attended who are unknown to you: a large public event, for example. Just add the number of people in the final field 'Number of unknown attendees'. 
+**Adding Notes**
+
+There is also the option to add any further notes concerning the attendees. Click in the notes box along from their name to add further detail. 
+
+**Removing Someone from the Table**
+
+To remove someone added in error, click the delete box - the right-hand table cell of the row you wish to delete. This will check and then remove them from the table (not the database). 
+
+**Unknown Attendees**
+
+Although it's unlikely to be relevant in {{referral}}s, you can also add the number of {{people}} that attended who are unknown to you: a large public event, for example. Just add the number of people in the final field 'Number of unknown attendees'. 
+
+### Involving
+
+The tab in your system may be called 'Involving' rather than 'Attendance'. It is still used to record who was involved in the {{referral}}, but is simplified. 
+
+On this page you will see three search boxes - one for the 'referrer', one for the {{person}} who was referred, and the last for who they were referred to. 
+
+![Involving Tab](6.1.2a.png)
+
+To add a {{person}} to any of these roles:
+- Start typing their name in the relevant search box. 
+- Once you have typed three letters, {{Lampight}} will start to predict the name of the {{person}} that you are looking for. 
+- Once you see them in the list click on their name, and they will be added to the search box. 
+- You can only add one {{person}} or {{org}} per role. 
+- If they do not appear in the list to pick from, check that they have their own profile on the system. 
+
+You can see this in action on our video, 'Creating a Referral'.
+
+<iframe width="640" height="564" src="https://player.vimeo.com/video/281971195" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+
 
 ###### core module
 
