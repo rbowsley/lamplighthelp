@@ -1,16 +1,37 @@
-# 7.1.0    Adding a {{Work}} Record
+# 7.1.0 Adding a {{Work}} Record
 
-> To add a {{work}} record, go to '{{Work}} -> add' on the main menu 
+> It is possible to add {{work}} records from the main menu, as well as from a profile
 
-To add a {{work}} record, go to {{Work}}->Add new -> {{Work}} on the main menu. You will see the main screen for entering records:
+**To Add a {{Work}} Record from the Main Menu**
 
-![Adding a {{work}} record](54a.png)
+- Go to {{Activity}} -> Add new -> {{Work}} on the main menu. 
 
-It is possible to customise the system to add extra fields and tabs, so your system may differ to the example here. See section [18.4.0  Custom {{work}} and other record tabs and fields](/help/index/p/18.4.0) for more information about customising {{work}} records.
+**To Add a {{Work}} Record from a Profile**
 
-The record is split up into at least three tabs: when and where it happened ([9.1.1  When and where](/help/index/p/9.1.1)); who was there ([9.1.2  Adding attendance details to a {{work}} record](/help/index/p/9.1.2)); and the details of what happened ([9.1.4  Completing the 'details' tab in a {{work}} record](/help/index/p/9.1.4)).
+- Find the profile of a {{person}} or {{org}} who will be involved in this session.
+- Open their '{{work}}' tab.
+- On the right of this tab, click 'Add'.
+
+Either of these will open up a new work record:
+
+![A New {{Work}} Record](7.1.0a.png)
+
+There are a number of tabs on this record to fill in. You can find the details of these in the pages that follow. 
+
+- [7.1.1 When and Where](/help/index/p/7.1.1).
+- [7.1.2 Adding Attendance Details](/help/index/p/7.1.2).
+- [7.1.4 Completing the Details Tab](/help/index/p/7.1.4).
+- [7.1.5 Recurring {{Work}} Records](/help/index/p/7.1.5).
+
+A System Administrator can customise the system to add extra fields and tabs, so your system may differ to the example here (on this record the 'Volunteer Support' tab is a custom one). See section [16.7.3 Custom Tabs and Fields in {{Activity}} Records](/help/index/p/16.7.3) for more information about customising {{work}} records.
+
+You may also see tabs that relate to modules your organisation has opted to add to the system. In the picture above, the 'Expenses' tab is part of a module.
 
 When you have added all information, click the 'save' button in the bottom right. 
+
+To see how to create a new {{work}} record in action, why not watch our 'Creating a Work Record' video?
+
+<iframe src="https://player.vimeo.com/video/279240510" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ###### core module
