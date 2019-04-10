@@ -10,13 +10,13 @@ The {{referral}}s table shows a variety of information stored in the records, in
 
 It lists all {{referral}} records occurring within a set date range, ordered by date, with the most recent showing at the top.  The default range of dates shown when you view this table can be set in your 'Personal Settings', and can be different for each database operator. If you can't see the records that you expected to be there, you can change the dates of the records you are viewing in the search bar (see below). 
 
-**Choosing the Standard Columns to Display in the Table**
+### Choosing the Standard Columns to Display in the Table
 
 If you want to see all the available columns that you can display in the {{referral}}s table, right click on the top coloured header row. You will see a box showing all the possible columns. Tick and untick (you will have to do this one column at a time) to choose which you would like to display. 
 
 ![The {{Referral}} Table Pop-up Menu](6.3.0a.png)
 
-**Saving your View**
+### Saving your View
 
 Once you have finished selecting the columns you want to see, you can save the columns you have at as the default view, so that the next time you look at this table it will be the same. To do that:
 - Right click again on the top coloured header row of the table.
