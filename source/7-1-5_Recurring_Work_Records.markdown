@@ -1,22 +1,41 @@
-# 7.1.5    Recurring {{Work}} Records
+# 7.1.5 Recurring {{Work}} Records
 
 > Recurring {{work}} records enable you to add many regular {{work}} records in one go 
 
-On the 'when and 'where' tab within a {{work}} record, you have the option to create a recurring {{work}} record in a variety of ways. 
+When you are creating or editing a {{work}} record, there is an option on the 'When and where' tab, under the time and date, to create a recurring {{work}} record.
+
+The most important thing to remember when setting up recurring records is that you are setting the details of the first record, using the date and time that this will occur (which are likely to be on the same day, not across days or weeks as it is for **one** session). You then ask {{Lamplight}} to repeat these details in repeated records. 
+
+For example, if you set up the record and ask it to recur every Wednesday for 6 weeks, you will end up with a separate {{work}} record on a Wednesday for each of the weeks covered. 
+
+### Recurring Record Options
+
+There are a number of options for how records can recur. 
 
 ![recurring options](219a.png)
 
-You can: 
+-  Daily. You decide which days you would like this appointment to repeat on, and then the date when these will finish. The 'until' date is non-inclusive, so if you would like them to finish on 11th April, the 'until' date will be 12th April. There is also the option to make this every 2, 3, 4 weeks etc., rather than recurring every week.
+- Weekdays. This works as for 'Daily' above, but in the initial boxes {{Lamplight}} ticks Monday to Friday by default, rather than all 7 days.
+- Weekly. As above, but the default is that the day of the week on which you are adding the record is checked. You can alter this, and add more days or change the day completely as needed. 
+- Monthly. {{Lampklight}} will assume that you want the session to recur monthly on the same day as the initial appoitment. You can set this to be every first, second, third, fourth or fifth instance of that day in the month.
+- Yearly. This will then recur every year on the same day, up to but not including the end date that you specify. 
+- Custom. You can choose custom dates for the appointment to recur on. It will be added at the same time as the original record on each of these dates. 
 
-  * initially decide the time frame; daily, weekdays, weekly, monthly, yearly or a create a custom option. If you select an option based on days or weeks, you can then choose on which days and specify how long the recurrence will last until. Please note that the **Time and date from and to** options above should state the times of the **first** record in the series.
-  * if you select a 'monthly' option, the system will recognise what day the first record in the series will be (based on the time and date information entered) and will allow monthly options to be selected
-  * if you select yearly you have the option to select future years 
-  * if the custom option is selected you can add irregular records. Select the second date from the drop-down option or the calendar navigation button and click to 'add'. The date will be shown; continue to add more as required.
-![recurring daily](219b.png)
+### Managing Recurring Records
 
-Once a recurring record has been created, you can edit or delete all records in a series. Go to {{work}} -> view -> {{work}}, find one of the records in the series, and open the context menu for that record (right-click or click the menu button). Hold your mouse over the 'Edit' option and select 'all recurring records in series', or over Delete -> 'all recurring records in series' as required. Please note, if you just click to 'edit' or select an 'edit' button, you'll just be editing a single record in the series, not all of them. Once you do edit a single record in the series, it will be removed from the series (to prevent later data conflicts), so that if you later choose to edit all records in the series, the one you've changed will not then change.
+Once you have set up recurring records they are linked. The only thing that makes them different from each other is the date. While this is the case, you can edit them all as a group. When you go to edit a {{work}} record (for more on this see [7.2.1 Editing {{Work}} Records](/help/index/p/7.2.1), when you hover over 'Edit' in the context menu there will be the option to edit all recurring records. 
+
+When a single record has been edited it drops out of the group, and can only be edited again on its own. 
 
 ![recurring edit](219c.png) 
+
+Why not see how this works in practice in our video, 'Recurring Records'.
+
+<iframe src="https://player.vimeo.com/video/279240685" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+##### Tags
+Next steps
 
 ###### core module
 
