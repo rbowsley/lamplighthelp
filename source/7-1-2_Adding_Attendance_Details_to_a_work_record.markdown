@@ -2,7 +2,7 @@
 
 > The attendance tab stores who was at the {{work} session
 
-The attendance tab records details of everyone at the session you are recording. As well as {{user}}s, this can include {{staff}}, {{volunteer}}s or other contacts. If you are entering details in advance, you can record people as booked. It can even include details of people who were expected to attend but did not for some reason. This means that you can look back and report on different people's involvement. 
+The attendance tab records details of everyone who is involved with a particular session. As well as {{user}}s, this can include {{staff}}, {{volunteer}}s or other contacts. If you are entering details in advance, you can record people as booked. It can even include details of people who were expected to attend but did not for some reason. This means that you can look back and report on different people's involvement. 
 
 The {{work}} record will appear in the {{work}} records tab of anyone included in the attendance table.
 
