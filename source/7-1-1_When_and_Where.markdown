@@ -9,7 +9,7 @@ The date and time on a {{work}} record is required. It will be used to add the r
 When you select the start time the end time will automatically change. The default length of work records is one hour, but this may have been changed in your system. When you set the date, {{Lamplight}} will change the 'to' date so that it matches the 'from' one. This will usually be the case, unless you are working into the small hours of the morning, or counting an overnight stay as work. If it is a session which resumes over a number of days - a week of training for example - this can be set up as a recurring record. For more on this see [7.1.5 Recurring {{Work}} Records](/help/index/p/7.1.5).
 
 
-**{{Workarea}}s
+**{{Workarea}}s**
 
 You must select a {{workarea}} (it is only possible to choose one), and any number of {{subworkarea}}s. 
 To add a {{workarea}}, click on the appropriate radio button / {{workarea}}. The {{subworkarea}}s will appear in a pop-out box to the side of this. Choose any {{subworkarea}} checkboxes which apply.
