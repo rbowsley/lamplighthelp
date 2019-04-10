@@ -14,6 +14,10 @@ When you have added all information, click the 'save' button in the bottom right
 
 There may be other custom fields to fill in on this page. These are unique to your organisation. If you do not know how to complete them, please ask your System Administrator.
 
+If you'd like to see a demonstration of how to complete a work record, you can view our video 'Creating a Work Record'.
+
+<iframe src="https://player.vimeo.com/video/279240510" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 ###### core module
 
