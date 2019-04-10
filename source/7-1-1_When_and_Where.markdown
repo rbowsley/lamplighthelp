@@ -1,16 +1,33 @@
-# 7.1.1    When and Where
+# 7.1.1 When and Where
 
-> The When and where tab stores information about when and where the piece of {{work}} happened. 
+> The 'When and where' tab stores information about the date, time, {{workarea}} and location of the {{work}} session 
 
-The date and {{workarea}} fields on the when and where tab are required, and the date to must be after the date from. The time by default is set to an hour after the start time. If you wish this to be different for your system, your system administrator can make this change in 'Global settings'.  If you change the date, this will reset the time to one hour.
+**Date and Time**
 
-When selecting a {{workarea}}, you must select one {{workarea}}, and any number of {{subworkarea}}s. To add a {{workarea}}, click on the appropriate radio button / {{work area}}
+The date and time on a {{work}} record is required. It will be used to add the record to the homepage diary, and also in calculations of how long sessions have taken when reporting. 
 
-![Adding a {{work}} record and {{workarea}}- when and where](55a.png)
+When you select the start time the end time will automatically change. The default length of work records is one hour, but this may have been changed in your system. When you set the date, {{Lamplight}} will change the 'to' date so that it matches the 'from' one. This will usually be the case, unless you are working into the small hours of the morning, or counting an overnight stay as work. If it is a session which resumes over a number of days - a week of training for example - this can be set up as a recurring record. For more on this see [7.1.5 Recurring {{Work}} Records](/help/index/p/7.1.5).
 
-You can add a {{subworkarea}} once you have selected a work area.  The {{subworkarea}}s for the {{workarea}} you have chosen will appear to the right hand side.  You simply select the {{subworkarea}} or {{subworkarea}}s you require.  Click on them a second time to deselect.
 
-You can select as many locations as necessary, just select another option from the list. If one is selected in error, simply click again to deselect. 
+**{{Workarea}}s
+
+You must select a {{workarea}} (it is only possible to choose one), and any number of {{subworkarea}}s. 
+To add a {{workarea}}, click on the appropriate radio button / {{workarea}}. The {{subworkarea}}s will appear in a pop-out box to the side of this. Choose any {{subworkarea}} checkboxes which apply.
+
+![Selecting {{Workarea}}s](7.1.1a.png)
+
+
+**Locations**
+
+If locations are activated in your system, you will find them below {{workarea}}s. You can select as many as you need. If one is selected in error, simply click again to deselect. These let you view your {{activities}} by location in the diary, as well as being used as a filter in {{report}}s.
+
+**Custom Fields**
+
+There may be other custom fields on this page which are specific to your system. If you are unsure how to complete these, please ask your System Administrator.
+
+If you'd like to see how this works in practice, you can view our video 'Creating a Work Record.'
+
+<iframe src="https://player.vimeo.com/video/279240510" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ###### core module
