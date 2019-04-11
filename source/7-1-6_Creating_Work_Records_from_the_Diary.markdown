@@ -19,15 +19,15 @@
 
 ### Changing the Time and Date of a {{Work}} Record
 
-Once {{work}} records have been created, their appointment time and date can be altered. 
-- Click on the relevant appointment. 
-- Hold down the mouse button and drag the {{work}} record to the new appointment time.
+Once {{work}} records have been created, the appointment time and date can be altered. 
+- Click on the relevant record in the diary. 
+- Hold down the mouse button and drag the record to the new appointment time.
 
 ![Moving Items on the Diary](37b.png)
 
 ### Editing a {{Work}} Record in the Diary
 
-Left-clicking on a work record in the diary brings up a context menu. 
+Left-clicking on a {{work}} record in the diary brings up a context menu. 
 
 ![The Diary Context Menu](/help/index/p/7.1.6b)
 
