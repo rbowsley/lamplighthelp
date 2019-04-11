@@ -1,8 +1,8 @@
 # 7.2.0    Viewing {{Work}} Records for an Individual: the {{Work}} Records Tab
 
-> The {{work}} records tab shows the {{work}} you've done with a particular {{person}}. 
+> The {{work}} records tab shows the {{work}} you've done with a particular {{person}}
 
-This tab displays a list of the pieces of {{work}} that have been done with a {{user}}. The {{work}} records are displayed in a table.
+This tab displays the {{work}} that has been done in a table.
 
 ![{{Work}} records tab in a profile](49b.png)
 
