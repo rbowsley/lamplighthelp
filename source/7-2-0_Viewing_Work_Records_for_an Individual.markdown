@@ -39,6 +39,10 @@ Each {{work}} record in the table has a context menu to the left of it. If you c
 - Delete: this action is only open to database operators with a Manager or Administrator level of access. It removes the {{work}} record from the system, and cannot be undone.
 - Add {{outcome}}s: opens the {{outcome}}s data entry window (see section [8.1.0  Adding {{outcome}}s from the Main Menu Bar](/help/index/p/8.1.0) for more on {{outcome}}s). The date, time, {{workarea}} information and {{people}} who attended the piece of {{work}} will be added automatically to the draft {{outcome}}s record. 
 
+To see this in action, why not watch our video, 'Viewing and Editing Work Records in a Profile'?
+
+<iframe src="https://player.vimeo.com/video/279240823" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 ###### core module
 
