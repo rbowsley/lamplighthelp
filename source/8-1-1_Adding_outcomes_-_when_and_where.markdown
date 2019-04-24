@@ -1,4 +1,4 @@
-# 11.1.1 Adding an {{Outcome}}s Record: The When and Where Tab
+# 8.1.1 Adding an {{Outcome}}s Record: The When and Where Tab
 
 > The ''When and where' tab in an {{outcome}} record is where you can enter details of when the {{outcome}} was measured and what {{workarea}} it relates to 
 
