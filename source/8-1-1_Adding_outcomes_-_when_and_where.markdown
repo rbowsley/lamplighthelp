@@ -1,16 +1,16 @@
-# 11.1.1    Adding {{Outcome}}s: When and Where
+# 11.1.1 Adding an {{Outcome}}s Record: The When and Where Tab
 
-> Enter details of when the {{outcome}} was achieved/measured on the when and where tab. 
+> The ''When and where' tab in an {{outcome}} record is where you can enter details of when the {{outcome}} was measured and what {{workarea}} it relates to 
 
 The date and {{workarea}} fields on the when and where tab are required. Many organisations will be able to simply ignore the time for the purposes of outcome records.
 
-When selecting a {{workarea}}, you must select one {{workarea}}, and any number of {{subworkarea}}s. To add a {{workarea}}, click on the appropriate radio button / {{workarea}}
+You must select one {{workarea}}, and you can choose any number of {{subworkarea}}s. 
 
-![Adding an {{outcome}} record {{workarea}}- when and where](1208a.png)
+![Adding an {{outcome}} record {{workarea}}- when and where](8.1.1a.png)
 
-You can add a {{subworkarea}} once you have selected a work area.  The {{subworkarea}}s for the {{workarea}} you have chosen will appear to the right hand side.  You simply select the {{subworkarea}} or {{subworkarea}}s you require.  Click on them a second time to deselect.
+The {{subworkarea}}s for the {{workarea}} you have chosen will appear to the right hand side. 
 
-You can select as many locations as necessary or none, just select another option from the list. If one is selected in error, simply click again to deselect. 
+You can select as many locations as necessary or none. If one is selected in error, simply click again to deselect. 
 
 ###### core module
 
