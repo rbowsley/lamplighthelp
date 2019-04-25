@@ -56,7 +56,11 @@ The final search bar is called 'Custom field filters'. Click on the bar to open 
 
 ### The Context Menu
 
-By right clicking on any row in the table, you can open a context menu for that record. This gives you a number of options:
+By right clicking on any row in the table, you can open a context menu for that record. 
+
+![The {{Outcome}} Table Context Menu](8.3.0b.png)
+
+This gives you a number of options:
 -	View full details: opens up the record on one page so that you can see all the details.
 -	Edit: opens the record up in editing mode so that you can make any changes that you need.
 -	Delete: Removes the record so that it will not be visible in the {{person}} or {{org}}’s profile, and will not be counted in reports or available in data views. However, it will still be possible to view it in this {{outcome}}s table (if you choose to ‘Show deleted records’ as a filter.
