@@ -1,42 +1,85 @@
-# 8.2.0    Viewing {{Outcome}}s Records for a Particular Person - The {{Outcome}}s Tab
+# 8.2.0 Viewing {{Outcome}}s Records for a Particular Person: The {{Outcome}}s Tab
 
-> The {{outcome}}s tab in a {{person}}'s profile shows the change you've seen over time 
+> The '{{Outcome}}s' tab in a {{person}}'s profile is where you can see the change they've experienced over time 
 
-XXXXXXXNeeds sorting so the adding outcomes info is in separate tabs?XXXXXXX
 
-{{Outcome}}s information for the individual or organisation are displayed on this tab. They can also be added here.
+{{Outcome}}s scores already recorded for the individual or organisation are displayed on this tab. There are three different ways to show the information: a radar chart, in a advanced table, and in a normal table view. You can choose which of these you see by changing your Personal Settings (for more on this, go to [16.4.2 Personal Settings: Profiles](/help/index/p/16.4.2)).
 
-{{Outcome}}s can be displayed as a radar diagram, in a 'data-entry' table, and in a simple table view. The radar chart shows and lets you add new data by clicking on the chart; the 'data-entry' table shows {{outcome}}s down the side and months along the top, and lets you add new measures in bulk. 
+The information you see on the '{{Outcome}}s' tab in a profile will only be for the {{person}} or {{org}} whose profile you are viewing.
 
 ![{{Outcome}}s tab on a profile](50a.png)
 
-This shows the {{outcome}}s information for this {{person}} only. The radar diagram shows an {{outcome}} on each axis. The position and colour of the line shows the score and date it was achieved. For example, the diagram above shows the results in July (brown, inner line); September (blue line) and October (green line). Exercise for this person has gone from a '1' in July (meaning they don't do much) to a '5' in October (meaning they are doing lots). In general (assuming larger numbers are 'better') you will hope that the shapes get gradually bigger as time goes on.
+### The Radar Chart
 
-The 'data-entry' table lists all the {{outcome}}s down the right, and then months along the top. You can click a single cell, or existing score, to add or edit an {{outcome}}. The right-most column lets you add several {{outcome}}s at once; enter the scores, and then at the bottom of the table set the date and {{workarea}} and click to save.
+![The Radar Chart](8.2.0a.png)
 
-The table view at the bottom of the page shows the date of the {{outcome}}, a summary of the result, and the {{linked case}}s it is attached to are displayed in the table.
+The radar chart shows a single {{outcome}} measure on each axis. You can choose the {{outcome}} category that is displayed from the drop-down box directly above the chart. 
 
-The order in which the records are displayed can be changed by clicking on the column headings. The default setting for viewing {{outcome}}s is 5 to a page but more or less can be viewed at once by choosing an option from the select box. Alternatively you can use the numbers to move through the records.
+If scores have been entered for these {{outcome}}s, they will show on the chart. The position or the line shows the scores, and colour of the line matches a box to the right of the chart, showing the date the score was added.
 
-To add new {{outcome}}s click on the Add button on the right hand side of the screen.
+For example, the picture above shows the results in November (brown, inner line); February (pink line) and July (blue line). 'I've been feeling relaxed' has gone from a score of 3 in November (meaning they are not very relaxed) to a 5 in July (meaning their feeling of relaxation has increased). In general (assuming larger numbers are 'better') you will hope that the shapes made by the lines on the chart get gradually bigger as time goes on.
 
-For more on {{outcome}}s see section [11.0.0  {{Outcome}}s - overview](/help/index/p/11.0.0) .
+### The Advanced Table 
+
+![The Advanced Table](8.2.0b.png)
+
+The advanced table lists each individual {{outcome}} measure down the left. The columns along the top show any months in which {{outcome}} scores have been recorded. 
+
+You can click a single cell, or existing score, to add or edit an {{outcome}}. 
+
+![Editing a Cell in the Advanced Table](8.2.0c.png)
+
+There is a 'difference' column which will show the difference in results between the first time that they were recorded and the last. For example, the top {{outcome}} in the table above shows an initial score for the measure 'I have been feeling optimistic about the future' of 3. The last time the score was recorded it was a 5. This means that the score has gone up two points (+2).
+
+The column on the right lets you add a new {{outcome}} score (for more on this, see [8.1.6 Adding {{Outcome}}s from the Advanced Table](/help/index/p/8.1.6).
+
+### The Normal Table
+
+![{{Outcome}}s - The Normal Table](8.2.0d.png)
+
+The table view at the bottom is simply for viewing the data. It shows a record for each time that an {{outcome}}s measure has been scored. of the page shows the date of the {{outcome}}, a summary of the result, and the {{linked case}}s it is attached to are displayed in the table.
+
+The 'Summary' column shows the measure and score of each record. 
+
+You can customise your table in the following ways:
+
+- Click on the top row of a column to re-order the records. For example, you could choose to sort by date, category or {{workarea}}. 
+
+- View more or less records on one page by choosing an optiong from the 'Show' drop-down above the table. Alternatively you can click on the page numbers (also above the table) to move through the records.
+
+- Change the columns that you see in the table by right-clicking on the top header-row to see a list of what is available.
+
+![{{Outcome}}s - The Normal Table Menu](8.2.0e.png)
+
+- Simply tick and untick to customise what you see in the table. If you want the table to keep these as the default settings, choose 'Save table columns layout' from the menu.
+
+**The Context Menu**
 
 Right clicking on a row of the {{outcome}} table will give you a range of options:
 
 ![{{Outcome}}s tab on a profile - context menu](50b.png)
 
-  * View full details - opens the details of the outcome.
-  * Edit - opens the data entry window where you can change the details of the {{outcome}} or add new users who achieved that {{outcome}} score at that time. (See section [11.1.0  Adding {{outcome}}s](/help/index/p/11.1.0) )
-  * Delete - removes the {{outcome}} from the system for that user.
-  * Link to {{linked case}} - allows you to add this {{outcome}} to records linked together into a {{linked case}}. (See section [13.0.0  {{Linked case}}s](/help/index/p/13.0.0) for more on {{linked case}}s)
-  * Remove link to {{linked case}} - means you can remove this {{outcome}} from a {{linked case}}.
-   * Close {{linked case}} - flags the {{linked case}} as closed
-  * Re open {{linked case}} - will open a {{linked case}} that has previously been closed. 
- * View {{linked case}} details - takes you to a screen to see the details of the {{linked case}} itself.
- * Edit {{linked case}} allows you to edit the details of the {{linked case}} itself.
+- View full details - opens the {{outcome}} record on one page so that you can view the details.
+- Edit - opens the data entry window where you can edit the details of the {{outcome}}. (See section [8.1.0  Adding {{Outcome}}s](/help/index/p/8.1.0) ).
+- Delete - removes the {{outcome}} from the system. It will still be possible to find it in the {{outcome}}s table (for more on this see [8.3.0 Viewing All {{Outcome}s Records](/help/index/p/8.3.0), but it will not show in reports or data views.
+
+If you use {{linked case}}s in your system, there more options (See section [9.0.0  {{Linked case}}s](/help/index/p/9.0.0) for more on {{linked case}}s):
+
+- Link to {{linked case}} - allows you to add this {{outcome}} to a {{linked case}}. 
+- Remove link to {{linked case}} - means you can remove this {{outcome}} from a {{linked case}}.
+- Close {{linked case}} - flags the {{linked case}} as closed.
+- Re open {{linked case}} - will open a {{linked case}} that has previously been closed. 
+- View {{linked case}} details - takes you to a screen to see the details of the {{linked case}}.
+- Edit {{linked case}} allows you to edit the details of the {{linked case}} itself.
+
+If you have the Communications Module you will also see:
+
+- {{Comm}} - opens ups a {{comm}}s record with the recipients already added to match the attendees of the {{outcome}} record.
+
+For more on {{outcome}}s, see our video.
+
+<iframe src="https://player.vimeo.com/video/282332458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
  
- * Communicate - will show if you have the {{comm}}s module, and allow you to communicate with the person whose {{outcome}}s are being recorded.
  
 ###### core module
 
