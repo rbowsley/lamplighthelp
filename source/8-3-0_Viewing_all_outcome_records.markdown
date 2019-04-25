@@ -1,4 +1,4 @@
-# 8.3.0    Viewing All {{Outcome}} Records
+# 8.3.0 Viewing All {{Outcome}} Records
 
 > You can view all the {{outcome}} records on your system in one place. You can also filter the records you see by date, category and {{workarea}}, for example 
 
@@ -27,6 +27,7 @@
 Above the table is a bar marked 'Search'. If you click on this then you will find additional options you can use to filter your records, and some extra columns to add. 
 
 **Standard Filters**
+
 The top section gives you filters that you can use to narrow down the selection of {{outcome}} records you see. 
 
 ![Searching for particular {{outcome}} records](8.3.0a.png)
@@ -40,11 +41,13 @@ The top section gives you filters that you can use to narrow down the selection 
 - Show deleted records. If you want to see deleted records in your search, tick this box. No current records will be included in the results. 
 
 **Additional Data Columns to Display**
+
 The second search bar is called 'Additional data columns to display'.  
 - This does not filter, but simply adds additional columns to your table.  
 - Clicking here will give you options to display names of different {{people}} or {{org}}s who are listed in the records' attendance tables, as well as other items from the custom fields in your {{outcome}} records.
 
 **Custom Field Filters**
+
 The final search bar is called 'Custom field filters'. Click on the bar to open it. 
 
 - This lets you select additional filtering options to narrow down your selection, using any custom fields that you have added to your records.  
@@ -52,6 +55,7 @@ The final search bar is called 'Custom field filters'. Click on the bar to open 
 #### After applying additional filters, click the 'Fetch data' button to show the matching records.
 
 ### The Context Menu
+
 By right clicking on any row in the table, you can open a context menu for that record. This gives you a number of options:
 -	View full details: opens up the record on one page so that you can see all the details.
 -	Edit: opens the record up in editing mode so that you can make any changes that you need.
@@ -63,20 +67,20 @@ By right clicking on any row in the table, you can open a context menu for that 
 ### Downloading and Printing the Table
 
 **Downloading to a Spreadsheet**
+
 - Just above the table, make sure that the 'Show' drop-down is set to 'all'. 
 - Scroll to the bottom of the table and click the 'Download' button.  
 - Depending on your browser, your table may immediately open in a spreadsheet, or you may need to click on a 'Download' box at the bottom of the screen to open it.
 
 **Opening Print View**
+
 - Clicking the ‘Print’ button at the bottom of the table will open it in a new tab in a printer-friendly format.  
 - Split print allows you to create multiple print-friendly tables split by whatever item you choose, for example {{workarea}} or {{outcome}} category. Each one will open in a separate tab.
 
 
+
 ##### Tags
 Experienced user
-
-###### core module
-
 
 ###### core module
 
