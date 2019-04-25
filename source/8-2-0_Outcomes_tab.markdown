@@ -13,11 +13,11 @@ The information you see on the '{{Outcome}}s' tab in a profile will only be for 
 
 ![The Radar Chart](8.2.0a.png)
 
-The radar chart shows a single {{outcome}} measure on each axis. You can choose the {{outcome}} category that is displayed from the drop-down box directly above the chart. 
+The radar chart shows thw score for a single {{outcome}} measure on each axis. You can choose the {{outcome}} category you want to look at from the drop-down box directly above the chart. 
 
-If scores have been entered for these {{outcome}}s, they will show on the chart. The position or the line shows the scores, and colour of the line matches a box to the right of the chart, showing the date the score was added.
+If scores have been entered for these {{outcome}}s, they will show on the chart. The position of the line shows the scores, and colour of the line matches to a box to the right of the chart, showing the date the score was added.
 
-For example, the picture above shows the results in November (brown, inner line); February (pink line) and July (blue line). 'I've been feeling relaxed' has gone from a score of 3 in November (meaning they are not very relaxed) to a 5 in July (meaning their feeling of relaxation has increased). In general (assuming larger numbers are 'better') you will hope that the shapes made by the lines on the chart get gradually bigger as time goes on.
+For example, the picture above shows the results in November (brown, inner line); February (pink line) and July (blue line). 'I've been feeling relaxed' has gone from a score of 3 in November (meaning they are not very relaxed) to a 5 in July (meaning their feeling of relaxation has increased). In general (assuming larger numbers are better) you will hope that the shapes made by the lines on the chart get gradually bigger as time goes on.
 
 ### The Advanced Table 
 
@@ -29,17 +29,17 @@ You can click a single cell, or existing score, to add or edit an {{outcome}}.
 
 ![Editing a Cell in the Advanced Table](8.2.0c.png)
 
-There is a 'difference' column which will show the difference in results between the first time that they were recorded and the last. For example, the top {{outcome}} in the table above shows an initial score for the measure 'I have been feeling optimistic about the future' of 3. The last time the score was recorded it was a 5. This means that the score has gone up two points (+2).
+The 'difference' column shows the difference in results between the first time that they were recorded and the last. For example, the top {{outcome}} in the table above shows an initial score for the measure 'I have been feeling optimistic about the future' of 3. The last time the score was recorded it was a 5. This means that the score has gone up two points (+2).
 
-The column on the right lets you add a new {{outcome}} score (for more on this, see [8.1.6 Adding {{Outcome}}s from the Advanced Table](/help/index/p/8.1.6).
+The 'Add' column on the right lets you add a new {{outcome}} score (for more on this, see [8.1.6 Adding {{Outcome}}s from the Advanced Table](/help/index/p/8.1.6)).
 
 ### The Normal Table
 
 ![{{Outcome}}s - The Normal Table](8.2.0d.png)
 
-The table view at the bottom is simply for viewing the data. It shows a record for each time that an {{outcome}}s measure has been scored. of the page shows the date of the {{outcome}}, a summary of the result, and the {{linked case}}s it is attached to are displayed in the table.
+The table view at the bottom is for viewing the {{outcome}}s data that has been entered. It shows a record for each time that an {{outcome}}s measure has been scored. 
 
-The 'Summary' column shows the measure and score of each record. 
+The 'Summary' column shows the measure and score for each record. 
 
 You can customise your table in the following ways:
 
@@ -51,7 +51,7 @@ You can customise your table in the following ways:
 
 ![{{Outcome}}s - The Normal Table Menu](8.2.0e.png)
 
-- Simply tick and untick to customise what you see in the table. If you want the table to keep these as the default settings, choose 'Save table columns layout' from the menu.
+- Simply tick and untick columns in the list to customise what you see in the table. If you want to keep these as the default settings for this table, choose 'Save table columns layout' from the menu.
 
 **The Context Menu**
 
@@ -60,7 +60,7 @@ Right clicking on a row of the {{outcome}} table will give you a range of option
 ![{{Outcome}}s tab on a profile - context menu](50b.png)
 
 - View full details - opens the {{outcome}} record on one page so that you can view the details.
-- Edit - opens the data entry window where you can edit the details of the {{outcome}}. (See section [8.1.0  Adding {{Outcome}}s](/help/index/p/8.1.0) ).
+- Edit - opens the data entry window where you can edit the details of the {{outcome}}. (See section [8.1.0  Adding {{Outcome}}s](/help/index/p/8.1.0)).
 - Delete - removes the {{outcome}} from the system. It will still be possible to find it in the {{outcome}}s table (for more on this see [8.3.0 Viewing All {{Outcome}s Records](/help/index/p/8.3.0), but it will not show in reports or data views.
 
 If you use {{linked case}}s in your system, there more options (See section [9.0.0  {{Linked case}}s](/help/index/p/9.0.0) for more on {{linked case}}s):
