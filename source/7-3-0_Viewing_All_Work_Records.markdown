@@ -6,10 +6,10 @@ You can view all of the {{work}} records in your system in a single table. Howev
 
 ### Viewing the Table
 
-- Click on '{{Work}}' on the main menu.
+- Click on '{{Activity}}' on the main menu.
 - Hover over 'view' on the sub-menu.
 - Choose '{{work}}' from the drop-down list. 
-- If you see a final sub-menu choose 'standard {{Work}} listing' to start a fresh view. There will be other options which are saved {{activity}} view templates. For more on this, see [7.3.1 Viewing All {{Activity}} Records Using an {{Activity}} View Template](/help/index/p/7.3.1).
+- If you see a final sub-menu choose 'standard {{work}} listing' to start a fresh view. There will be other options which are saved {{activity}} view templates. For more on this, see [7.3.1 Viewing All {{Activity}} Records Using an {{Activity}} View Template](/help/index/p/7.3.1).
 - You will see the following screen:
 
 ![{{Work}} records list](59a.png)
@@ -62,8 +62,8 @@ The final search bar is called 'Custom field filters'. Click on the bar to open 
 - Depending on your browser, your table may immediately open in a spreadsheet, or you may need to click on a 'Download' box at the bottom of the screen to open it.
 
 **Opening Print View**
-- Clicking the Print button at the bottom of the table will open the table in a new tab in a print-friendly format.  
-- Split print allows you to create multiple print-friendly tables split by whatever item you choose, for example work area. Each one will open in a separate tab.
+- Clicking the 'Print' button at the bottom of the table will open it in a new tab in a print-friendly format.  
+- Split print allows you to create multiple print-friendly tables split by whatever item you choose, for example {{workarea}}. Each one will open in a separate tab.
 
 
 ##### Tags
