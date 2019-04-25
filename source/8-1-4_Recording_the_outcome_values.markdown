@@ -1,26 +1,39 @@
-# 8.1.4    Recording the {{Outcome}} Values
+# 8.1.4 Recording the {{Outcome}} Values
 
-> {{Outcome}}s are recorded as yes-no responses, scores, or numbers. Enter as many as you need to. 
+> After the 'When and where' and 'Attendance' tabs, the next tabs that you see are for recording {{outcome}} scores  
 
-The {{outcome}}s that you measure are 'snapshots' at a particular time. These are grouped together into categories to make them easier to manage. The remaining tabs on the screen are the {{outcome}} categories you have set up. On each tab there are the {{outcome}}s you are measuring.
+Each different set of {{outcome}} measures that you have in your system will have its own tab in the {{outcome}} record. 
 
-In our example system, these are some of the {{outcome}}s we are measuring:
+In our example system, these are the {{outcome}}s we are measuring (outlined in the red box):
 
-![Example {{outcome}} categories](78a.png)
+![Example {{outcome}} categories](8.1.4a.png)
 
-Under each {{outcome}} there may be some explanatory text in a smaller font.
+You may also have some tabs relating to modules in your system - these are outlined in green in the above picture.
 
-These {{outcome}}s can either be recorded as:
+- Click on any tab to see the measures in the {{outcome}} and record scords for them. 
 
-  * Yes - no (e.g. 'do they have a job')
-  * Scores (e.g. 'on a scale of 1-5, how happy are you with your job')
-  * Amounts (e.g. 'how many hours/week do you work')
+- These {{outcome}}s will either be recorded as:
 
-When entering {{outcome}}s you will either see a drop-down box with yes-no options, or if they are expecting scores or amounts, a box into which you type the number.
+   - Yes/no (e.g. 'do they have a job').
+   - Scores (e.g. 'on a scale of 1-5, how happy are you with your job').
+   - Amounts (e.g. 'how many hours/week do you work').
 
-Once you have entered the actual score or yes/no, you can also add a comment, and whether you (or the {{user}}) feels the any change is a result of your work. The comment can be any text, perhaps an explanation or evidence. The 'our work' tickbox means that you can record changes in the {{person}}s situation, even if they are not the result of your work. This can then be used as a filter when running {{report}}s.
+- When entering {{outcome}}s you will either see a drop-down box with yes-no options, or if they are expecting scores or amounts, a box into which you type the number.
 
-You can enter information for as few or as many {{outcome}}s as you wish to. When you have finished click the 'save' button in the bottom-right. 
+- You may see also see some explanatory text to the right of the {{outcome}}s.
+
+![Explanatory text for an {{outcome}}](8.1.4b.png)
+
+- Once you have entered the actual score or yes/no, you can also add a comment to the score. The comment can be any text, perhaps an explanation or evidence. It is not a field that can be reported on, but it can be seen when viewing the saved record, as a column in the  table view on the {{Outcome}}s tab (for more on this see [8.2.0 The {{Outcome}}s Tab](/help/index/p/8.2.0) or as a column in the {{outcome}}s table (see [8.3.0 Viewing All {{Outcome}} Records](/help/index/p/8.3.0).
+
+- The 'our work' tickbox means that you can record changes in the {{person}}'s situation, even if they are not the result of your work. This is for reference only, and can be seen if you view the completed {{outcome}}s record.
+
+You can enter information for as few or as many {{outcome}}s as you wish. When you have finished, click the 'save' button at the bottom-right of the page. 
+
+If you're new to {{outcome}}s, why not take a look at our video?
+
+<iframe src="https://player.vimeo.com/video/282332458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 ###### core module
 
