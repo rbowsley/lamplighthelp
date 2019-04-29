@@ -11,21 +11,21 @@
 [9.2.0 The {{Work}} Record Context Menu](/help/index/p/9.2.0a.png)
 
 
-- Click 'link to {{linked case}}' on the context menu next to any {{activity}} record (or right click on the record in a table). (If you do not see this option it is because it is not enabled in your system. Your System Administrator will be able to change this if required - see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4).) 
-- This will open up a dialogue box where you can start typing the name of the {{linked case}} to find the one that you need. Once it appears in the list, click on it to add the record.
+- Click 'link to {{linked case}}'. (If you do not see this option it is because it is not enabled in your system. Your System Administrator will be able to change this if required - see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4).) 
+- This will open up a pop-up box where you can start typing the name of the {{linked case}} to find the one that you need. Once it appears in the list, click on it to add the record.
 
 ### To Link a Record in the Table
 
 In the table of records in a person's profile:
 - Find another record which is already linked to the same {{linked case}}. 
-- Drag and drop the record that you are adding on to of the initial linked record.
+- Drag and drop the record that you are adding on top of the initial linked record.
 - This will add the second record to the same {{linked case}}. 
 
 **Please note:** This option is not possible in systems where there is a search bar above the table. 
 
 
 
-Once a record is linked to a {{linked case}} it appears in the '{{linked case}} view' tab, within the {{linked case}} that it is connected to. It also continues to appear as normal in its appropriate tab, for example the {{work}} records tab. 
+Once a record is linked to a {{linked case}} it appears in the '{{linked case}} view' tab, within the {{linked case}} that it is connected to (you can see all the {{linked case}}s in boxes down the left side of the page). It also continues to appear as normal in its appropriate tab, for example the {{work}} records tab. 
 
 
 ### What to Look for If 'Link to {{Linked Case}}' Is Not an Option on the Menu
