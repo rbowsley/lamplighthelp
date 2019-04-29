@@ -1,26 +1,31 @@
-# 9.0.0    {{Linked case}}s
+# 9.0.0 {{Linked Case}}s
 
-> {{Linked case}}s link different kinds of record ({{work}}, {{outcome}}, {{comm}}s etc) together, and allow you to track the amount of time somthing takes from opening to closing.  
+> {{Linked case}}s are a way of linking different kinds of record ({{work}}, {{outcome}}, {{comm}}s etc) together in one place. They allow you to track the amount of time somthing takes from opening to closing
 
-{{Linked case}}s are a way of organising records within {{Lamplight}}. One person may have several {{linked case}}s; each {{linked case}} may involve several different people. There is a lot of flexibility so you can use them in the way that suits your way of working.
+In most systems that use {{linked case}}s, you'll find their details in the '{{Linked case}} view' tab in their profile.  
 
-Using the options in the case, you may be able to select different types of cases, or record information, such as why the case has closed.
 
-In most systems that uses {{Linked case}}'s, you'll find details of a {{person}}'s {Linked case}}'s in the '{{linked case}} View' tab in their profile.  (Your system may use a different name to the one in the image below)
+(Your system may use a different name to the one in the image below).
 
-!['{{Linked case}} View' tab}}](1207a.png)
+!['{{Linked case}} View' tab}}](9.0.0a.png)
 
-**Using {{Linked case}}'s**
+They are a way of organising records within {{Lamplight}}, where you can bring together all the records belonging to a particular area the {{person}} or {{org}} is involved in. For example, if you are working with someone on a number of issues, one of which is housing, you could open a {{linked case}} called 'Jordan Lee - housing', and then connect all the {{referral}}, {{work}} and {{outcome}} records to that {{linked case}} so that all the information is visible in one place.
 
-You can link many different types of record to a case.  For example, one {{linked case}} may consist of 4 {{work}} records; some {{outcome}} measures; and a couple of {{comm}}s (if you have the {{comm}}s module)  You can do this, either by creating the record from within the {{linked case}} View tab, or by linking a record afterwards.
+One person may have several {{linked case}}s, and each {{linked case}} may involve several different people.
 
-To create a record from within the {{Linked case}} View tab, goto a profile, and click on the {{Linked case}} View tab.  As shown below, from here you can choose the type of record to create.  Click on the appropriate button, and create the record as you would normally.
+Using {{linked cases}} you can: 
+-	Easily see all the records in each {{linked case}}.
+- Assign a category (these will depend on what is set up in your system). 
+-	Report on how many days an individual or organisation has had a {{linked case}} open in a particular category (For example, we supported Jordan for 18 weeks, or the befriending relationship lasted 2 months).
+-	Report on what {{linked case}}s were open at a particular time.  For example you could show anyone who had an open Advice {{linked case}} at any time during August last year.  This also makes them great as status trackers.
+- Depending on how they are set up on your system, you may be able to select different types of {{linked case}}, or record information such as why the {{linked case}} has closed.
 
-Alternatively you can link a record to a case by creating the record normally, and viewing them in the record view, and then using the option on the right click context menu, or menu link on the left of each row, to link to the case.  You can also do this with existing records.  Details shown in the next page.
+For more on how to use them, please see:
+- [9.1.0 Opening a new {{Linked Case](/help/index/p/9.1.0).
+- [9.2.0 Linking Records to a {{Linked Case}}](/help/index/p/9.2.0).
+- [9.3.0 Creating a New Record in the {{Linked Case}} Tab](/help/index/p/9.3.0).
+- [9.6.0 Closing a {{Linked Case}}](/help/index/p/9.6.0).
 
-![Linking a record to a {{linked case}}](94a.png)
-
-{{Linked case}}s may be open or closed. You can only link records to open {{linked case}}s. 
 
 ###### core module
 
