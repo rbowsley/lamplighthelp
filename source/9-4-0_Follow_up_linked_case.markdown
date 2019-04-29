@@ -1,14 +1,24 @@
 # 9.4.0    Follow Up a {{Linked Case}}
 
-> If you've opened a {{linked case}}, you can follow it up easily by clicking 'follow up {{linked case}}'. The new record will be linked to the old one. 
+> If you already have a {{linked case}} with records in, you can use one of those as the basis for another record in the same {{linked case}}  
 
-If a {{work}} record is linked to a {{linked case}}, you can follow it up with another {{work}} record. This will link the new {{work}} record to the same {{linked case}} as the old one. To do so, click 'follow up {{linked case}}' on the context menu.
+If need to add {{activity}}} records ({{work}}, {{referral}}, {{outcome}} etc) to a {{linked case}} which already holds similar ones, it is possible to duplicate one of the existing records. This will retain all the details of the original (date and time, {{workarea}}, attendees, text notes etc.) It will open automatically so that you can edit the details rather than needing to add all the information in from scratch.
 
-If a record is not linked to a {{linked case}}, or if the {{linked case}} is closed, you cannot follow it up and the option will be disabled.
+To do this:
 
-A popup window will appear allowing you to enter a new {{work}} record. Some of the fields will already be complete, in particular the attendance table, with the same information from the record that you are following up.
+- Go to the '{{Linked case}} view' tab in a profile, and click on the {{linked case}} you need to add the record to.
+- In the table of records at the bottom of the screen, find the one that you are going to duplicate and either right-click on the table row, or left click on the context menu in the first table column. 
+- From the menu, choose 'Follow up {{case}}'. This will open up as a new record for you to edit.
 
-When you save this new {{work}} record it will be automatically linked to the {{linked case}}. 
+!{Follow-up {{Linked Case}}(9.4.0a.png)
+
+- When you have finished changing the details, click 'Save' and it will be saved into the {{linked case}}.
+
+**Please note:** If a record is not linked to a {{linked case}}, or if the {{linked case}} is closed, you cannot follow it up and the option will be disabled (appearing as greyed-out text in the menu).
+
+
+##### Tags
+Time saving tips
 
 ###### core module
 
