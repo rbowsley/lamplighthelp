@@ -6,14 +6,14 @@ It is possible to open a new {{linked case}} in a couple of ways. Whichever you 
 
 **Through the '{{Linked Case}} View' Tab**
 
-Open this tab in a profile and scroll down to the bottom of this tab. There is a section called 'Create a new {{linked case}}'.
+- Open this tab in the profile. 
+- Scroll down to the bottom. There is a section called 'Create a new {{linked case}}'.
 
 ![Opening a {{Linked Case}} in the Profile Tab](9.1.0a.png)
 
-**While Linking a Record to the {{Case}}**
+**While Linking a Record to the {{Linked Case}}**
 
-It is also possible to open a new {{linked case}} when you are adding records to it:
-- Using the context menu from a view of {{work}} or other records, you can choose the 'Link to {{linked case}}' option. (If you do not see this option it is because it is not enabled in your system. Your System Administrator will be able to change this if required - see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4).) 
+- Using the context menu from a view of {{work}} or another record, choose the 'Link to {{linked case}}' option. (If you do not see this option it is because it is not enabled in your system. Your System Administrator will be able to change this if required - see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4).) 
 - This opens a new pop-up box. 
 
 ![Opening a {{Linked Case}} through the Context Menu](9.1.0b.png)
@@ -27,8 +27,8 @@ When you have the new {{linked case}} pop-up, you will need to complete the deta
 
 ![Completing a {{Linked Case}}](9.1.0c.png)
 
-- You may have additional options which you can choose. These may be ones that you fill in at the start, or you may come back to them later or when you are closing the {{linked case}}. For example, in the shot above, we have an 'On completion' drop-down list which would only be filled in at the end. 
-- Complete any which are relevent.  
+- You may have additional options which you can choose. You may come back to edit some of these later or when you are closing the {{linked case}}. For example, in the shot above, we have an 'On completion' drop-down list as we were closing the {{linked case}}. 
+- Complete any which are relevent now.  
 - You can also make any notes about the {{linked case}} in the '{{linked case}} description'.
 - Once you have completed the details, use the save button to save the {{linked case}}.
 
