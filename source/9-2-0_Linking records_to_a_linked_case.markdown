@@ -8,7 +8,7 @@
 - Right click on the row of the table that it is in, or left click on the context menu to the left of the record. 
 - This will bring up a context menu. 
 
-[9.2.0 The {{Work}} Record Context Menu](/help/index/p/9.2.0a.png)
+![The {{Work}} Record Context Menu](/help/index/p/9.2.0a.png)
 
 
 - Click 'link to {{linked case}}'. (If you do not see this option it is because it is not enabled in your system. Your System Administrator will be able to change this if required - see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4).) 
@@ -19,10 +19,12 @@
 In the table of records in a person's profile:
 - Find another record which is already linked to the same {{linked case}}. 
 - Drag and drop the record that you are adding on top of the initial linked record.
+
+![Drag and Drop to Add to a Case](9.2.0b.png)
+
 - This will add the second record to the same {{linked case}}. 
 
 **Please note:** This option is not possible in systems where there is a search bar above the table. 
-
 
 
 Once a record is linked to a {{linked case}} it appears in the '{{linked case}} view' tab, within the {{linked case}} that it is connected to (you can see all the {{linked case}}s in boxes down the left side of the page). It also continues to appear as normal in its appropriate tab, for example the {{work}} records tab. 
