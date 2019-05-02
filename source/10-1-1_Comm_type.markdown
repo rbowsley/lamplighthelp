@@ -1,10 +1,12 @@
 # 10.1.1    {{Comm}} Type
 
-> In the core system you can create letters, mailing labels and emails. 
+> In the core system you can create letters, mailing labels and emails 
 
-Select the type of {{comm}} you wish to create. 
+![{{Comm}} Type Tab](10.1.1a.png)
 
-If you have the {{comm}}s module you will also add a brief summary of the {{comm}}. This text will be displayed when you look at lists and summaries of {{comm}}s.
+- Choose the type of {{comm}} you want to send. 
+- Depending on your settings, you may also have a date and time and {{workarea}} to fill in on this screen.
+- If you have the {{Comm}}s Module, you will see a text box to give a short desription of this {{comm}}. The information you put in here will then show in the {{comm}}s table in the profile. 
 
 
 ###### core module
