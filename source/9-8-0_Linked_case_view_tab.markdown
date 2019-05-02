@@ -13,7 +13,7 @@ When you open this tab you will see the unlinked records, with all the {{linked 
 
 If you wish to look at a the details of a {{linked case}}, click on the relevant button. 
 
-![{{Linked Case}} View]((9.8.0b.png)
+![{{Linked Case}} View](9.8.0b.png)
 
 When you have done this, you will see the {{linked case}} inforamtion at the top of the page, with a table showing all records linked to it underneath. 
 
