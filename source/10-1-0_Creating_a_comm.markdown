@@ -2,18 +2,22 @@
 
 > You can create a {{comm}} from the main menu in {{Lamplight}}. This could be an email, letter or mailing labels 
 
-### Creating a {{Comm}}
-
-To create a {{comm}} from the main menu:
+To create a new {{comm}} from the main menu:
 - Go to {{Work}} -> {{comm}} -> create on the main menu. 
-- You will see the main screen for creating {{comm}}s:
+- You will see the first screen for creating {{comm}}s:
 
 ![Creating a {{comm}} - main menu](83b.png)
 
-**{{Comm}} Type**
+- Work through each tab to add the information that you need. Some may be greyed out depending on the type of {{comm}} you are adding. You do not have to fill in every tab if it is not relevant. You may not want to attach a file for example. 
 
-- Choose the type of {{comm}} you want to send. Depending on your settings, you may also have a date and time and {{workarea}} to fill in on this screen.
-  - If you have the {{Comm}}s Module, you will see a text box to give a short desription of this {{comm}}. 
+Details on the different tabs are in the following pages:
+
+- [10.1.1 {{Comm}} Type](/help/index/p/10.1.1).
+- [10.1.2 {{Comm}} Recipients](/help/index/p/10.1.2).
+- [10.1.3 {{{{Comm}}s: Adding Email Details](/help/index/p/10.1.3).
+- [10.1.4 {{Comm}s: Attaching Files](/help/index/p/10.1.4).
+- [10.1.5 {{Comm}}s: Adding Message Content](/help/index/p/10.1.5).
+
  
  **Recipients**
  
