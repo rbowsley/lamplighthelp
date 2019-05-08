@@ -1,30 +1,34 @@
-# 10.1.5 {{Comm}}s - Adding Message Content
+# 10.1.5 {{Comm}}s: Adding Message Content
 
-> Your actual message is entered in the message content tab. 
+> Your actual message is entered in the 'Message content' tab 
 
-Type in your text for the actual message in the message content tab. You can use the rich text editor (except with text messages): see section [4.4.0  Rich text editor](/help/index/p/4.4.0) for more help on how to use the editor.
+### Adding Message Content
 
-The core system allows you to do basic mail-merge features, using name and address fields. On the text editor you will see a button with these fields: simply click on one on the drop-down menu to insert the relevant field.
+- If you are creating mailing labels, you’ll see a mail-merge address block is already present in the text box.  You can edit this if you choose, but don’t need to do anything else.
+- For letters and emails you can click on the + in the top right of the text box, which will reveal the rich text editing tools.
 
-If you have the {{comm}}s module you will have additional buttons on the editor toolbar. In particular you can use document templates and insert images from the library - see section [18.8.0  {{Comm}} templates](/help/index/p/18.8.0) for more help on setting these up.
 
-![Using document templates](88a.png)
+![Rich Text Editing Tools](88a.png)
 
-Note that the menu options on the editor vary. If you are communicating to people attending a {{work}} record, for example (see section [9.2.10  {{Comm}}](/help/index/p/9.2.10)) you will be able to include mail merge fields for that record.
+- If you have chosen to send a separate letter or email to each person, you can use the ‘People Mail Merge’ drop-down menu.  It contains a number of fields which you can add so that your message autofills information. Choose them from the drop-down list and use them in your text as you would actual content. For example, I can write ‘Dear {{space}}, select ‘first name’ from the drop-down list before moving to the next line.  When merged, ‘First name’ will be replaced by the name of each person you send your email to.
+- You can copy and paste into the text box. We recommend pasting the text into Notebook first to make sure that any existing html formatting is removed. The text editor will try to filter extra code, which can have unexpected results. 
+- There are also some buttons in the rich text editor which will help you to check your text for html issues:
+![HTML Check Buttons](88b.png)
+  - The first button lets you edit the HTML content of your message directly. 
+  - The second button checks the HTML you have entered, and filters it if necessary. This filtering happens when you send/create the message, so clicking this button lets you double-check the content of your message. IF your message corrupts or seems to disappear there is a problem with the formatting codes that you are pasting. You'll need to delete the content of your message, and then click the third button which switches the filter on or off. 
+  - The third button is on by default. When this is unclicked the editor will not run the filters and whatever you paste will be sent as it is. This should be OK for emails, but it is very likely to cause problems if you are creating letters. {{Lamplight}} translates HTML into Rich Text Format documents, but expects valid HTML to convert (which Microsoft code isn't, for example). If you need to do this you may want to send a test email first. 
 
-Please be cautious of pasting text from another word document into the text editing tools. The text editor in {{Lamplight}} uses standard html and by default tries to filter any extra code. As this can have some unexpected results, there are some buttons to allow you to do HTML checks. 
 
-![Using document templates](88b.png)
+### Testing and Sending 
 
-The first button lets you edit the HTML content of your message directly. 
+![Saving, testing or creating a {{comm}}](83c.png)
 
-The second button checks the HTML you have entered, and filters it if necessary. This filtering happens when you send/create the message, so clicking this button lets you double-check the content of your message. 
-
-It's worth doing this after pasting text from Microsoft programs to check your message will look OK. In some cases your message will corrupt or even appear to disappear. In this case, there is a problem with the Microsoft formatting codes that you are pasting. You'll need to delete the content of your message, and then click the third button which switches the MS filter on or off. 
-
-When this is unclicked (it's on by default) the editor will not run the filters and whatever you paste will be sent as it is. This should be OK for emails; but it is very likely to cause problems if you are creating letters; {{Lamplight}} translates HTML into Rich Text Format documents, but expects valid HTML to convert (which Microsoft code isn't). If you are needing to do this you may want to send a test email first. 
-
-When you have completed your message, click the 'create/send' button in the bottom-right. The {{comm}} will be generated: if it's a document, a download will be created and opened; if an email you'll receive notification that the email(s) were sent. 
+- Once you've completed your {{comm}}, click 'Create/Send'.
+    - If you have created letters or mailing labels they will either open directly in Word for you to print out, or appear in a download box at the bottom of your screen. Click on this to open it. 
+    - If you have created email, this will send it directly from your account. (Please note, you will need to have set up your email settings in the system admin section for this to work. For more information on this, please see [16.11.0 Setting Up Email](/help/index/p/16.11.0)).
+-The ‘Save but do not send’ button only works if you have the {{Comm}}s Module.
+- The ‘Test’ button will appear if your {{comm}} is an email. It will send a copy to your own email address for you to check.  Stay on this page while you look at it so that you can make any amendments before sending.
+- Please note, if you do not have the {{Comm}}s Module your {{comm}} will not be saved in the system. For more on the module, please see [21.0.0 The {{Comm}}s Module](/help/index/p/21.0.0).
 
 
 ###### core module
