@@ -21,11 +21,12 @@ The core system already comes with a host of communications features, but you ma
    - Store a library of images for use in {{comm}}s.
    - Use your own signature and headed paper.
    
-  - **Send and Log SMS Messages**
+- **Send and Log SMS Messages**
   
    - You can buy text credits and send out SMS messages which are logged in the system.
     
     
     For more on the {{Comm}}S Module, see [21.0.0 Communications Module](/help/index/p/21.0.0).
+    
     
     ###### comms module
