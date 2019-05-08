@@ -1,18 +1,25 @@
-# 10.1.2    {{Comm}} Recipients
+# 10.1.2 {{Comm}} Recipients
 
-> Decide who you want to send the {{comm}} to. You can enter individual names, or the name of a {{group}}. 
+> The 'Recipients' tab is where you add the {{people}} and {{org}}s you are sending the {{comm}} to. You can enter individual names, or use a {{group}} to add recipients in bulk
 
-In the recipients tab add the {{people}} you wish to send the {{comm}} to. These are added in the same way that you add attendees to {{work}} records: see section [9.1.2  Adding attendance details to a {{work}} record](/help/index/p/9.1.2) for more help.
+**Adding Recipients**
 
-You can also use the search box to find a {{group}} which you have already set up to all members of the {{group}}. 
+In the 'Recipients' tab: 
 
-You can use relationships in {{comm}}s, if your administrator has set it up. For some types of relationship ('employee', for example), you may wish to address your {{comm}} to the individual but use their {{work}} address, which is stored in the linked profile (their employers). If this is enabled, you'll see both the individuals name in the search box, as well as any other links to other {{people}} that you can use. 
+- Use the 'search' box at the top of the page to look for individuals or {{group}}s.
+- These are added in the same way that you add attendees to {{work}} records: see section [7.1.2  Adding attendance details to a {{work}} record](/help/index/p/7.1.2) for more help.
+- If adding a {{group}}, all current members will be added to the table. 
+
+**Mail Merge Options**
+
+The 'Mail merge options' section refers to linked profiles. These are not switched on in all systems, but if they are in yours you will see names linked to other names when you type in the search box. For example, you might see 'Lamplight Database Systems Ltd, Matthew Parker'. This means that the 'Lamplight Database Systems Ltd' is linked to 'Matthew Parker'.   
 
 ![Adding recipients to a {{comm}}](85a.png)
 
-The system will use the address details of the first named profile (in the example above the address for Lamplight) but would allow us to use personal details for the individual (for example Dear Matthew). If you wished to use the individuals' address details, start typing the individuals name in the search as you type bar first and choose individual linked to the organisation. 
-
-Some relationships may need to be 'allowed' to be used in your {{comm}}s. Your system administrator can alter these settings via the Admin menu under 'relation types between {{people}}' see section [18.2.3  System Administration - relationships](/help/index/p/18.2.3) for more information. 
+- If you click on that option in the list, then both Lamplight and Matthew Parker will be added to the table.
+- If you use linked profiles in {{Lamplight}}, the 'Mail-merge options' let you decide whose address details you are going to use to send the {{comm}} to. For example, if you want to send a letter to Lamplight Database Systems, but have it delivered to Matt Parker's address, add the linked profile to the attendance talbe and then choose to use the address details of the 'second profile listed'.
+- If this is not possible for some reason (i.e. the contact details for the linked profile are not in the system), then {{Lamplight}} will revert to using the contact details from the first profile. It will always check permissions before sending. 
+- Some relationships may need to be 'allowed' to be used in your {{comm}}s. Your system administrator can alter these settings via the Admin menu under 'Manage Custom Fields and Drop-down Lists -> People and Organisations -> Relation types between {{people}}'. See section [16.6.3  System Administration: Relationships](/help/index/p/16.6.3) for more information. 
 
 If you are creating a letter or mailing labels, the system will add a copy of the message content for each recipient, so that any mail-merge fields can be included. This means that if your letter is one page long, and you're sending it to 10 people, the document produced will be 10 pages long. 
 
