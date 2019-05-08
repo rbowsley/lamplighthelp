@@ -2,6 +2,8 @@
 
 > In the core system you can create letters, mailing labels and emails 
 
+In the '{{Comm}} type' tab of a new {{comm}}:
+
 ![{{Comm}} Type Tab](10.1.1a.png)
 
 - Choose the type of {{comm}} you want to send. 
