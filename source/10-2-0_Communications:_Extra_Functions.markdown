@@ -4,18 +4,18 @@
 
 The core system already comes with a host of communications features, but you may need more. The {{Comm}}s Module takes the core features further. In addition to mail merge, email, and letter writing you will now have much greater versatility with your {{comm}}s. 
 
-- **{{Comm}}s logging**
+- **{{Comm}}s Logging**
 
    - View {{comm}}s sent.
    - Upload additional documents to case file.
    - Log {{comm}}s received.
 
-- **{{Comm}} reports**
+- **{{Comm}} Reports**
 
    - Report of how many people received a mailing.
    - Link {{comm}}s reporting to attendance and outcomes.
 
-- **Images and templates**
+- **Images and Templates**
 
    - Set up templates for regular mailings (newsletters/bookings/certificates etc).
    - Store a library of images for use in {{comm}}s.
