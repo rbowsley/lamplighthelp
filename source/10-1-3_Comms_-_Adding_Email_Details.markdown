@@ -10,19 +10,17 @@ If you are sending emails, you will need to complete the email details tab.
 
 **From**
 
-- This is the address that return emails will be sent to. Your email provider may require this address to match the sender address, so the email might fail to go out if they don't. If you are not sure about this, check with your system administrator or email provider.
+- This is the address that return emails will be sent to. Your email provider may require this address to match the sender address, so the email might fail to go out if it doesn't. If you are not sure about this, check with your System Administrator or email provider.
 
-**How Do You Want to Send the Emails?
+**How Do You Want to Send the Emails?**
 
-You can choose if each recipient receives an individual email, or whether it is one email that is copied to recipients.
+You can choose if each recipient receives an individual email, or whether it is a single email that is copied to recipients. If you are sending to a large number of recipients, and particularly if there are attachments, we strongly recommend that you send a single email, especially if your email provider has limits on the number of emails sent out daily.
 
-- A separate personalised email.  This will send an email in which you can mailmerge the names of the recipients and other identifying information into the email.  We strongly recommend you only use this for emails with a smaller number of recipients, or without attachments.
+- A separate personalised email.  This will send an email in which you can mail merge the names of the recipients and other identifying information into the email.  We strongly recommend you only use this for emails with a smaller number of recipients, or without attachments.
 
-- A single email copied (cc) to all recipients.  This will send the same email to everyone.  Using the cc (carbon copy) option means that all the recipients will see the email addresses of the other recipients.  This is often not appropriate for mailings to people outside your immediate organisation.  You can still mail-merge, but only information that is common to all.
+- A single email copied (cc) to all recipients.  This will send the same email to everyone.  Using the cc (carbon copy) option means that all the recipients will see the email addresses of the other recipients.  This is often not appropriate for mailings to people outside your immediate organisation.  You can still use mail merge, but only for information that is common to all recipients.
 
-- A single email blind copied (bcc) to all recipients.  This is the option to use if you do not wish email recipients to see who else has received the email or their email address.  This is standard practice for emailing groups. 
-
-**If you are sending to a large number of recipients, and particularly if there are attachments, we strongly recommend that you send a single email, especially if your email provider has limits on the number of emails sent out daily.**
+- A single email blind copied (bcc) to all recipients.  This is the option to use if you do not wish email recipients to see who else has received the email, or have access to their email addresses.  This is standard practice for emailing groups. 
 
 
 ###### core module
