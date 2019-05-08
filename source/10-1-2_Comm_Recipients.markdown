@@ -7,7 +7,7 @@
 In the 'Recipients' tab: 
 
 - Use the 'search' box at the top of the page to look for individuals or {{group}}s.
-- These are added in the same way that you add attendees to {{work}} records: see section [7.1.2  Adding attendance details to a {{work}} record](/help/index/p/7.1.2) for more help.
+- These are added in the same way that you add attendees to {{work}} records: see section [7.1.2  Adding Attendance Details to a {{Work}} Record](/help/index/p/7.1.2) for more help.
 - If adding a {{group}}, all current members will be added to the table. 
 
 **Mail Merge Options**
