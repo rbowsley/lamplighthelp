@@ -1,58 +1,101 @@
 # 11.1.0    Creating an {{Auto Group}}
 
-> On the main menu go to {{Group}}s -> Add -> Add {{auto group}}. Give the {{group}} a name and description; enter your search criteria, and click 'Save'. 
+> An auto {{Group}} allows you to add selection criteria which {{Lamplight}} then uses to match profiles to the group. They can be set up either for {{people}} or {{org}}s
 
-On the main menu go to {{Group}}s -> Add -> Add {{auto group}} and you will see the following screen:
+
+With {{groups}} in {{Lamplight}}, less is often more. It is important to know what it is that you are looking for before you start, and not to add too many filters to your group as you could exclude all possible members in this way. The only two tabs that you have to fill out are the 'Group name' and '{{People}} and {{org}}s ones. You should pick the filters you need carefully from the other tabs. Once you have finished choosing filters, your {{group}} will include {{people}} or organisations that meet **ALL** the criteria you have entered. 
+
+To set up a new {{group}}, On the main menu go to '{{group}}s -> add -> add {{auto group}}'. You will see the following screen:
 
 ![Creating an {{auto group}}](103a.png)
 
-**{{Group}} name tab**: The first thing that you need to do on this screen is to give your {{group}} a name and a description.  Choose something that makes it clear who your {{group}} is made up of as these fields are used to remind you and other users of what the {{group}} is for. Both are required fields. There is also a tick box to allow you to 'lock' the group. This means that only you will be able to edit the {{group}} once it has been created.
+### {{Group}} Name
 
-There is a 'Lock {{group}} option here.  This allows you to lock the {{group}} so that only you can change the {{group}}.  This can be useful for example, when creating a regular {{group}} for reporting, where you need to be absolutely certain that the group criteria has not been changed bwteen running it.  Only you will be able to change or delete this group.  We suggest using this cautiously.
+The {{group}} a name and a description and compulsory - you can't save your choices without filling these in.  
+ - Choose something that makes it clear who your {{group}} is made up of as these fields are used to remind you and other users of what the {{group}} is for - you will not be the only person using it. 
+- If you use this group for a specific purpose, such as quarterly reporting of for a particular funder, you can make a note of this in the '{{Group}} description' field to make it easier to find the next time you need it, and also alert others to its purpose. 
+- There is a 'Lock {{group}} option here.  If you tick this box then only you will be able to edit the {{group}}. If it is important that you know the criteria stay the same, for example when creating a regular {{group}} for reporting, then we would recommend you choose this option. 
 
-The next step is to use the tabs at the top of the page to select which types of data you would like to use to filter your {{group}}.  Explanations of the filters each tab contains are given below.  Once you have finished choosing filters, your {{group}} will include {{people}} or organisations that meet **ALL** the criteria you have entered. 
 
-* Note on numeric and date comparisons.  In {{Lamplight}} numeric and date comparisons are inclusive (for example if you specify the date as 1st January to 15th February 2018, {{Lamplight}} will include 1st January and 15th February in the date range filter).
-
-**{{People}} or organisations tab:** Do you want a {{group}} of individuals, or organisations? What types of {{people}} do you want?
+### {{People}} or {{Org}}s
  
 ![{{Auto group}}s - choosing what types of {{people}} to add](103b.png)
 
-You cannot create a {{group}} of both {{people}} and organisations. The search for the type of {{person}} (e.g. {{user}}, {{staff}},{{contact}} etc.) is an 'OR' search: it will include those that meet **any** of the criteria selected, not just those that meet all of them. At the bottom of this page there is the option to select the date profiles were added to the system. For example, 
-greater than or equal to 1st January 2017 would give you a list of all those added since the beginning of 2017.
+- You must choose whether your auto {{group}} will include {{people}}, {{org}}s or {{families}} - you cannot have a mixture. If you need more than one of these types, you can create a {{group}} for each and them merge them (see [11.3.0 Creating a Merge {{Group}}](/help/index/p/11.3.0) for more details). 
+- Unlike most fields in auto {{groups}}, 'who are' choice (e.g. {{user}}, {{staff}},{{contact}} etc.) is an 'OR' search, so it will include those that meet **any** of the criteria selected, not those that meet all of them. 
+- Next is the option to select the date profiles were added to the system.
+  - Greater than or equal to means on this date or after it. So greater than or equal to 1st January 2019 would give you everyone profile which had been added to the system on or after 1st January 2019.
+  - Less than or equal to means on this date or before it. So again, if you  put in 1st January 2019, you would see all profiles added on or before 1st January 2019.
+  - Equal to means on that date. As with previous examples, using 1st January 2019 would only show you people added that day.
+  - Between. If you choose this option, a second date box will appear so that you can specify two dates. For example, if you want to see all the profiles added in 2018, you would specify between 1st Jaunary 2018 and 31st December 2018. The dates in this filter are inclusive (so records falling on that day will be added to the {{Group}}.
+- The 'visibility' drop-down box allows you to choose whether your group will be made up of people who are active on your system, or those who have been archived. For more on archiving, see [16.8.2 Archiving Profiles](/help/index/p/16.8.2). You cannot mix current and archived profiles in the same auto {{group}}.
 
-**Address:**  In this tab you can search by particular lines of the address, any individual part of it, or by postcode. When searching by postcode, you can enter multiple postcodes (or partial postcodes) separated by a semi-colon (;). Whenever you search for text, you can select how the search should be carried out: 
 
-  * Exact match - the phrases should be identical, but it is not case sensitive (so 'hello' matches 'HeLLo')
-  * Match anywhere - will match the entire string wherever it occurs (so 'stone lane' matches '15 Stone Lane', and matches '15 Brightstone Lane', but does not match '15 Stonecroft Lane')
-  * Starts like - will match any strings that start with the search string
+### Address
 
-Spaces at the beginning and end of address lines are excluded from searches.
+In this tab you can search by particular lines of the address, any individual part of it, or by postcode. 
+- When searching by postcode, you can enter multiple postcodes (or partial postcodes) separated by a semi-colon (;). 
+- Whenever you search for text, you can select how the search should be carried out: 
+  - Exact match - the phrases must be identical, but it is not case sensitive (so 'hello' matches 'HeLLo').
+  - Match anywhere - will match the entire string wherever it occurs (so 'stone lane' matches '15 Stone Lane', and matches '15 Brightstone Lane', but does not match '15 Stonecroft Lane').
+  - Starts like - will match any strings that start with the search string (so 'Brighton' will match 'Brighton Villas' but not 'New Brighton').
+  - Is empty. If you want to find all profiles that do not have any information in the field (for example postcode) then choose this option.
+- Spaces at the beginning and end of address lines are excluded from searches.
+- Ward and Borough (if you use the Ordnance Survey look-up and Geo-code): these will be populated based on the address details in the contact tab of each profile. You can select more than one ward or borough from each list. To do this, hold down the Ctrl button on your keyboard while you click on the options that you want, e.g. Chichester and Chiltern. To deselect an option, Ctrl click again.
 
-  * Ward and Borough (if you use the Ordnance Survey look-up and Geo-code): these will be populated based on the address details in the contact tab of each profile. You can select more than one ward or borough from each list. To do this, hold down the Ctrl button on your keyboard while you click on the options that you want, e.g. Chichester and Chiltern. 
+### Relationship
 
-**Relationship:** On this tab you can choose to filter by the relationships between {{people}}. This allows you to create {{group}}s of, say, 'key workers', 'GPs' or 'trustees'. You also have the opportunity on this tab to use relationships to another {{group}}. For example, you may have one already set up  for people who are unemployed. If you then want to create another {{group}} consisting of the  children of people who are unemployed, when making the new children's {{group}} you can go to the 'relationships' tab, choose the original 'unemployed' {{group}} from the 'Show only people that are related to members of this {{group}}' selection box, and then choose the relationship 'child'. 
+On this tab you can choose to filter by the relationships that are recorded in the profile.
+- This allows you to create {{group}}s of, say, all the {{people}} who have a relationships of 'key worker', 'GP' or 'trustee'. 
+- You can also use relationships to another {{group}}. For example, you may have one already set up  for people who are unemployed. To  create another {{group}} of the family members of these people who are unemployed, choose the original 'unemployed' {{group}} from the 'show only people that are related to members of group:' dropdown, and the relationship 'family' from the 'With relationship' box.
 
-**{{User}} fields, {{staff}} fields, {{funder}} fields etc:** These tabs will enable you to filter on the custom fields that you have set up in the profiles of {{user}}s, {{staff}}, and {{funder}}s respectively.  The choices here will depend on what is in your individual system, but may include such things as demographic information.  They may not be visible at all if {{Lamplight}} has no custom fields set up.
+![Using Relationship Links in a {{Group}}](/help/index/p/11.1.0a.png)
 
-These tabs may contain a variety of different types of field. 
-* Date and number fields may be matched as either: 
+### {{User}} Fields, {{Staff}} Fields, {{Funder}} Fields etc
 
-  * greater than or equal to, meaning that people with a value greater (or later) than or equal to the value you specify will be included;
-  * less than or equal to, meaning that people with a value less (or earlier) than or equal to the value you specify will be included;
-  * equal to, meaning that only those that match this number or date will be included.
+These tabs contain all the custom fields that you have in the profiles of your {{user}}s, {{staff}}, and {{funder}}s respectively.  
+- The choices here will depend on what is in your individual system, but may include such things as demographic information.  
+- They may not be visible at all if {{Lamplight}} has no custom fields set up. They may contain a number of different types of field:
+- Date and number fields may be matched as either: 
+  - 'Greater than or equal to': people with a value greater (or later) than or equal to the value you specify will be included.
+  - 'Less than or equal to': people with a value less (or earlier) than or equal to the value you specify will be included.
+  - 'Equal to': only those that match this number or date will be included.
+- Multi-select fields:
+  - 'Does have': people who do have and exact match to all the options that you select will be included. 
+  - 'Does not have': people who do not have any of the options that you select will be included.
+  - 'Has at least one of': people who have at least one (maybe more) of the options that you select will be included.
+  - 'Has at least two of': people with at least two (maybe more) of the options that you select will be included.
+  - 'Has at least three of': people who have at least three of the options that you choose will be included.
 
-* Where there are **multi-select** options, only those that **match all** of your selections will be included in the {{group}}.
+### {Work}}
 
-**{{Work}}**: The fields in this tab allow you to filter for {{people}} based on {{work}} records. If you want to find {{people}} that have attended based on dates, you first need to set the dates, then you need to specify the {{work}} area(s) you want to filter on. You can also choose to find {{people}} that have not attended at certain periods. So, for example:
+The fields in this tab allow you to filter for {{people}} based on the {{work}} records in their profile. If you want to find {{people}} that have attended sessions based on dates, you first need to set the dates, then you need to specify the {{work}} area(s) you want to filter on. You can also choose to find {{people}} that have not attended at certain periods. So, for example:
 
-To identify people attending at least one session of Cookery after 1st April 2012 and before 31st March 2013:
+**To identify {{user}}s attending at least one session of Life Skills after 1st April 2018 and before 31st March 2019:**
 
-![Automatic {{group}}s - {{work}} records tab example 1](103c.png)
+- For date 1 (this will be your 'from' date), choose 'Fixed date' from the drop-down and select to 1st April 2018. Date 1 will **include** the date that you choose.
+- For date 2 (your 'to' date) choose 'Fixed date' from the drop-down menu, then select 1st April 2019. Date 2 **does not include** the date you specify, so if you want records to 31st March, you have to specify 1st April.
+- You want to find records between those dates, so next go to the 'Number of records in profile **between** date 1 and 2' (the middle line from the next set of three). You are looking for people with at least one record between those dates, so choose 'Greater than or equal to' on the drop-down, then type '1' in the text box after it.
+- Underneath that, you are looking for people who attended, so from the drop-down box choose 'Attended'. This will exclude people who are shown in the attendance table as 'Booked', or 'For reference', for example.
+-  In the drop-down box for 'Role', select '{{User}}'. This will exclude other attendees, such as {{staff}} or {{volunteer}}s.
+- Finally, under {{workarea}}, choose 'Life Skills'.
 
-To identify people attending an Initial Assessment between 1st April 2012 and 30th September 2012 (equivalent to people attending between Start of Q1 2012 and End of Q2 2012)
 
-![Automatic ((group))s - {{work}} records tab example 2](103d.png)
+![Automatic {{group}}s - {{work}} records tab example 1](11.1.0b.png)
+
+**To identify {{staff}} attending an Initial Assessment between 1st April 2019 and 30th September 2019 (equivalent to people attending between Start of Q1 2019 and End of Q2 2019)**
+- For date 1 (this will be your 'from' date), choose 'Start Quarter 1' from the drop-down, then select '2019' from the box below that.
+- For date 2 (your 'to' date) 'End Quarter 2' from the drop-down, then '2019' from the box below that.
+- You want to find records between those dates, so next go to the 'Number of records in profile **between** date 1 and 2' (the middle box from the next set of three). You are looking for people with at least one record between those dates, so choose 'Greater than or equal to' on the drop-down, then type '1' in the text box after it.
+- Underneath that, you are looking for people who attended, so from the drop-down box choose 'Attended'. This will exclude people who are shown in the attendance table as 'Booked', or 'For reference', for example.
+-  In the drop-down box for 'Role', select '{{Staff}}'. This will exclude other attendees, such as {{user}}s or {{volunteer}}s.
+- Finally, 'Initial Assessment' is a {{subworkarea}}, so first choose 'Support'under {{workarea}}, then 'Life Skills'.
+
+
+![Automatic ((group))s - {{work}} records tab example 2](11.1.0c.png)
+
+
+XXXXX UP to here XXXXX
 
 To identify new users - people attending the centre after 1st April 2013 that had never attended before then:
 
@@ -62,7 +105,7 @@ To identify attendees who have completed the course - service users who in Q3 20
 
 ![Automatic {{group}}s - {{work}} records tab example 4](103f.png)
 
-Finally, you can filter by {{workarea}}, attendance type and role, and any custom {{work}} fields you have added to your system.
+
 
 The **{{Outcome}}** fields tab is where you can search for {{people}} based on their outcome scores for a particular measure. You can look for {{people}} with a particular score, those who have changed over time or those who have maintained a score for a specified period of time. This will let you set up {{group}}s like '{{people}} who have gained a job and have sustained it for 6 months'. Bear in mind here that {{Lamplight}} treats yes-no {{outcome}}s as 1 - 0 (ie a 'yes' is stored as 1, and a 'no' as a 0), so to find {{people}} that have answered 'yes' to a particular {{outcome}} you'll need to enter the 'Outcome score' as 'Equal to' '1'. 
 
