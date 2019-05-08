@@ -1,8 +1,8 @@
 # 10.2 {{Comm}}s Module: Added Functionality
 
-> It is possible to do more with {{comm}}s in {{Lamplight}}, such as logging {{comm}}s in profiles, and connecting to Mailchimp. To do this you will need the {{Comm}}s {{Module}}.
+> It is possible to do more with {{comm}}s in {{Lamplight}}, such as logging {{comm}}s in profiles, and connecting to Mailchimp. To do this you will need the {{Comm}}s {{Module}}
 
-The core system already comes with a host of communications features, but you may need more. The {{Comm}}s Module takes the core features further. In addition to mail merge, email, texting and letter writing you will now have much greater versatility with your {{comm}}s. 
+The core system already comes with a host of communications features, but you may need more. The {{Comm}}s Module takes the core features further. In addition to mail merge, email, and letter writing you will now have much greater versatility with your {{comm}}s. 
 
 - **{{Comm}}s logging**
 
@@ -23,9 +23,9 @@ The core system already comes with a host of communications features, but you ma
    
   - **Send and Log SMS Messages**
   
-    - You can buy text credits from Lamplight and then send out messages which are logged in the system.
+   - You can buy text credits and send out SMS messages which are logged in the system.
     
     
-    For more on the {{Comm}}S Module, see XXXXXXXXXXXXXXXXXXXXXXXXXX
+    For more on the {{Comm}}S Module, see [21.0.0 Communications Module](/help/index/p/21.0.0).
     
     ###### comms module
