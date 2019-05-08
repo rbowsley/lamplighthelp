@@ -11,6 +11,8 @@ A {{group}} is a collection of {{people}} or {{org}}s. You can set up any number
  - New {{user}}s in Q2 and Q3 2013.
  - All youth {{work}} {{staff}}.
  - Organisations working with children.
+ 
+They are shared across database operators, so that if you set up a {{group}} another database operator will be able to use it too.
 
 ### Types of {{Group}}
 
