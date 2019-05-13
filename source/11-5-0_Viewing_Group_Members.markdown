@@ -1,11 +1,20 @@
-# 11.5.0    Viewing {{Group}} Members
+# 11.5.0 Viewing {{Group}} Members in Popup
 
-> To view a simple list of the {{people}} in a {{group}}, right-click (Apple key-click) on the {{group}} you wish to view, and select 'Quick view in popup' 
+> Selecting 'Quick view in popup' from the {{group}} context menu will bring up a simple list of the names of {{people}} or {{org}}s in a {{group}} 
 
- ![View group members](106a.png)
+To show a list of the current members in any {{group}}:
+- Go go '{{groups}} -> view -> view all'.
+- Right-click (Apple key-click) on the {{group}} you wish to view.
+- Select 'Quick view in popup' from the menu.
  
- You can also view the list of names of {{group}} members alongside information that you hold about them by using a {{group}} data view. To find out more about this, see [Section xxxxx {{Group}} Data Views](ref here)
+ 
+ ![View group members](106a.PNG)
+ 
+You can also view the list of names of {{group}} members alongside information that you hold about them by using a {{group}} data view. To find out more about this, see [Section 12.2.1 View {{Group}} Members Using Data Views](/help/index/p/12/2/1).
 
+
+##### Tags
+Group
 
 ###### core module
 
