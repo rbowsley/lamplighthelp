@@ -6,7 +6,7 @@
 
 ![My {{Group}}s](11.7.0a.png)
 
-Clicking on the name of the {{group}} will show you the simple list of members. If you want to edit the {{group}} you will need to find it in the 'all {{group}}s' table. For more on this, see [11.6.0 Editing {{Group}}s]9/help/index/p/11.6.0).
+Clicking on the name of the {{group}} will show you the simple list of members. If you want to edit the {{group}} you will need to find it in the 'all {{group}}s' table. For more on this, see [11.6.0 Editing {{Group}}s](/help/index/p/11.6.0).
 
 
 ###### core module
