@@ -1,4 +1,4 @@
-# 11.4.0    Viewing {{Group}}s
+# 11.4.0 Viewing {{Group}}s
 
 > You can view a table showing all of the {{group}}s that are currently set up in your system. From here, you can use the context menu to edit the {{group}}, and view members
 
@@ -30,7 +30,7 @@ In the left-hand column of the table you may see a menu button next to each {{gr
 
 - View full details: hover over this option to see all the data views in your system, and choose one with which to view the {{group}}. For more on this, see [12.2.1 View {{Group}} Members Using {{Group}} Data Views](/help/index/p/12.2.1).
 - Quick view in popup: this is a quick way to see members of a {{group}}. For more on this see [11.5.0 Viewing {{Group}} Members](/help/index/p/11.5.0).
-- Edit: choose this to open the {{group}} editing dialogue and change details of the filters in your {{group}}. For more on this, see [11.6.0 Editing Group}}s](/help/index/p/11.6.0).
+- Edit: choose this to open the {{group}} editing dialogue and change details of the filters in your {{group}}. For more on this, see [11.6.0 Editing {{Group}}s](/help/index/p/11.6.0).
 - Duplicate record: you can make an exact copy of the {{group}}. This is useful if you have a {{group}} which is very similar to another, as you can duplicate the original and then edit the details for the second one. 
 - Print: choosing this option brings up a new window where you can see all the profile details for each member of the list. You can select which of these details you want to print. For more on printing profile details, see [5.7.0 Printing Profile Information](/help/index/p/5.7.0).
 - Delete {{group}}: If you know that you are not going to need this {{group}} again then you can delete it here. Once you have done this you can't undelete it. This does not remove any records or profile information from the system, and it is possible to set up a new {{group}} with exactly the same filters if you delete one in error.
@@ -46,6 +46,9 @@ In the left-hand column of the table you may see a menu button next to each {{gr
 - Clicking the 'Print' button at the bottom of the table will open it in a new tab in a print-friendly format.  
 - Split print allows you to create multiple print-friendly tables split by whatever item you choose, for example 'Type'. Each one will open in a separate tab - so in this case you would have one table for 'auto', one for 'manual' and a third for 'merge'.
 
+
+##### Tags
+Group
 
 ###### core module
 
