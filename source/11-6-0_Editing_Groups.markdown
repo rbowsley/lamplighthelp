@@ -1,12 +1,30 @@
-# 11.6.0    Editing {{Group}}s
+# 11.6.0 Editing {{Group}}s
 
-> To edit a {{group}}, click {{Group}}s -> View all in the main menu. Right- click on the {{group}} you wish to edit and select 'edit' from the context menu. 
+> Once a {{group}} is set up, you can go back to change the filters when you need to
 
-To edit a {{group}}, click {{Group}}s -> View all in the main menu. Right- click on the {{group}} you wish to edit and select 'edit' from the context menu.
+To edit a {{group}}:
 
- ![Edit a group](107a.png)
+- Click {{group}} -> view -> view all on the main menu. 
+- Right- click on the {{group}} you wish to edit. 
+- Select 'edit' from the context menu. 
 
-A window will open with the same screen you see when adding a {{group}} (see section [14.1.0  Creating an {{auto group}}](/help/index/v/{{version}}/p/14.1.0) or section [14.2.0  Creating a {{manual group}}](/help/index/p/14.2.0), depending on which type of group you are editing). Make any changes you need, then click the 'Save' button in the bottom-right of the popup window. 
+
+ ![Edit a {{group}}](107a.PNG)
+
+- The editing window will open. This is the same screen you see when adding a new {{group}} (see section [11.1.0  Creating an Auto {{Group}}](/help/index/p/14.1.0) or section [11.2.0  Creating a Manual {{Group}}](/help/index/p/14.2.0), depending on which type of group you are editing). 
+- Make any changes you need, then click the 'Save' button in the bottom-right of the popup window. 
+
+When you create a {{group}}, it is possible to lock it so that no-one else can edit it. If you do this, you will know when you come back to your {{group}} that the filters are exactly as you left them. 
+- Either start a new {{group}}, or open one to edit.
+- On the first tab ('{{Group}} name'), tick the 'Lock this {{group}} for editing' box at the bottom of the page.
+
+![Lock for Editing](11.6.0a.png)
+
+- Save your changes.
+
+
+##### Tags
+Group
 
 ###### core module
 
