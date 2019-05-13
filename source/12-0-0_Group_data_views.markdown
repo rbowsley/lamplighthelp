@@ -25,7 +25,7 @@ You can also see our video introducing {{group}} data views:
 <iframe src="https://player.vimeo.com/video/279244731" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ##### Tags
-Experienced user 
+Experienced user  
 Group
 
 ###### core module
