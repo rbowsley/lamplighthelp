@@ -1,4 +1,4 @@
-# 16.5.1 Retrieving Your Data When Closing Your Account
+# 16.15.1 Retrieving Your Data When Closing Your Account
 
 > There are a number of different ways to retrieve large amounts of information from Lamplight, and which you choose will depend on what information you want and how accessible it needs to be
 
