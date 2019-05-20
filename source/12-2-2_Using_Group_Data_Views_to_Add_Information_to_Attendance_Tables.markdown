@@ -1,18 +1,25 @@
-#    12.2.2 Using {{Group}} Data Views to Add Information to Attendance Tables
+# 12.2.2 Using {{Group}} Data Views to Add Information to Attendance Tables
 
-> Activities records in {{Lamplight}} have attendance tables to show who was involved. You can use data views to add relevant information then when viewing records
+> {{Activities}} records in {{Lamplight}} have attendance tables to show who was involved. When viewing records, you can use data views to create additional columns in the attendance tables to add details such as addresses or demographics
 
-More information to be added. 
+When viewing an existing {{activities}} record, for example {{work}} or {{referral}}, it is possible to use a data view to add columns of information to the attendance table. This can be useful if you want to see contact details so that you can call participants to change arrangements, or to view risk factors of attendees before a session, for example.
 
-If you choose to view an activites record using a data view, the {{people}} attending will be listed in the attendance table along with the extra columns from the {{group}} data view. 
+If you choose to view {{activites}} records using a data view, the {{people}} attending will be shown in the attendance table as usual, along with whatever extra columns the {{group}} data view contains.
 
-Go to {{work}} -> view -> {{work}} and right-click or use the menu button to open the record that you are interested in. Hover over the 'view full details' menu, and a sub menu appears listing all your {{group}} data views. 
+To do this:
 
-![Viewing work record with {{group}} data view](110b.png)
+- Find an {{activity}} record to view. This could be in {{work}} -> view -> {{work}}, or in a person's profile, for example.
+- Right-click the record in the table, or use the menu button to the left of it to open the context menu.
+- Hover over 'View full details', and a sub menu appears listing all your {{group}} data views:
 
-Click on one of these and the usual popup window will open for you to view the record, but with the extra information in the table of attendees. 
+![Viewing {{work}} record with {{group}} data view](110b.png)
+
+- Click on the one that you would like to use. The popup window will then open for you to view the record, and when you scroll down to the attendance table you will see the extra information in the table of attendees. 
 
 ![Viewing attendees with {{group}} data view](110c.png)
 
+
+##### Tags
+Experienced user
 
 ###### core module
