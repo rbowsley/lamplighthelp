@@ -2,7 +2,7 @@
 
 > Once you have saved a {{group}} data view it is possible to go back and edit it to show extra information, or to delete it altogether 
 
-To view a list of all the {{group}} data views on your {{Lamplight}} system:
+To view a list of all the {{group}} data views on your system:
 - Click '{{Group}}s -> {{group}} data views -> view'. 
 - A screen similar to the one below will show:
 
