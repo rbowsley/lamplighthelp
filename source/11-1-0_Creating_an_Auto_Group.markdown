@@ -12,7 +12,7 @@ To set up a new {{group}}:
 
 ![Creating an {{auto group}}](103a.png)
 
-**- The only two tabs that you have to fill out are the 'Group name' and '{{People}} and {{org}}s ones. You should pick the filters you need carefully from the other tabs.**
+**The only two tabs that you have to fill out are the 'Group name' and '{{People}} and {{org}}s ones. You should pick the filters you need carefully from the other tabs.**
 
 
 ### {{Group}} Name
