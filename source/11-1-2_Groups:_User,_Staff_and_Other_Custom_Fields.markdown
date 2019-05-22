@@ -24,7 +24,7 @@ Multi-select fields:
 
 ![Multi-select List](11.1.2b.png)
 
-  - 'Does have': people who do have and exact match to all the options that you select will be included. 
+  - 'Does have': people who do have an exact match to all the options that you select will be included. 
   - 'Does not have': people who do not have any of the options that you select will be included.
   - 'Has at least one of': people who have at least one (maybe more) of the options that you select will be included.
   - 'Has at least two of': people with at least two (maybe more) of the options that you select will be included.
