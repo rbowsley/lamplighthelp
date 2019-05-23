@@ -1,18 +1,26 @@
-#    13.3.0 Work {{Reports}}
+#    13.3.0 Work {{Report}}s
 
-> If you need to report on the {{work}} that you have been doing, then choose a {{work}} report. 
+> If you need to report on the amount of {{work}} that you have been doing, a {{work}} {{report}} is the place to start 
 
-{{Work}} {{report}}s provide a number of options of how to present and analyse your data, in the '{{Report}} Presentation' tab:
+A {{work}} {{report}} gives a numerical summary of of information from your {{work}} records. They can show the number of:
+- attendances
+- unique individuals
+- people hours
+- sessions.
 
-![{{Work}} {{report}} - presentation]({{imgpath}}131a.png)
+There are a number of options of how to present and analyse your data, in the '{{Report}} Presentation' tab:
 
-The display format enables you to change the way in which your data is presented: you may select as many of these as needed.
+![{{Work}} {{report}} - presentation](13.3.0a.png)
 
-The row data and column data select boxes enable you to segment your data by the characteristics of those attending. The options in the drop-down boxes are the select-box fields in user profiles (see section [8.7.0  Other information tabs](/help/index/v/{{version}}/p/8.7.0)). Note that if you select something in the 'Column data' drop-down you will not get a pie chart.
+Selecting row and column data enables you to segment your data by the characteristics of those attending (depending on the demographic information that you collect).
 
-The 'Data to show' options allow you to count your data in different ways. 
+For more information on choosing filters for your report, see [13.1.1 {{Report}} Filters](/help/index/p/13.1.1).
+For more information on {{report}} presentation, see [13.1.4 {{Report}} Presentation}}](/help/index/p/13.1.4).
 
 
-xxxxxxMore information to be added.xxxxxx
+##### Tags
+Reports
 
-xxxxxxReading the report - what do the different columns mean?xxxxxx
+###### core module
+
+
