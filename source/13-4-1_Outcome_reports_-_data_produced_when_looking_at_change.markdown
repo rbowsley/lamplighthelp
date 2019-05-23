@@ -1,27 +1,52 @@
-# 13.4.1   {{Outcome}} {{Report}}s - Data Produced When Looking at Change
+# 13.4.1 {{Outcome}} {{Report}}s - Data Produced When Looking at Change
 
-> The 'Difference between earliest and latest scores' looks at each {{person}}, and works out the difference between the earliest and latest scores in your date range. It then averages these for everyone. 
+> The 'Difference between earliest and latest scores' finds records for people who have had the {{outcome}} measure scored at least two times within the dates specified. It works out the difference between the first and last scores in the date range, then calculates the averages for everyone
 
-If you select 'Difference between earliest and latest scores' in the 'How to summarise the data', you will see a table similar to this:
+If you select 'Difference between earliest and latest scores' in the 'How to summarise the data' section of '{{Report}} presentation', you will see a table similar to this:
 
-![{{Outcome}}s {{report}}ing - difference between scores](133a.png)
+![{{Outcome}}s {{report}}ing - difference between scores](13.4.1a.png)
 
-The columns in this table show:
+### Table Columns
 
-  * {{Outcome}} - the name of the particular {{outcome}}
-  * Average change - the mean change across all {{people}} included in the {{report}}
-  * The number of people w. change - the number of {{people}} that had some change for this {{outcome}}, based on the {{report}} filters.
-  * Average positive change - the mean change for {{people}} where the later {{outcome}} was greater than the earlier (i.e. the scores increased)
-  * Average negative change - the mean change for {{people}} where the later {{outcome}} was less than the earlier (i.e. the scores decreased) 
-  * Maximum change - the largest change recorded
- * Minimum change - the smallest change recorded
-  * Standard deviation (SD) - calculated over all changes. This figure gives an indication of how 'different' the data are from one another. For example, if the average change was 3, and in fact everyone had a difference of 3, the SD would be 0. If on the other hand one person had a difference of 2, and the other a difference of 4, the SD would be 1. In general, a Standard Deviation near 0 means that the change is similar for everyone. As the SD gets larger, the {{outcome}}s for some people are changing more than for others
- * Average days for 1 point change - tells you how quickly people are achieving change. A value of 10 in this column would be interpreted as 'on average, it takes 10 days to achieve a 1 point increase in {{outcome}} x'. To calculate these figures, the system looks at the length of time between the two {{outcome}} scores for each person, and calculates the score difference divided by the time difference. The mean of these ratios is then calculated separately for each {{outcome}}. If the early and late date/times are equal, data are excluded (to avoid division by zero).
+- The columns in this table show:
 
-There are a number of additional statistics that {{Lamplight}} calculates: right-click on the green table header to see a menu showing these additional data, and click on the ones you want to show or hide.
+  - {{Outcome}} - the name of the particular {{outcome}} measure.
+  - Average change - the mean change across all {{people}} included in the {{report}}.
+  - Average initial score - the mean initial score across all {{people}} in the {{report}}.
+  - Average final score - the mean last score recorded within the date range for all {{people}} in the {{report}}.
+  - Number of people w. some data - the number of {{people}} that had their scores included in the {{report}}. They will need to have at least two scores for the {{outcome}} measure in the date range.
+  - Percentage with positive change - percentage of {{people}} included in the {{report}} whose later score has moved in a positive direction compared to the first (usually gone up).
+  - Percentage negative change - percentage of {{people}} where the later {{outcome}} was less positive than the earlier (usually gone down). 
+  
+- There are more columns that you can add to your table, for example the number of {{people}} with positive and negative change, rather than the percentages. To see the extra columns that are available, right click the coloured header row of the table.
 
-You can also generate an 'infographic' for a particular {{outcome}}, simply by clicking on the row of the table. This will take you down to show you some of the figures from the table, presented in a more visual manner to help you understand what they might be telling you. 
+![Extra Table Columns for the {{Outcome}}s {{Report}}](13.4.0c.png)
 
+- To add a column to your table, click on it in the list. To remove it, go back to the list and untick.
+
+### Visualisation
+
+- There three different charts that you can use to show your {{outcome}}s data. 
+- To view any of the measures using one of these visualisations, click on the menu button to the left of it in the table, or right click the table row. This will bring up a menu:
+[The Visualisation Menu](13.4.0d.png)
+  - **Radar Chart**
+  
+  ![The Radar Chart](13.4.0e.png)
+  
+  This shows all of the measures for the {{outcome}} category, plotted by their average initial and final scores.
+  
+  - **Infographic**
+
+  ![The Infographic](13.4.0f.png)
+ 
+  This is a visual depiction of the measure selected, using text and arrorws to demonstrate the changes.
+ 
+   - **Scatterplot**
+   
+   ![The Scatterplot](13.4.0g.png)
+   
+   Each point on this chart relates to the scores for one person. The yellow dots represent {{people}} whose scores have changed, blue dots those whose scores remained the same. It is a visual representation of the range of results achieved by individuals.
+   
 
 ###### core module
 
