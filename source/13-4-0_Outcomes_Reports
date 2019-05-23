@@ -1,8 +1,10 @@
-#    13.4.0 Outcomes Reports Overview
+#    13.4.0 {{Outcome}} {{Report}}s Overview
 
-> Outcomes {{reports}}show the impact of your work, and changes that have occurred
+> {{Outcome}} {{report}}s show the impact of your work on your {{user}}s over time
 
-The {{outcome}}s {{report}} summarises the changes over time recorded in the {{outcome}}s tab. The options available in the {{report}} presentation tab are:
+The {{outcome}}s {{report}} summarises the changes over time recorded in the {{outcome}}s tab. When a report is run Lamplight amalgamates all the responses to outcomes measures. You can use filters to narrow down who it is reporting on, or the dates you are interested in for example. For more on this, see [13.1.1 {{Report}} Filters](/help/index/p/13.1.1).
+
+The options available in the {{report}} presentation tab are:
 
 ![{{Outcome}}s {{report}} - presentation](132a.png)
 
