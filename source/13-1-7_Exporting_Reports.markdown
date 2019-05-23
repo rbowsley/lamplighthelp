@@ -1,16 +1,15 @@
-# 13.1.7 Exporting {{Report}}s
+# 13.1.7 Printing and Exporting {{Report}}s
 
-> When you run a {{report}} each table has a 'download' link below it. If you click this the table will be downloaded as a spreadsheet file. 
+> Once you have run a {{report}}, you can doWnload it as a spreadsheet, or open it in a printer-friendly format 
 
-Each table has a 'download' link below it:
 
-![Download data into a spreadsheet](130a.png)
+Under each {{report}} there are three options: 
 
-which if you click will download the table into a spreadsheet format.
+![Download data into a spreadsheet](13.7.1a.png)
 
-There are two other options below the report table: print and split print. 
+You can choose to download your data into a spreadsheet compatible with Excel or OpenOffice, or to open it in a new window that you can then print from.
 
-XXXXXXXXXXXXXXXXXXX More information to be added XXXXXXXXXXXXXXXXXX
+For more information on these options, see [3.5.4 Downloading and Printing Tables](/help/index/p/3.6.5).
 
 
 ###### core module
