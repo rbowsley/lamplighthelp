@@ -10,11 +10,9 @@ The {{outcome}}s {{report}} summarises the changes experienced over time by your
 
 There are four options in this drop-down. Each one will give you a different {{report}}.
 
--	‘Difference between earliest and latest scores’ enables you to report on your {{outcome}} measures, and how they have changed over time. Each {{person}} will need to have had a measure scored at least twice for it to be counted in this {{report}}, as it is showing difference.
--	‘Count number of ‘yes’ responses’. If you have any {{outcome}} with a yes/no response, you can choose to view the number of ‘yes’ and ‘no’ responses recorded between the dates that you have specified. 
-  - If a {{person}} has had more than one reponse recorded in this time, then both with be included in the results. 
-  - The scores are treated as 'no' = 0 and 'yes' = 1. 
--	‘Snapshot, view actual scores not change’. This calculates the average score recorded for each measure in the timescale you have chosen, rather than showing the change in it over time. It also gives the maximum and minimum score, and the number of people whose scores are being reported on.
+-	‘Difference between earliest and latest scores’ enables you to report on your {{outcome}} measures, and how they have changed over time. Each {{person}} will need to have had a measure scored at least twice for it to be counted in this {{report}}, as it is showing difference. See [13.4.1 Data Produced When Looking at Change](/help/index/p/13.4.1).
+-	‘Count number of ‘yes’ responses’. If you have any {{outcome}} with a yes/no response, you can choose to view the number of ‘yes’ and ‘no’ responses recorded between the dates that you have specified. See [13.4.2 Data Produced When Looking at Count Yes Responses](/help/index/p/13.4.2).
+-	‘Snapshot, view actual scores not change’. This calculates the average score recorded for each measure in the timescale you have chosen, rather than showing the change in it over time. See [13.4.3 Data Produced When Looking at a 'Snapshot'](/help/index/p/13.4.3).
  
 **Split Data**
 
@@ -23,57 +21,22 @@ There are four options in this drop-down. Each one will give you a different {{r
 
 ![Split Data in {{Outcome}} {{Report}}s](13.4.0b.png)
 
+- It is possible to analyse the differences in the impact you are having according to background factors in this way. 
+- Take care when analysing data in this way, particularly for fields with a large number of options. The number of people affected may be quite small, so you will need to be careful about the conclusions you draw.
 - It is best to use split data with a single {{outcome}} measure rather than a whole category (you can set this in the ‘{{Report}} filters’ tab), otherwise the tables can get cluttered.
 
 
 **How to Handle Dates**
 
 - {{Outcome}} {{report}}s are different to others in {{Lamplight}} because they measure change. That is why there are an extra two options which enable you to decide how {{Lamplight}} deals with dates.
-
-  - How should {{outcome}}s dated earlier than the 'date from' filter be handled?
+  - How should {{outcome}}s dated earlier than the 'date from' filter be handled?  
   If you choose 'measure from the earliest {{outcome}} ever recorded', {{Lamplight}} will ignore the 'Date from' on the '{{Report}} filters' tab, and look for the first score for each {{outcome}} in a {{person}}'s records.
-  - How should {{outcome}}s dated after than the 'date to' filter be handled?
-  - Choosing 'measure from the latest {{outcome}} ever recorded' means that {{Lamplight}} will ignore the 'Date to' on the '{{Report}} filters' page and use the most recent score for each {{outcome}}.
+  - How should {{outcome}}s dated after than the 'date to' filter be handled?  
+  Choosing 'measure from the latest {{outcome}} ever recorded' means that {{Lamplight}} will ignore the 'Date to' on the '{{Report}} filters' page and use the most recent score for each {{outcome}}.
 
-### The {{Outcome}}s {{Report}}
 
-- The default {{report}} table will show you:
-  - Average change.
-  - Average initial score.
-  - Average final score.
-  - Number of people with some data (this is the number of individuals {{Lamplight}} is reporting on).
-  - Percentage with positive change.
-  - Percentage with negative change.
-  
-- There are more columns that you can add to your table, for example the number of {{people}} with positive and negative change, rather than the percentages. To see the extra columns that are available, right click the coloured header row of the table.
 
-![Extra Table Columns for the {{Outcome}}s {{Report}}](13.4.0c.png)
 
-- To add a column to your table, click on it in the list. To remove it, go back to the list and untick.
-
-### {{Outcome}}s {{Report}} Visualisations
-
-- There three different charts available to view your {{outcome}}s data. 
-- To view any of the measures using one of these visualisations, click on the menu button to the left of it in the table, or right click the table row. This will bring up a menu:
-[The Visualisation Menu](13.4.0d.png)
-  - **Radar Chart**
-  
-  ![The Radar Chart](13.4.0e.png)
-  
-  This shows all of the measures for the {{outcome}} category, plotted by their average initial and final scores.
-  
-  - **Infographic**
-
-  ![The Infographic](13.4.0f.png)
- 
-  This is a visual depiction of the one measure selected, using text and arrorws to demonstrate the changes.
- 
-   - **Scatterplot**
-   
-   ![The Scatterplot](13.4.0g.png)
-   
-   Each point on this chart relates to the scores for one person. The yellow ones are for {{people}} whose scores have changed, blue ones are for {{people}} whose scores remained the same. It is a visual representation of the range of results achieved by individuals.
-   
 
 ##### Tags
 Reports
