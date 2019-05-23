@@ -7,7 +7,7 @@ Under each {{report}} table there are three options:
 
 ![Download Data into a Spreadsheet](13.7.1a.png)
 
-You can choose to download your data into a spreadsheet compatible with Excel or OpenOffice, or to open it in a new window that you can then print from.
+You can choose to download your data into a spreadsheet compatible with Excel or OpenOffice, or to open it in a new window in a printer-friendly format.
 
 For more information on these options, see [3.5.4 Downloading and Printing Tables](/help/index/p/3.6.5).
 
