@@ -1,11 +1,11 @@
 # 13.1.7 Printing and Exporting {{Report}}s
 
-> Once you have run a {{report}}, you can doWnload it as a spreadsheet, or open it in a printer-friendly format 
+> Once you have run a {{report}}, you can download it as a spreadsheet, or open it in a printer-friendly format 
 
 
-Under each {{report}} there are three options: 
+Under each {{report}} table there are three options: 
 
-![Download data into a spreadsheet](13.7.1a.png)
+![Download Data into a Spreadsheet](13.7.1a.png)
 
 You can choose to download your data into a spreadsheet compatible with Excel or OpenOffice, or to open it in a new window that you can then print from.
 
