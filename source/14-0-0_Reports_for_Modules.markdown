@@ -1,8 +1,8 @@
 # 14.0.0 {{Report}}s for Modules
 
-> If your {{Lamplight}} system has modules then you will be able to run further reports on these.
+> If your {{Lamplight}} system has modules then you will be able to run further {{report}}s on these
 
-The module reports are:
+The module {{report}}s are:
 
 - [14.1.0 {{Comm}}s {{Report}}](/help/index/p/14.1.0): this counts and presents information on {{comm}}s made.
 - [14.2.0 {{Eval}} {{Report}}](/help/index/p/14.2.0): this summarises responses to {{eval}} questionnaires.
