@@ -1,20 +1,42 @@
 # 14.2.0    {{Eval}} {{Report}}
 
-> The {{eval}} {{report}} presents summaries of {{eval}} questionnaires completed. The {{report}} shows each question, with the number (or percentage) of responses for each option. 
+> The {{eval}} {{report}} presents summaries of completed {{eval}} questionnaires. The {{report}} shows each question, with the number (or percentage) of responses for each option 
 
-In the '{{Report}} filters' tab there is an additional option, 'Select {{eval}}', listing the {{eval}}s available. You will need to select the relevant {{eval}} from this list.
+### {{Report}} Filters
 
-The {{report}} will produce a series of tables, one for each question in the {{eval}}.
+- From the main menu select {{report}}s -> {{eval}}s {{report}}. 
+- Enter the filter information as required. This is the same as for other {{report}} types (see [13.1.1 {{Report}} Filters](/help/index/p/13.1.1) for more information).
+- At the bottom of the filters page there are two more options - 'Select 'eval' and 'Select campaign' (you will only see the second of these if you have the {{Eval}}s Direct Module. 
+  - 'Select eval' lets you choose a specific type of evaluation to report on. This means that, if you have an exit questionnaire, for example, you can report on all the responses across the year. If you do not select one of these options then {{Lamplight}} will give results for all your {{eval}}s.n the '{{Report}} filters' tab there is an additional option, 'Select {{eval}}', listing the {{eval}}s available. You have to choose one of these - the top option is always selected by default.
+  - 'Select campaign'. If you have the Datadirect Module you will also see this option. Each time you set up a new {{eval}} to send out, this is called a 'campaign'. You can choose the one that you want to report on from the drop-down. If you do this, {{Lamplight}} will igore the evaluation chosen in the 'Select evaluation' box above.
 
-![{{Eval}}s {{report}} results]({{imgpath}}138a.png)
+### The {{Report}} Results
 
-If {{eval}}s have been entered as linked to a particular {{person}}, it is possible to split data by background factors of those {{people}}, using the 'Column data' drop- down.
+- The {{report}} will produce a series of tables, one for each question in the {{eval}}.
 
-Once you have run the {{report}} initially, an extra tab will be added: '{{Eval}} filters'. This enables you to filter the {{report}} for responses to one or more questions. Select the filters you wish to use and run the {{report}} again for a smaller set of {{eval}} responses. In the example above, you may wish to see the responses for people who felt the course did not meet their expectations, to try and establish why not.
+![{{Eval}}s {{report}} results](14.2.0a.png)
 
-![{{Eval}}s {{report}} - question filters](138b.png)
+- If {{eval}}s have been entered as linked to a particular {{person}}, it is possible to split data by demographic information of those {{people}} using the 'Column data' drop- down.
+
+### {{Eval}} Filters
+
+- Once you have run the initial {{report}} an extra tab will be added: '{{Eval}} filters'. This enables you to filter the {{report}} by responses to one or more questions. For example, in our report we want to filter it to show what eveyone who accessed the 'High trees' service responded to the rest of the survey.  
+
+![{{Eval}}s {{Report}} Filters](14.2.0b.png)
+
+- Select the filters you wish to use and run the {{report}} again for a smaller set of {{eval}} responses. 
 
 The results in the tables will now be shown just for those people that said 'no' to the first question. 
 
+### Downloading Your Results
+
+- Under the results tables you get three options to download your data:
+
+![{{Eval}} {{Report}} Download Options](14.2.0c.png)
+
+  - Download as document. This will open as a Word (or open source) document with a table for each response.
+  - Download as tables in one spreadsheet. This opens a spreadsheet with one question on each worksheet.
+  - Exports all the data into a spreadsheet. If the separate surveys went out to individuals (rather than one survey to all) names will     be included on the sheet, so you will need to take care that it is suitably encrypted to protect personal data.
+ 
 ###### eval module
 
