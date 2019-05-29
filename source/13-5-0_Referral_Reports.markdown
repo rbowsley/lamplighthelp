@@ -1,25 +1,43 @@
-#    13.5.0 {{Referral}} {{Report}}s
+# 13.5.0 {{Referral}} {{Report}}s
 
->{{Referral}}{{report}}s allow you to count and summarise {{referral}}s within specific timeframes
+> {{Referral}} {{report}}s allow you to count and summarise {{referral}}s within the timeframe you set
 
 
-{{Referral}} {{report}}s collate information captured within {{referral}} records, and information collected about those involved in the {{referral}}s can be used to add additional {{report}} presentation options. 
+{{Referral}} {{report}}s collate information from your {{referral}} records. You can also use data from fields in profiles to show the results in different ways. (For more on {{report}} presentation, see [13.1.4 {{Report}} Presentation](/help/index/p/13.1.4)). 
 
-To run a {{referral}} {{report}}, on the main menu click on {{report}}s -> more -> {{referral}} {{report}} 
+### Running a {{Report}}
 
-![{{Referral}} {{report}} results](185a.png)
+To run a {{referral}} {{report}}:
 
-The {{referral}} success and direction can be used as filters for this {{report}}. The options within them may vary as your system administrator is able to customise the lists to reflect how you need to capture your {{referral}} data. 
+- On the main menu click '{{report}}s -> more -> {{referral}} {{report}}'.
+- You will come to the '{{Report}} filters' screen:
 
-![{{Referral}} {{report}} presentation](185b.png)
+![{{Referral}} {{report}} results](13.5.0a.png)
 
-The display format enables you to change the way in which your data is presented: you may select as many of these as needed. 
+- Most of the filters are the same as for other reports (see [13.1.1 {{Report}} Filters](/help/index/p/13.1.1)).
+- At the bottom you have filters for {{referral}} success and direction. The options within them will vary as they are lists which have been customised for your system to reflect the information you capture in {{referral}} records. 
+- If you do not choose anything from these fields, then your {{report}} will return information from records whatever their success or direction.
 
-The row data and column data select boxes enable you to segment your data by the characteristics of those attending. The options in the drop-down boxes are the select-box fields in user profiles (see section [8.7.0  Other information tabs](/help/index/p/8.7.0) ). Note that if you select something in the 'Column data' drop-down you will not get a pie chart. 
 
-The 'Data to show' options allow you to count your data in different ways. 
+### {{Report}} Presentation
 
-More information to be added
+![{{Referral}} {{report}} presentation](13.5.0b.png)
 
+You to change the way in which your data is presented. For more on this see [13.1.4 {{Report}} Presentation](/help/index/p/13.1.4).
+
+
+### The {{Report}} Results
+
+Your {{report}} table will show:
+
+![{{Referral}} {{Report}} table](13.5.0c.png)
+
+- Number of {{referral}}s. This is the number of {{referral}} records between the dates selected.
+- Number of {{people}} involved in {{referral}}s. This will show you the number of {{people}} in the attendance tables of these {{referral}} records. This will be affected by the 'Role' filter - if you have just chosen {{staff}}, for example, the number will relate only to the {{staff}} in those records.
+- Number of different {{people}}. These are the unique individuals. If the same {{person}} has attended three separate {{referral}}s, they will be counted all three times in the 'Number of {{referral}}s' column, but only once in 'Number of different {{people}}.
+
+
+##### Tags
+Reports
 
 ###### core module
