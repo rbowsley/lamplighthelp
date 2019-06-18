@@ -31,7 +31,8 @@ You have three options:
   - Each figure in the table is the average number of {{people}} on the {{waiting list}} each week (or month). {{Lamplight}} calculates these figures by checking how many {{people}} were on the {{waiting list}} each day, and averaging this over the number of days in the week or month. 
   - Below that is a graph showing the same data. 
   
-**How to Handle Dates**
+**How to Handle Dates**  
+
 This section allows you to use the dates you've selected on the '{{Report}} filters' page in one of three ways:
 - Show for everyone on the {{waiting list}} between the two dates. This is the default option and will give the number of {{people}} on the {{waiting list}} at any point between the dates including:
   - {{people}} who were on it before the start and after the end date; 
