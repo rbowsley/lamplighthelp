@@ -1,21 +1,30 @@
 # 14.4.0    {{Staff}} Timesheet {{Report}}
 
-> {{Staff}} timesheet {{report}}s provide a summary and breakdown of how {{staff}} time is spent, captured through the {{Staff}} Management Module 
+> {{Staff}} timesheet {{report}}s provide a breakdown of how {{staff}} time is spent, captured through the {{Staff}} Management Module 
 
-Information for {{staff}} timesheet {{reports}} is taken from {{work}} records and non-contact records. 
+Information for {{staff}} timesheet {{report}}s is taken from {{work}} and non-contact records. 
 
+### To Run a {{Staff}} Timesheet {{Report}}
 
-
-To run a {{staff}} timesheet {{report}}:
--  On the main menu go to {{report}}s -> more -> {{staff}} timesheet {{report}} 
-
-![{{Staff}} timesheet {{report}} results](184a.png)
-
+- On the main menu go to {{report}}s -> more -> {{staff}} timesheet {{report}}. 
 - Choose the filters you need as for any {{report}} (for more on this see [13.1.1 {{Report}} Filters](/help/index/p/13.1.1)).
 - At the bottom of the page, click 'run {{report}}'.
-The {{report}} presentation tab allows you to select how you wish to view the {{report}} data. Once the selection has been made, click 'run {{report}}' in the bottom right hand corner. 
+- You will only see data for the {{staff}} that you manage.
 
-If you wish to show timesheets combined across all {{project}}s, the system administrator can, via the admin menu, make this alteration. Go to admin -> system administration -> change global settings -> {{staff}} module. 
+### {{Report}} Presentation
+
+The {{report}} presentation tab allows you to select how you wish to view the {{report}} data. 
+
+**Split Tables**
+- Split tables are a way of separating the data. For example, if you choose to split the data by {{staff}} name then your results will be shown in a separate table for each member of {{staff}}.
+
+**Row and Column Data** 
+- Row and column data. You can choose which data to show in your rows and columns. For example, the table below shows {{staff}} names in the rows, and months as the columns. The numbers shown are hours. 
+
+![{{Staff}} Management Module Results](14.4.0a.png)
+
+Once the selection has been made, click 'run {{report}}' in the bottom right hand corner. 
+
 
 ###### staff module
 
