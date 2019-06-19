@@ -16,7 +16,7 @@ You can also left click on a box and drag it to change the order in which it app
 
 - **Template to Use on Diary Items**
 
-This can change what basic information you see on your homepage diary. By default you will see the beginning and end time of each record in the diary, and information taken directly from the ‘summary’ box in the work record. You can change this by adding in more information by choosing from the template strings under the box, for example {location}. 
+This can change what basic information you see on your homepage diary. By default you will see the beginning and end time of each record in the diary, and information taken directly from the ‘summary’ box in the work record. You can add in more information by choosing from the template strings under the box, for example {location}. 
 
 Each separate string is shown in {}. If you are adding these to the diary template, you will need to separate each with a colon or dash. So if, as in the example above, you were adding in ‘location’, the text in your ‘Template to use on diary items’ box would look like this:
 {start_time} - {end_time}:  {SUMMARY}: {location}
@@ -25,7 +25,7 @@ And when looking at a record in your diary, it would show like this:
 
 ![Home Page Diary](16.4.1c.png)
 
-If you want this information to show in the diary, you will need to ensure you are recording it in your work records. 
+If you want information to show in the diary, you will need to ensure you are recording it in your work records. 
 
 - **{{Group}} Data View to Use on My {{User}}s Home Page Tab**
 
@@ -60,7 +60,7 @@ After you have saved changes to this option, refresh your browser for the change
 
 - **Show {{Linked Case}} Options on Context Menus**
 
-You you use {{linked case}}s, tick this box to include options relating to them on context menus.  
+If you use {{linked case}}s, tick this box to include options relating to them on context menus.  
 If you do not choose to do this, when you are viewing the menu for a {{work}} record your options will look like this:
 
 ![Context Menus Without {{Linked Case}} Options](16.4.1g.png)
@@ -77,14 +77,13 @@ Refresh your browser for changes to take effect.
 
 ![Timeout Warning Box](16.4.1i.png)
  
- 
-- **Show Keyboard Shortcuts**
+ - **Show Keyboard Shortcuts**
 
-Use this drop-down if you would like to be able to use keyboard shortcuts to navigate around {{Lamplight}}. Once you have selected one of these options a number or letters will appear on the tabs you can navigate to: use alt+[option] on the keyboard to navigate to this tab without using the mouse.
+Use this drop-down if you would like to be able to use keyboard shortcuts to navigate around {{Lamplight}}. Once you have selected one of these options a number or letters will appear on tabs: use alt+[option] on the keyboard to navigate to this tab without using the mouse.
  
 ![Keyboard Shortcuts](16.4.1j.png)
  
-   Refresh your browser for the changes to take effect.
+Refresh your browser for the changes to take effect.
    
  - **Open Pop-ups In**
  
@@ -92,7 +91,7 @@ Use this drop-down if you would like to be able to use keyboard shortcuts to nav
 
 - **Use Tabs on Forms**
 
-By default, {{Lamplight}} shows forms such as {{work}}, {{referral}} and {{outcome}}s records split into separate tabs. If you untick this box, when you go to enter a new {{work}} record, instead of seeing it across a number of tabs it will appear as one long form.
+By default, {{Lamplight}} shows forms such as {{work}}, {{referral}} and {{outcome}} records split into separate tabs. If you untick this box, when you go to enter a new {{work}} record, instead of seeing it across a number of tabs it will appear as one long form.
 With this box checked your {{work}} record appears like this:
 
 ![{{Work}} Record With Tabs](16.4.1k.png)
