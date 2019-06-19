@@ -98,7 +98,7 @@ With this box checked your {{work}} record appears like this:
 
 With the box unchecked there are no tabs at the top:
 
-![{{Work}} Record With Tabs](16.4.1l.png)
+![{{Work}} Record Without Tabs](16.4.1l.png)
 
 
 Refresh your browser for any changes to take effect.
