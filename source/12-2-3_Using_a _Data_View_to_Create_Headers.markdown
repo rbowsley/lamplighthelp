@@ -23,6 +23,10 @@ In this section, you can choose either to set the same header for all profiles, 
 - If you want a to use a different data view for some profile types (so you can differentiate between {{staff}} and {{user}}s for example, you can choose different headers for different profiles in the following boxes. For example, ‘List data view to use in {{person}} – {{staff}} profiles’, will select the header you see when you view a {{staff}} profile.
 - If you select a default option and the different data views for some of the other profile types, the default will show in all profiles which don’t have a different data view selected.
 
+We have a video on this too!
+
+<iframe src="https://player.vimeo.com/video/279244805" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 ##### Tags
 Time saving tips
