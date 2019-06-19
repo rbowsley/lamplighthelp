@@ -20,5 +20,8 @@ Once changes have been made, always click 'Save' in the bottom right hand corner
 To fully refresh and update the system after making changes, press F5 on your keyboard. 
 
 
+##### Tags
+Time saving tips
+
 ###### core module
 
