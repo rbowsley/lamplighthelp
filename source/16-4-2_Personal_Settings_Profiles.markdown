@@ -33,7 +33,7 @@ There are a number of settings which use {{group}} data views to display informa
    
    ![No {{Group}} Data View on Relationships Tab](16.4.2d.png)
    
-   - **Which Tab to Show Initially When Viewing Profiles**
+ - **Which Tab to Show Initially When Viewing Profiles**
 
    Choose from the drop-down list which tab will be displayed first when you open a profile. Note that some tabs will not always be visible on all profiles (especially custom tabs). For example, you may have a ‘personal details’ tab which is present on your clients’ profiles, but not for staff.
 
