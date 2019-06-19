@@ -32,7 +32,7 @@
    Use this drop-down list to select a {{group}} data view you would like to apply on your ‘My {{User}}s’ home page tab. This will customise the information that appears in the table of that tab. 
    For example, if you have a data view showing address details, and choose to use that to view your ‘my {{user}}s’ table, it would look something like this:
 
-![My Clients Tab](16.4.1d.png)
+   ![My Clients Tab](16.4.1d.png)
 
 - **Colour Scheme**
 
