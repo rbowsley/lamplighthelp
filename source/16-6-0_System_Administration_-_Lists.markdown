@@ -8,28 +8,30 @@ There are a number of drop-down lists which exist in {{Lamplight}}. These can al
 
 When you make changes to a drop-down list, it can have an effect on your existing data.  It’s very important to consider this before you start.
 
-- If you delete an item from a list, this will remove the item from the existing list and you will not be able to see where this was previously selected. For examples, anyone who had a ‘parent/child relationship’, will no longer have that relationship if you delete the option.
-- Changing the name can also affect your data.  If for example you change the attendance type option ‘Cancelled’, to ‘Booked’, then everyone previously listed as ‘Cancelled’ will now show as 'Booked'.  This would affect your reporting, and your view of completed activities.
+- If you delete an item from a list, this will remove the item from the existing list and you will not be able to see where this was previously selected. For example, if you delete the 'parent/child' relationship, this will no longer show in the profile of anyone who was previously recorded as having it.
+- Changing the name can also affect your data.  If for example you rename the attendance type option ‘Cancelled’ to ‘Booked’, everyone previously listed as ‘Cancelled’ will now show as 'Booked'.  This would affect your reporting, and your view of completed activities.
 
+**To Find the Relevant List**
 
-**To find the relevant list:**
-- Click admin on the main menu, then choose system administration.
-- Under the Manage drop-down list section, click on the list you would like to alter.
+- Go to 'admin -> system admin -> Manage Custom Fields and Drop-down Lists'.
+- Click on the list you would like to alter.
 
-**To edit existing items:**
+**To Edit Existing Items:**
 
-- Mover your mouse over the text you want to edit and double-click: 
+- Find the list that you item is in, and the relevant item in the list. 
+- Hover your mouse over the text you want to edit and double-click.
 
-![Editing lists]({{imgpath}}144a.png)
+![Editing lists](144a.png)
 
-- make your changes, and press the 'enter' key to save them.
+- Make your changes, and press the 'enter' key to save them.
 
-**To re-order items already in the list:**
+**To Re-order Items Already in the List:**
 
-- drag the box by clicking on the box and holding the mouse button
-- move it to the new position
-- release the mouse button. Other items in the list will move out of the way as you move the item up or down. 
-- the new order will be saved when you release the mouse button.
+- Find the item that you want to move in the list. 
+- Left click on it and hold down the mouse button. 
+- Move the box to its new position.
+- Release the mouse button. Other items in the list will move out of the way as you move the item up or down. 
+- The new order will be saved when you release the mouse button.
 
 ![Editing lists - re-ordering items](144b.png)
 
@@ -40,10 +42,15 @@ When you make changes to a drop-down list, it can have an effect on your existin
 - Click 'enter' on the keyboard to save. 
 - Continue this process until all the options you need have been added. 
 
-**To delete an item:**
+**To Delete an Item:**
 
-- drag it to the grey 'Drag here to delete' box at the bottom. 
+- Find the item you would like to delete in the list.
+- Drag it to the grey 'Drag here to delete' box at the bottom. 
+- Drop it on top of the box.
 
+
+##### Tags
+System admin
 
 ###### core module
 
