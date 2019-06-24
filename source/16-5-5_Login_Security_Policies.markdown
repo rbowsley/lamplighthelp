@@ -6,27 +6,30 @@ Login security policies relate to the IP addresses that {{Lamplight}} can be acc
 
 **Creating a Login Security Policy**
 
-- Click ‘admin’ in the main menu, then ‘system administration’
-- In the ‘Manage database operators’ section, click ‘Set up login security policies’.
+- Go to ‘admin -> system administration -> Database Operators and Security -> Set up login security policies’.
 - You will see a screen like this:
 
+[Log-in Security Policies](16.5.5a.png)
 
-
-
-
-- Click the ‘add new’ button.
+- Any policies that you already have will be at the top of the page (so in the example above we just have one - 'Main Office Mon-Wed).
+- Click the ‘add new’ button at the bottom.
 - Give your login security policy a name.
-- If you have static IP addresses and want to restrict access to Lamplight to the ones you specify, you can enter multiple addresses here, on different rows. 
-- You can set days and times for the policy (times used are GMT/BST).
+- If you have static IP addresses and want to restrict access to Lamplight to the ones you specify, you can enter multiple addresses in the 'Ip addresses to allow access from' box. Each one should be on a different row.  
+- If you want to restrict operator access to specific days and times you can use the boxes underneath (times used are GMT/BST).
 
 **Appying a Login Security Policy
 
-- Click ‘admin’ in the main menu, then ‘system administration’.
-- In the ‘Manage database operators’ section, click ‘Add, edit and remove database operators’.
-- Find the database operator you want to apply the policy to in the table and access the contextual menu by right-clicking anywhere in the row (or left-clicking the menu button in the left-hand column).
-- Click ‘Edit’.
-- At the bottom of the popup window, select the login security policy to apply.
+- Go to ‘admin -> system administration -> Database Operators and Security -> Manage database operators'.
+- Find the database operator you want to apply the policy to in the table.
+- Right-click anywhere in their row or left-click the menu button in the left-hand column.
+- From the pop-up menu choose ‘Edit’.
+- In the next pop-up window, select the login security policy to apply from the drop-down list.
+
+[Applying a Log-in Security Policy](16.5.5b.png)
+
 - An operator trying to log in at a time, or from an IP address, that is not allowed will see a message saying that they cannot log in at present. 
+
+[Lockout Message](16.5.5c.png)
 
 
 ###### core module
