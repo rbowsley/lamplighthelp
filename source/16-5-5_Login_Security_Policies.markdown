@@ -17,7 +17,7 @@ Login security policies relate to the IP addresses that {{Lamplight}} can be acc
 - If you have static IP addresses and want to restrict access to Lamplight to the ones you specify, you can enter multiple addresses in the 'Ip addresses to allow access from' box. Each one should be on a different row.  
 - If you want to restrict operator access to specific days and times you can use the boxes underneath (times used are GMT/BST).
 
-**Appying a Login Security Policy
+**Appying a Login Security Policy**
 
 - Go to ‘admin -> system administration -> Database Operators and Security -> Manage database operators'.
 - Find the database operator you want to apply the policy to in the table.
@@ -31,5 +31,13 @@ Login security policies relate to the IP addresses that {{Lamplight}} can be acc
 
 [Lockout Message](16.5.5c.png)
 
+Why not watch our video demonstration? (Please note, the layout of the system administration page has changed since this video was recorded, but the process is the same).
+
+<iframe src="https://player.vimeo.com/video/293151730" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+##### Tags
+Advanced topics
+System admin
 
 ###### core module
