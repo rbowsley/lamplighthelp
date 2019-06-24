@@ -45,7 +45,7 @@ Before you make any changes, you need to be aware of the implications of editing
 
 Before you delete an {{outcome}} you need to be aware of the implications. For more on this see 'Things to Consider' in [16.6.1 System Administration: Adding and Editing {{Workarea}}s](/help/index/p/16.6.1).
 
-- YOu can delete either a whole {{outcome}} category, or specific measures within a category.  
+- You can delete either a whole {{outcome}} category, or specific measures within a category.  
 - Either click at the top next to the category name (to delete the category), or next to the indicator text (for an individual indicator). 
 - Hold down the mouse button and drag it to the grey ‘Drag here to delete’ box at the foot of the page.
 - Release the mouse button to drop it in the box.
