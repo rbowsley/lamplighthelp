@@ -51,7 +51,7 @@ You can delete a whole {{workarea}} with all its related {{subworkarea}}s in one
 - Drop it in the box. (If you have just created the {{workarea}} you will need to leave this page and return before you can delete it).
 - This is now deleted. You do not need to do anything else, but it will continue to show in the grey box until you leave this page and re-open it. 
 
-[Deleted {{Workarea}](16.6.1c)
+[Deleted {{Workarea}}](16.6.1c)
 
 
 ###### core module
