@@ -4,7 +4,7 @@
 
 {{Workarea}}s and {{subworkarea}}s are managed in a similar way to other lists in system administration (see section [16.6.0  System Administration - Lists](/help/index/p/16.6.0)).
 
-### Things to Consider When Making Changes to {{Workareas}}
+### Things to Consider When Making Changes to {{Workarea}}s
 
 - When a work record is saved, the {{workarea}} and {{subworkarea}}s selected within that record are saved with it.  
 - If you edit the {{workarea}} or {{subworkarea}} in system administration this will change the {{workarea}} or {{subworkarea}} in all the records where the  original one was recorded. For example, if you edit Counselling so that it is now Sports, every record that had a {{workarea}} of Counselling will now have one of Sports.  
@@ -17,7 +17,7 @@
 
 {{Workarea}}s are added and edited in the same way as other drop-down lists, but they have another subset ({{subworkarea}}s) to think about. 
 
-![Editing {{workarea}}s and {{outcome}}s](145a.png)
+![Editing {{Workarea}}s and {{Outcome}}s](145a.png)
 
 - Go to 'system admin -> Manage Custom Fields and Drop-down Lists -> {{Activity}} Records -> {{Workarea}}s.
 - Existing {{workarea}}s are shown at the top. Scroll down the screen to find the box at the end with the text 'double-click to add'. 
@@ -40,7 +40,7 @@ Before editing or deleting {{workarea}}s please see the notes above. As a genera
 - Find the text that you need to edit and double-click on it.  
 - Make the changes then press enter on your keyboard to save.
 
-**To Delete a {{Workarea}} or {{Subworkarea}}**
+**Deleting a {{Workarea}} or {{Subworkarea}}**
 
 Before you delete a {{workarea}} or {{subworkarea}} see 'Things to Consider' above. 
 
@@ -52,6 +52,7 @@ You can delete a whole {{workarea}} with all its related {{subworkarea}}s in one
 - This is now deleted. You do not need to do anything else, but it will continue to show in the grey box until you leave this page and re-open it. 
 
 [Deleted {{Workarea}](16.6.1c)
+
 
 ###### core module
 
