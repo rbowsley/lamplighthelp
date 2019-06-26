@@ -30,11 +30,11 @@ The {{group}} name and a description are compulsory - you can't save your choice
 - You must choose whether your auto {{group}} will include {{people}}, {{org}}s or {{families}} - you cannot have a mixture. If you need more than one of these types, you can create a {{group}} for each and them merge them (see [11.3.0 Creating a Merge {{Group}}](/help/index/p/11.3.0) for more details). 
 - Unlike most fields in auto {{groups}}, the 'who are' choice (e.g. {{user}}, {{staff}},{{contact}} etc.) is an 'OR' search, so it will include those that meet **any** of the criteria selected, not those that meet all of them. 
 - Next is the option to select the date profiles were added to the system.
-  - 'Greater than or equal to' means on this date or after it. So greater than or equal to 1st January 2019 would give you every profile which had been added to the system on or after 1st January 2019.
-  - 'Less than or equal to' means on this date or before it. So again, if you  put in 1st January 2019, you would see all profiles added on or before 1st January 2019.
-  - 'Equal to' means on that date. As with previous examples, using 1st January 2019 would only show you people added that day.
-  - 'Between.' If you choose this option, a second date box will appear so that you can specify two dates. For example, if you want to see all the profiles added in 2018, you would specify between 1st Jaunary 2018 and 31st December 2018. The dates in this filter are inclusive (so records falling on that day will be added to the {{group}}.
-- The 'visibility' drop-down box allows you to choose whether your {{group}} will be made up of people who are active on your system, or those who have been archived. For more on archiving, see [16.8.2 Archiving Profiles](/help/index/p/16.8.2). You cannot mix current and archived profiles in the same auto {{group}}.
+  - On or after. 
+  - On or before.
+  - On.
+  - Between. If you choose this option, a second date box will appear so that you can specify two dates. 
+- The 'Visibility' drop-down box allows you to choose whether your {{group}} will be made up of people who are active on your system, or those who have been archived. For more on archiving, see [16.8.2 Archiving Profiles](/help/index/p/16.8.2). You cannot mix current and archived profiles in the same auto {{group}}.
 
 For information on the other filter choices for {{group}}s, see:
 
