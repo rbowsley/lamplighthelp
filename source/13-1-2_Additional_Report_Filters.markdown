@@ -8,11 +8,17 @@ Each system will have custom fields that have been added so that {{Lamplight}} c
 
 ### Things to Remember When Filtering:
 
-**Date and Number Select List**
-- 'Greater than or equal to': people with a value greater (or later) than or equal to the value you specify will be included.
-- 'Less than or equal to': people with a value less (or earlier) than or equal to the value you specify will be included.
-- 'Equal to': only those that match this number or date will be included.
-- 'Between': people who have a number or date recorded on or between the two that you specify will be included.
+**Number Select List**
+- 'At least': people with a value greater than or equal to the value you specify will be included.
+- 'Up to and including': people with a value less than or equal to the value you specify will be included.
+- 'Exactly': only those that match this number will be included.
+- 'Between': people who have a number recorded on or between the two that you specify will be included.
+
+**Date Select List**
+- 'On or after': includes the date that you specify.
+- 'On or before': includes the date that you specify.
+- 'On': must match the date.
+- 'Between': records that are on or between the two dates that you specify will be included.
 
 **Multi-select List**
 - 'Does have': people who do have an exact match to all the options that you select will be included.
