@@ -23,7 +23,7 @@ Again, you can tick and untick the checkboxes to customise the location of the r
 
 ### Colour Scheme
 
-By default the appointmnents in the diary are coloured according the {{workarea}} that they belong to. There is an option under the {{workarea}} and location lists which allows you to change this to be coloured by the location that they are happening in.
+By default the appointments in the diary are coloured according the {{workarea}} that they belong to. There is an option under the {{workarea}} and location lists which allows you to change this to be coloured by the location that they are happening in.
 
 ![Diary Colour Scheme Based On](4.1.2c.png)
 
