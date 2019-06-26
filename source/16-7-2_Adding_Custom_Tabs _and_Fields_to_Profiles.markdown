@@ -11,11 +11,11 @@
 
 If you are doing this for the first time, you will see a fairly blank screen:
 
-![Setting up custom fields and tabs]({{imgpath}}146a.png)
+![Setting up custom fields and tabs](146a.png)
 
-   - The left-hand panel lists the tabs currently set up. (There are some default tabs in profiles, Contact detailsfor example, whic you can't edit. You will not see them in this list).
-   - The central panel will list the fields available in a particular tab. 
-   - The right-hand panel will show details for a particular field within a tab.
+- The left-hand panel lists the tabs currently set up. (There are some default tabs in profiles, 'Contact details' for example, which you can't edit. You will not see them in this list).
+- The central panel will list the fields available in a particular tab. 
+- The right-hand panel will show details for a particular field within a tab.
 
 
 PICTURE HERE
