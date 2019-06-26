@@ -2,23 +2,13 @@
 
 > It is important to think about what type of field you need - if it is just for qualitative information, or whether it is something that you will need to use for reporting in the future
 
-
-STILL VERY MUCH IN PROCESS Need a desripton of what the different reporting options mean with links
-
-
 The choice of fields that can be added is the same wherever you are  putting them. When making a decision on which field to choose, think carefully about not only what information you would like to capture, but also how you will need to report on it. You can run a report using the information in a drop-down list, for example, but while a free-text field is good for storing qualitative information, you will not be able to use it in reports or {{group}}s.
 
-**Reporting on custom fields?**
+**Reporting on Custom Fields**
 
-There are a number of different ways in which custom fields in profiles can be used to report on. Depending on the type of field that you choose you will be able to:
+There are a number of different ways in which custom fields in profiles can be used for reporting. 
 
-
-
-
-The table below gives details of how you can use each type of field to report on. 
-
-**Types custom field**
-PICTURES?
+The table below gives details for each type of field. 
 
 
 | Field name | Description |For filtering reports | For presenting reports | For creating {{group}}s | As a {{group}} data view column |
@@ -44,14 +34,29 @@ PICTURES?
 | Web address | For additional websites - also providing a link to the site | No | Yes | Yes | Yes |
 
 
+**What Will This Look Like in My System?**
+
+![Single Select Fields](16.7.1a.png)
+
+![Multi Select Fields](16.7.1b.png)
+
+![Specific Data Type Fields](16.7.1c.png)
+
+![Text Fields](16.7.1d.png)
+
+![Titles and Explanations](16.5.1e.png)
+
 **Linked Fields**
 
 Linked fields are useful for saving information that you will view through the profile. You will not be able to use them in reports, {{groups}} or {{group data views}}.
 
-Most of the time your fields will have a single value that doesn't change (unless you enter an incorrect value by mistake!). For example, a person only has one date of birth, and this will never change. In some other cases you may need to be able to enter multiple records under a particular field. For example, you may need to be able to enter multiple text entries describing medical conditions as a person's medical condition changes. You may also need to be able to {{group}} a set of records together - in this example you may need a 'date diagnosed' field, a 'description of condition' field, and a medication 'field', all linked together. On the profile, this would be displayed as a table:
+Most of the time your fields will have a single value that doesn't change (unless you enter an incorrect value by mistake). For example, a person only has one date of birth, and this will never change. In some other cases you may need to be able to enter multiple records under a particular field. For example, you may need to be able to enter multiple text entries describing medical conditions as a person's medical condition changes. You may also need to be able to {{group}} a set of records together - in this example you may need a 'date diagnosed' field, a 'description of condition' field, and a medication 'field', all linked together. On the profile, this would be displayed as a table:
+
+![Linked Fields](16.7.1f.png)
 
 
-
-
+##### Tags
+System admin
+Advanced topics
 
 ###### core module
