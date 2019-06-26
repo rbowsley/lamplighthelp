@@ -11,14 +11,12 @@ These tabs contain the filters relating to the information in the profiles of yo
 
 **Things to remember when filtering:**
 
-Date and number fields:
+Date fields:
 
-![Date and Number Select List](11.1.2a.png)
-
-  - 'Greater than or equal to': people with a value greater (or later) than or equal to the value you specify will be included.
-  - 'Less than or equal to': people with a value less (or earlier) than or equal to the value you specify will be included.
-  - 'Equal to': only those that match this number or date will be included.
-  - 'Between': people who have a number or date recorded on or between the two that you specify will be included.
+  - On or after: the date you specify will be included.
+  - On or before: the date you specify will be included.
+  - On: only those that match this date will be included.
+  - Between: people who have a number or date recorded on or between the two that you specify will be included.
 
 Multi-select fields:
 
