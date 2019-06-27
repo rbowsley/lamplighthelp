@@ -69,7 +69,7 @@ When you click on a tab in the left-hand column, the middle column will show you
    
 **Setting Options**
    
-- In the right column, you’ll now see the options for your field.  (If not, click on the field name. (The grey button in the middle column.)
+- In the right column, you’ll now see the options for your field.  (If not, click on the field name - the grey button in the middle column.)
 - This text in the right column will show you the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see.  
 - If you can enter options you’ll see a ‘click to add’ button, and a text box.
 - The easiest way to enter your options is using the text box at the bottom of the column. Type or paste your options in here, separated by semi-colons (no spaces), then click the 'Add' button below the box to save. 
