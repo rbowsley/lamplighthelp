@@ -1,22 +1,24 @@
 # 16.9.0    Creating {{report}} templates
 
-> A {{report}} template is a a way of saving the particular filters and display options for a {{report}},so that it can be run intstantly at any time.  
+> A {{report}} template is a a way of saving the particular filters and display options for a {{report}},so that it can be run intstantly at any time
 
 These can be useful, for example, for regular reports for funders, so that you don't need to create a new report each time.  They are set-up and operate in the same way as a normal report, (but in a different place) and can then be chosen from the appropriate report menu.
 
-You can create {{report}} templates for each different type of {{report}}.  You do this from within the System Administration menu.  You'll need to be a System Administrator to do this.
+You can create {{report}} templates for each different type of {{report}}.  You do this from within the system administration menu.  You'll need to be a System Administrator to do this.
 
 Once created these {{report}}s are shown when you go to create a {{report}} from the main menu.  The templates you have created are shown as dropdown options, and a new option is added for a non-template report.  For example, 'Custom {{work}} report'.
 
-![Menu image showing {{report}} template options](1211a.png)
+![Menu image showing {{report}} template options](16.9.0a.png)
 
-To create a {{report}} template, use the 'Admin' option in the main menu, and choose 'System administration' from within the menu bar.  This will take you to the System Administration menu.  If you are a system administrator, you will see a section in the top right called '{{report}} templates.
+**To Create a {{Report}} Template**
 
-![System admin {{report}} showing the {{report}} templates section](1212a.png)
+- Go to 'admin -> system administration -> Templates -> Manage report templates'.
 
-Choose 'Add edit and remove {{report}} templates, to enter this section.  Once in this page, you will see options to add {{report}} templates for {{work}}, {{referral}}s, {{Linked case}}s, {{outcome}}s, and any of the modules you have enabled.  You'll be able to see existing templates which you can edit.  You'll also see an 'add' button at the bottom of each section.
+![System admin {{report}} showing the {{report}} templates section](16.9.0b.png)
 
-![{{work}} {{report}} templates](1213a.png)
+- Once in this page, you will see options to add {{report}} templates for {{work}}, {{referral}}s, {{linked case}}s, {{outcome}}s, and any of the modules you have enabled.  You'll be able to see existing templates which you can edit.  
+
+![{{work}} {{report}} templates](16.9.0c.png)
 
 **Completing the template**
 
