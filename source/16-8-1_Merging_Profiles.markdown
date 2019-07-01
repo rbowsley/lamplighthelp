@@ -31,7 +31,7 @@
     - Combine data from the two profiles. It is only possible to choose this option for sections where you can add to information rather than replacing it, for example relationships or {{activity}} records. This will create one list from the entries of both left-hand and right-hand columns.
 - When you have made your selection click on the 'Merge this section now' button.
 
-When you have merged each section you can return to the top of the 'View and merge profiles' section and archive the source profile.
+- Once each section has been merged you can return to the 'View and merge profiles' section and archive the source profile.
 
 Why not watch our video?
 
