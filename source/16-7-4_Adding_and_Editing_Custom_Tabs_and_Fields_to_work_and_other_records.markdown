@@ -1,10 +1,10 @@
-# 16.7.4    Adding and Editing Custom Tabs and Fields to Work and Other Records
+# 16.7.4 Adding and Editing Custom Tabs and Fields to {{Work}} and Other Records
 
-> It is possible to add additional tabs and fields to your {{work}}, {{outcome}} and other {{activity}} records through System Administration
+> It is possible to add additional tabs and fields to your {{work}}, {{outcome}} and other {{activity}} records through system administration
 
-In the section 'Manage Custom Fields and Drop-down Lists' you'll see options for each type of record to manage custom tabs and fields.
+In the system administration menu page, there is a section called 'Manage Custom Fields and Drop-down Lists'. This is where you'll find options for adding and managing custom fields and tabs to different types of {{activity}} record.
 
-![System Admin - Add fields to records]({{imgpath}}1217a.png)
+![System Admin Adding Custom Fields to {{Activity}} Records](16.7.4b.png)
 
 Each type of record works on the same principle, with the example below being for {{work}} records.  
 The process is almost identical to adding custom tabs and fields on profiles.  
@@ -12,9 +12,9 @@ The process is almost identical to adding custom tabs and fields on profiles.
 
 **Adding Fields to a {{Work}} Record**
 
-- Go to '{{Work}} Records Custom Tabs and Fields -> Manage custom tabs and fields in work records'.
-- You'll see three columns, with the first showing you a list of tabs available on your work records.  
-- Depending on your set-up you may see one or more of the three standard tabs on the work record (When and where, Attendance, Details).  This is where you have custom fields added to these tabs. You will not see the standard fields in these tabs.
+- Go to 'Manage Custom Fields and Drop-down Lists -> {{Work}} Records Custom Tabs and Fields -> Manage custom tabs and fields on {{work}} records'.
+- You'll see three columns, with the first showing you a list of tabs available on your {{work}} records.  
+- Depending on your set-up you may see one or more of the three standard tabs on the {{work}} record (When and where, Attendance, Details).  This is where you have custom fields added to these tabs. You will not see the standard fields in these tabs.
 - Click on any tab on the left and you'll see the fields for that tab in the centre column.  
 - If you then click on a field, you'll see the field information, and options if applicable in the right column, as shown below.
 
@@ -25,17 +25,17 @@ The process is almost identical to adding custom tabs and fields on profiles.
 
 - Select 'Click here to add' at the bottom of the left-hand column.  
 - Fill in the details of the pop-up box:
-   - Text: This will appear as the tab name
-   - What type of person is this for?: You can't edit this field - it is only applicable to custom tabs in profiles.
-   - Restrict this field to managers/admins?:  Although you can tick this field, it does not function in this record.
-   - Projects: You can select which projects this tab will apply to (if you have more than one {{Lamplight}} project).
-   - You may also see fields about publishing, if you have the Publishing Module.  See section [28.0.0 Publishing Module](/help/index/v/{{version}}/p/28.0.0)
+   - Text: this will be the tab name.
+   - What type of person is this for?: you can't edit this field - it is only applicable to custom tabs in profiles.
+   - Restrict this field to managers/admins?:  although you can tick this field, it does not function in this record.
+   - Projects: you can select which projects this tab will apply to (if you have more than one {{Lamplight}} project).
+   - You may also see fields about publishing, if you have the Publishing Module.  See section [28.0.0 Publishing Module](/help/index/p/28.0.0)
    
 ![System Admin - Tab Information](1219a.png)
 
    - Click 'Save' to save the tab.
 
-**Important: You must always add a field to a tab, to ensure it remains editable and visible in System Administration.  If you do not, you'll have an empty tab in your record which you will be unable to edit.**
+**Important: You must always add at least one field to a tab, to ensure it remains editable and visible in System Administration.  If you do not, you'll have an empty tab in your record which you will be unable to edit.**
 
 
 **Adding Fields (the Middle Column)**
@@ -64,8 +64,7 @@ When you click on a tab in the left-hand column, the middle column will show you
 
 **Setting Options**
    
-- In the right column, you’ll now see the options for your field.  (If not, click on the field name - the grey button in the middle column.)
-- This text in the right column will show you the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see.  
+- In the right column, you’ll now see the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see.  
 - If you can enter options you’ll see a ‘click to add’ button, and a text box.
 - The easiest way to enter your options is using the text box at the bottom of the column. Type or paste your options in here, separated by semi-colons (no spaces), then click the 'Add' button below the box to save. 
 
@@ -81,19 +80,24 @@ Repeat this process until you have added all the tabs, fields and options that y
 
 **Editing a Tab**
 
-To edit a tab, select it in the left-hand column, and when the information shows in the middle column, double click on the text 'Tab name', and edit the existing information (as above).
+- Select the relevant tab in the left-hand column.
+- In the middle column, double click on the text 'Tab name'.
+- Edit the existing information (as above).
 
 
 **Editing a Field**
 
-Choose the field you wish to edit in the centre column, and click on it.  In the right-hand column, you will see the field information appear (you may need to scroll up if you have a long list of fields.)  Double click on the non-bold text, where it says 'Field: _name_.'  From here follow the process as above to edit and save the field.
+- Find the field you wish to edit in the centre column and click on it.  
+- In the right-hand column you will see the field information appear (you may need to scroll up if you have a long list of fields.) 
+- Double click on the non-bold text, where it says 'Field: _name_.'  
+- From here follow the process as above to edit and save the field.
 
  
 **Adding Fields to a Standard System Tab**
 
 All records have the tabs 'Where and Where', 'Attendance', ( this may be called 'Respondent' or 'Involved' in some cases), and Details.  You can't edit of delete the fields which already exist in these tabs (this can only be done by Lamplight), but you can add additional fields to them by 'creating' them in System Admin.  Create a tab with the correct name as below, (capitalisation is essential), and add fields to it.  
 
-![System Admin - adding fields to system tabs]({{imgpath}}1221a.png)
+![System Admin - adding fields to system tabs](1221a.png)
 
 - {{Work}} records
 When and where
@@ -115,6 +119,9 @@ When and where
 Attendance
 details
 
+
+##### Tags
+Activity
 
 ###### core module
 
