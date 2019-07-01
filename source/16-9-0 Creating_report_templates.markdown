@@ -1,4 +1,4 @@
-# 16.9.0    Creating {{report}} templates
+# 16.9.0    Creating {{Report}} Templates
 
 > A {{report}} template is a a way of saving the particular filters and display options for a {{report}},so that it can be run intstantly at any time
 
@@ -20,12 +20,12 @@ Once created these {{report}}s are shown when you go to create a {{report}} from
 
 ![{{work}} {{report}} templates](16.9.0c.png)
 
-**Completing the template**
+**Completing the Template**
 
-Once you have completed the template it will save and take you back to the {{report}} templates page, without showing you the results.  For this reason we recommend you create your {{report}} normally first, to ensure it's been created correctly and is showing appropriate data, before recreating it in the {{report}} templates section.
+- We recommend you create your {{report}} normally first, to ensure it's been created correctly and is showing appropriate data, before recreating it in the {{report}} templates section. This is because once you have completed the template it saves and take you back to the {{report}} templates page, without showing you the results. For more on running a {{report}}, see [13.1.0 Running {{Report}}s](/help/index/p/13.1.0).
 
-There is an additional page when creating a template, that you do not see in the normal {{report}} process.  The first page allows you to give the {{report}} a name, and a description, so that staff will know what {{report}} they are running, and can understand what it is designed to do.  We encourage you to be as specific as possible.  You can also lock the report, so that only you can edit it.  (Although only system administrators can alter it regardless.)
-
+- The first page of the template is where you give the {{report}} a name, and a description, so that staff will know what {{report}} they are running, and can understand what it is designed to do.  We encourage you to be as specific as possible. The name of the report will show up in the list, and if you hover over it then the description will show too.
+- You can also lock the report so that only you can edit it on this page. 
 
 ![{{work}} {{report}} name and description](1214a.png)
 
