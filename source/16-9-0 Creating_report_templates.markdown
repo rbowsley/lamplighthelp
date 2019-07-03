@@ -1,14 +1,11 @@
 # 16.9.0    Creating {{Report}} Templates
 
-> A {{report}} template is a a way of saving the particular filters and display options for a {{report}},so that it can be run intstantly at any time
+> A {{report}} template is a a way of saving the particular filters and display options for a {{report}} so that you can run it without having to re-enter them each time
 
-These can be useful, for example, for regular reports for funders, so that you don't need to create a new report each time.  They are set-up and operate in the same way as a normal report, (but in a different place) and can then be chosen from the appropriate report menu.
+{{Report}} templates are useful, for example, for regular management or funder {{report}}s, so that you don't need to create a new one each time. Although they are set up on system administration, the form is very similar to that on the one-off reports, and once they have been saved they can be chosen from the main report menu. 
 
-You can create {{report}} templates for each different type of {{report}}.  You do this from within the system administration menu.  You'll need to be a System Administrator to do this.
+You'll need to be a System Administrator to create templates.
 
-Once created these {{report}}s are shown when you go to create a {{report}} from the main menu.  The templates you have created are shown as dropdown options, and a new option is added for a non-template report.  For example, 'Custom {{work}} report'.
-
-![Menu image showing {{report}} template options](16.9.0a.png)
 
 **To Create a {{Report}} Template**
 
@@ -16,13 +13,13 @@ Once created these {{report}}s are shown when you go to create a {{report}} from
 
 ![System admin {{report}} showing the {{report}} templates section](16.9.0b.png)
 
-- Once in this page, you will see options to add {{report}} templates for {{work}}, {{referral}}s, {{linked case}}s, {{outcome}}s, and any of the modules you have enabled.  You'll be able to see existing templates which you can edit.  
+- Once in this page, you will see options to add {{report}} templates for {{work}}, {{referral}}s, {{linked case}}s, {{outcome}}s, and any of the modules you have enabled.  You'll also be able to edit existing templates.  
 
 ![{{work}} {{report}} templates](16.9.0c.png)
 
 **Completing the Template**
 
-- We recommend you create your {{report}} normally first, to ensure it's been created correctly and is showing appropriate data, before recreating it in the {{report}} templates section. This is because once you have completed the template it saves and take you back to the {{report}} templates page, without showing you the results. For more on running a {{report}}, see [13.1.0 Running {{Report}}s](/help/index/p/13.1.0).
+- We recommend you create your {{report}} normally first, to ensure it's been created correctly and is showing appropriate data before recreating it in the {{report}} templates section. Once you have completed the template it will save and take you back to the {{report}} templates page, without showing you the results. For more on running a {{report}}, see [13.1.0 Running {{Report}}s](/help/index/p/13.1.0).
 
 - The first page of the template is where you give the {{report}} a name, and a description, so that staff will know what {{report}} they are running, and can understand what it is designed to do.  We encourage you to be as specific as possible. The name of the report will show up in the list, and if you hover over it then the description will show too.
 - You can also lock the report so that only you can edit it on this page. 
@@ -37,7 +34,11 @@ Finally, when run, {{report}}s display the information requested in the template
 
 **Viewing {{report}} templates**
 
-As {{report}} templates show in the main menu, you will need to refresh the page in your browser, using the F5 key, in order to see your newly added reports in the menu.
+As {{report}} templates show on the main menu in a drop-down menu under the {{report}} type.
+
+![Report Template Drop-Down Menu](16.9.0d.png)
+
+You will need to refresh the page in your browser, using the F5 key, in order to see newly added reports.
 
 
-######coremodule
+###### core module
