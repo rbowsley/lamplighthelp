@@ -157,13 +157,13 @@ xxxxxx Picture here xxxxxx
 
 ### {{Eval}} records
 
-- **Do you want to use {{message}}s with {{evaluation}} records?**  
+- **Do you want to use {{message}}s with {{eval}} records?**  
 
    As with {{work}} records, {{outcome}} records, {{referral}} records and grant records, you can choose whether to enable {{message}}s with {{eval}} records. Disabling this option will prevent the ‘{{Message}}s’ tab from appearing when entering {{eval}} records.
 
 - **Do you want to use simple or tabular attendance information on {{eval}} records?**   
 
-   As with respondents in {{outcome}} and {{referral}} records, profiles can be added to {{eval}} records using either the default table style or simple search boxes. In the simple search box view on {{evaluation}} records, there is one field for ‘Who completed the {{eval}}’, as shown below.
+   As with respondents in {{outcome}} and {{referral}} records, profiles can be added to {{eval}} records using either the default table style or simple search boxes. In the simple search box view on {{eval}} records, there is one field for ‘Who completed the {{eval}}’, as shown below.
 
    xxxxxx Picture here xxxxxx
 
