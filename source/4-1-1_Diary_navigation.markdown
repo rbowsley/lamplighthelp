@@ -20,7 +20,7 @@ To select a single day to view, click on the header of the day that you would li
 
 that day will open on its own:
 
-![Diary - single day veiw](help/index/p/4.1.1c)
+![Diary - single day veiw](help/index/p/4.1.1c.png)
 
 You can find a practical demonstration of the diary in our video, 'Homepage Diary and Tabs'.
 
