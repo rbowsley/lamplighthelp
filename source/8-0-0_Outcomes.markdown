@@ -8,11 +8,11 @@ For example, your organisation may be working to improve the self-confidence of 
 
 Collecting this type of data can be very powerful. It is possible to then {{report}} on the amount of change {{user}}s experience overall, as well as looking at how quickly change occurs, and how this varies between different groups of {{people}}. It is also possible to look at the relationship between the amount of {{work}} you have done, and the impact it has had.
 
-{{Lamplight}} lets you collect this kind of data for your {{user}}s, whether they are {{people}}, {{families}} or {{org}}s. You can also use outcomes with {{staff}} to track their development, for example, or with partner agencies to see if you have any impact on their practices.
+{{Lamplight}} lets you collect this kind of data for your {{user}}s, whether they are {{people}}, {{family}} or {{org}}s. You can also use {{outcome}}s with {{staff}} to track their development, for example, or with partner agencies to see if you have any impact on their practices.
 
 In some cases it will not be possible or appropriate to collect this data in this way. For example, you may run a one-off training session and ask participants to complete an evaluation form at the end of the session. In this case there is no baseline position, and you will need to be able to report '78% of participants felt that the training was valuable'. You may then compare this with previous years: **but the participants are (most likely) different people.** This is a different type of data, which in {{Lamplight}} uses the {{Eval}} module: see section [22.0.0  {{Eval}}s Module Overview](/help/index/p/22.0.0) for more details. 
 
-For more on {{outcomes}} see our video below.
+For more on {{outcome}}s see our video below.
 
 <iframe src="https://player.vimeo.com/video/282332458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
