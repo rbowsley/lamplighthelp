@@ -2,7 +2,7 @@
 
 > {{Outcome}}s in your system are organised so that you have a main {{outcome}} category and {{outcome}} indicators within each of these categories 
 
-Adding, editing and deleting {{oucome}}s works in the same way as for other lists, except that you have a main {{outcome}} category and {{outcome}} indicators within each category. 
+Adding, editing and deleting {{outcome}}s works in the same way as for other lists, except that you have a main {{outcome}} category and {{outcome}} indicators within each category. 
 
 You can have as many categories as you need, and each can hold any number of {{outcome}} indicators within them. For practical reasons we'd suggest no more than ten indicators in each category. 
 
@@ -11,7 +11,7 @@ Before you change or delete an {{outcome}} you need to consider the implications
 **To Add a New {{Outcome}}**
 
 - Always remember to press enter after each field that you enter. If you do not do this, the system may hang. If this happens, click on system admin in the green toolbar, and then start again in {{outcome}}s.
-- Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists' -> {{Outcomes}}s -> {{Outcome}} measures'.
+- Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists' -> {{Outcome}}s -> {{Outcome}} measures'.
 - Any {{outcome}}s already in your system will be at the top of the screen. Scroll to the end of the page and double click on 'double-click to add'.
 - A text box will open, type in the title of your {{outcome}} category and press enter to save. You have now set up a new category, and will need to add the indicators to it. 
 
