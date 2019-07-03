@@ -50,7 +50,7 @@ The table below gives details of how each custom field works, and how you can us
 
 ![Text Fields](16.7.1d.png)
 
-![Titles and Explanations](16.5.1e.png)
+![Titles and Explanations](16.7.1e.png)
 
 
 ##### Tags
