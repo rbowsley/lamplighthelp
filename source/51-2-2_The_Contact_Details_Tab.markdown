@@ -8,7 +8,7 @@
 
 Welcome to an introduction to profiles, video 2 of 4: The Contact Details Tab.
 
-The profile is where to find all information about a {{person}} or {{org}}. This includes the details you’ve recorded about them, and records of what you do with them, including {{activities}} or services that you have provided.
+The profile is where to find all information about a {{person}} or {{org}}. This includes the details you’ve recorded about them, and records of what you do with them, including an {{activity}} or services that you have provided.
 
 As you can see, we’re now looking at someone’s profile.
 
