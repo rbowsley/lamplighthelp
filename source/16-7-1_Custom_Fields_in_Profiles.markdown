@@ -49,7 +49,7 @@ The table below gives details for each type of field.
 
 ![Text Fields](16.7.1d.png)
 
-![Titles and Explanations](16.5.1e.png)
+![Titles and Explanations](16.7.1e.png)
 
 **Linked Fields**
 
