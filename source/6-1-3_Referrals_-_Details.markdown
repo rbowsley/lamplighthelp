@@ -8,7 +8,7 @@ There are a number of fields in this tab.
 
 As you click inside the {{referral}} reason and {{referral}} notes sections, the rich text editor tools appear. See section [3.8.0  Rich text editor](/help/index/p/3.8.0) for more information about using the rich text editor. 
 
-- The '{{Referral}} reason' is like the headline, and is what will appear in a {{referrals}} table to give you a quick idea of what it is about. 
+- The '{{Referral}} reason' is like the headline, and is what will appear in a {{referral}}s table to give you a quick idea of what it is about. 
 
 - The '{{Referral notes' is a place to record any other details that you will need to keep.
 
@@ -18,7 +18,7 @@ As you click inside the {{referral}} reason and {{referral}} notes sections, the
 
 When you have added all information, click the 'save' button in the bottom right. A copy of the {{referral}} record will be saved in the profile of everyone listed on the 'Attendance' (or 'Involving') tab. 
 
-Our 'Creating Referrals' video shows you how to complete a {{referral}}s record.
+Our 'Creating {{Referral}}s' video shows you how to complete a {{referral}}s record.
 
 
 ###### core module
