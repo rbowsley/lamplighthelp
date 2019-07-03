@@ -11,7 +11,7 @@ When you choose the '{{Work}} records' tab in a profile, you will see a table sh
 - You can choose to sort the table by what is in a column by clicking at the top of a column. Click again to reverse the order. For example, clicking at the top of the '{{Workarea}}' column will sort the records from A-Z based on their {{workarea}}. Clicking again will sort from Z-A.
 - The default setting for viewing {{work}} records is 5 to a page but more or less can be viewed at once. User the 'Show' dropdown box to decide how many rows you would like to see at a time. 
 - Alternatively you can use the page numbers above the table to move through the records, or the 'Jump to' box to go straight to a specific page number.
-- By default, the table will show the date of the record, the name of the {{workarea}}, the summary field, the number of people listed in the attendance table and the number of those attending who were {{users}}. You may also see other columns, depending on whether you use {{linked case}}s, or have any modules. 
+- By default, the table will show the date of the record, the name of the {{workarea}}, the summary field, the number of people listed in the attendance table and the number of those attending who were {{user}}s. You may also see other columns, depending on whether you use {{linked case}}s, or have any modules. 
 - To see other columns that are available to view, click on the coloured header bar of the table. This will bring up the full list, and you can tick and untick one at a time to add and hide columns.
 
 ### Searching the Table
