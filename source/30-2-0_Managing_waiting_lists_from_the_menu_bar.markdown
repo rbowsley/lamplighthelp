@@ -15,7 +15,7 @@ xxxxxx Picture here xxxxxx
 
 - You can open the {{waiting list}} context menu by clicking on the button to the left of it, or right-clicking on the relevant table row.  
 
-![{{waiting list}} context menu]({{imgpath}}229a.png)
+![{{waiting list}} context menu](xxxxx.png)
 
 - There are a number of different options on this menu:
 
