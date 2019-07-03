@@ -6,7 +6,7 @@ Once you have set up a data view, you can use it to view any {{group}}. When you
 
 To open a {{group}} using a data view:
 
-- Go to '{{Groups}} -> view all'.
+- Go to '{{Group}}s -> view all'.
 - Open the context menu to the left of the relevant {{group}}, or right click on the {{group}} in the table.
 - Hover over 'View full details'. A menu will slide out to the right of the original context menu showing all the current data views.
 
