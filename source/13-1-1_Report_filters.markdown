@@ -13,7 +13,7 @@ All {{report}}s have the same set of filters initially, shown below:
 - The 'Date from' and 'Date to' fields will include records dated between these two dates, including the dates selected.
 
 **{{Workarea}}**
-- The '{{Workarea}}' options allow you to filter for particular {{workarea}}s, or {{subworkarea}}s. You can choose to report on as many of these as you need. If you do not tick any of the options, then {{Lamplight}} will report on all of your {{workareas}}.
+- The '{{Workarea}}' options allow you to filter for particular {{workarea}}s, or {{subworkarea}}s. You can choose to report on as many of these as you need. If you do not tick any of the options, then {{Lamplight}} will report on all of your {{workarea}}s.
 
 **Location**
 - You can choose one of more locations from this list to filter your report by.  
