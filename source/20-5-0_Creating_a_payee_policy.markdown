@@ -4,13 +4,13 @@
 
 To add a payee policy, click 'admin' -> system administration and click on 'set up charge module rules and policies'. Click the 'create new payee policy' button. 
 
-![Setting up a payee policy](255a.png)
+![Setting up a payee policy](xxxxx.png)
 
 You will see a screen similar to the one above. You need to give the policy a name - this is what you will see day-to-day on your {{work}} records, so it needs to be clear from the name which policy should be used (if you're going to have more than one policy, that is). 
 
 The section on the right of the screen shows all the payee rules you have created, and in the centre a space to add the rules you need. To add a rule to the policy, simply click and hold the mouse button on the rule, drag it to the centre, and release the mouse button. The rule will appear in the central frame. You can add more rules before or after in the same way, and can remove them by dragging them from the central list to the right-hand side. 
 
-![A payeee policy that has been set up](255b.png)
+![A payeee policy that has been set up](xxxxx.png)
 
 The order of the rules is important. Rules will be applied in the order that they are listed. 
 
