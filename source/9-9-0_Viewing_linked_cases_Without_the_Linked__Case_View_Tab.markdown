@@ -23,7 +23,7 @@ Some of these options will be greyed out so that you can't choose them. For exam
 - Edit {{linked case}}: opens an editing form where you can change the details (name, description etc.) of the {{linked case}}.
 - It is not possible to delete {{linked case}}s from here.
 
-The System Administrator can choose to show a '{{Linked case}} view' tab on profiles. For more on that see [16.12.3 Global Settings: {{Linked Cases}}](/help/index/p/16.12.3).
+The System Administrator can choose to show a '{{Linked case}} view' tab on profiles. For more on that see [16.12.3 Global Settings: {{Linked Case}}s](/help/index/p/16.12.3).
 If {{linked case}}s are enabled on your system but you still do not see that tab in profiles, see [16.4.2 Personal Settings: Profiles](/help/index/p/16.4.2)) where you can select to view it.
 
 
