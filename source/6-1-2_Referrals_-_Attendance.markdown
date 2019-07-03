@@ -57,7 +57,7 @@ On this page you will see three search boxes - one for the 'referrer', one for t
 
 To add a {{person}} to any of these roles:
 - Start typing their name in the relevant search box. 
-- Once you have typed three letters, {{Lampight}} will start to predict the name of the {{person}} that you are looking for. 
+- Once you have typed three letters, {{Lamplight}} will start to predict the name of the {{person}} that you are looking for. 
 - Once you see them in the list click on their name, and they will be added to the search box. 
 - You can only add one {{person}} or {{org}} per role. 
 - If they do not appear in the list to pick from, check that they have their own profile on the system. 
