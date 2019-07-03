@@ -10,7 +10,7 @@
 
 ![Rich Text Editing Tools](88a.png)
 
-- If you have chosen to send a separate letter or email to each person, you can use the ‘People Mail Merge’ drop-down menu.  It contains a number of fields which you can add so that your message autofills information. Choose them from the drop-down list and use them in your text as you would actual content. For example, I can write ‘Dear {{space}}, select ‘first name’ from the drop-down list before moving to the next line.  When merged, ‘First name’ will be replaced by the name of each person you send your email to.
+- If you have chosen to send a separate letter or email to each person, you can use the ‘People Mail Merge’ drop-down menu.  It contains a number of fields which you can add so that your message autofills information. Choose them from the drop-down list and use them in your text as you would actual content. For example, I can write ‘Dear (space), select ‘first name’ from the drop-down list before moving to the next line.  When merged, ‘First name’ will be replaced by the name of each person you send your email to.
 - You can copy and paste into the text box. We recommend pasting the text into Notebook first to make sure that any existing html formatting is removed. The text editor will try to filter extra code, which can have unexpected results. 
 - There are also some buttons in the rich text editor which will help you to check your text for html issues:
 ![HTML Check Buttons](88b.png)
