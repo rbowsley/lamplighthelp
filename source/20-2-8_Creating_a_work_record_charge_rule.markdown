@@ -4,7 +4,7 @@
 
 To set up a {{work}} record charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new {{work}} record charge rule' button. 
 
-![Setting up a {{work}} record charge rule](249a.png)
+![Setting up a {{work}} record charge rule](xxxx.png)
 
 Section [26.2.1  Setting up charge rules - general points](/help/index/p/26.2.1) explains the 'name' and 'previous rules' fields. It's likely that you will want to tick the 'Should previous rules apply if there is no match using this rule?' box. 
 
