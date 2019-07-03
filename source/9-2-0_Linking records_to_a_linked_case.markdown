@@ -8,7 +8,7 @@
 - Right click on the row of the table that it is in, or left click on the context menu to the left of the record. 
 - This will bring up a context menu. 
 
-![The {{Work}} Record Context Menu](/help/index/p/9.2.0a.png)
+![The {{Work}} Record Context Menu](9.2.0a.png)
 
 
 - Click 'link to {{linked case}}'. (If you do not see this option it is because it is not enabled in your system. Your System Administrator will be able to change this if required - see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4).) 
