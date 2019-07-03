@@ -10,7 +10,7 @@ Welcome to An Introduction to Profiles, video 4 of 4: Relationships.
 
 Relationships are a way of linking profiles to show their connections. They can link {{person}} to {{person}}, {{person}} to {{org}}, or {{org}} to {{org}}. There can be relationships between parents and children or {{user}}s and keyworkers, for example. It can be useful to show which other {{org}}s are supporting which of your {{user}}s. You might record relationships with GPs, social workers, or others.
 
-It’s a good idea to check the {{person }} or {{org}} that you want to link to has a profile in {{Lamplight}} before you start this process.
+It’s a good idea to check the {{person}} or {{org}} that you want to link to has a profile in {{Lamplight}} before you start this process.
 
 ### Adding a Relationship
 
