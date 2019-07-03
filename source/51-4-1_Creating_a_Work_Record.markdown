@@ -30,7 +30,7 @@ Let’s look through them together.
 - **{{Workarea}}s.**
    When you create a {{work}} record, you must select one {{workarea}}, and you might normally choose one or more {{subworkarea}}s too. These are essential as they categorise your {{work}} records so that you can easily sort through and report on them.
 
-   Your {{workareas}} and how they’re designed to be used are specific to your system, and using them properly will be crucial for your reporting as well as day-to-day record-keeping. If you’re not sure which to use, speak with your system administrator.
+   Your {{workarea}}s and how they’re designed to be used are specific to your system, and using them properly will be crucial for your reporting as well as day-to-day record-keeping. If you’re not sure which to use, speak with your system administrator.
 
 - **Location.**
    As well as a {{workarea}}, you may select a location. These let you view activities by location in the diary, and allow reporting based on where things have happened. If you don’t have locations available, just continue.
