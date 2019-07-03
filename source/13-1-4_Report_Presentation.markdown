@@ -15,7 +15,7 @@ You can show your overall figures grouped by {{workarea}}, location or any of yo
 
 ![Report Presentation Data for Fields in Tab](13.1.4b.png)
 
-- When you run the report, {{Lampglight}} will produce a table for each field in your 'Personal' tab. You can see below that we have results for 'Ethnicity', and 'Status'. 
+- When you run the report, {{Lamplight}} will produce a table for each field in your 'Personal' tab. You can see below that we have results for 'Ethnicity', and 'Status'. 
 
 ![Report Presentation Data for Fields in Tab](13.1.4c.png)
 
@@ -38,13 +38,13 @@ This will create a single table.
 - You will need to clear other options from the presentation tab for this to work. 
   - If the ‘Show data for all fields in tabs’ has a selection, clear it by selecting ‘Select’ from the drop-down box. If you do not the {{report}} will continue to generate a table for each field value in the chosen tab.
   - You will need to choose one of the options from the 'Data to show' list (number of attendances or total length of {{work}} records, for example). This can't be 'All summary data', as this would cause {{Lamplight}} to ignore your choice of column data and populate the columns with the summary data instead.
-- In the example below the row data is '{{Subwork}} area', while the column data is 'Day of the week'. We have chosen to show the number of different people.
+- In the example below the row data is '{{Subworkarea}}', while the column data is 'Day of the week'. We have chosen to show the number of different people.
 
-![{{Report}} Presentation by Row and Column Data](13.1.4f)
+![{{Report}} Presentation by Row and Column Data](13.1.4f.png)
 
 - The table then looks like this:
 
-![Table Presented by Row and column Data](13.1.4g)
+![Table Presented by Row and column Data](13.1.4g.png)
 
 ### Data to Show
 
