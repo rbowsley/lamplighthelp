@@ -8,7 +8,7 @@ To view all {{group}}s currently set up on your system:
 
 - Click '{{group}}s -> view -> view all' in the main menu. 
 
-![List of All {{Groups}}](11.4.0a.png)
+![List of All {{Group}}s](11.4.0a.png)
 
 - You will see a table listing all {{group}}s, with columns including:
   - Name.
