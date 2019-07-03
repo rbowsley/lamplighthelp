@@ -57,7 +57,7 @@
 - **What roles may different {{people}} or {{org}}s have?**   
 
    Every profile in Lamplight is given a role. The default options for these roles are:
-    - {{service user}}
+    - {{user}}
     - {{staff}} member
     - {{contact}}
     - {{org}}
