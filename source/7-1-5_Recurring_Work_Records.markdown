@@ -27,7 +27,7 @@ Once you have set up recurring records they are linked. The only thing that make
 
 When a single record has been edited it drops out of the group, and can only be edited again on its own. 
 
-![recurring edit](219c.png) 
+![Recurring Edit](219c.png) 
 
 Why not see how this works in practice in our video, 'Recurring Records'.
 
