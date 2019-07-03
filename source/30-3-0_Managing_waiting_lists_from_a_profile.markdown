@@ -12,7 +12,7 @@ To add them to an existing {{waiting list}}:
 - In the pop-up box, tick the {{waiting list}}(s) as appropriate.
 - Click 'save'.
 
-![adding a {{person}} to a {{waiting list}} from their profile](230a.png)
+![adding a {{person}} to a {{waiting list}} from their profile](xxxx.png)
 
 The table in the profile tab will automatically update, showing that the {{person}} or {{org}} has been added to the {{waiting list}}, the date that they joined and the amount of time that they have been on it. 
 
