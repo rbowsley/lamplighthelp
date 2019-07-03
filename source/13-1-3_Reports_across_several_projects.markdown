@@ -4,11 +4,11 @@
 
 If you have access to more than one {{project}} (for more on {{Lamplight}} {{project}}s see section [17.0.0  {{Project}}s](/help/index/p/17.0.0)) you will also see a '{{Project}}s' tab:
 
-![{{Project}} {{report}}ing tab](128a.png)
+![{{Project}} Reporting tab](128a.png)
 
 Simply tick the boxes for the {{project}}s you want to include, and {{Lamplight}} will combine the results from these into a single {{report}}.
 
-Note that if you used {{group}} or {{workarea}} filters in the previous tab (see section [13.1.1  {{Report}} Filters](/help/index/p/13.1.1)) you need to be sure that these {{groups}} or {{workarea}}s are shared across all {{project}}s. 
+Note that if you used {{group}} or {{workarea}} filters in the previous tab (see section [13.1.1  {{Report}} Filters](/help/index/p/13.1.1)) you need to be sure that these {{group}}s or {{workarea}}s are shared across all {{project}}s. 
 
 
 ##### Tags
