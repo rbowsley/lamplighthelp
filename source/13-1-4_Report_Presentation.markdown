@@ -29,7 +29,7 @@ You can show your overall figures grouped by {{workarea}}, location or any of yo
 
 - Then your table will look like this:
 
-![Table Presented by Row Data](13.1.4e)
+![Table Presented by Row Data](13.1.4e.png)
 
 ### Column Data
 
