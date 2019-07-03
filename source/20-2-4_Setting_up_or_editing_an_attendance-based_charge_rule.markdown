@@ -4,7 +4,7 @@
 
 To set up an attendance-based charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new attendance-based charge rule' button. 
 
-![Setting up an attendance-based charge rule](245a.png)
+![Setting up an attendance-based charge rule](xxxx.png)
 
 Section [26.2.1  Setting up charge rules - general points](/help/index/p/26.2.1) explains the 'name' and 'previous rules' fields. 
 
