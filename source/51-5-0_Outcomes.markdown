@@ -6,7 +6,7 @@ Your organisation will have decided on the {{outcome}}s that are available in yo
 
 Videos in this section:
 
-- [50.5.1 {{Outcomes}}](help/index/p/50.5.1)
+- [50.5.1 {{Outcome}}s](help/index/p/50.5.1)
 
 
 ##### No Manual
