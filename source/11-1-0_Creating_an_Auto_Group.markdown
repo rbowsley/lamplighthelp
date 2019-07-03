@@ -27,8 +27,8 @@ The {{group}} name and a description are compulsory - you can't save your choice
  
 ![Auto {{Group}}s - Choosing What Types of {{People}} to Add](103b.png)
 
-- You must choose whether your auto {{group}} will include {{people}}, {{org}}s or {{families}} - you cannot have a mixture. If you need more than one of these types, you can create a {{group}} for each and them merge them (see [11.3.0 Creating a Merge {{Group}}](/help/index/p/11.3.0) for more details). 
-- Unlike most fields in auto {{groups}}, the 'who are' choice (e.g. {{user}}, {{staff}},{{contact}} etc.) is an 'OR' search, so it will include those that meet **any** of the criteria selected, not those that meet all of them. 
+- You must choose whether your auto {{group}} will include {{people}}, {{org}}s or {{family}} - you cannot have a mixture. If you need more than one of these types, you can create a {{group}} for each and them merge them (see [11.3.0 Creating a Merge {{Group}}](/help/index/p/11.3.0) for more details). 
+- Unlike most fields in auto {{group}}s, the 'who are' choice (e.g. {{user}}, {{staff}},{{contact}} etc.) is an 'OR' search, so it will include those that meet **any** of the criteria selected, not those that meet all of them. 
 - Next is the option to select the date profiles were added to the system.
   - On or after. 
   - On or before.
@@ -42,9 +42,6 @@ For information on the other filter choices for {{group}}s, see:
 - [11.1.2 {{Group}}s: {{User}}, {{Staff}} and other Custom Fields](/help/index/p/11.1.3).
 - [11.1.3 {{Group}}s: {{Work}}, {{Referral}} and {{Grant}} Fields](/help/index/p/11.1.3).
 - [11.1.4 {{Group}}: {{Outcome}} Fields](help/index/p/11.1.4).
-- [11.1.5 {{Group}}s: {{Linked Case}}s](/help/index/p/11.1.5).
-- [11.1.6 {{Group}}s: {{Project}} Sharing Fields](/help/index/p/11.1.6).
-- [11.1.7 {{Group}}s: {{Eval}} Fields](help/index/p/11.1.7).
 
 
 ##### Tags
