@@ -14,7 +14,7 @@
 - If you would like your {{eval}}s to be anonymous you can leave the attendance table blank. However, if you do this you will not be able to view the {{eval}} results in that user's profile, and when running {{report}}s you will not be able to use any demographics from profiles to inform the report. 
 - The third tab will be title of your {{eval}}. When you click on this, you will see the questions for this {{eval}}:
 
-![Adding an {{eval}} - questions]({{imgpath}}117b.png)
+![Adding an {{eval}} - questions](xxxx.png)
 
 - Complete the answers to the questions, and click the 'save' button in the bottom right. You will now see the saved {{eval}}. 
 
