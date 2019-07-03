@@ -47,7 +47,7 @@ The second search bar is called 'Additional data columns to display'.  This does
 
 ### The {{Referral}} Table Context Menus
 
-To the left of each record in the table you will see a menu button. If you do not have these, you can add them in your personal settings (for more on this see [6.4.1 Personal Settings - Logging in and General Settings](/help/index/p/6.4.1)). Alternatively,right click the row that you want in the table. This will bring up a menu with the option to view, edit and (if you are a Manager or System Administrator in {{Lamplight}}) delete the records. 
+To the left of each record in the table you will see a menu button. If you do not have these, you can add them in your personal settings (for more on this see [16.4.1 Personal Settings - Logging in and General Settings](/help/index/p/16.4.1)). Alternatively,right click the row that you want in the table. This will bring up a menu with the option to view, edit and (if you are a Manager or System Administrator in {{Lamplight}}) delete the records. 
 
 ![{{Referral Records Table Context Menu](6.3.0b.png)
 
