@@ -26,7 +26,7 @@
 - Repeat this process to add any {{subworkarea}}s you need. 
 - If the {{workarea}} already exists and you simply want to create a new {{subworkarea}}, find the {{workarea}} in the list. Under the  existing {{subworkarea}}s there is a 'double-click to add' box. The process for adding is the same as described above.
 
-![Adding a {{Subwork}} Area](16.6.1a.png)
+![Adding a {{Subworkarea}}](16.6.1a.png)
 
 - Always create and save your {{workarea}} so that it appears in bold before adding the {{subworkarea}}s below it. 
 - We would recommend that colours are added to {{workarea}}s after the headings have been entered. To do this,  double-click over 'Background colour' and move the cursor around the colour pad. When you have the colour you would like, press 'save change'.
