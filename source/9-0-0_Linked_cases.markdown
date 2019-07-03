@@ -13,7 +13,7 @@ They are a way of organising records within {{Lamplight}}, where you can bring t
 
 One person may have several {{linked case}}s, and each {{linked case}} may involve several different people.
 
-Using {{linked cases}} you can: 
+Using {{linked case}}s you can: 
 -	Easily see all the records in each {{linked case}}.
 - Assign a category (these will depend on what is set up in your system). 
 -	Report on how many days an individual or organisation has had a {{linked case}} open in a particular category (For example, we supported Jordan for 18 weeks, or the befriending relationship lasted 2 months).
