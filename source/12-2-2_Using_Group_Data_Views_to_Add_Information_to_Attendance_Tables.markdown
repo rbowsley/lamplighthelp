@@ -1,8 +1,8 @@
 # 12.2.2 Using {{Group}} Data Views to Add Information to Attendance Tables
 
-> {{Activities}} records in {{Lamplight}} have attendance tables to show who was involved. When viewing records, you can use data views to create additional columns in the attendance tables to add details such as addresses or demographics
+> {{Activity}} records in {{Lamplight}} have attendance tables to show who was involved. When viewing records, you can use data views to create additional columns in the attendance tables to add details such as addresses or demographics
 
-When viewing an existing {{activities}} record, for example {{work}} or {{referral}}, it is possible to use a data view to add columns of information to the attendance table. This can be useful if you want to see contact details so that you can call participants to change arrangements, or to view risk factors of attendees before a session, for example.
+When viewing an existing {{activity}} record, for example {{work}} or {{referral}}, it is possible to use a data view to add columns of information to the attendance table. This can be useful if you want to see contact details so that you can call participants to change arrangements, or to view risk factors of attendees before a session, for example.
 
 If you choose to view {{activites}} records using a data view, the {{people}} attending will be shown in the attendance table as usual, along with whatever extra columns the {{group}} data view contains.
 
