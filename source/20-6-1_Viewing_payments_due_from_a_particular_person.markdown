@@ -4,7 +4,7 @@
 
 In a profile you will see a charge tab: this lists all charges allocated to that {{person}}. 
 
-![Viewing charges for a {{person}}](257a.png)
+![Viewing charges for a {{person}}](xxxxx.png)
 
 These are the amounts that the payee policies used have determined this {{person}} should pay; they are not the total charges incurred from their attendance at a {{work}} record. In other words, these are the amounts that the {{person}} should be (or has been) invoiced. 
 
@@ -12,7 +12,7 @@ If you do want to see the details, use the right-click menu and select 'View Cha
 
 To batch up any outstanding charges into an invoice, for export into your accounting software (see section [26.7.1  Transferring data to Sage](/help/index//p/26.7.1) or [26.7.2  Transferring data to QuickBooks](/help/index/p/26.7.2)), select the rows using the tickboxes and click the 'batch for invoicing' button. This will open a form to set additional invoice information. 
 
-![Creating invoices from profiles](257b.png)
+![Creating invoices from profiles](xxxxx.png)
 
 When you click 'save' this will create invoice details as specified, and prepare an export file that you can use to import into your accounting software (see section [26.7.1  Transferring data to Sage](/help/index/p/26.7.1) or [26.7.2  Transferring data to QuickBooks](/help/index/p/26.7.2)). {{Lamplight}} does not create printable invoices itself; it is better to do this within your existing accountancy software, rather than duplicating functionality. 
 
