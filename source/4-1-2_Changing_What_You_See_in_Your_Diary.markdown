@@ -27,7 +27,7 @@ By default the appointments in the diary are coloured according the {{workarea}}
 
 ![Diary Colour Scheme Based On](4.1.2c.png)
 
-This allows you to see at a glance where all the {{activities}} are happening, and can be particularly useful when checking if there is a room free at a specific time, for example.
+This allows you to see at a glance where an {{activity}} is happening, and can be particularly useful when checking if there is a room free at a specific time, for example.
 
 ### {{Staff}} Attending
 
