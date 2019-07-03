@@ -4,7 +4,7 @@
 
 To set up a role-based charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new role-based charge rule' button. 
 
-![Setting up a role-based charge rule]({{imgpath}}243a.png)
+![Setting up a role-based charge rule](xxxx.png)
 
 Section [26.2.1  Setting up charge rules - general points](/help/index/v/{{version}}/p/26.2.1) explains the 'name' and 'previous rules' fields. 
 
