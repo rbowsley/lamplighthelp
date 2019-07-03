@@ -8,7 +8,7 @@ To do this:
 
 - Go to the '{{Linked case}} view' tab in a profile, and click on the {{linked case}} you need to add the record to.
 - In the table of records at the bottom of the screen, find the one that you are going to duplicate and either right-click on the table row, or left click on the context menu in the first table column. 
-- From the menu, choose 'Follow up {{case}}'. This will open up as a new record for you to edit.
+- From the menu, choose 'Follow up {{linked case}}'. This will open up as a new record for you to edit.
 
 !{Follow-up {{Linked Case}}(9.4.0a.png)
 
