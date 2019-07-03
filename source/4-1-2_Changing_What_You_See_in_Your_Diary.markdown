@@ -51,7 +51,7 @@ For users with the Staffing Module you will also have options to turn off traini
 
 There are two more options below the diary. 
 
-![Diary Other Things](4.1.2f)
+![Diary Other Things](4.1.2f.png)
 
 Clicking on the first, 'print diary', takes you to a printer-friendly page. This will open a new tab in your browser showing whichever view you were in when you pressed the button - either day, week or month.
 
