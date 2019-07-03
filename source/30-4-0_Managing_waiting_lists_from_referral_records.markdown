@@ -8,7 +8,7 @@ To add a {{person}} or {{org}} to a {{waiting list}} from a {{referral}} record:
 - Fill in the record as usual. 
 -  Towards the bottom of the 'Details' tab, there is an 'Also add this person to a waiting list' option. 
 
-![Adding a {{user}} to a {{waiting list}} from a {{referral}} record](221a.png)
+![Adding a {{user}} to a {{waiting list}} from a {{referral}} record](xxxx.png)
 
 - Select the appropriate {{waiting list}} from the drop-down box. 
 - The {{person}} that you are adding must also be recorded on the 'Attendance' tab as 'Attended' and 'Service user referred' to be added to the {{waiting list}}.
@@ -16,7 +16,7 @@ To add a {{person}} or {{org}} to a {{waiting list}} from a {{referral}} record:
 - The {{user}} will have be added automatically to the chosen {{waiting list}}. 
 - The date they joined the {{waiting list}} will be the date chosen for the {{referral}} record (in the 'When and where' tab), NOT the date the record was entered into {{Lamplight}}. 
 
-![{{user}} referred](221b.png) 
+![{{user}} referred](xxxxx.png) 
 
 
 ###### waiting module
