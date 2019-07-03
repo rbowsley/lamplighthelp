@@ -11,7 +11,7 @@ To ask for the password to be reset:
 
 - A pop-up window will appear confirming that the password has been reset and emailed. It will also show what the newly sent password is.
 
-![Password Notification](15.5.3b.png)
+![Password Notification](16.5.3b.png)
 
 - This password will only be used once - when the database operator logs in they will be asked to reset it.
 
