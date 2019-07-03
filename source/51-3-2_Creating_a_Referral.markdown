@@ -18,7 +18,7 @@ We start with the time and date.  For most organisations the time of your {{refe
 
 - **{{Workarea}}s**
 
-   Every time we enter a record we also have to select a {{workarea}}, and you’ll normally select a {{subworkarea}} too, although this is not mandatory.  We’ll talk about {{workarea}}s in more detail when looking at {{work}} records, but speak to your System Administrator or Implementer if you’re uncertain what to select here. In this case the {{referral}} I’m recording is for 1:1 support, and so I’ll go to the 1:1 support {{workarea}} then select ‘{{Referral}}’ as a {{subwork}} area. 
+   Every time we enter a record we also have to select a {{workarea}}, and you’ll normally select a {{subworkarea}} too, although this is not mandatory.  We’ll talk about {{workarea}}s in more detail when looking at {{work}} records, but speak to your System Administrator or Implementer if you’re uncertain what to select here. In this case the {{referral}} I’m recording is for 1:1 support, and so I’ll go to the 1:1 support {{workarea}} then select ‘{{Referral}}’ as a {{subworkarea}}. 
    
 If you use locations you can also select a location here, although it’s not required.
 
@@ -54,7 +54,7 @@ Now we’ll move to the next tab.
 The third tab is the ‘Details’ tab.   As you would expect, we use this to record the detail of the {{referral}}.  Let’s look through the fields.
 - {{Referral}} direction: This field records whether the {{referral}} is being made in to you, out to another organisation, or is an internal {{referral}}.  Recording this is often very important for your reporting.
 - {{Referral}} reason: This is the equivalent of the subject line in your email.  It’s what appears when you look at the table of {{referral}}s to show you what’s been happening, and it’s normally best to keep it short, sweet, and to the point.
-- {{Referral)) notes: This gives you a space to record any further details you need to note down.  This could be notes from your {{referral}} form or from a telephone conversation about the {{referral}}.  Simply pop them in here.
+- {{Referral}} notes: This gives you a space to record any further details you need to note down.  This could be notes from your {{referral}} form or from a telephone conversation about the {{referral}}.  Simply pop them in here.
 - {{Waiting list}}s:  If you have the {{waiting list}} module then you can add someone directly to a waiting list from the {{referral}}.  You’ll learn more about this in our {{waiting list}}s video.
 - {{Referral}} success:  Most clients use this in some form.  This is a way of recording whether the {{referral}} has been accepted by you, or by the external agency.  Your options may simply be yes or no, or there may be additional ones for you to choose from.
 - Finally, you may have some custom fields in this tab.  For example, a common one is ‘{{Referral}} {{org}} type’, which could let you report not just on exactly which Social Services referred to you, but how many social care organisations referred to you altogether.  If you have any doubt about any of your custom fields, do speak with a member of your team.
