@@ -13,7 +13,7 @@
 ![List of all {{outcome}}s recorded](79a.png)
 
 - The table shows all {{outcome}} records occurring within a set date range ordered by date latest in the range showing at the top.  
-- The default range of dates shown (for example, all records from two months in the past to two months in the future) can be set in your 'Personal Settings', and can be different for each individual. For more on this see [16.4.3 Personal Settings: Default Values for Dates on Lists](/help/index/p/16.1.3). 
+- The default range of dates shown (for example, all records from two months in the past to two months in the future) can be set in your 'Personal Settings', and can be different for each individual. For more on this see [16.4.3 Personal Settings: Default Values for Dates on Lists](/help/index/p/16.4.3). 
 
 **Choose and Save the Table Columns You See**
 
