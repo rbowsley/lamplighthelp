@@ -5,7 +5,7 @@
 **To Re-open a Closed {{Linked Case}} in the {{Linked Case}} Tab:**
 
 - Click on the case in the list on the left of the page.
-- Scroll down to the table of {{activities}} linked to that {{linked case}}.
+- Scroll down to the table of records linked to that {{linked case}}.
 - Right click on a record in the table. 
 - From the context menu choose 'Re-open {{linked case}}.'
 
