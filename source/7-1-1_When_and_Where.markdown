@@ -19,7 +19,7 @@ To add a {{workarea}}, click on the appropriate radio button / {{workarea}}. The
 
 **Locations**
 
-If locations are activated in your system, you will find them below {{workarea}}s. You can select as many as you need. If one is selected in error, simply click again to deselect. These let you view your {{activities}} by location in the diary, as well as being used as a filter in {{report}}s.
+If locations are activated in your system, you will find them below {{workarea}}s. You can select as many as you need. If one is selected in error, simply click again to deselect. These let you view your {{activity}} records by location in the diary, as well as being used as a filter in {{report}}s.
 
 **Custom Fields**
 
