@@ -8,7 +8,7 @@ The charging module is designed so that it's really quick and easy to use on a d
 
 For day-to-day use, when adding a {{work}} record you will see a {{charge}} tab, which lets you choose a charging policy and a payee policy for the record. 
 
-![Charging policy in {{work}} record]({{imgpath}}1222.png)
+![Charging policy in {{work}} record](1222a.png)
 
 Charging policies determine how much each {{person}} attending should be charged; Payee policies determine who should pay this charge. 
 
