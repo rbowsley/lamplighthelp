@@ -2,7 +2,7 @@
 
 > {{Linked case}} {{report}}s provide a summary of records in {{linked case}}s, and you can filter to show open and closed {{linked case}}s within any time period
 
-The {{linked case}} {{report}} can list the open and/or closed cases, showing how many records are associated with them in the period. It can also aggregate data across {{linked case}}s. If the {{linked case}} data is combined, it can be presented using profile information, for example.
+The {{linked case}} {{report}} can list the open and/or closed {{linked case}}s, showing how many records are associated with them in the period. It can also aggregate data across {{linked case}}s. If the {{linked case}} data is combined, it can be presented using profile information, for example.
 
 ### Running a {{Report}}
 
@@ -44,7 +44,7 @@ If you run a {{report}} which collates your {{linked case}} data across the time
 
 ![{{Linked Case}} {{Report}} table](13.6.0d.png)
 
-- Number of {{linked cases}} open at any time in the timescale chosen.
+- Number of {{linked case}}s open at any time in the timescale chosen.
 - Number of new {{linked case}}s opened.
 - Number of {{linked case}}s that were closed during the period.
 - Number of {{activity}} records (including {{work}}, {{referral}}, {{outcome}} etc.) attached to any of the {{linked case}}s.
