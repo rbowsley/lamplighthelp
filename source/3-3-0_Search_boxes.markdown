@@ -4,7 +4,7 @@
 
 Search boxes appear in a number of different places in {{Lamplight}}:
 
-- {{Work}} and other {{activites}} records.
+- {{Work}} and other {{activity}} records.
 - When creating a merge {{group}}.
 - When finding profiles to delete in system administration.
 
