@@ -4,7 +4,7 @@
 
 To set up a charge policy, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new charge policy' button. You need to have created at least one charge rule before you can create any policies - see section [26.2.0  Setting up rules and policies](/help/index/p/26.2.0) and [26.2.1  Setting up charge rules - general points](/help/index/p/26.2.1) for more. 
 
-![Setting up a {{work}} record charge rule](250a.png)
+![Setting up a {{work}} record charge rule](xxxx.png)
 
 You will see a screen similar to the one above. You need to give the policy a name - this is what you will see day-to-day on your {{work}} records, so it needs to be clear from the name which policy should be used (if you're going to have more than one policy, that is). 
 
