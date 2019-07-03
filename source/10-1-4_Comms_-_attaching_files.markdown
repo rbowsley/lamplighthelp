@@ -11,7 +11,7 @@ To add a file:
 - Locate the file on your computer.
 - Click on the file that you want, then 'Open'.
 
-![Adding a File to a {{Comm}}](10.1.4a.pmg)
+![Adding a File to a {{Comm}}](10.1.4a.png)
 
 - You'll see the name of the file you just added after the 'Browse' button.
 
