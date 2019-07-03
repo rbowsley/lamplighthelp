@@ -12,11 +12,11 @@ Continue adding your {{work}} record details and save as usual.
 
 When you view a completed {{work}} record, you'll see a 'sharing' section near the bottom. If the record is not being shared, this will look something like this:
 
-![{{work}} {{project}} sharing - no sharing](235a.png)
+![{{work}} {{project}} sharing - no sharing](xxxxx.png)
 
 If a record is being shared, it will look more like this:
 
-![{{work}} {{project}} sharing - sharing](235b.png)
+![{{work}} {{project}} sharing - sharing](xxxx.png)
 
 This box shows - what is being shared and with whom. If you need to change this, you can edit the {{work}} record and select a different option in the sharing drop-down.
 
