@@ -5,7 +5,7 @@
 
 Under each {{report}} table there are three options: 
 
-![Download Data into a Spreadsheet](13.7.1a.png)
+![Download Data into a Spreadsheet](13.1.7a.png)
 
 You can choose to download your data into a spreadsheet compatible with Excel or OpenOffice, or to open it in a new window in a printer-friendly format.
 
