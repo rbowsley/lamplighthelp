@@ -7,7 +7,7 @@ Creaating a new {{waiting list}} is like adding a record in Lamplight.
 - In the main menu, choose ‘{{Activity}} > add new > {{waiting list}}’. 
  -This will open a new page with several tabs. 
 
-![add new {{waiting list}}](227a.png)
+![add new {{waiting list}}](xxxxx.png)
 
    **{{Waiting list}} name**
   
