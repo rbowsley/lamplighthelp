@@ -11,7 +11,7 @@ There are instructions to find your MailChimp API key [on the MailChimp site](ht
 
 You need to enter this into {{Lamplight}}: your system administrator will need to go to Admin -> system administration -> change global settings. On the {{Comm}}s module tab enter the API key. This is a long and unpleasant strings of characters and numbers that you'll want to copy and paste from MailChimp to {{Lamplight}}. Click 'save'.
 
-![MailChimp API]({{imgpath}}225a.png)
+![MailChimp API]({{imgpath}}225a.PNG)
 
 Once you have saved your API key, go back into the global settings -> {{comm}} settings and complete the fields that tell Lamplight which {{workarea}} you want to assign to {{comm}}s, who you want to receive notifications of unsubscribes and which MailChimp list you want to use.
 
