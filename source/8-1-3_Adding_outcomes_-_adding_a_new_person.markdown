@@ -16,7 +16,7 @@ In some systems it is possible to add an {{outcome}} for someone who is not alre
 - Click the 'save' button when you have checked the information is how you want it to be.
 - {{Lamplight}} will double-check whether this {{person}} is already on the system, and tries to check for spelling differences. If there are any {{people}} already on the system who have similar names, they will be shown in another popup window:
 
-![Adding a new {{person}} - duplicates](77b.png)
+![Adding a new {{person}} - duplicates](5.2.1a.png)
 
 - If you want to use one of the {{people}} listed, click their row on the table, and they will be added to the main attendance list. 
 - If you are certain that they are not already on the system, choose the 'click here' button and they will be added to the main attendance list. A profile will also be created for them. You will need to add information to this after you have finished the {{outcome}} record. For more on adding detail to profiles, see [5.1.0 Profiles](/help/index/p/5.1.0).
