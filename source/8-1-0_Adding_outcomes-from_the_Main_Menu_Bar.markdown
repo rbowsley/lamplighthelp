@@ -6,15 +6,15 @@ You can open up new {{outcome}} record to edit all the details, add notes and re
 
 - From the main menu choose '{{Activity -> add new -> {{outcome}}.
 
-![{{Adding an {{Outcome}} from the Main Menu](8.1.0a.png)
+![Adding an {{Outcome}} from the Main Menu](8.1.0a.png)
 
 - In the '{{Outcome}}s' tab of a profile, click on the 'Add' button on the right of the page.
 
-![{{Adding an {{Outcome}} from the Profile](8.1.0b.png)
+![Adding an {{Outcome}} from the Profile](8.1.0b.png)
 
 - In a {{work}} record context menu, choose 'Add {{outcome}}s'(for more on {{work}} record context menus see [7.2.0 Viewing {{Work}} Records for an Individual](/help/index/p/7.2.0) and [7.3.0 Viewing All {{Work}} Records](/help/index/p/7.3.0)). 
 
-![{{Adding an {{Outcome}} from the {{Work}} Record Context Menu](8.1.0c.png)
+![Adding an {{Outcome}} from the {{Work}} Record Context Menu](8.1.0c.png)
 
 If you open the record from here it will automatically add the same time and date, {{workarea}}, {{user}}s and {{staff}} as are entered in the {{work}} record. You will need to remember to change these as necessary. We would advise that you only use this if there is a single {{user}} attending the {{work}} record. It is only possible to record one set of results per {{outcome}} record, and it is unusual that two {{user}}s would have exactly the same results. 
 
