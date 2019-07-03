@@ -31,7 +31,7 @@
 - Complete the pop-up box:
    - Text - this will be the title of the field that appears in the profile.
    - Type of {{person}} - you must choose what type or types of {{person}} this new field is for. If you do not choose anything here then the new tab will not be visible on any profiles.
-   - Roles - you can also choose to limit this tab to {{people}}, {{org}}s or {{Families}} (if they are used in your system) with particular roles.
+   - Roles - you can also choose to limit this tab to {{people}}, {{org}}s or {{family}} (if they are used in your system) with particular roles.
    - Restrict the field - ticking this means that only operators with a Manager or Administration level of access will be able to see the field and its contents.
    - Projects - if you have more than one project in your system, you can choose to share this tab so that it is also visible in other projects. When tabs and fields are shared, it is possible to report information across projects.
 - Once you have finished, click the 'save' button in the bottom right corner. 
