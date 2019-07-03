@@ -44,7 +44,7 @@ When you’ve completed a tab, navigate to the next one either by clicking the t
 
 ### Attendance Tab
 
-Next is the attendance tab in which we’ll record everyone who attended including {{users}}, {{staff}}, {{volunteer}}s, and other professionals. This will allow us to look back and see who was involved, and to report on different {{people}}’s involvement. 
+Next is the attendance tab in which we’ll record everyone who attended including {{user}}s, {{staff}}, {{volunteer}}s, and other professionals. This will allow us to look back and see who was involved, and to report on different {{people}}’s involvement. 
    
 This record will appear in the ‘{{work}} records’ tab in the profile of anyone included in the attendance table, so you can see in each profile a list of everything they’ve been involved in.
 
