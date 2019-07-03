@@ -20,7 +20,7 @@
 - Decide which details to delete. There are a number of options:
   - Name and address only. This will delete these details, but the rest of the profile information and {{activity}} records will remain on the system.
   - Name, address and relationships. As above, but this option will also delete any relationships so that they do not show in profiles.
-  - Name address, relationships, custom fields, and remove from work etc. records. In addition to the information in the previous options, choosing this one will delete all profile data and remove the {{person}} or {{org}} from all attendance tables in {{activities}} records. This includes {{work}}, {{referral}}s, {{outcome}}s, {{grant}}s etc. The records themselves will not be deleted.
+  - Name address, relationships, custom fields, and remove from work etc. records. In addition to the information in the previous options, choosing this one will delete all profile data and remove the {{person}} or {{org}} from all attendance tables in {{activity}} records. This includes {{work}}, {{referral}}s, {{outcome}}s, {{grant}}s etc. The records themselves will not be deleted.
   - Name, address, relationships, custom fields and delete any work etc. records completely that they are listed on. This is the same as the option above, but instead of deleting the {{person}} or {{org}} from the {{activity}} records, the record itself will be deleted. This means that it will not be counted in any future {{report}}s.
 - Click in the box at the bottom of the list to confirm that you want to permanently delete the profiles and data you've selected. 
 - Click 'delete forever'.
