@@ -2,7 +2,7 @@
 
 > Instructions for setting up email in {{Lamplight}} if you have a Gmail account
 
-### Step 1 - Tell Gmail to Allow Lamplight
+### Step 1: Tell Gmail to Allow Lamplight
 
 You need to set Gmail to allow Lamplight to send emails via your Gmail account:
 - Log in to your Gmail account.
@@ -35,7 +35,7 @@ Your primary alternative is to use 2 factor authentication, and we recommend thi
 - Use our other guide (Gmail with 2FA) to generate a unique ‘App password’ and set-up Lamplight.
 - Turn two factor authentication back off in Google, but the unique ‘App password’ will continue to function.
 
-### Entering Settings in Lamplight
+### Step 2: Enter Settings in Lamplight
 
 As you are not using 2 factor authentication, you allow Lamplight access to your Gmail server by entering the server details and your email password.  This allows Lamplight access to send emails from your account.
 
