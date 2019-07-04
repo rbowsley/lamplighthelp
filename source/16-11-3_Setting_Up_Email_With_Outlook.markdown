@@ -12,12 +12,12 @@ To set up emails in Lamplight, you enter your server details, and your Outlook p
 
 [Lamplight Settings](16.11.1c.png)
 
-Host name: smtp.office365.com.
-Port: 587.
-Authentication: login.
-SSL type: TLS.
-Username: your email address.
-Password: your Outlook password (which you use to access your Office 365 account).
+Host name: smtp.office365.com.  
+Port: 587.  
+Authentication: login.  
+SSL type: TLS.  
+Username: your email address.  
+Password: your Outlook password (which you use to access your Office 365 account).  
 
 - If you’re setting up individual operators, you may wish to ask them to enter their password directly into the form.  
 - Save when complete.  
@@ -26,7 +26,7 @@ Password: your Outlook password (which you use to access your Office 365 account
   
 ### Email Sending Limits
 
-There are some limits on how many emails you can send with some accounts.  Each type of Office 365 account is different, and we advise you check your account.
+There are some limits on how many emails you can send with some accounts.  Each type of Office 365 account is different, and we advise you check your account.  
 If you need to, you can use MailChimp with Lamplight. See [21.2.0 {{Comm}}s: Linkiing with Mailchimp](/help/index/p/21.2.0) for more details. 
 
 
