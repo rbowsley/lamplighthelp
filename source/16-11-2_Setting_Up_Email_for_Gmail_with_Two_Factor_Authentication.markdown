@@ -8,17 +8,20 @@ When using 2 factor authentication, you don’t enter your Gmail password into L
 
 - In Gmail, select the menu icon in the top right  (9 small dots). 
 - Select the 'Account' option from the drop-down menu.
+
+![Google Account](16.11.2a.png)
+
 - Choose ‘Security’ from the left-hand menu.  
 - You’ll see a section titled ‘Signing into Google’. In this section, select ‘App passwords’.  
 - Gmail will ask you to confirm your password, and will take you to a screen to generate a password.
 
-![Google Password Box](16.11.2a.png)
+![Google Password Box](16.11.2b.png)
 
 - Choose the option called ‘select app’, and ‘Other (custom name).  
 - In the box which pops up, type Lamplight (or whatever you want to identify this app password by).  
 - Press the ‘Generate’ button. You’ll see a screen like this:
 
-![Google App Password](16.11.2b.png)
+![Google App Password](16.11.2c.png)
 
 - Copy this password right away - this is the only time you'll see it. 
 - Once you have used this password to set up Lamplight you won't need it again and can destroy it.
