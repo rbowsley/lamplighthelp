@@ -1,4 +1,4 @@
-#    16.11.4 Setting Up a Gmail Account
+#    16.11.1 Setting Up a Gmail Account
 
 > Instructions for setting up email in {{Lamplight}} if you have a Gmail account. 
 
