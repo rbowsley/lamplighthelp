@@ -41,9 +41,9 @@ As you are not using 2 factor authentication, you allow Lamplight access to your
 
 - Go to 'admin -> system administration -> Communication settings'.
 - In here you have two options:
-   - Email settings: to send via a single email account for all operators. You can use this as a default for all operators if you want to. Once you have set this up, anyone without an individual operator email account will still be able to send emailsf from this one.
+   - Email settings: to send via a single email account for all operators. You can use this as a default for all operators if you want to. Once you have set this up, anyone without an individual operator email account will still be able to send emails from this one.
    - Email settings: to send via individual operator email accounts. Use this option to have different settings for individual users.
-- Whichever you are setting up, you will need to complete the following fields:
+- Whichever you are setting up, you will need to complete the following fields for each email account you add:
   
 [Lamplight Settings](16.11.1c.png)
   
