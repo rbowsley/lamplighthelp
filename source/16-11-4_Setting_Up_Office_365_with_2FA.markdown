@@ -27,7 +27,10 @@ You can find online instructions from Microsoft for setting up two factor authen
 ![Microsoft Create Password](16.11.4c.png)
 
 - Give the app password a name (such as Lamplight).
-- You’ll be shown the password.  Copy it to your clipboard, you won’t see this again.  You will need to enter it in to Lamplight, after which you won't need it again so you can delete it.
+- You’ll be shown the password.  Copy it to your clipboard, you won’t see this again.  You will need to enter it in to Lamplight, after which you won't need it again and you should delete it.
+
+![Microsoft Password Screen](16.11.4d.png)
+
 - The exact path to follow in Microsoft  may change as they update their help, but is likley to always be in the ‘Security’ area.
 
 ### Entering Settings in Lamplight
