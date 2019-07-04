@@ -6,7 +6,7 @@ To set up emails in Lamplight, you enter your server details, and your Outlook p
 
 - From the main menu, go to 'admin -> system administration'.
 - Under ‘Communication Settings’ you'll see two options:
- - Email settings: to send via a single email account for all operators. You can use this as a default for all operators if you want to. Once you have set this up, anyone without an individual operator email account will still be able to send emails from this one.
+   - Email settings: to send via a single email account for all operators. You can use this as a default for all operators if you want to. Once you have set this up, anyone without an individual operator email account will still be able to send emails from this one.
    - Email settings: to send via individual operator email accounts. Use this option to have different settings for individual users.
 - Whichever you are setting up, you will need to complete the following fields for each email account you add:
 
