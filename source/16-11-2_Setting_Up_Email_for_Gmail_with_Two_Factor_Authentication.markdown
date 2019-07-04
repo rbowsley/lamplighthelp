@@ -17,7 +17,7 @@ When using 2 factor authentication, you don’t enter your Gmail password into L
 
 ![Google Password Box](16.11.2b.png)
 
-- Choose the option called ‘select app’, and ‘Other (custom name).  
+- Choose the option called ‘select app’, and ‘Other (custom name)'.  
 - In the box which pops up, type Lamplight (or whatever you want to identify this app password by).  
 - Press the ‘Generate’ button. You’ll see a screen like this:
 
