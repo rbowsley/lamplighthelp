@@ -1,8 +1,0 @@
-#    16.11.2 Using Different Email Accounts for Each Database Operator
-
-> It is possible to set each operator up so that they use their own email address.
-
-More information to come.
-
-
-###### core module
