@@ -12,7 +12,7 @@ You can find online instructions from Microsoft for setting up two factor authen
 
 - Go to Outlook or Office 365 online, and log in with your username and password.
 - In the very top right of the screen, click on your initials in the small circle to show the menu.
-- Choose ‘My account’
+- Choose ‘My account’.
 
 [Microsoft Office Account](16.11.4a.png)
 
@@ -57,11 +57,7 @@ Password: the password you just generated.
 ### Email Sending Limits
 
 There are some limits on how many emails you can send with some accounts.  Each type of Office 365 account is different, and we advise you check your account.  
-If you need to, you can use MailChimp with Lamplight. See [21.2.0 {{Comm}}s: Linkiing with Mailchimp](/help/index/p/21.2.0) for more details. 
-
-
-
-
+If you need to, you can use MailChimp with Lamplight. See [21.2.0 {{Comm}}s: Linking with Mailchimp](/help/index/p/21.2.0) for more details. 
 
 
 ###### core module
