@@ -27,9 +27,7 @@ Password: your Outlook password (which you use to access your Office 365 account
 ### Email Sending Limits
 
 There are some limits on how many emails you can send with some accounts.  Each type of Office 365 account is different, and we advise you check your account.  
-If you need to, you can use MailChimp with Lamplight. See [21.2.0 {{Comm}}s: Linkiing with Mailchimp](/help/index/p/21.2.0) for more details. 
-
-
-
-
+If you need to, you can use MailChimp with Lamplight. See [21.2.0 {{Comm}}s: Linking with Mailchimp](/help/index/p/21.2.0) for more details. 
+ 
+ 
 ###### core module
