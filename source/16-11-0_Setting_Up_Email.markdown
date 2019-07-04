@@ -9,7 +9,7 @@ You will need to enter your details in System Administration to allow you to sen
 You can either
 - Set-up each database operator to send emails from their own account.
 - Set-up all operators to send email through a group email address.
-If you will be using {{Lamplight}} to send out bulk emails, then a single email address may suit.  For other purposes, sending through individual account may be your preferred option.  You can choose some people to send through individual accounts, and others through a single account.
+If you will be using {{Lamplight}} to send out bulk emails, then a single email address may suit.  For other purposes, sending through individual account may be your preferred option.  You can choose some people to send with individual accounts, and others with a single account.
 
 Because emails are sent through your own server, there are sometimes limits on how many emails you can send with some certain accounts.  You can check with your provider how this may affect you. If you need to, you can use MailChimp with Lamplight for sending out bulk email. You need the Communications Module for this. For more on Mailchimp and Lamplight, see [21.2.0 {{Comm}}s: Linking with Mailchimp](/help/index/p/21.2.0).
 
@@ -25,16 +25,15 @@ Two-factor authentication means entering a code in addition to your normal email
 
 Email providers have different settings to each other. Find your supplier in the list below for instructions on how to set up your email account:
 
-- Gmail Without 2 Factor Authentication.
-- Gmail With 2 Factor Authentication.
-- Office 365 Without 2 Factor Authentication.
-- Office 365 With 2 Factor Authentication.
-- Outlook With Your Own Server (Not Office 365)
-- Other Common Providers
+- [16.11.1 Setting up a Gmail Account](/help/index/p/16.11.1).
+- [16.11.2 Setting up Gmail with Two Factor Authentication](/help/index/p/16.11.2).
+- [16.11.3 Setting up Office 365](/help/index/p/16.11.3).
+- [16.11.4 Setting up Office 365 with Two Factor Authentication](/help/index/p/16.11.4).
+- [16.11.5 Setting up Outlook with Your Own Server (Not Office 365)](/help/index/p/16.11.5).
+- [16.11.6 Setting up Email for Other Common Providers](/help/index/p/16.11.6).
 
 
-
-
-
+##### Tags
+System admin
 
 ###### core module
