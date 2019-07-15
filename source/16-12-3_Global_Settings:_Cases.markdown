@@ -22,7 +22,7 @@ The options for this tab are:
 
    If you have the {{linked case}} tab enabled on profiles (see option above), there is a button above the list of {{linked case}}s that shows all records not included in a {{linked case}}. You can specify what details appear on this button using the codes outlined in the  menu.
    
-   ![The Unlinked REcords Button](16.12.3a.png)
+   ![The Unlinked Records Button](16.12.3a.png)
  
 - **Custom template for the open {{linked case}} buttons**
 
