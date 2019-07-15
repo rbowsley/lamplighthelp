@@ -37,3 +37,5 @@ Use the information that you've just gathered to fill in these fields. The passw
 There are some limits on how many emails you can send with some accounts.  
 If you need to send more emails than your provider allows you can use MailChimp with Lamplight. See [21.2.0 {{Comm}}s: Linking with Mailchimp](/help/index/p/21.2.0) for more details. 
 
+
+###### core module
