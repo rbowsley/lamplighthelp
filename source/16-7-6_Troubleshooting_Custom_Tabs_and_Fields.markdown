@@ -30,7 +30,7 @@ There are two types of field which do translate well:
    
    - When you initially set up a new tab or field, you need to specify which type of profiles it will appear on, and for what roles. So in the dialogue box when you are adding a new tab or field you will see:
    
-      ![Type of Person and Role in Custom Tabs and Fields](16.7.6.png)
+      ![Type of Person and Role in Custom Tabs and Fields](16.7.6a.png)
       
       You can only choose one ‘person’ type, but to select multiple ‘roles’ for a tab or field, hold down the ‘Ctrl’ key as you click items in the list.    This has to be completed for both the tab and each field in it. When you look on the tab and field management page, you can see what person type and role have been selected when you click on each one.
       
