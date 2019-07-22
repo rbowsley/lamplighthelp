@@ -19,7 +19,7 @@ You can send Lamplight a file within the system. You should never email personal
 Sometimes you may experience a problem with Lamplight and need to contact us for support. If you wish to email us a screenshot or details about the problem, please ensure that you do not send any personally identifiable information. Take the screenshot to avoid such information or edit the image to blank it out. If you need to refer to a specific profile or other record, send us the ID, not the name (which is more helpful for us anyway).
 
 
-#####
+##### Labels
 Top tips
 
 ###### core module
