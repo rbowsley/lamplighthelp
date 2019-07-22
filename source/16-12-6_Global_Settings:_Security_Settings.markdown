@@ -2,6 +2,8 @@
 
 > This is where System Administrators can set the amount of time before an automatic lockout happens, and restrict operators below manager level so that they can only view profiles and records of the people that they work with. It also contains the option to enable speech recognition
 
+### Logout Time
+
 **Length of time in seconds before automatic logout happens
 
 You can set the length of time operators can leave their system open without it detecting any activity before they are automatically logged out and need to sign in again. This is a security feature aimed at stopping systems with sensitive data being left open at an unattended computer. Be aware that {{Lamplight}} cannot detect some activity, such as entering text. 
@@ -24,6 +26,8 @@ The ‘My User’ restriction allows for a stricter level of access limitation t
 
    By choosing this option, when a database user creates a new profile in the system, it will automatically be linked to them as 'my user'. This is to prevent the need for another operator with a higher level of access to go in and create the relationship before they can edit information in the profile.
    
+### Speech Recognition
+
 **Allow operators to use speech recognition with {{Lamplight}}?
 
    If you use Chrome it has built-in dictation which you can use to write your {{work}} records or other text. If you choose to enable speech recognition here, each operator will have the choice whether or not they would like to use it.
