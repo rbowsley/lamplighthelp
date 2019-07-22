@@ -4,10 +4,10 @@
 
 In {{Lamplight}} we identify two different types of information - information you hold about people and information you hold about the activities that you do with them. 
 
-System administrators can import information about people and {{org}}s using and Excel spreadsheet. Information about the activities is more complex, and will need to be imported by Lamplight. 
+System Administrators can import information about {{people}} and {{org}}s using an Excel spreadsheet. Information about the activities is more complex, and will need to be imported by Lamplight (please contact us at [hello@lamplightdb.co.uk](mailto:hello@lamplightdb.co.uk) if you need more information).
 
 
 ##### Tags
-Advanced
+Advanced topics
 
 ###### core module
