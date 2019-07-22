@@ -1,4 +1,4 @@
-# 21.2.1    {{Comm}}s - adding your MailChimp API details
+# 21.2.1    {{Comm}}s: Setting up Mailchimp in {{Lamplight}}
 
 > You need to tell {{Lamplight}} about your MailChimp account so the two systems can talk to each other, through the system admin menu. 
 
