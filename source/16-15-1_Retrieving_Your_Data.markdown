@@ -1,6 +1,6 @@
-# 16.15.1 Retrieving Your Data When Closing Your Account
+# 16.15.1 Retrieving Your Data
 
-> There are a number of different ways to retrieve large amounts of information from Lamplight, and which you choose will depend on what information you want and how accessible it needs to be
+> There are a number of different ways to retrieve large amounts of information from Lamplight. The one you choose will depend on what information you want and how accessible it needs to be
 
 If you choose to close your account, the end of our Hosting Agreement with you will mean that we no longer have permission to store your data and it will be deleted from the servers. After 28 days our back-ups will also be removed.  
 
@@ -13,15 +13,12 @@ The Archive Module allows us to retain your data, as we will still have a Hostin
 ### Downloading Your Information
 - **Usable back-ups (readable in Excel etc)**
    You can use various methods to download your information in full:
-   - Using groups/lists with dataviews to show profile and activity info 
-   - Downloading activity records, with additional columns showing contents
-   - Downloading ‘Complete Reponses’ in evaluation reports.
+   - Using {{group}}s with data views to show profile and {{activity}} information (see [11.0.0 {{Group}}s](/help/index/p/11.0.0) and [12.0.0 {{Group}} Data Views](/help/index/p/12.0.0)).
+   - Downloading {{activity}} records ({{work}}, {{referral}} etc) with additional columns to show contents (see [7.3.0 Viewing All {{Work}} Records](/help/index/p/7.3.0)).
+   - Downloading ‘Complete Reponses’ in {{eval}} reports (see [14.2.0 {{Eval}} Reports](/help/index/p/14.2.0)).
    
-You’ll find information about how to do this yourself in our help pages (available by pressing the ‘help’ button next to the search box on any Lamplight page), or we’ll be happy to help you (this may require purchasing a support pack).
-
 - **SQL back-up**
-   You can also download a full copy of your system in SQL format in the system admin area of Lamplight.  This is a full (unencrypted) back-up, but not easy to access.  Lamplight could potentially restore your system from this (though this would incur a charge to cater for adjustments).  We encourage you to download this as it gives you options should you need full access in the future, for example, for a safeguarding issue. 
-
+   You can also download a full copy of your system in SQL format in the system admin area of Lamplight (see [16.15.0 Backups](/help/index/p/16.15.0)). This is a full (unencrypted) back-up, but not easy to access. Lamplight could potentially restore your system from this (though this would incur a charge to cater for adjustments). We encourage you to download this as it gives you options should you need full access in the future, for example, for a safeguarding issue. 
 
 #### Please remember, if you do download a backup file or other personally identifiable data, you will need to make sure that it is properly encrypted and stored securely. 
 
