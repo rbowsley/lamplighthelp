@@ -1,25 +1,28 @@
-# 17.2.0    {{Project}} Sharing
+# 17.2.0 {{Project}} Sharing
 
-> By default no information is shared between different {{project}}s. {{Project}} sharing allows you to do so. You must contact Lamplight to enable {{project}} sharing.  
+> By default no information is shared between different {{project}}s. {{Project}} sharing allows you to do so. You will need to ask us  to enable {{project}} sharing for you
 
-{{Project}} sharing lets you control in fine detail what information is shared between different {{project}}s. You can share profile information as well as {{work}}, {{outcome}}, {{referral}}, {{eval}} and {{comm}} records. 
+{{Project}} sharing lets you control what information is shared between different {{project}}s. You can share profile information as well as {{work}}, {{outcome}}, {{referral}}, {{eval}} and {{comm}} records. 
 
-This sharing is controlled by policies that determine which {{project}}s the information should be shared with, what information to share, and whether information can be editted. 
+This sharing is controlled by policies which specify:
 
-These policies specify:
+- Which {{project}}s to share with.
+- The access level needed for database operators in other {{project}}s to be able to view the shared record.
+- How much of the record to share (for example, just name but not contact details).
+- Whether operators in other {{project}}s may add to or edit the record, or just view it.
 
-  1. Which {{project}}s to share with
-  2. The access level needed for other database operators to be able to view the shared record
-  3. How much of the record to share (for example, just name but not contact details
-  4. Whether operators in other {{project}}s may add to or edit the record, or just view it
-Your system administrator will need to set up policies for profile sharing and {{work}} etc. record sharing. 
+These policies will need to be set up by your System Administrator. 
 
-- For more information on setting up policies see [24.6.1  {{Project}} sharing - setting up policies](/help/index/p/24.6.1). 
+For more information on setting up policies see:
+- [17.2.1  {{Project}} Sharing: Setting Up {{Activity}} Sharing Policies](/help/index/p/17.2.1). 
+- [17.2.3  {{Project}} Sharing: Setting Up Profile Sharing Policies](/help/index/p/17.2.3).
 
-Once these policies are in place, you need to apply the policy to particular records. **No information is shared until you explicitly choose to do so.**
+Once these policies are in place, you need to apply them to particular records. **No information is shared until you explicitly choose to do so.**
 
-- For more information on sharing profiles, see section [24.6.2  {{Project}} sharing - sharing profiles](/help/index/p/24.6.2). 
-- For more on sharing {{work}} etc. records see section [24.6.3  {{Project}} sharing - sharing {{work}} etc. records](/help/index/p/24.6.3). 
+- For more information on applying sharing policies see:
+- [17.2.2  {{Project}} Sharing: Sharing {{Work}} Etc. Records](/help/index/p/17.2.2).
+- [17.2.4  {{Project}} Sharing: Sharing Profiles](/help/index/p/17.2.4). 
+ 
 
 ###### core module
 
