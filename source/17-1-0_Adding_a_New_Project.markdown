@@ -21,9 +21,9 @@ The normal process to follow would be:
 - Ask Lamplight to unshare any individual areas which you cannot unshare yourself.
 
 
-### Adding a new {{project}}
+### Adding a New {{Project}}
 
-   - Go to 'admin -> system dministration -> {{Project}}s -> Manage projects’. 
+   - Go to 'admin -> system administration -> {{Project}}s -> Manage projects’. 
    - You will see a table like this.
  	 
    ![{{Project}}s Table](17.1.0a.png)
@@ -65,7 +65,7 @@ Once you’ve set-up your new {{project}}, you may want to adjust some of the sh
 
 **Unsharing Fields**
 
-   You can share or unshare custom fields in profiles and {{activity}} records yourself from the System Administration menu.
+   You can share or unshare custom fields in profiles and {{activity}} records yourself from the system administration menu.
 
    - Go to the ‘Manage Custom Fields and Drop-down lists’ section. 
    - Within this, if you are looking at profile fields for example, go to ‘People and Organisations -> Manage custom tabs and fields on profiles’. 
@@ -87,11 +87,11 @@ Once you’ve set-up your new {{project}}, you may want to adjust some of the sh
    
    ![List of {{Project}}s](17.1.0f.png)
  
-You can use this method for any profile custom tabs and fields, as well those in other types of records which can be found in the same ‘Manage Custom Fields and Drop-down lists’ section of the System Administration page.   
+You can use this method for any profile custom tabs and fields, as well those in other types of records which can be found in the same ‘Manage Custom Fields and Drop-down lists’ section of the system administration page.   
 
 Be sure to distinguish between custom fields in {{outcome}}s, which are extra fields in your {{outcome}} records which you can share yourself, and the {{outcome}} measures themselves, which you can’t.  
 
-Evaluations can be managed through the ‘Manage evaluations’ settings.  
+{{Eval}}s can be managed through the ‘Manage {{eval}}s’ settings (for more on this see [22.1.1 {{Eval}}s Module: Editing and Deleting {{Eval}}s](/help/index/p/21.1.1)).   
 
 **Unsharing Other Fields**
 
@@ -102,8 +102,9 @@ Evaluations can be managed through the ‘Manage evaluations’ settings.
    
 ### Changes and Warnings for System Administrators
 
-   Once you add multiple {{project}}s, the System Administrator role becomes more limited. System administrators are now no longer able to make changes across the whole system. This includes access to global settings, and a variety of other features. These settings can now only be accessed by a Project Administrator.
+   Once you add multiple {{project}}s, the System Administrator role becomes more limited. System Administrators are now no longer able to make changes across the whole system. This includes access to global settings, and a variety of other features. These settings can now only be accessed by a Project Administrator.
    
    It is important for System and Project Administrators to come to an understanding about what changes they can make in their own {{project}}s, and how these will affect other {{project}}s. For example, while a System Administrator can add a new {{workarea}} in their {{project}} without it affecting others, if they remove or change a shared {{workarea}} this will remove it or change it for every {{project}} which uses it.
+
 
 ###### core module
