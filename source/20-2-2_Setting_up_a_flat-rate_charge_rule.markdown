@@ -1,12 +1,18 @@
 # 20.2.2    Setting up a Flat-rate Charge Rule
 
-> To set up a flat-rate charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new flat-rate charge rule' button. 
+> Flat-rate charge rules let you apply the a single charge to the {{work}} record
 
-To set up a flat-rate charge rule, go to admin -> system administration -> set up charge module rules and policies. Click the 'create new flat-rate charge rule' button. 
+To set up a flat-rate charge rule:
+- Go to admin -> system administration -> Module Administration -> Charge Module -> manage charge module rules and policies. 
+- Click the 'create new flat-rate charge rule' button. 
 
-![Setting up a flat rate charge rule]({{imgpath}}xxxx.png)
+![Setting up a flat rate charge rule](20.2.2a.png)
 
-Flat-rate rules are very simple: just give it a name and specify the amount. Everyone listed on the {{work}} record will be charged this amount. 
+Flat-rate rules are very simple: just give it a name and specify the amount. 
+
+![Flat-rate Charge Rule Details](20.2.2a.png
+
+Everyone listed on the {{work}} record will be charged this amount. 
 
 ###### charge module
 
