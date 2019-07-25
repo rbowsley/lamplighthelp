@@ -8,11 +8,12 @@ To set up a flat-rate charge rule:
 
 ![Setting up a flat rate charge rule](20.2.2a.png)
 
-Flat-rate rules are very simple: just give it a name and specify the amount. 
+ - Give it a name (this is what you will identify it by when you are adding it to a policy).
+ - Specify the amount. 
 
 ![Flat-rate Charge Rule Details](20.2.2a.png)
 
-Everyone listed on the {{work}} record will be charged this amount. 
+- Everyone listed on the {{work}} record will be charged this amount. 
 
 
 ###### charge module
