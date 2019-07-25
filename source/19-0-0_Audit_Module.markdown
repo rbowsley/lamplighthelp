@@ -1,8 +1,8 @@
 # 19.0.0 Audit Module
 
-> There will be an auditing module for auditing purposes at some future point
+> We plan to introduce a module for auditing purposes in future
 
-More information pending
+More information pending.
 
 
 ###### audit module
