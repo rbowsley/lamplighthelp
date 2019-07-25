@@ -1,4 +1,4 @@
-# 20.2.2    Setting up a Flat-rate Charge Rule
+# 20.2.2 Setting up a Flat-rate Charge Rule
 
 > Flat-rate charge rules let you apply the a single charge to the {{work}} record
 
@@ -10,9 +10,10 @@ To set up a flat-rate charge rule:
 
 Flat-rate rules are very simple: just give it a name and specify the amount. 
 
-![Flat-rate Charge Rule Details](20.2.2a.png
+![Flat-rate Charge Rule Details](20.2.2a.png)
 
 Everyone listed on the {{work}} record will be charged this amount. 
+
 
 ###### charge module
 
