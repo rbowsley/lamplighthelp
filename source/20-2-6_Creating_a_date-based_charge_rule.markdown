@@ -15,7 +15,7 @@ To set up a date-based charge rule:
 - Click on the date (by default today's date) in the first row. 
 - A calendar will appear: select the date you want. 
 - Do the same for the 'date to'. 
-- Click in the next cell, the comparison date where you will see two choices:date booked or date added. 
+- Click in the next cell, 'Comparison date', where you will see two choices: date booked or date added. 
    - 'Date added' is the date this attendance was last updated (when you edit a record it 're-adds' them to the record). For late cancellation fee type rules, you will want to choose 'date added'. 
    - For early-bird discounts, you will want to choose 'date booked'. This is when they were first entered into the attendance table.
 - Once you have completed this field, click the little save button in the cell. 
