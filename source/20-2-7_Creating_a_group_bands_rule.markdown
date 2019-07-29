@@ -1,13 +1,13 @@
 # 20.2.7 Creating a {{Group}} Bands Rule
 
-> The {{group}} bands rule allows you to charge people based on their membership of a particular {{auto group}} 
+> The {{group}} bands rule allows you to charge people based on their membership of a particular auto {{group}} 
 
-The {{group}} bands rule allows you to charge people based on their membership of a particular {{auto group}}. This will be useful in order to provide an 'unwaged' rate, for example, or to charge based on the turnover of the organisation attending. 
+The {{group}} bands rule allows you to charge people based on their membership of a particular auto {{group}}. This will be useful in order to provide an 'unwaged' rate, for example, or to charge based on the turnover of the organisation attending. 
 
 A rule can contain several bands, each based on a {{group}} - you will need to set up the auto {{group}}s you are using first (see section [11.1.0  Creating an Auto{{Group}}](/help/index/p/11.1.0) for details). 
 - In the 'unwaged' example, you would need a {{group}} that checks for unwaged status. 
 - In the 'turnover' example, you would need one auto {{group}} for each band. The first auto {{group}} would be (for example) 'turnover below £100,000', the second 'turnover between £100,001 and £250,000' and a third 'turnover greater than £250,001'. 
-- When you have created your {{auto group}}s, you can set up the rule. 
+- When you have created your auto {{group}}s, you can set up the rule. 
 
 **To set up a {{group}}-based charge rule:**
 
