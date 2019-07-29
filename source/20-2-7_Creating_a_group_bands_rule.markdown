@@ -17,7 +17,7 @@ A rule can contain several bands, each based on a {{group}} - you will need to s
 - Click on the first cell of the table to give the band a name. 
 - Click on the second cell ('{{Group}} to check membership of') and select the {{group}} you wish to use from the drop- down list. 
 - In the rate cell, enter a number or a percentage. 
-   - Numbers are interpreted as amounts of money 
+   - Numbers are interpreted as amounts of money. 
    - Percentages are of any amount calculated by a previous rule. So to charge unwaged attendees a flat £10, regardless of any previous rules, you would enter 10 in the rate box. To charge 20% of the full rate (calculated by previous rules), you would enter 20% in the rate box. 
    - If you use percentages, this should not be the first rule in a policy. This is because it will have no previous amount to calculate from, so all charges will come out as 0 (as any % of 0 is 0). 
 
