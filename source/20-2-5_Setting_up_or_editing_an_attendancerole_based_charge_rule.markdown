@@ -13,7 +13,7 @@ To set up an attendance/role-based charge rule:
    - If you set an amount (e.g. £50) then they will be charged that amount: this is not cumulative from previous rules. 
    - If you set a percentage (e.g. 75%), this will use an amount from a previous rule. 
    - If you use percentages, this should not be the first rule in a policy. This is because it will have no previous amount to calculate from, so all charges will come out as 0 (as any % of 0 is 0).
-- You can mix and match fixed amounts and percentages for in attendance cells of the table. 
+- You can mix and match fixed amounts and percentages in the table. 
 
 ![Role/Attendance-based Charge Rule](20.2.5b.png)
 
