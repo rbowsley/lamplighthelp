@@ -11,8 +11,10 @@ To set up a role-based charge rule:
 ![Setting Up a Role-based Charge Rule](20.2.3a.png)
 
 - Section [20.2.1  Setting Up Charge Rules: General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields. 
-- For each role type, you can set an amount or a percentage. If you set an amount (e.g. £50) then they will be charged that amount: this is not cumulative from previous rules. If you set a percentage (e.g. 75%), this will use an amount from a previous rule. 
-- Don't use percentages if this is going to be the first rule in the policy as the amount will always come out as 0 (as any % of 0 is 0). 
+- For each role type, you can set an amount or a percentage. 
+   - If you set an amount (e.g. £50) then they will be charged that amount: this is not cumulative from previous rules. 
+   - If you set a percentage (e.g. 75%), this will use an amount from a previous rule. 
+   - Don't use percentages if this is going to be the first rule in the policy as the amount will always come out as 0 (as any % of 0 is 0). 
 - You can mix and match fixed amounts and percentages for different roles. 
 
 ![A Role-based Rule](20.2.3b.png)
