@@ -23,7 +23,7 @@
 ### To Edit a Payee Policy
 
 - To edit an existing policy, click on the name of the policy from the main screen.
-- Move the rules to the position that you want them in, and add any more that you need to the policy.
+- Move the rules to the position that you want them in, and add any more that you need to the policy.  
 **- Note that if you do edit a policy, the changes will not be applied to existing records - payments already calculated will remain as they are. However, if you edit a {{work}} record and keep the same policy, payees will be re-calculated when you save the record. It may be better to create a new policy in these circumstances.** 
 
 
