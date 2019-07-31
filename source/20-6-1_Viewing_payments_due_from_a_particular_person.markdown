@@ -1,8 +1,8 @@
 # 20.6.1    Viewing Payments Due from a Particular {{Person}}
 
-> In a profile you will see a charge tab: this lists all charges allocated to that {{person}}. 
+> In a profile you will see a charge tab which lists all charges allocated to that {{person}} or {{org}} 
 
-In a profile you will see a charge tab: this lists all charges allocated to that {{person}}. 
+In a profile you will see a charge tab: this lists all charges allocated to that {{person}}. If you can't see the tab it is probably hidden in your personal settings - see [16.4.2 Personal Settings: Profiles](/help/index/p/16.4.2) for instructions on how to unhide the tab.
 
 ![Viewing charges for a {{person}}](xxxxx.png)
 
