@@ -1,10 +1,17 @@
-# 20.4.0    Setting up Payee Rules - General Points.
+# 20.4.0 Setting up Payee Rules: General Points
 
-> A payee policy decides who should be charged. It will take the total charge calculated by the charge policy and apportion it between one or more people or organisations. 
+> A payee policy decides who should be charged. It will take the charge calculated by the charge policy and split it between one or more people or organisations, as the policy determines 
 
-A payee policy decides who should be charged. It will take the total charge calculated by the charge policy and apportion it between one or more people or organisations. For more on payee policies see section [26.1.1  Overview of charge module rules and policies](/help/index/v/p/26.1.1) and [26.5.0  Creating a payee policy](/help/index/p/26.5.0). 
+It is not always the {{person}} attending a session who actually pays for it. A payee policy decides who should be charged, taking the total charge calculated by the charge policy and applying it to one or more people or organisations. 
 
-Payee policies are made up of payee rules, in a similar way to charge policies. You need to set up at least one rule before you can create any policies. 
+For more on payee policies see:
+- [20.1.0  Overview of Charge Module Rules and Policies](/help/index/v/p/20.1.0).
+- [20.5.0  Creating a Payee Policy](/help/index/p/20.5.0). 
+
+Payee policies are made up of payee rules, in a similar way to charge policies being made up of charge rules. 
+
+You need to set up at least one rule before you can create any policies. 
+
 
 ###### charge module
 
