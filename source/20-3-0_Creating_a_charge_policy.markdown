@@ -25,7 +25,7 @@
 ### To Edit a Charge Policy
 
 - From the main screen, click on the name of the policy.
-- You can add rules and re-order them in the same way as when you are creating a policy. 
+- You can add rules and re-order them in the same way as when you are creating a policy.  
 **Note that if you do edit a policy, the changes will not be applied retrospectively - charges already calculated in a {{work}} record will remain as they are. However, if you edit a {{work}} record and keep the same policy, charges will be re- calculated when you save the record. It may be better to create a new policy in these circumstances.** 
 
 ###### charge module
