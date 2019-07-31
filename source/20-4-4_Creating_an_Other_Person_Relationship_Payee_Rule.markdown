@@ -21,4 +21,4 @@ To set up an other person relationship payee rule:
 - When you have finished click 'save' in the bottom right hand corner. You will return to the charge module admin menu. 
 
 
-####### charge module
+###### charge module
