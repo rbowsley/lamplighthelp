@@ -4,7 +4,7 @@
 
 ### Creating Batch Invoices
 
-- Go to 'admin -> -> finances -> create invoices'. 
+- Go to 'admin -> finances -> create invoices'. 
 
 ![Create Invoices](20.6.2a.png)
 
@@ -12,7 +12,7 @@
 
 ![Creating invoices in bulk](20.6.2b.png)
 
-- To create invoices, select some or all of the items in the table by ticking the checkbox in the left-hand column. You can select-all by clicking the header at the top of the table. 
+- To create invoices, select some or all of the items in the table by ticking the checkbox in the left-hand column. You can select them all by clicking the header at the top of the table. 
 - At the base of the table, click the 'create invoices' button. 
 
 ![Select Charges to Pay](20.6.2d.png)
