@@ -1,4 +1,4 @@
-# 21.1.3    The {{Comm}}s Module Image Library
+# 21.1.4    The {{Comm}}s Module Image Library
 
 > The image library stores images you may wish to use repeatedly (such as logos) in your {{comm}}s and {{comm}} templates. You can find the {{Comm} Module Image library by going to System Administration in the main menu, and choosing 'Admin'.  From here in the 'Manage communication settings' section, choose 'Go to the library'.
 
