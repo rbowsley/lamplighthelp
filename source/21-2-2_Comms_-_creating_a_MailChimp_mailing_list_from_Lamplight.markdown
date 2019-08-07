@@ -3,7 +3,7 @@
 > You can use {{group}}s in {{Lamplight}} to set up list 'segments' in MailChimp. Set up (or use an existing {{group}}) first, and then use the context menu to synchronise with MailChimp. 
 
 
-xxxxx THIS IS JUST A PLACEHOLDER - NEEDS UP-TO-DATE INFO XXXXXX
+xxxxx TODO XXXXXX
 
 
 You'll need a {{group}} as the basis of your MailChimp list segment: see section [14.0.0  Introduction to {{group}}s](/help/index/v/{{version}}/p/14.0.0) for more on {{group}}s. When you are ready, go to {{group}}s -> view all on the main menu and find the {{group}} you want to use. When you open the context menu (right-click on the menu button), click on the 'View MailChimp status' option.
