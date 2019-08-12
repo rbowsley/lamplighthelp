@@ -1,6 +1,6 @@
 # 21.2.1  {{Comm}}s: Setting up Mailchimp in {{Lamplight}}
 
-> You need to add Mailchimp details in system administration so that the two systems can talk to each other 
+> Before you begin using Mailchimp, set up the details in system administration so that the two systems can talk to each other 
 
 The first thing that you will need to do is set up a Mailchimp account. Please make sure that you comply with their terms: [http://mailchimp.com/legal/terms/](http://mailchimp.com/legal/terms/).
 
