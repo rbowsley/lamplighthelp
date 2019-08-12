@@ -1,22 +1,27 @@
-# 21.2.3    {{Comm}}s - setting up a MailChimp campaign
+# 21.2.3 {{Comm}}s: Sending a Mailchimp Campaign
 
-> A 'campaign' is the email content, linked to a mailing list. You can need to create the content of your campaign within MailChimp.
+> A 'campaign' is an email or newsletter linked to a mailing list. You create the content of your campaign within Mailchimp
 
-xxxxx THIS IS JUST A PLACEHOLDER - NEEDS UP-TO-DATE INFO XXXXXX
+Mailchimp has its own wizard system which you can use to set up the layout and content of your campaign - see their website for more details. We’ll focus on selecting which {{Lamplight}} {{group}} to which to send the mailing.
 
+### Selecting Your Recipients
 
-Follow the on-screen prompts within MailChimp to set up your newsletter.
+- In Mailchimp, go to the  'Campaigns' page (using the menu tab at the top of the page), then click on the ‘Create Campaign’ box to the right.
+- Choose a type of campaign (normally email) and give it a name. Click 'Begin'.
+- In the following screen, choose 'Add recipients'.
+- Choose your audience.  You’ll probably only have one, named for your system which will include all the profiles synced from {{Lamplight}}. Select this.
+- In the next drop-down ‘Segment or tag’, choose the option ‘Group or new segment.’
 
-When you get to the screen to choose which list you want to use to send out your newsletter, you need to choose the name of your saved segment, synced from your {{group}} in Lamplight.
+![Choosing Mailchimp Audience](21.2.3a.png)
 
-![Choosing a list segment in MailChimp]({{imgpath}}239a.png)
+- A new section will appear below.  In the drop-down, under ‘Groups’ select ‘Lamplight sync category’ and then choose the {{group}}s you wish to send to.
 
-You can send yourself and colleagues a test email to check how it looks on screen. If you want to make changes to the newsletter then you can go back in and edit it.
+![Choosing Send Groups](21.2.3b.png)
 
-When you are happy that your newsletter looks the way you want it to and all of the contacts have been synced from {{Lamplight}} you can send finish sending your campaign from MailChimp.
+- If you are sending to more than one group in the list, make sure that you select ‘one of’ from the second drop-down. If you select ‘all of’ then the campaign will only be sent to people who are in all of the selected lists.
+- Continue through the wizard to complete the options for your mailing, then send when ready. 
+- We would advise you to send yourself or a colleague a test email to check how it looks on screen. You can then go back to make changes to the campaign as necessary. 
 
-By logging into the MailChimp site you can see statistics (number of emails opened; number of clicks, number of 'unsubscribes', number of 'bounces' (ie email addresses not recognised), number of emails uniquely opened). 
-You may want to read more about these statistics from MailChimp: [understanding reports](http://mailchimp.com/resources/guides/understanding-reports/), for example, gives some explanation of what it means; what the limitations are; and what 'usual' open rates might be. 
 
 ###### comms module
 
