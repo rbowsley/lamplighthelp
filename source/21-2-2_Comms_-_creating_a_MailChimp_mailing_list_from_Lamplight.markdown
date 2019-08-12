@@ -26,7 +26,11 @@ To view the profiles you've imported in Mailchimp, you can view your 'Mailchimp 
 - Scroll across the table to the 'Lamplight Sync Category' column - this shows the {{Lamplight}} {{group}} name and ID.
    - Where a client is part of more then one {{group}} then this will be identified.
  - When you send a campaign through Mailchimp you will use these sync categories to identify the who to send to.
- 
+
+### Seeing a History in Lamplight of Mailchimp Syncs  
+
+If you want to see all your {{Lamplight}} syncs with Mailchimp:
+- Go to 'admin -> system administration -> Communication Settings -> View Mailchimp event history'.
 
 ###### comms module
 
