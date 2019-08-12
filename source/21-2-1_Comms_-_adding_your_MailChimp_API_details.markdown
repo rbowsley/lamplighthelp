@@ -1,23 +1,50 @@
-# 21.2.1    {{Comm}}s: Setting up Mailchimp in {{Lamplight}}
+# 21.2.1  {{Comm}}s: Setting up Mailchimp in {{Lamplight}}
 
-> You need to tell {{Lamplight}} about your MailChimp account so the two systems can talk to each other, through the system admin menu. 
+> You need to add Mailchimp details in system administration so that the two systems can talk to each other 
 
-xxxxx TODO XXXXXX
+The first thing that you will need to do is set up a Mailchimp account. Please make sure that you comply with their terms: [http://mailchimp.com/legal/terms/](http://mailchimp.com/legal/terms/).
 
+### Setting Up a Mailchimp Account
 
-Once you've set up your MailChimp account, you'll need you API key. This is similar to (but not the same as) a username and password that one computer program uses to identify itself to another. 
+- Go to their sign-up page: [https://login.mailchimp.com/signup/](https://login.mailchimp.com/signup/).
+- Here you can follow the wizard. You will need to give details of your website as part of this - if you do not have a website you can enter the address of your social media feed, for example Twitter or Facebook. Please do not use the Lamplight address.
 
-There are instructions to find your MailChimp API key [on the MailChimp site](http://kb.mailchimp.com/article/where-can-i-find-my-api-key): follow these to get the API key. 
+### Linking Mailchimp to {{Lamplight}}
 
-You need to enter this into {{Lamplight}}: your system administrator will need to go to Admin -> system administration -> change global settings. On the {{Comm}}s module tab enter the API key. This is a long and unpleasant strings of characters and numbers that you'll want to copy and paste from MailChimp to {{Lamplight}}. Click 'save'.
+Your API key is similar to (but not the same as) a username and password that one computer program uses to identify itself to another, and this is what is used to link {{Lamplight}} to Mailchimp. 
 
-![MailChimp API]({{imgpath}}225a.PNG)
+**Finding the API Key in Mailchimp**
 
-Once you have saved your API key, go back into the global settings -> {{comm}} settings and complete the fields that tell Lamplight which {{workarea}} you want to assign to {{comm}}s, who you want to receive notifications of unsubscribes and which MailChimp list you want to use.
+- Click on your name in the top right of the Mailchimp screen.
+- Select ‘account’ from the drop-down menu.
+- Choose ‘Extras’, and ‘API keys’. 
 
-Within MailChimp you will create a single list as an umbrealla for all of your mailings. As {{Lamplight}} syncs with MailChimp it creates segments of that single list.
+![API Key in Mailchimp](21.2.1a.png)
 
-{{Lamplight}} will now be able to start talking to MailChimp to set up and send email newsletters. 
+- Click on  ‘Create a key’ (under ‘Your API keys’). 
+- Copy this key and open {{Lamplight}}.
+
+![MailChimp API](225a.PNG)
+
+**Entering the APE Key in {{Lamplight}}**
+
+- From the main Lamplight menu, choose ‘admin -> system administration’.  
+- Under the 'Customise {{Lamplight}}' section, choose ‘Change global settings’.
+- Once this page is open, click on the ‘Communications’ tab at the top.  
+- Scroll down to the ‘Mailchimp’ section.  (If this isn’t here, you’ll need to ask us to activate Mailchimp in your system.)  
+- Enter the API key in the field ‘MailChimp API key’.  
+
+### Mailchimp Options
+
+You can also set-up your Mailchimp options here:
+•	Which Mailchimp audience to use with Lamplight?: this will be greyed out as it is set-up automatically.
+•	Default {{workarea}} to flag Mailchimp campaigns with: this field lets you choose which {{workarea}} Mailchimp emails will be logged against. You can an existing  {{workarea}} and {{subworkarea}} or set up new ones through system admin.
+   - It will show up in the {{comm}}s table in a profile.
+   - You can use it as a filter when running reports. 
+•	Default {{comm}} type to flag campaigns with: choose a {{comm}} type from the drop-down for tagging your Mailchimp communications. The default is 'email'. Again, you could set up a new type of {{comm}} for this in system administration if needed.
+•	If someone chooses to unsubscribe, who should Lamplight tell?: the drop-down list shows everyone who has access as a database operator. The unsubscribe notification will appear as a {{message}} in the diary and {{message}} list of whoever you choose.
+•	Once you have finished, save your changes.
+
 
 ###### comms module
 
