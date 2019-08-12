@@ -1,24 +1,32 @@
-# 21.2.2    {{Comm}}s - creating a MailChimp mailing list from {{Lamplight}}
+# 21.2.2 {{Comm}}s: Creating MailChimp Mailing Lists in {{Lamplight}}
 
-> You can use {{group}}s in {{Lamplight}} to set up list 'segments' in MailChimp. Set up (or use an existing {{group}}) first, and then use the context menu to synchronise with MailChimp. 
+> You can use {{group}}s in {{Lamplight}} to set up mailing lists in MailChimp
+
+You can sync existing {{Lampglight}} {{group}}s to Mailchimp. See section [11.0.0  Introduction to {{group}}s](/help/index//p/11.0.0) for more on creating these. 
+
+### To Sync {{Lamplight}} {{Group}}s to Mailchimp
+
+- On the main {{Lamplight}} menu go to '{{group}}s -> view all'.
+- Find the {{group}} which you want to link with Mailchimp and click on the context menu to the left of it (alternatively you can right-click on the {{group}} itself).
+- From the context menu choose ‘View Mailchimp Status’.  
+- You will see this message:
+
+![Mailchimp New Sync Group Message](21.2.2a.png)
+
+- Choose 'To sync with Mailchimp, click here'.
+- You’ll see a rolling list of each subscriber as {{Lamplight}} syncs them with Mailchimp. You can close this, or leave it open to see progress.
+- You can also update a {{group}} which is already on Mailchimp from the same screen. You’ll see a description of the current status of the {{group}}, and the option: ‘To sync with Mailchimp, click here.’
 
 
-xxxxx TODO XXXXXX
+### Viewing Your {{Group}}s in Mailchimp  
 
+To view the profiles you've imported in Mailchimp, you can view your 'Mailchimp Audience'.  
 
-You'll need a {{group}} as the basis of your MailChimp list segment: see section [14.0.0  Introduction to {{group}}s](/help/index/v/{{version}}/p/14.0.0) for more on {{group}}s. When you are ready, go to {{group}}s -> view all on the main menu and find the {{group}} you want to use. When you open the context menu (right-click on the menu button), click on the 'View MailChimp status' option.
-
-![{{Group}}s context menu - MailChimp options]({{imgpath}}240a.png)
-
-If your {{group}} has never been used with MailChimp then there will be a single option, 'Start MailChimp sync now'. If you have used the {{group}} before you will need to click on 'Start MailChimp update now' to 
-
-You also have the option to 'remove the link with MailChimp'. This will not delete your {{group}} from {{Lamplight}}.
-
-When {{Lamplight}} starts to sync with MailChimp you will be able to see a 'Current sync status' summary box. As MailChimp imposes limits on how much information you can send it at once, the contacts from within {{Lamplight}} get sent to MailChimp in batches. You will see the numbers in the summary box changing as this is happening. When all of the rows, except the last one, are at 0 the sync with MailChimp has finished.
-
-![Syncing with MailChimp]({{imgpath}}240b.png)
-
-While this is happening you can create your newsletter in MailChimp by creating your own design or using one of their free templates.
+- Choose ‘Audience’ from the main menu in the top left of the Mailchimp screen.  
+- Scroll across the table to the 'Lamplight Sync Category' column - this shows the {{Lamplight}} {{group}} name and ID.
+   - Where a client is part of more then one {{group}} then this will be identified.
+ - When you send a campaign through Mailchimp you will use these sync categories to identify the who to send to.
+ 
 
 ###### comms module
 
