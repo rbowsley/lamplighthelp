@@ -10,19 +10,19 @@
 
 ![Mail merge {{comm}}s](21.3.0b.png)
 
-   **People Mail Merge**
+**People Mail Merge**
 
 - The 'people merge' fields will insert information about the {{people}} that are to receive the {{comm}}. This information is taken from the data in their profile.
 
 ![People Mail Merge](21.3.0a.png)
 
-   **Document Templates**
+**Document Templates**
 
 - These are standard letters and emails (or parts of them) which are unique to your organisation, that any database operator can use - simply select the one that you want to use from the menu.  
    
    See section [21.1.1  {{Comm}} Templates](/help/index/p/21.1.1) for more information about document templates and how System Adminstrators can set them up.
 
-   **{{Activity}} Merge**
+**{{Activity}} Merge**
 
 - You can also create a {{comm}} starting from an {{activity}} record ({{work}}, {{referral}} etc). 
 - To do this, find the relevant record (for example by going to {{work}} -> view {{work}}), then click on the context menu button next to it (or right-click on the line in the table), and choose 'Communicate'.  
@@ -35,7 +35,7 @@
   
   ![Activity Merge](2121.3.0d.png)
   
-   **Image Library**
+**Image Library**
 
 - Images for {{comm}}s are saved in their own library (see section [21.1.4  {{Comm}}s Module Image Library](/help/index/p/21.1.4)). 
 - To insert one into your {{comm}}, go to the 'Image library' drop-down box and select the one you want from the menu. 
