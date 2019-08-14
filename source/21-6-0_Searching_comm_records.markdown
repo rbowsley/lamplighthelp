@@ -1,10 +1,14 @@
-# 21.6.0    Searching {{Comm}} Records
+# 21.6.0 Searching Text in {{Comm}} Records
 
-> The search bar at the top of the screen searches {{comm}} records for the text you enter. Alternatively click {{work}} -> view -> {{comm}}s on the main menu to search by date. Searching is only available if you have the {{comm}}s module. 
+> If you have the {{Comm}}s Module it is possible to search for a saved record based on the message content 
 
-{{Comm}}s are only stored if you have the {{comm}}s module enabled.
+You can use the search bar at the top of the screen for text recorded in {{comm}}s.
 
-If you want to search {{comm}} records using a free text search (for example, to search for text in the {{message}} content), use the search box on the main menu. If you type in the text you wish to search for and click the 'go' button {{Lamplight}} will carry out a full-text search of the system. See section [4.2.0  Menu Search Bar](/help/p/4.2.0) for more information on full-text searching. 
+- Type in the text you wish to search for.
+- Click the 'go' button.
+- {{Lamplight}} will carry out a full-text search of the system. 
+
+See section [3.2.0 Search Bar](/help/index/p/3.2.0) for more information on full-text searching. 
 
 
 ###### comms module
