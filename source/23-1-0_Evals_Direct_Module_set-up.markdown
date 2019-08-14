@@ -32,14 +32,16 @@ System Administrators can define colour schemes for all database operators to us
 
 - When creating a new {{Eval}}s Campaign there is a 'Text and styling’ option towards the bottom of the third tab. Available colour-schemes are listed.
 
-xxxxxx Picture here XXXXXX
+![Choosing a Colour Scheme](23.1.0d.png)
 
 
 ### Custom CSS
 
-Custom CSS can be used to change the appearance of an evaluation campaign. CSS is a markup language that controls the appearance of HTML elements on a web page. It is only advisable to do this if competent using CSS, and Lamplight cannot offer any support with it. Custom CSS can be added at the bottom of the ‘Edit form’ page.
+Custom CSS can be used to change the appearance of an evaluation campaign. CSS is a markup language that controls the appearance of HTML elements on a web page. It is only advisable to do this if competent using CSS, and Lamplight cannot offer any support with it. 
 
-xxxxxx Picture here xxxxxx
+- Custom CSS can be added at the bottom of the same page where you choose colour schemes.
+
+![Custom CSS](23.1.0e.png)
 
 
 ###### datadirect module
