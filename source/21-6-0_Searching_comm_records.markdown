@@ -4,7 +4,7 @@
 
 You can use the search bar at the top of the screen for text recorded in {{comm}}s.
 
-- Type in the text you wish to search for.
+- Type in the text you want to search for.
 - Click the 'go' button.
 - {{Lamplight}} will carry out a full-text search of the system. 
 
