@@ -1,4 +1,4 @@
-# 23.3.0    Viewing Existing {{Eval}}s Direct Campaigns
+# 23.2.0    Viewing Existing {{Eval}}s Direct Campaigns
 
 > To view a existing {{Eval}} Direct campaigns, go to {{work}} > DataDirect > {{eval}} campaigns > view on the main menu. 
 
