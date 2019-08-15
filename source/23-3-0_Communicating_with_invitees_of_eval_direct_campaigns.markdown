@@ -1,4 +1,4 @@
-# 23.4.0 {{Eval}} Direct: Communicating with Invitees of Direct Campaigns
+# 23.3.0 {{Eval}} Direct: Communicating with Invitees of Direct Campaigns
 
 > {{Lamplight}} lets you email invitees to {{eval}} direct campaigns: all of them, those that haven't responded, or those that have. 
 
