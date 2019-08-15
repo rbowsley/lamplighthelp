@@ -1,4 +1,4 @@
-# 23.6.0    {{Eval}}s Direct: Viewing Campaign Responses
+# 23.4.0    {{Eval}}s Direct: Viewing Campaign Responses
 
 > View aggregated responses via the DataDirect -> {{eval}} campaigns -> view. 
 
