@@ -1,4 +1,4 @@
-# 23.3.0    Viewing Existing {{Eval}}s Direct Campaigns
+# 23.3.0    Working with Existing {{Eval}}s Direct Campaigns
 
 > To view a existing {{Eval}} Direct campaigns, go to {{work}} > DataDirect > {{eval}} campaigns > view on the main menu. 
 
@@ -6,11 +6,21 @@ The table here shows you a list of all the campaigns open during the dates you h
 
 You can use the 'Search' bar durectly above the table to filter the records you see by date, work area, custom fields, and to add additional columns.  See the 'filter' section below.
 
+### The Context Menu
+
 Using the context menu (small square on the left of each row), you also have a number of options.
 
 - View Full details: Shows a summary of the campaign information and settings.
 - Edit: Edits the campaign information and settings.
+   - You'll see that some items are blanked out: to prevent data inconsistencies you cannot change the {{eval}} template, {{workarea}}, or the separate page option.
+
+   ![edit campaign](209a.png)
+
+   - In addition, for 'separate page' campaigns, you cannot remove invitees that have already responded: the red cross to delete will not be visible in the invitees table. 
+   - When you have made the changes you want to, click the 'save' button.
 - Delete: Deletes the campaign.  You cannot undo this.
+   - You can only delete campaigns that have not had any responses. If you try and delete one that has already had some you will receive an error message. 
+   - If you do want to stop an existing campaign, you can edit it and change the 'date to' to the current time and date, which will prevent any more responses. Anyone attempting to respond to it will see an error {{message}}. 
 - Duplicate record: Duplicates the campaign, so that you can alter it, rather then creating afresh.
 - Email all invitees/have responded/not yet reponded: Takes you to a communication page to email these invitees. [(Sending a communication)](/help/index/v/{{version}}/p/17.51.0)
 - View report of reponses:  This takes you to an Evaluations report. [(Evaluation reporting 17.5.0)](/help/index/p/17.51.0)
@@ -59,7 +69,7 @@ Using the context menu (small square on the left of each row), you also have a n
    - Click the 'Download' button at the bottom of the table.  
    - Clicking the print button will open a new tab, with the table in a print friendly format.  
    - Split print allows you to create multiple print friendly tables, split by whatever item you choose.
-
-
+   
+   
 ###### datadirect module
 
