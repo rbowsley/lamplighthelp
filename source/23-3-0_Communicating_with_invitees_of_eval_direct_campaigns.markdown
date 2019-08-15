@@ -1,18 +1,25 @@
-# 23.3.0 {{Eval}} Direct: Communicating with Invitees of Direct Campaigns
+# 23.3.0 {{Eval}}s Direct: Communicating with Invitees of Campaigns
 
-> {{Lamplight}} lets you email invitees to {{eval}} direct campaigns: all of them, those that haven't responded, or those that have. 
+> {{Lamplight}} lets you email the people that you set up as invitees your {{eval}} direct campaign. You can choose to contact those that haven't responded, those that have, or all invitees 
 
-To email invitees, view all campaigns (see section [23.2.0  Viewing existing {{Eval}}s Direct campaigns](/help/index/p/23.2.0)), right-click (or use the menu button) on the campaign you wish to view, and select the appropriate email option. There is no difference between these except that the recipient list is filtered appropriately. For more details on {{comm}}s generally see section [12.0.0  {{Comm}}s](/help/index/p/12.0.0).
+Sending an email out to invitees of a campaign is a similar process to sending a general email in {{Lamplight}}. The key difference is that the text editor features additional mail-merge options that you can use. To do this:
 
-The key difference is that the text editor features additional mail-merge options that you can use. To view these, click on the '{{Message}} content' section and then open the text editor: 
+- Go to {{activity}} -> Datadirect -> {{eval}} campaigns -> view.
+- Find the campaign you want, then right-click on it or click on the menu button to the left of it. 
+- Select the appropriate email option - all, those who have responsed or those who have not yet responded (the email will default to 'all' if you have sent the campaign to everyone using the same url). 
+- Fill out the email form as you would normally (for more information on this see [10.1.0 Creating a {{Comm}}](/help/index/p/10.1.0)). You will find that the recipients table has already been filled out.
+- In the 'Message content' tab, click on the + at the top of the text box to open the text editing tools. 
+- At the bottom of the editing toolbar you will see an '{{Eval}} campaign' drop-down box.
 
 ![comm invitees](210a.png)
 
-The {{Eval}} Campaign toolbar button has mail-merge fields for each recipient's URL, and also the title, start date and end dates for the campaign. Using these options you can send personalised emails to each recipient, inviting them to complete the {{eval}} and giving them a link in the email that will take them straight to it.
+- This has mail-merge fields so that you can add each recipient's URL (if you have set up your campaign to send to invitees individually), the title, start date and end dates for the campaign. 
+   - Using these options you can send personalised emails to each recipient, inviting them to complete the {{eval}} and giving them a link in the email that will take them straight to it.
+- When you have finished writing your email, click the 'create/send' button. 
+- Emails will be sent to each recipient (so long as they have an email address saved in their profile, and have not opted out of email communications). 
+- You will need to make alternative arrangements for anyone without an email address (see section [23.5.0  Working with Existing {{Eval}} Direct Campaigns](/help/index/p/23.5.0) for how to view an existing campaign. When you go in to view, URLs are shown at the bottom of the screen).
+- Please also note that if you are using the campaign merge fields (for example 'campaign_url') the invitee list of the campaign must match the recipient list for the email for the merge fields to sync. 
 
-If you have the {{Comm}}s module, you may want to create one or more Document templates that include these merge fields, saving you even more time. When you have finished writing your email, click the 'create/send' button. Emails will be sent (to all those with email addresses) to each recipient. You will need to make alternative arrangements for anyone without an email address (see section [23.3.0  Viewing, edit and delete details of a particular {{Eval}}s Direct campaign](/help/index/p/23.3.0) to download URLs). 
-
-Please also note that if you are using the campaign merge fields (for example 'campaign_url') the invitee list of the campaign must match the recipient list for the email, for the merge fields to correctly sync. 
 
 ###### datadirect module
 
