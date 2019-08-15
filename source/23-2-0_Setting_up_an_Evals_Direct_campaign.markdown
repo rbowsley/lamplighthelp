@@ -25,7 +25,7 @@ Before you start, you will need the {{Eval}}s and {{Eval}}s Direct Modules enabl
 - **Invitees**
    - Select the {{people}} you wish to complete the survey, in the same way that you would for other records ([Adding attendance 7.1.2](/help/index/p/7.1.2).
 
-- **Text and Styling**
+- **Text and Styling**  
    This tab is where you can customise the appearance, introduction and signoff of the survey.
     - Introductory text appears at the top of the screen before the survey.
     - Text to display at the bottom of the page will be added after the survey.
