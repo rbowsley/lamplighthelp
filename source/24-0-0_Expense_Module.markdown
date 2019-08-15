@@ -12,7 +12,8 @@ You can track different types of cost:
 - staff (hourly and on-costs when linked with staff management module).
 - expenses.
 
-**Expenses**
+**Expenses**  
+
 You can:
 - link expense claims to specific work.
 - track and manage expenses to authorise the claim and payment status.
