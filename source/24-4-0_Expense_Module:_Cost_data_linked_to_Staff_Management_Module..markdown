@@ -1,4 +1,4 @@
-# 22.4.0 Expense Module: Cost Data Linked to the {{Staff}} Management Module
+# 22.4.0 Expense Module: Reporting Using Cost Data Linked to the {{Staff}} Management Module
 
 > The Expense Module can be linked to the {{Staff}} Management Module to allow the {{staff}} cost connected to a {{work}} record to be calculated as part of the overall costs for the work that you do
 
@@ -23,13 +23,16 @@ To be able to calculate the staffing cost, first you will need to add each staff
 
 **Using Staffing Costs for Reporting**
 
-- Run the work report as usual (for more on this see [17.0.0 Reports](/help/index/p/17.7.7).
+- Run the work report as usual (for more on this see [17.0.0 Reports](/help/index/p/17.7.7).)
 - In the 'Report presentation' tab choose 'Cost data' as your 'Data to show'. 
 
 ![Choosing Cost Data in a Report](24.4.0b.png)
 
-- Click 'Run' to run your report. 
-- Your report will now include a column to show you 'total costs'. This will include staffing costs and expenses.
+- Click 'Run' to generate your report. 
+- The {{report}} will generate the following statistics:
+   - Mean cost per user attending: this is a 'cost per head', calculated by taking the total cost for all {{work}} records included in the {{report}}, and dividing by the number of {{user}}s attending (i.e. 'Attendance type' is 'Attended', and 'Role' is '{{user}}').
+   - Mean cost per session: this is calculated by dividing the total costs incurred by the total number of {{work}} records included in the report.
+   - Total costs: the sum of the costs incurred.
 
 ![Total Costs Report Column](24.4.0c.png) 
 
@@ -39,7 +42,7 @@ To be able to calculate the staffing cost, first you will need to add each staff
 - Right-click on the coloured header bar at the top of the table. This will give you a list of the available columns for the table. 
 - Click  'Total cost'. This adds the cost column to your table. 
 - If you would like to include this column in your default view for this table, open the column menu again and click on 'Save table columns layout'.
-- You can follow this same process to view costs for individual records in the {{work}} or other {{activity}} tables in a profile tab.
+- You can follow this same process to view costs in an individual's {{work}} or other {{activity}} profile tabs.
 
 
 ###### costs module
