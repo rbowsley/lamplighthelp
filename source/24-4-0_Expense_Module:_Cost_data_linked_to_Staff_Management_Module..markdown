@@ -5,6 +5,7 @@
 ### Calulating Staffing Costs
 
 **Adding the Staff Member's Hourly Wages**  
+
 To be able to calculate the staffing cost, first you will need to add each staff member's hourly rate to their record.
 - Go to the profile of the staff member whose hourly rate you want to add.
 - Click on the 'Contract details' tab (you will only see this is you have the Staffing Module, and you are in the management hierarchy for this member of staff. For more on this see [29.1.1 Staff Management Module: The Hierarchy](/help/index/p/29.1.1).
