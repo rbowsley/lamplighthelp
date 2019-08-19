@@ -1,4 +1,4 @@
-# 28.1.0    Publishing module security
+# 24.1.0    Publishing module security
 
 > The publishing module has multiple safeguards built in so that only the data you want to publish is accessible. 
 
