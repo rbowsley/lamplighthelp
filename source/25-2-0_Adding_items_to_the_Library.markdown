@@ -1,20 +1,42 @@
-# 25.2.0    Adding Items to the Library
+# 25.2.0 Adding Items to the Library
 
-> To add an item directly to the library, on the admin menu, click library. 
+> Once you have set up your library categories, you can add items directly to it
 
-As you enter the Library, you'll see a list of all items that have been added, and below them an 'add item' button. When you click this you'll see the form to add an item:
+### To Add Documents and Weblinks Directly to the Library
+
+- Go to 'admin -> library'. 
+- As you enter the Library, you'll see a list of all items that have been added. At the bottom of this is an 'add item' button. 
+- Click on this and a form opens:
 
 ![Library](199a.jpg)
 
-Complete as many field boxes as applicable. The 'Tag' box acts as a 'search as you type' box so that you can search for an existing Tag and assign new library items to it. To create a new tag, write the tag title in the box and click 'add new tag' when it has been successfully attached it will appear within the library item, as seen in the image below:
+- Complete as many fields as applicable. 
+   - The 'Title' is what you will see as the header for the item in your library.
+   - The 'Message' is any additional information you want to add - this will be visible below the title in the library. 
+   - The 'Tag' box acts as a 'search as you type' box so that you can search for an existing tag and assign new library items to it. To create a new tag, write it in the box and click 'add new tag' on the right-hand side of the screen. When it has been successfully attached it will appear within the library item, as seen in the image below:
 
 ![Library tag](199b.jpg)
 
-For a web link to be saved, ensure it is, for example www.lamplight3.info/, NOT https://www.lamplight3.info/
+   - Do not include the http:// for a web link, for example www.lamplightdb.co.uk/ NOT https://www.lamplightdb.co.uk/.
+   - The categories been created by your System Administrator. If you need to discuss these please speak to them directly. 
+- When all details are entered it will look something like this:
 
-Your system administrator will have created categories to link library items to - if you need to discuss these please speak to them directly. When all details are entered, click Save.
+![Completed Library Item Details](25.2.0a.png)
 
-To add a record to the library, whether it is a {{work}}, {{outcome}}, {{referral}} or a {{grant}} record, you will firstly need to locate the record you wish to add. This can either be from the diary, within a profile or via the main menu. When the record opens, click on the 'add to library' button on the top right hand corner. This transfers the record into a new library item, ready for further information to be added where necessary. 
+- Click 'Save'.
+- The item will now appear in your library like this:
+
+[New Item in Library](25.2.0b.png)
+
+### To Add a {{Lamplight}} Record to the Library
+
+You can also add records from your system to your library.
+- Go to the record that you are adding. This can either be from the diary, within a profile or via the main menu. 
+- If it is in the diary, click on it, if it is in a table of records click on the context menu button to the left, or right-click directly on the record itself.
+- Choose 'View full details'. 
+- When the record opens, click on the 'Add to library' button on the top right hand corner. 
+- This opens up the same dialogue box as above, allowing you to add a title, message, tags and  a category.  
+
 
 ###### library module
 
