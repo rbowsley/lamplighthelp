@@ -18,16 +18,16 @@ You can choose to publish either when you’re adding a new record or you can ed
 ![Adding Publishing Settings to a {{Work}} Record](28.3.2a.png)
 
 - **Publish this record via Lamplight API?**
-  - Allows the individual record to be published.
+   Allows the individual record to be published.
    
 - **Title of the record for publishing**
-   - Give the record a title, which you can use when publishing.
+   Give the record a title, which you can use when publishing.
    
 - **Do you want to allow the addition of attendees through the Lamplight API?**
-   - This will allow people to add themselves to an activity through your site or app, if it is configured to do so.
+   This will allow people to add themselves to an activity through your site or app, if it is configured to do so.
    
 - **Maximum number of clients allowed?**
-   - If people can add themselves to the record through your site, this sets a maximum number who will be accepted.
+   If people can add themselves to the record through your site, this sets a maximum number who will be accepted.
 
 
 ### To Edit and Remove Sharing from a {{Work}} Record
