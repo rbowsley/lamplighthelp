@@ -37,7 +37,7 @@ These tabs are where you set the detail of information you will be able to share
    - what profile information can be added to Lamplight from a website/application.
    - what profile information can be updated within Lamplight from a website/application.
 
-**{{Work}} and {{Referral}} Tabs**  
+### {{Work}} and {{Referral}} Tabs  
 
 You can use these tabs to identify exactly which parts of the {{work}} or {{referral}} records can be published, and which information can be added to these records from an external site. 
 
@@ -45,18 +45,18 @@ You can use these tabs to identify exactly which parts of the {{work}} or {{refe
 
 Once these permissions are set each {{work}} or {{referral}} record will also need to be published manually as you create or edit it.
 
-**{{Project}}s**
+### {{Project}}s
 
 If you have multiple Lamplight {{project}}s you can choose which ones will allow publishing.
 
-**API Key and Details**   
+### API Key and Details  
 
 The API key and details tab are the credentials your website will need to access data in {{Lamplight}} - think of this as a username and password that your website needs in order to get information from {{Lamplight}}. 
 
 - This section gives you the API key you will need to access Lamplight remotely. Give these details to your programmer.
 - To generate a new API key, click the checkbox and choose ‘save’. Previous keys will no longer function, and you’ll need to update your applications and programming.
 
-**Additional Profile Data**  
+### Additional Profile Data  
 
 ‘Managing publishing settings’ in system administration allows you to decide what standard profile data to share to an external website. You can also publish custom profile data (unique to your system’s set-up). 
 
