@@ -26,7 +26,7 @@ Due to the potentially sensitive nature of the data held within the {{Staff}} Ma
    - Scenario 2 - Joseph Bloggs manages Arlene Gee and Jolly Jepson.
    Left click, hold and drag the name ‘Jolly Jepson’ over the top of ‘Joseph Bloggs’ and release the mouse. Joseph Bloggs can now see the {{Staff}} Management Module tabs of his own profile AND Arlene Gee AND Jolly Jepson. Arlene Gee, Hermione Granger and Jolly Jepson can only see their own profiles.
    
-![{{staff}} Management Scenario 2](29.1.0b.png
+![{{staff}} Management Scenario 2](29.1.0b.png)
 
 - Scenario 3 - Arlene Gee manages Hermione Granger.
   Left click, hold and drag the name ‘Hermione Granger’ over the top of ‘Arlene Gee’ and release the mouse. Joseph Bloggs can now see the {{Staff}} Management Module tabs of his own profile AND Arlene Gee AND Jolly Jepson AND Hermione Granger. Arlene Gee can now see the {{Staff}} Management Module tabs of her own profile AND Hermione Granger. Hermione Granger and Jolly Jepson can only see their own profiles
