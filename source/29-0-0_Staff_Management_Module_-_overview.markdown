@@ -1,19 +1,18 @@
-# 29.0.0    {{Staff}} Management Module
+# 29.0.0 {{Staff}} Management Module
 
-> The {{Staff}} Management Module enables you to capture detailed personnel information for {{staff}} and volunteers. 
+> The {{Staff}} Management Module enables you to capture detailed personnel information for {{staff}} and volunteers
 
-The {{Staff}} Management Module enables you to capture detailed personnel information, generate and report on timesheets based on existing data, and track {{staff}} development. Using a {{staff}} hierarchy, only those with permission can view colleagues' profiles. The hierarchy can be altered over time when roles and staffing change.
+The {{Staff}} Management Module enables you to capture detailed personnel information, generate and report on timesheets and track {{staff}} development. Using a {{staff}} hierarchy, only those in the management line can view the staff management information in colleagues' profiles. The hierarchy can be altered over time to reflect changes in roles and staffing.
 
-The module appears within a {{staff}} member's profile. It is shown as a series of tabs, labelled:
+The tabs for the module appear within each {{staff}} member's profile. They are labelled:
 
-  * Timesheet - showing hours worked, absence, and non contact time, compared to expected hours
-  * Contract Details - showing current and past contracts held with your organisation
-  * Non Contact - non service delivery work
-  * Absence - sickness or annual leave, including an annual leave calculator
-  * Training log
-  * Appraisal record
+- Timesheet: this shows hours worked, absence, and non contact time, comparing them to contracts hours. The timesheet information is created automatically using information gathered {{work}} and non-contact records. 
+- Contract details: you can keep details of current and past contracts held with your organisation.
+- Non contact: this is where you can keep details of non-contact work undertaken, for example planning or follow-ups.
+- Absence: you can log sickness or annual leave, including an annual leave calculator.
+- Training log: to keep records of training undertaken.
+- Appraisal record: for your records of supervision, 1:1 discussions and annual appraisal.
 
-The timesheet information is created automatically using information gathered {{work}} and non-contact records. 
 
 ###### staff module
 
