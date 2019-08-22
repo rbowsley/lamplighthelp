@@ -1,4 +1,4 @@
-# 20.4.2 Setting up a Body-type Payee Rule
+# 20.4.2 Charge Module: Setting Up a Body-type Payee Rule
 
 > A body type rule allocates an amount to be paid based on the 'type' of the person or organisation listed - {{person}}, {{org}} or {{family}} (if you have them enabled in your system)
 
