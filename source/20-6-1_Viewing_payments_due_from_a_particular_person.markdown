@@ -1,4 +1,4 @@
-# 20.6.1 Viewing Payments Due from a Particular {{Person}} or {{Org}}
+# 20.6.1 Charge Module: Viewing Payments Due
 
 > When you want to see all charges allocated to a particular {{person}} or {{org}}, they are listed in the charge tab of the profile 
 
