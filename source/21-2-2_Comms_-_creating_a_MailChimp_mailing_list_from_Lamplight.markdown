@@ -1,4 +1,4 @@
-# 21.2.2 {{Comm}}s: Creating MailChimp Mailing Lists in {{Lamplight}}
+# 21.2.2 {{Comm}}s Module: Creating MailChimp Mailing Lists in {{Lamplight}}
 
 > You can use {{group}}s in {{Lamplight}} to set up mailing lists in MailChimp
 
