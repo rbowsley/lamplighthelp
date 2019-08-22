@@ -14,12 +14,12 @@ You can download a transcript of this video if it’s helpful to read along. Pau
 
 A quick note before we start: some of the terms in your system may be different to those in this video. If you follow my actions on screen, and see where I’m clicking, you should be able to locate the same function in your system even if they’re called something else.
 
-### Introduction to {{people}} and {{org}}s  
-
-    {{Lamplight}} is all about the {{people}} and {{org}}s with which you work.
+- **Introduction to {{People}} and {{Org}}s**  
+   
+   {{Lamplight}} is all about the {{people}} and {{org}}s with which you work.
    Your profile types may have different names, but many {{org}}s will have {{user}}s, {{staff}}, {{contact}}s, {{funder}}s, and {{volunteer}}s. There may also be {{org}}s, {{family}} or other types. Each type of profile contains different sets of information.
 
-### Creating a new profile  
+- **Creating a New Profile**
 
    To create a new profile, click ‘{{People}}’ in the Main Menu, and then ‘Add {{Person}}’. Your may have a drop-down list, showing the different profile types. If so, take a moment to look at the different types available, then choose the type you want to create. If clicking ‘add {{person}}’ takes you straight to the next screen, don’t worry, you’ll choose the profile type in a moment.
    - enter a title (optional).
