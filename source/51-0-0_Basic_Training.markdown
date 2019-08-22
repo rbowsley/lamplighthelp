@@ -6,6 +6,14 @@ These videos are split into sections so that you can skip bits that are not rele
 
 They can also be viewed individually by people who need a refresher in a particular aspect of the system.
 
+The sections for the Basic Training Videos are:
+
+- [51.1.0 The Homepage and Diary](/help/index/p/51.1.0).
+- [51.2.0 Profiles](/help/index/p/51.2.0).
+- [51.3.0 {{Referral}}s](/help/index/p/51.3.0).
+- [51.4.0 {{Work}} Records](/help/index/p/51.4.0).
+- [51.5.0 {{Outcome}}s](/help/index/p/51.5.0).
+
 
 ##### No Manual
 
