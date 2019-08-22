@@ -1,4 +1,4 @@
-# 21.3.1 To Communicate with Everyone Attending a Particular {{Work}} Record
+# 21.3.1 {{Comm}}s Module: Communicating with Everyone Attending a Particular {{Work}} Record
 
 > It is possible to create a mail-merged letter or email for everyone attending a particular {{work}} record
 
