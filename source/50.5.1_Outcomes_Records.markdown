@@ -1,4 +1,4 @@
-50.5.l {{Outcome}}s Records
+# 50.5.l {{Outcome}}s Records
 
 > This video shows you how to add and view {{outcome}}s data in an individual’s profile. It also takes you through adding {{outcome}}s by starting from the main menu.
 
