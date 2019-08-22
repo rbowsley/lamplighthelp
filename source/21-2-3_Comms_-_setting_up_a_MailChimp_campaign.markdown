@@ -1,4 +1,4 @@
-# 21.2.3 {{Comm}}s: Sending a Mailchimp Campaign
+# 21.2.3 {{Comm}}s Module: Sending a Mailchimp Campaign
 
 > A 'campaign' is an email or newsletter linked to a mailing list. You create the content of your campaign within Mailchimp
 
