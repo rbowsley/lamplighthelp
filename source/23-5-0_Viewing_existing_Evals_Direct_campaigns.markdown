@@ -1,4 +1,4 @@
-# 23.5.0 Working with Existing {{Eval}}s Direct Campaigns
+# 23.5.0 {{Eval}}s Direct: Working with Existing Campaigns
 
 > Once you have set up a campaign, it is possible to go back to view, edit and delete it
 
