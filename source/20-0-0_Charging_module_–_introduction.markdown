@@ -1,4 +1,4 @@
-# 20.0.0 Charge Module: Introduction
+# 20.0.0 The Charge Module: Introduction
 
 > The Charge Module allows you to set charges for attending a {{work}} session, and then decide who should pay that charge 
 
