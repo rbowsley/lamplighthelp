@@ -1,4 +1,4 @@
-# 20.2.4 Setting Up an Attendance-based Charge Rule
+# 20.2.4 Charge Module: Setting Up an Attendance-based Charge Rule
 
 > An attendance-based charge rule is where you can set different rules depending on whether a person attended a session, cancelled or did not turn up etc. 
 
@@ -18,7 +18,7 @@ To set up an attendance-based charge rule:
 
 ![Attendance-based Charge Rule](20.2.4b.png)
 
-- When you have finished, click 'save' in the bottom-right hand corner. You will be taken back to the charging menu, and you'll see your new rule in the 'charge rules' section.
+- When you have finished, click 'save' in the bottom-right hand corner. You will be taken back to the charge settings menu, and you'll see your new rule in the 'charge rules' section.
 
 In general you are likely to want to combine both attendance roles and types: see section [20.2.5  Setting Up an Attendance/Role Based Charge Rule](/help/index/p/20.2.5) for more information. 
 
