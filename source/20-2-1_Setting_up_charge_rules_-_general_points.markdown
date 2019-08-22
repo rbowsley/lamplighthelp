@@ -1,4 +1,4 @@
-# 20.2.1 Setting up charge Rules: General Points
+# 20.2.1 Charge Module: Overview of Charge Rules
 
 > The common features of charge rules, and some tips to make sure that they do what you intend
 
