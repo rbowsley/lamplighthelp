@@ -1,4 +1,4 @@
-# 20.2.9 Creating a Custom Attendance Fields Charge Rule
+# 20.2.9 Charge Module: Creating a Custom Attendance Fields Charge Rule
 
 > These charge rules use data from custom attendance table fields 
 
@@ -20,7 +20,7 @@ To set up a custom attendance fields charge rule:
 
 ![Role/Attendance-based Charge Rule](20.2.9b.png)
 
-- When you have finished, click 'save' in the bottom- right hand corner. You will be taken back to the charging menu, and you'll see your new rule in the 'charge rules' section. 
+- When you have finished, click 'save' in the bottom- right hand corner. You will be taken back to the charge settings menu, and you'll see your new rule in the 'charge rules' section. 
 
 
 ###### charge module
