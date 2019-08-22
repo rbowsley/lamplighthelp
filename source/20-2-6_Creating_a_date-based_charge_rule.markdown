@@ -1,4 +1,4 @@
-# 20.2.6 Creating a Date-based Charge Rule
+# 20.2.6 Charge Module: Creating a Date-based Charge Rule
 
 > A date-based charge role calculates charges based on the date that a person is added to the {{work}} record. You can also opt to specify attendance type and role 
 
