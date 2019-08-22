@@ -1,4 +1,4 @@
-# 23.1.0 {{Eval}}s Direct Module Set-up
+# 23.1.0 {{Eval}}s Direct Module: Set Up
 
 > If you have already created some {{eval}} templates set up in the {{Eval}}s Module, then {{Eval}}s Direct takes minimal setup before you can begin using it
 
