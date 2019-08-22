@@ -1,6 +1,6 @@
-# 21.4.0  The {{Comm}}s Tab - Viewing an Individual's {{Comm}}s History
+# 21.4.0  {{Comm}}s Module: the {{Comm}}s Tab
 
-> If you have the {{Comm}}s Module then you will also see a {{Comm}} tab in profiles. This shows a record of all {{comm}}s you've had with this {{person}} or {{org}}
+> If you have the {{Comm}}s Module then you will also see a {{Comm}} tab in profiles. This shows a record of all the  {{comm}}s you've had with this {{person}} or {{org}}
 
 The {{comm}}s tab is the log of all {{comm}}s for the {{person}} or {{org}} whose profile you are looking at. 
 
