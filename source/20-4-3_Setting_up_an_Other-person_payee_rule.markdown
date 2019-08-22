@@ -1,4 +1,4 @@
-# 20.4.3 Setting up an Other-person Payee Rule
+# 20.4.3 Charge Module: Setting Up an Other-person Payee Rule
 
 > An other-person payee rule will allocate an amount to be paid by a third-party, for example, a funder. For example, you may have a contract with a Local Authority that will pay a proportion of the training costs for people living in their are
 
