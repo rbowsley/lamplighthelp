@@ -1,4 +1,4 @@
-# 23.2.0 Setting up an {{Eval}}s Direct Campaign
+# 23.2.0 {{Eval}}s Direct: Setting Up a Campaign
 
 > A 'campaign' is the name of a set of {{eval}} requests to invitees, after a training session for example. You may use the same {{eval}} for a number of different campaigns 
 
