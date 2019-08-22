@@ -41,7 +41,7 @@ On the left-hand side beneath the diary, you can also choose to show different t
 
    The next tab is 'My {{user}}s'.  If there are people that you are working with on a regular basis, for example you are their key worker, you can set them up with a relationship to yourself of 'my {{user}}' and then they will appear in this list on your home page.  You can view some information about them on this page, and by clicking their name, you can then go straight to their profile.
 
-Although called ‘My {{user}}s’, you can actually add any profile you like to this including {{org}}s, {{volunteer}}s or {{funder}}s, depending on the types of profile you have in your system.
+   Although called ‘My {{user}}s’, you can actually add any profile you like to this including {{org}}s, {{volunteer}}s or {{funder}}s, depending on the types of profile you have in your system.
 
 - **My {{Message}}s**
 
