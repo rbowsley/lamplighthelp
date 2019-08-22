@@ -1,4 +1,4 @@
-# 20.6.0 Using Charge and Payee Policies
+# 20.6.0 Charge Module: Using Charge and Payee Policies
 
 > Charge and payee policies are used when you create {{work}} records
 
