@@ -1,4 +1,4 @@
-# 20.2.2 Setting up a Flat-rate Charge Rule
+# 20.2.2 Charge Module: Setting Up a Flat-rate Charge Rule
 
 > Flat-rate charge rules let you apply the a single charge to the {{work}} record
 
