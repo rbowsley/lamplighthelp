@@ -1,4 +1,4 @@
-# 20.2.5    Setting up or Editing an Attendance/Role-based Charge Rule
+# 20.2.5    Charge Module: Setting up an Attendance/Role-based Charge Rule
 
 > This allows you to combine information and set up charge rules using data on attendance (booked, cancelled, no show etc.) alongside the different roles ({{staff}}, {{vol}}, {{user}} etc.) 
 
@@ -17,7 +17,7 @@ To set up an attendance/role-based charge rule:
 
 ![Role/Attendance-based Charge Rule](20.2.5b.png)
 
-- When you have finished, click 'save' in the bottom- right hand corner. You will be taken back to the charging menu, and you'll see your new rule in the 'charge rules' section. 
+- When you have finished, click 'save' in the bottom- right hand corner. You will be taken back to the charge settings menu, and you'll see your new rule in the 'charge rules' section. 
 
 
 ###### charge module
