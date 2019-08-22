@@ -1,8 +1,8 @@
-# 29.0.0 {{Staff}} Management Module
+# 29.0.0 The {{Staff}} Management Module
 
 > The {{Staff}} Management Module enables you to capture detailed personnel information for {{staff}} and volunteers
 
-The {{Staff}} Management Module enables you to capture detailed personnel information, generate and report on timesheets and track {{staff}} development. Using a {{staff}} hierarchy, only those in the management line can view the staff management information in colleagues' profiles. The hierarchy can be altered over time to reflect changes in roles and staffing.
+The {{Staff}} Management Module enables you to capture detailed personnel information, generate and report on timesheets and track {{staff}} development. Using a {{staff}} hierarchy, only those in the management line can view the {{staff}} management information in colleagues' profiles. The hierarchy can be altered over time to reflect changes in roles and staffing.
 
 The tabs for the module appear within each {{staff}} member's profile. They are labelled:
 
