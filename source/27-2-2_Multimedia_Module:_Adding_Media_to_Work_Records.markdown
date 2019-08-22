@@ -1,4 +1,4 @@
-# 27.2.2 Multimedia Module: Adding Media to {{Work}} Records
+# 27.2.2 Media Module: Adding Media to {{Work}} Records
 
 > You can add files and media to {{work}} and other {{activity}} records. These will be saved with the record, but also in the media tab on the profile of anyone listed as attending that record
 
