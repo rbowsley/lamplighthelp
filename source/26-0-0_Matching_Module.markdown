@@ -1,4 +1,4 @@
-# 26.0.0 Matching Module
+# 26.0.0 The Matching Module
 
 > The matching module allows you to connect people to others or individuals to opportunities they wish to apply for. People can register their preferences and with the module, Lamplight will search the criteria to identify possible matches
 
