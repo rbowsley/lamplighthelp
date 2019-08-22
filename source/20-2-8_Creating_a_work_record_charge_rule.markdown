@@ -1,4 +1,4 @@
-# 20.2.8 Creating a {{Work}} Record-based Charge Rule
+# 20.2.8 Charge Module: Creating a {{Work}} Record-based Charge Rule
 
 > {{Work}} record charge rules will calculate the charge based on the {{work}} record involved. Rates can be based on {{workarea}}s and {{subworkarea}}s, {{staff}} attending, and the location(s) used 
 
@@ -39,7 +39,7 @@ Each of these charges is applied to everyone in full. This means that if you are
    - Save your changes before exiting.   
    - For more on locations see our video - [52.1.1 How to Add and Edit Locations](/help/index/p/52.1.1).
 - {{Lamplight}} will apply the charges for each location used in the {{work}} record. 
-- When you are finished, click 'save' in the bottom-right hand corner. You will be taken back to the charging menu, and you'll see your new rule in the 'charge rules' section. 
+- When you are finished, click 'save' in the bottom-right hand corner. You will be taken back to the charge settings menu, and you'll see your new rule in the 'charge rules' section. 
 
 
 ###### charge module
