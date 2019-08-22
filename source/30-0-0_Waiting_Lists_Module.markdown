@@ -1,4 +1,4 @@
-# 30.0.0 {{Waiting List}}s Module
+# 30.0.0 The {{Waiting List}}s Module
 
 > The {{Waiting List}} Module enables you to create {{waiting list}}s, manage them and run {{report}}s 
 
