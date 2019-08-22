@@ -1,4 +1,4 @@
-# 25.2.0 Adding Items to the Library
+# 25.2.0 Library Module: Adding Items
 
 > Once you have set up your library categories, you can add items directly to it
 
