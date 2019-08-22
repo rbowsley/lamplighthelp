@@ -10,7 +10,7 @@ As you click inside the {{referral}} reason and {{referral}} notes sections, the
 
 - The '{{Referral}} reason' is like the headline, and is what will appear in a {{referral}}s table to give you a quick idea of what it is about. 
 
-- The '{{Referral notes' is a place to record any other details that you will need to keep.
+- The '{{Referral}} notes' is a place to record any other details that you will need to keep.
 
 - If you have the {{Waiting List}} Module enabled, you will also see a drop-down listing all the current {{waiting list}}s. Select one to add the '{{user}} referred' to the {{waiting list}} from within this {{referral}} record.  
 
