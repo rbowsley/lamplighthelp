@@ -1,6 +1,6 @@
-# 20.2.0 Setting up Rules and Policies
+# 20.2.0 Charge Module: Setting up Rules and Policies
 
-> Before you can use charging in {{work}} records your System Administrator will need to set up charge/payee rules and policies
+> Before you can use charges in {{work}} records your System Administrator will need to set up charge/payee rules and policies
 
 To set up charge/payee rules and policies, go to Admin -> System administration and click 'Set up charge module rules and policies'. You will also see a list of any policies and rules you have already set up. 
 
@@ -12,7 +12,7 @@ To set up charge/payee rules and policies, go to Admin -> System administration 
 - You are likely to only need a small number of policies, although you may need more rules to build them. 
 - When creating rules, try to create them so that they can be re-used. 
 
-### Different Types of Charging Rules 
+### Different Types of Charge Rules 
 
 **Flat-rate Rule**
 
