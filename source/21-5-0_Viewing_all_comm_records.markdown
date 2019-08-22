@@ -1,4 +1,4 @@
-# 21.5.0 Viewing All {{Comm}} Records
+# 21.5.0 {{Comm}}s Module: Viewing All {{Comm}} Records
 
 > If you have the {{Comm}}s Module you can see a table of all the {{comm}}s sent or logged in your system
 
