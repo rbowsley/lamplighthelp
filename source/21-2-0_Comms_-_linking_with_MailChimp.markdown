@@ -1,4 +1,4 @@
-# 21.2.0 {{Comm}}s: Linking with MailChimp Overview
+# 21.2.0 {{Comm}}s Module: Linking with MailChimp Overview
 
 > MailChimp is bulk mailing software that provides advanced reporting on your email communications. {{Lamplight}} can automatically link to and use MailChimp to send out emails and newsletters
 
