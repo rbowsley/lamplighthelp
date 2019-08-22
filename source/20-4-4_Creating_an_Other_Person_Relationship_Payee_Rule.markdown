@@ -1,4 +1,4 @@
-# 20.4.4 Creating an Other Person Relationship Payee Rule
+# 20.4.4 Charge Module: Creating an Other Person Relationship Payee Rule
 
 > An other person relationship payee rule allows you to set up a rule which charges a third party based on their relationship to the person attending the {{work}} record, for example 'employer'
 
