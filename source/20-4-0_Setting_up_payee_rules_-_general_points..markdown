@@ -1,4 +1,4 @@
-# 20.4.0 Setting up Payee Rules: General Points
+# 20.4.0 Charge Module: General Points for Setting up Payee Rules
 
 > A payee policy decides who should be charged. It will take the charge calculated by the charge policy and split it between one or more people or organisations, as the policy determines 
 
