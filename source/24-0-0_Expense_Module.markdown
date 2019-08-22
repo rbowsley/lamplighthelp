@@ -1,4 +1,4 @@
-# 24.0.0 Expense Module
+# 24.0.0 The Expense Module
 
 > The Expense Module enables you to store and track costs associated with your work
 
