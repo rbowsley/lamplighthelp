@@ -1,4 +1,4 @@
-# 20.6.3    Viewing Invoices Already Created
+# 20.6.3 Charge Module: Viewing Invoices Already Created
 
 > You can see a list of all invoices that have been issued from the admin menu
 
