@@ -1,4 +1,4 @@
-# 25.0.0 Library Module
+# 25.0.0 The Library Module
 
 > The Library Module enables you to store documents and other media (pictures, video etc) within {{Lamplight}}. These resources are not linked to particular profiles, and serve as a static resource that all database operators can access 
 
