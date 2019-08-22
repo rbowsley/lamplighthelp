@@ -4,8 +4,7 @@
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/282516727" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>  
 
-
-> Script
+### Script
 
 Hello everyone, this is Steve from Lamplight.  Welcome to {{Lamplight}} basic training starting with introductions to the main menu, home page and diary.
 
@@ -17,29 +16,29 @@ In the next video we’ll look at the home page tabs and the diary tabs, and how
 
 First, we’ll look at the main menu.
 
-### Main Menu
+- **Main Menu**
 
-The main menu bar shows you the different sections in your {{Lamplight}} system.  This is the coloured bar towards the top of the screen, in our system it’s green. You’ll see the options we have are Home, {{People}}, {{Work}}/{{Activity}}, {{Group}}s, {{Report}}s and Admin.  In your own system, although the names may be different, they will still do the same thing.  The most common change is for {{group}}s to be renamed ‘Lists’.  
+   The main menu bar shows you the different sections in your {{Lamplight}} system.  This is the coloured bar towards the top of the screen, in our system it’s green. You’ll see the options we have are Home, {{People}}, {{Work}}/{{Activity}}, {{Group}}s, {{Report}}s and Admin.  In your own system, although the names may be different, they will still do the same thing.  The most common change is for {{group}}s to be renamed ‘Lists’.  
 
-When you click on any of these menu options, you will see new options appear directly below in the menu bar itself.  If you click on one of these new options one of two things will happen.  With some, you’ll go right to a new page.  With most you’ll see a drop-down list appear for you to choose from.
+   When you click on any of these menu options, you will see new options appear directly below in the menu bar itself.  If you click on one of these new options one of two things will happen.  With some, you’ll go right to a new page.  With most you’ll see a drop-down list appear for you to choose from.
 
-Some of these options have another level of menu.  For example, if you click on {{people}}, a range of options appears.  When you choose View, you will see a drop-down list with triangle arrows against each option.  Hover over the option you want, and you’ll see a final pop-out menu appear for you to select from.
+   Some of these options have another level of menu.  For example, if you click on {{people}}, a range of options appears.  When you choose View, you will see a drop-down list with triangle arrows against each option.  Hover over the option you want, and you’ll see a final pop-out menu appear for you to select from.
 
-Why not pause the video, and take a moment to try this in your system?
+   Why not pause the video, and take a moment to try this in your system?
 
-Once you have tried it, click on the ‘Home’ option in the main menu at the top of the screen to bring you back to your home page.  These menu options are always found at the top of the screen whatever you’re doing and are your key method of navigating.
+   Once you have tried it, click on the ‘Home’ option in the main menu at the top of the screen to bring you back to your home page.  These menu options are always found at the top of the screen whatever you’re doing and are your key method of navigating.
 
-### Searching
+- **Searching**
 
-At the very top right of the {{Lamplight}} screen you’ll see a grey search box with 'search profiles or help' written in it.  A profile is the individual entry for any {{person}} or {{org}} you know and have entered into into {{Lamplight}}.  This search box is the easiest way to find a profile, or to get help.
+   At the very top right of the {{Lamplight}} screen you’ll see a grey search box with 'search profiles or help' written in it.  A profile is the individual entry for any {{person}} or {{org}} you know and have entered into into {{Lamplight}}.  This search box is the easiest way to find a profile, or to get help.
 
-Start typing a {{person}} or {{org}}'s name in the search box, and as soon as you’ve typed the first three characters, a list will appear with the first 10 matches.  You can keep typing to narrow down the options to the one you want, and then click to select the profile you want.  The drop-down list searches for names, postcodes, email addresses, and ID numbers.
+   Start typing a {{person}} or {{org}}'s name in the search box, and as soon as you’ve typed the first three characters, a list will appear with the first 10 matches.  You can keep typing to narrow down the options to the one you want, and then click to select the profile you want.  The drop-down list searches for names, postcodes, email addresses, and ID numbers.
 
-You can also run a full search by pressing the ‘Go’ button. This runs a full text search of the system and as well as names, it will look for information such as part of a phone number, or something mentioned in record notes.
+   You can also run a full search by pressing the ‘Go’ button. This runs a full text search of the system and as well as names, it will look for information such as part of a phone number, or something mentioned in record notes.
 
-You can also search for help.  Pop your query in the search box and hit the ‘Help’ button.  You’ll be taken to a new window with a list of search results.  From this page you can also see the contents of the whole help manual and download it if you want to.
+   You can also search for help.  Pop your query in the search box and hit the ‘Help’ button.  You’ll be taken to a new window with a list of search results.  From this page you can also see the contents of the whole help manual and download it if you want to.
 
-We suggest you take a short while to repeat what you’ve learned in your own system, referring back to this video if useful. Keep rolling for an introduction to the diary and home page, otherwise thanks for taking this training video.
+   We suggest you take a short while to repeat what you’ve learned in your own system, referring back to this video if useful. Keep rolling for an introduction to the diary and home page, otherwise thanks for taking this training video.
 
 
 ##### No Manual
