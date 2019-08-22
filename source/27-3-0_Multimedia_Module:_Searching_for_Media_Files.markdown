@@ -1,4 +1,4 @@
-# 27.3.0 Multimedia Module: Searching for Media Records 
+# 27.3.0 Media Module: Searching for Media Records 
 
 > If you select to 'Add to search index' when adding a media file, you will be able to search for it in the search bar at the top of the {{Lamplight}} screen
 
