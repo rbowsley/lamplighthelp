@@ -1,4 +1,4 @@
-# 20.2.7 Creating a {{Group}} Bands Rule
+# 20.2.7 Charge Module: Creating a {{Group}} Bands Rule
 
 > The {{group}} bands rule allows you to charge people based on their membership of a particular auto {{group}} 
 
@@ -25,7 +25,7 @@ A rule can contain several bands, each based on a {{group}} - you will need to s
 
 - To add another band, click the 'add row' button on the right of the table. 
 - Someone cannot be in two different bands even if they belong to more than one {{group}}. You will need to put the bands in order of priority as {{Lamplight}} will stop looking through them as soon as it has made a match. For example, if you are charging £15 for family carers to attend a session, and £10 for someone with a disability, you would want to put the band for the people with a disability higher in the table so that a person appearing in both those {{group}}s would be charged the lower rate. 
-- When you have finished, click 'save' in the bottom-right hand corner. You will be taken back to the charging menu, and you'll see your new rule in the 'charge rules' section. 
+- When you have finished, click 'save' in the bottom-right hand corner. You will be taken back to the charge settings menu, and you'll see your new rule in the 'charge rules' section. 
 
 ###### charge module
 
