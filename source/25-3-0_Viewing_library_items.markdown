@@ -1,4 +1,4 @@
-# 25.3.0 Viewing Library Items
+# 25.3.0 Library Module: Viewing Items
 
 > All database operators can view the items that have been saved to the library
 
