@@ -1,4 +1,4 @@
-# 21.2.1  {{Comm}}s: Setting up Mailchimp in {{Lamplight}}
+# 21.2.1  {{Comm}}s Module: Setting up Mailchimp in {{Lamplight}}
 
 > Before you begin using Mailchimp, set up the details in system administration so that the two systems can talk to each other 
 
