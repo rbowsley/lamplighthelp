@@ -1,4 +1,4 @@
-# 20.4.1 Setting up an Attendee Payee Rule
+# 20.4.1 Charge Module: Setting up an Attendee Payee Rule
 
 > An attendee payee rule specifies that the {{person}} or {{org}} listed in the {{work}} record pays for the session
 
