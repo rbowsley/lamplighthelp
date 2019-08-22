@@ -1,4 +1,4 @@
-# 20.5.0 Creating a Payee Policy
+# 20.5.0 Charge Module: Creating a Payee Policy
 
 > Once you have created payee rules, you will need to make payee policies so that you can apply them to your {{work}} records. Each policy can consist of a single rule or multiple rules combined together
 
