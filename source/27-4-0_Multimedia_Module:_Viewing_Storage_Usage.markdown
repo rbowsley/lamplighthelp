@@ -1,4 +1,4 @@
-# 27.4.0 Multimedia Module: Viewing Storage Usage
+# 27.4.0 Media Module: Viewing Storage Usage
 
 > The Media Module includes 5 GB of storage per {{project}}. You can keep track of how much has been used in system administration, and  purchase additional storage as necessary
 
