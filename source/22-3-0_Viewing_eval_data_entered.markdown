@@ -1,4 +1,4 @@
-# 22.3.0 {{Eval}} Module: Viewing Existing {{Eval}} Records
+# 22.3.0 {{Eval}}s Module: Viewing Existing {{Eval}} Records
 
 > Once {{eval}}s have been entered into {{Lamplight}}, you can view a table showing all of them or go to a specific profile to view the ones for that {{person}} or {{org}} 
 
