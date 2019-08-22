@@ -1,4 +1,4 @@
-# 20.3.0 Creating a Charge Policy
+# 20.3.0 Charge Module: Creating a Charge Policy
 
 > To be able to apply charge rules to a {{work}} record you need to create a charge policy. These can consist of a single rule or multiple rules combined together 
 
