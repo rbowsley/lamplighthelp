@@ -22,7 +22,7 @@ We have a few tabs in this system, containing examples of the types of fields yo
 Click the ‘Edit tab’ button to the right. You’ll see we have various fields in which to enter data.
 
    - **Date Field**
-   In our ‘Personal’ tab, the first is a date of birth field. Either click the drop-downs for the day, month and year, or use the calendar icon to the right. If you click on the calendar icon, you can either scroll through the months using the arrows at the top, or click on the month and year, and pick a date.
+   In our ‘Personal’ tab, the first is a date of birth field. Either click the drop-downs for the day, month and year, or use the calendar icon to the right. If you click on the calendar icon, you can either scroll through the months using the arrows at the top, or click on the month and year and pick a date.
 
    - **Select Field**
    The second field, ‘Gender’, is a single select field. Click where it says ‘Select’ and choose one of the options by clicking it. If you have a long list, you may need to scroll down.
@@ -51,12 +51,11 @@ The Twitter and Website fields are just text boxes. Once saved, you’ll see lin
    - **Repeating Fields**
    Now that you’ve saved the information in this tab, we’ll look at another type of field that you might come across—repeating fields.
 To show you this, I’ll navigate to the profile of a {{funder}} using the search bar.  
-      In {{funder}} profiles, we have a tab called ‘Funder Information’, in which there is a set of repeating fields. These allow you can enter information into the same fields more than once and presents them as rows in a table. We don’t use these very often as you can only report on them under certain circumstances, but they work very well for displaying information on screen.  
+      In {{funder}} profiles, we have a tab called ‘Funder Information’, in which there is a set of repeating fields. These allow you to enter information into the same fields more than once and presents them as rows in a table. We don’t use these very often as you can only report on them under certain circumstances, but they work very well for displaying information on screen.  
       You can identify repeating fields by the table header, and the extra ‘Add’ button over to the right. They’re edited separately to the rest of the tab, by clicking ‘Add’.   
       Populate the fields, click ‘Save’, and when the tab reloads, you’ll see the data in their own row in the table. To add another set of information, repeat this process. Each time a new row will be created, and you can add more as needed.   
 
 - **Next Tabs**
-
    Now you’ve seen the types of fields available in {{Lamplight}}, take some time to explore your custom tabs. If you’ve been following along with this video series, complete the custom tabs in the {{user}} profile you created in video 2.1. When you reach a tab called {{Message}}s, {{Waiting List}}s, or {{Referral}}s, stop. We’ll cover these in a different video.
 
    Watch our next video to learn about relationships. Thanks for watching!
