@@ -1,10 +1,10 @@
-51.4.4 Viewing and Editing {{Work}} Records in a Profile
+# 51.4.4 Viewing and Editing {{Work}} Records in a Profile
 
 > Once you have created a {{work}} record, you can find it to view or edit in a {{person}} or {{org}}’s profile
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279240823" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
-> Script
+### Script
 
 Welcome to {{work}} records, video 4 of 4: Viewing and editing records in a profile.
 
