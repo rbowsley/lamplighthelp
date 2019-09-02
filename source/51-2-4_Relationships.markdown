@@ -1,6 +1,6 @@
 # 51.2.4 Relationships
 
-> This video covers how to link {{people}} and {{organisation}}s using the Relationships tab. You can join individuals to a {{family}} or employees to their {{org}}, for example.
+> This video covers how to link {{people}} and {{org}}s using the 'Relationships' tab. You can connect individuals to a {{family}} or employees to their {{org}}, for example
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279238968" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
@@ -24,7 +24,7 @@ It’s a good idea to check the {{person}} or {{org}} that you want to link to h
 
 - **Types of Relationship**
 
-   You can see that relationships can be two-way. In this system, Mentor (Mentee) is two-way. This means that one {{person}} is the mentor, the other the mentee.
+   You can see that relationships can be two-way. In this system, Mentor (Mentee) is two-way. This means that one person is the mentor, the other the mentee.
 
    I’m going to add a mentor/mentee relationship with another {{user}}. When I save, this profile is shown as the Mentee, which is incorrect. To reverse a relationship, left-click the menu icon or right-click anywhere in the row to view the contextual menu, and click ‘Reverse’. You can see that the relationship has now been inverted.
 
@@ -57,7 +57,7 @@ Before we finish, I’ll give you a few extra pieces of information about relati
 
 - **Default Contacts**
 
-   When you create a relationship, you might see a ‘Default contact’ option. Default contacts are very powerful, and if you use these in your system, see our video on the subject.
+   When you create a relationship, you might see a ‘Default contact’ option. 
 
 - **Adding Profiles from the ‘Add Relationship’ Dialogue**
 
