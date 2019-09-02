@@ -41,7 +41,8 @@ The tab we’ll look at first is the ‘Contact details’ tab, which is the one
 
    The final section is ‘Role - main relationship(s) to you’. These are the different roles a {{person}} can have in {{Lamplight}}, and they reflect the types we saw when we created the profile.
 
-   If you click ‘Edit roles’ over on the right, you’ll see that a single profile can have more than one role. For example, a {{person}} can be a {{user}}, and a {{volunteer}}. A {{volunteer}} may also be a {{funder}}. 
+   If you click ‘Edit roles’ over on the right, you’ll see that a single profile can have more than one role. For example, a {{person}} can be a {{user}}
+   and a {{volunteer}}. A {{volunteer}} may also be a {{funder}}. 
 
    Once you have finished editing, click ‘Save’, which as always you can find over on the right. 
 
