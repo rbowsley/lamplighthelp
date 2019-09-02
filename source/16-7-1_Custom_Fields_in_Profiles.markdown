@@ -59,6 +59,8 @@ Most of the time your fields will have a single value that doesn't change (unles
 
 ![Linked Fields](16.7.1f.png)
 
+For a demonstration of how to add information to custom profile tabs and fields see our video: [51.2.3 Custom Tabs and Fields in Profiles](/help/index/p/51.2.3).
+
 
 ##### Tags
 System admin
