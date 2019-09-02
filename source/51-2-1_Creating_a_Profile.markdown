@@ -11,7 +11,7 @@ Hello, it’s Max from Lamplight. Welcome to part 2 of basic training: An Introd
 
 In this video I’ll show you how to create a profile.
 
-You can download a transcript of this video if it’s helpful to read along. Pause the video at any time, to try things in your system or our test system. I encourage you to do this regularly. Practicing and building muscle memory are the best ways of learning Lamplight.
+You can download a transcript of this video if it’s helpful to read along. Pause the video at any time, to try things in your system or our test system. I encourage you to do this regularly. Practicing and building muscle memory are the best ways of learning {{Lamplight}}.
 
 A quick note before we start: some of the terms in your system may be different to those in this video. If you follow my actions on screen, and see where I’m clicking, you should be able to locate the same function in your system even if they’re called something else.
 
@@ -22,7 +22,7 @@ A quick note before we start: some of the terms in your system may be different 
 
 - **Creating a New Profile**
 
-   To create a new profile, click ‘{{People}}’ in the Main Menu, and then ‘Add {{Person}}’. Your may have a drop-down list, showing the different profile types. If so, take a moment to look at the different types available, then choose the type you want to create. If clicking ‘add {{person}}’ takes you straight to the next screen, don’t worry, you’ll choose the profile type in a moment.
+   To create a new profile, click ‘{{people}}’ in the Main Menu, and then ‘add {{person}}’. Your may have a drop-down list, showing the different profile types. If so, take a moment to look at the different types available, then choose the type you want to create. If clicking ‘add {{person}}’ takes you straight to the next screen, don’t worry, you’ll choose the profile type in a moment.
    - enter a title (optional).
    - enter their first name and surname.
    - You may have suffixes in your system. If so, choose one from the drop-down list if you need to.
