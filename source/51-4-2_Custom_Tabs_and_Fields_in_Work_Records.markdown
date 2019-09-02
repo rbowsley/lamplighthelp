@@ -4,7 +4,7 @@
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279240632" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
-> Script
+### Script
 
 Welcome to {{Work}} records, video 2 of 4: Custom Tabs and Fields in {{Work}} Records.
 
@@ -14,33 +14,33 @@ The first three tabs are the basis of every {{work}} record, and at this point, 
 
 We’ll save this {{work}} record by clicking ‘Save’ in the bottom-right-hand corner. It’s now shown in the table in the ‘{{Work}} records’ tab. We’ll look at how this table works in a moment, but first, we’ll create one more {{work}} record, which makes use of custom fields.
 
-### Additional Tabs
+- **Additional Tabs**
 
-I’ll navigate to a {{volunteer}} profile using the search bar, and go to their ‘{{Work}} records’ tab. I’m going to create a {{work}} record for a {{volunteer}} support session we had earlier today, by clicking the ‘Add’ button.
+   I’ll navigate to a {{volunteer}} profile using the search bar, and go to their ‘{{Work}} records’ tab. I’m going to create a {{work}} record for a {{volunteer}} support session we had earlier today, by clicking the ‘Add’ button.
 
-I’ll complete the first three tabs, as I would with any {{work}} record.
+   I’ll complete the first three tabs, as I would with any {{work}} record.
 
-I’ll enter the time and date, choose the appropriate {{workarea}} and {{subworkarea}}, and complete any other fields needed, such as location, before clicking ‘Next’.
+   I’ll enter the time and date, choose the appropriate {{workarea}} and {{subworkarea}}, and complete any other fields needed, such as location, before clicking ‘Next’.
 
-In the ‘Attendance’ tab, I’ll make sure Gwen and I are there, with the correct roles, and complete any custom columns in the attendance table. When I’ve done this, I’ll go to the details tab.
+   In the ‘Attendance’ tab, I’ll make sure Gwen and I are there, with the correct roles, and complete any custom columns in the attendance table. When I’ve done this, I’ll go to the details tab.
 
-Here I write a summary (a brief heading for the diary), and any other fields I need. I’m going to enter brief notes about the session.
+   Here I write a summary (a brief heading for the diary), and any other fields I need. I’m going to enter brief notes about the session.
 
-### ‘Volunteer Support’ Tab.
+- **‘Volunteer Support’ Tab.**
 
-Now, I go to my custom tab, called ‘Volunteer support’.
+   Now, I go to my custom tab, called ‘Volunteer support’.
 
-This tab and its fields are unique to our system, but you may have custom tabs and fields in {{work}} records in yours.
+   This tab and its fields are unique to our system, but you may have custom tabs and fields in {{work}} records in yours.
 
-It consists of a series of check-boxes with which to record the topics we covered. I’ll use this tab for entering details of a volunteer support session, and simply ignore it when recording a different type of work.
+   It consists of a series of check-boxes with which to record the topics we covered. I’ll use this tab for entering details of a volunteer support session, and simply ignore it when recording a different type of {{work}}.
 
-I’ll complete the tab, and once I’ve finished, I’ll click ‘Save’.
+   I’ll complete the tab, and once I’ve finished, I’ll click ‘Save’.
 
-### Module Tabs
+- **Module Tabs**
 
-You may also have a variety of tabs relating to modules in your system, such as ‘Media’, ‘Expenses’ or ‘Charging’, and you may also have a ‘Tasks’ tab. We’ll cover each of these separately.
+   You may also have a variety of tabs relating to modules in your system, such as ‘Media’, ‘Expenses’ or ‘Charging’, and you may also have a ‘Tasks’ tab. We’ll cover each of these separately.
 
-Take a moment to look at your system, identify any custom tabs and fields, and consider for which types of work you’ll use each.
+   Take a moment to look at your system, identify any custom tabs and fields, and consider for which types of work you’ll use each.
 In our next video I’ll introduce recurring {{work}} records. Thanks for watching!
 
 
