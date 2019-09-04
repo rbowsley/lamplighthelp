@@ -1,4 +1,4 @@
-# 51.4.3_Recurring_Records
+# 51.4.3 Recurring Records
 
 > If you have an activity that is happening over a number of weeks – workshops with a number of participants or counselling sessions with one client, for example – you can create a recurring series of records rather than entering each one separately
 
