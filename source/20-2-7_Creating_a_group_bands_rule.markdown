@@ -21,7 +21,7 @@ A rule can contain several bands, each based on a {{group}} - you will need to s
    - Percentages are of any amount calculated by a previous rule. So to charge unwaged attendees a flat £10, regardless of any previous rules, you would enter 10 in the rate box. To charge 20% of the full rate (calculated by previous rules), you would enter 20% in the rate box. 
    - If you use percentages, this should not be the first rule in a policy. This is because it will have no previous amount to calculate from, so all charges will come out as 0 (as any % of 0 is 0). 
 
-![A simple {{group}}-bands based charge rule](22.7.0a.png)
+![A simple {{group}}-bands based charge rule](20.2.7a.png)
 
 - To add another band, click the 'add row' button on the right of the table. 
 - Someone cannot be in two different bands even if they belong to more than one {{group}}. You will need to put the bands in order of priority as {{Lamplight}} will stop looking through them as soon as it has made a match. For example, if you are charging £15 for family carers to attend a session, and £10 for someone with a disability, you would want to put the band for the people with a disability higher in the table so that a person appearing in both those {{group}}s would be charged the lower rate. 
