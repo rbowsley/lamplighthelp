@@ -88,7 +88,7 @@ As you can see in the image above, once you’ve run the table you still have th
    ![Linked Fields with Date](16.12.4j.png)
  
 - **Do you want to enable multi-{{project}} {{group}} reports?**
-   If you have more than one {{Lamplight}} {{project}}, this option enables you to run multi-{{project}} {{group}} reports. They can be accessed through {{groups}}>view>multi {{project}} report, as shown here.
+   If you have more than one {{Lamplight}} {{project}}, this option enables you to run multi-{{project}} {{group}} reports. They can be accessed through {{group}}s -> view -> multi {{project}} report, as shown here.
    
    ![Multi-{{project}} Reports](16.12.4k.png)
  
