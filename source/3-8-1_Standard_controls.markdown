@@ -1,4 +1,4 @@
-# 3.8.1    Standard controls
+# 3.8.1    Standard Controls
 
 > You need to open the editor toolbar to reveal the formatting controls 
 
