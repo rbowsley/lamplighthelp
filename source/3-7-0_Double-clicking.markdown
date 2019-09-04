@@ -1,4 +1,4 @@
-# 3.7.0 Double-Clicking
+# 3.7.0 Double-clicking to Edit a Single Field
 
 > Double-clicking a field in a user profile lets you edit just that item
 
