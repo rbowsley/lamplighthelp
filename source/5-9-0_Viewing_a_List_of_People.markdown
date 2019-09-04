@@ -15,7 +15,7 @@ To view a list of all {{user}}s:
   - Type of profile. You can limit the list to {{people}}, {{org}}s or {{family}}.
 - If you click on the menu button to the left of any of the {{people}} or {{org}}s in the list, or right-click in a table row, the context menu comes up.
 
-![Viewing People Context Menu](5.9.0a View People Context Menu.png)
+![Viewing People Context Menu](5.9.0a.png)
 
 - From here you can:
   - View the {{person}} or {{org}}'s profile.
