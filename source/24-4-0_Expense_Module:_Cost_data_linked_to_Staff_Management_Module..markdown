@@ -1,4 +1,4 @@
-# 22.4.0 Expense Module: Reporting Using Cost Data Linked to the {{Staff}} Management Module
+# 24.4.0 Expense Module: Reporting Using Cost Data Linked to the {{Staff}} Management Module
 
 > The Expense Module can be linked to the {{Staff}} Management Module to allow the {{staff}} cost connected to a {{work}} record to be calculated as part of the overall costs for the work that you do
 
