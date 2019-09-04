@@ -1,4 +1,4 @@
-# Home Page Diary and Tabs
+# 51.1.2 Home Page Diary and Tabs
 
 > Staying on the home page, this video shows different ways to view your diary and optional filters that you can apply to it. It also explains the other home page tabs
 
