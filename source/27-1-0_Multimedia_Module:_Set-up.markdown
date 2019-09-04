@@ -23,7 +23,7 @@ System Administrator level access is required to configure the file categories.
 - Once you’ve finished editing, click ‘enter’ on your keyboard to save your changes.
 - To delete a list item, drag it to the grey rectangle labelled ‘Drag here to delete’ at the bottom of the list of file categories.
 
-![Deleting a File Category](21.7.0b.png)
+![Deleting a File Category](27.1.0b.png)
 
 - It is not possible to delete a new file category immediately after setting it up. You will need to leave the file categories page, then re-open it. 
 
