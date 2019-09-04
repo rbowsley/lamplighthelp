@@ -29,7 +29,7 @@ Once {{work}} records have been created, the appointment time and date can be al
 
 Left-clicking on a {{work}} record in the diary brings up a context menu. 
 
-![The Diary Context Menu](/help/index/p/7.1.6b.png)
+![The Diary Context Menu](/help/index/p/7.1.6b.PNG)
 
 - View full details. This will open up the record so that you can see all the information recorded in it on one page.
 - Edit. If you click this option you will be able to open the record up to edit it. If this is one of a series of recurring records, hover your mouse over the word 'Edit', and you will also see the option to edit 'all recurring records in the series'.
