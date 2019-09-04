@@ -23,7 +23,7 @@ Once {{work}} records have been created, the appointment time and date can be al
 - Click on the relevant record in the diary. 
 - Hold down the mouse button and drag the record to the new appointment time.
 
-![Moving Items on the Diary](37b.png)
+![Moving Items on the Diary](37b.PNG)
 
 ### Editing a {{Work}} Record in the Diary
 
