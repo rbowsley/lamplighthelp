@@ -42,7 +42,7 @@ Depending on your workflow, you can also use {{group}}s to show people you first
 - To narrow it down to people who did not attend any {{work}} sessions before that date, go to the line above 'Number of records in profile prior to (but not including) date 1'. From the drop-down box, choose 'Exactly', and in the next box enter '0'. This will now only show people who did not have any {{work}} records before your start date.
 - Underneath that, in the 'Attendance' drop-down box choose 'Attended'. This will exclude people who are shown in the attendance table as 'Booked', or 'For reference', for example.
 - In the drop-down box for 'Role', select '{{User}}'. This will filter out other attendees, such as {{staff}} or {{volunteer}}s.
-- If you want to, you can also select {{workarea}}s and {{subworkarea}}s to narrow down your search further. If you select multiple {{workareas}}s or {{subworkarea}}s, then {{Lamplight}} will include profiles of {{people}} who have been involved in any of them - they do not need to have a record for each of the areas chosen.
+- If you want to, you can also select {{workarea}}s and {{subworkarea}}s to narrow down your search further. If you select multiple {{workarea}}s or {{subworkarea}}s, then {{Lamplight}} will include profiles of {{people}} who have been involved in any of them - they do not need to have a record for each of the areas chosen.
 
 ![Auto {{group}}s - {{work}} records tab example 3](11.1.0d.png)
 
