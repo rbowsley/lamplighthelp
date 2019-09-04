@@ -37,7 +37,7 @@ By using these policies it is possible that the amount charged for someone atten
 
 ### Stacking Policies
 
-You can set-up mutiple rules in the same policy, and determine the order in which they apply. This is important, as rules will be applied to attendees in the order in which they are listed. For example, if the first rule in a policy charges a {{vol}} £10 based on their attendance, no further rules will be processed for that {{vol}}.  This is very important to bear in mind as you read through the rest of this help section.
+You can set-up mutiple rules in the same policy, and determine the order in which they apply. This is important, as rules will be applied to attendees in the order in which they are listed. For example, if the first rule in a policy charges a {{volunteer}} £10 based on their attendance, no further rules will be processed for that {{volunteer}}.  This is very important to bear in mind as you read through the rest of this help section.
 
 
 ###### charge module
