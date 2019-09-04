@@ -7,7 +7,7 @@
 - Go to 'admin -> system administration -> Module Administration -> Charge Module -> Manage charge module rules and policies'. 
 - Click the 'Create new payee policy' button. 
 
-![Setting Up a Payee Policy](20.5.0a.png.png)
+![Setting Up a Payee Policy](20.5.0a.png)
 
 - First you need to give the policy a name: this is how you will choose the correct policy when you're in the {{work}} record, so it needs to be clear.
 - The section on the right of the screen shows all the payee rules you have created, and in the centre there is a space to add the rules you need.
