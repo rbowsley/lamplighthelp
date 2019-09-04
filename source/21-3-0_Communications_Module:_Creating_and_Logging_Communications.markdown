@@ -2,7 +2,7 @@
 
 > If you have the {{Comm}}s Module, you have some added options so that you can not only send {{comm}}s, but also log ones which come back to you 
 
-### Creating {{Comms}}
+### Creating {{Comm}}s
 
 **To see more about creating a new {{comm}}, see [10.1.0 Creating a {{Comm}}](/help/index/p/10.1.0).**
 
