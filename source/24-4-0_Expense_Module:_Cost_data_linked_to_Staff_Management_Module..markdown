@@ -8,7 +8,7 @@
 
 To be able to calculate the staffing cost, first you will need to add each staff member's hourly rate to their record.
 - Go to the profile of the staff member whose hourly rate you want to add.
-- Click on the 'Contract details' tab (you will only see this is you have the Staffing Module, and you are in the management hierarchy for this member of staff. For more on this see [29.1.1 Staff Management Module: The Hierarchy](/help/index/p/29.1.1).
+- Click on the 'Contract details' tab (you will only see this is you have the Staffing Module, and you are in the management hierarchy for this member of staff. For more on this see [29.1.0 Staff Management Module: Setup](/help/index/p/29.1.0).
 - Click on the menu button to the left of the contract whose hourly salary you want to edit, or click 'add' to enter details of a new contract.
 - Enter the rate into the 'hourly salary' box and click 'save'.
 
@@ -24,7 +24,7 @@ To be able to calculate the staffing cost, first you will need to add each staff
 
 **Using Staffing Costs for Reporting**
 
-- Run the work report as usual (for more on this see [17.0.0 Reports](/help/index/p/17.7.7).)
+- Run the work report as usual (for more on this see [17.0.0 Reports](/help/index/p/17.0.0).)
 - In the 'Report presentation' tab choose 'Cost data' as your 'Data to show'. 
 
 ![Choosing Cost Data in a Report](24.4.0b.png)
