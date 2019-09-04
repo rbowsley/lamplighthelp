@@ -1,4 +1,4 @@
-# 7.1.1 When and Where
+# 7.1.1 Work Records: When and Where
 
 > The 'When and where' tab stores information about the date, time, {{workarea}} and location of the {{work}} session 
 
