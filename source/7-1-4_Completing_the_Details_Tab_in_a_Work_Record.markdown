@@ -1,4 +1,4 @@
-# 7.1.4    Completing the 'Details' Tab in a {{Work}} Record
+# 7.1.4 {{Work}} Record: the 'Details' Tab 
 
 > The 'Details' tab is a place where you can add a text summary and notes of the session
 
