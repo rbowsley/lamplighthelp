@@ -33,7 +33,7 @@
    - Using these fields will insert information from the {{activity}} record that you started with, for example the date, start and end times. 
    - These fields only work if you create your {{comm}} from the {{activity}} record.
   
-  ![Activity Merge](2121.3.0d.png)
+  ![Activity Merge](21.3.0d.png)
   
 **Image Library**
 
