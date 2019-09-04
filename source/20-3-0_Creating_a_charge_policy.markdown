@@ -8,7 +8,7 @@
 - You need to have created at least one charge rule before you can create any policies - see section [20.2.0  Setting Up Rules and Policies](/help/index/p/20.2.0) and [20.2.1  Setting Up Charge Rules: General Points](/help/index/p/20.2.1) for more. 
 - Click the 'Create new charge policy' button. 
 
-![Setting up a {{work}} record charge rule](20.3.0apng)
+![Setting up a {{work}} record charge rule](20.3.0a.png)
 
 - First you need to give the policy a name: this is how you will choose the correct policy when you're in the {{work}} record, so it needs to be clear.
 - The section on the right of the screen shows all the charge rules you have created, and in the centre a space to add the rules you need to your policy. 
