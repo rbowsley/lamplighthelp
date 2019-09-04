@@ -11,7 +11,7 @@ If the upload is not working, you can check the following:
 
 If you are seeking to upload to existing profiles:
 - Ensure that the profile ID numbers have been clearly matched to the correct profiles.
-- Check that the selected profile type (e.g. {{person}}, {{org}} or {{family}}) and role (e.g. {{user}}, {{staff}} or {{vol}}) are the same as the type and role of the profiles to which you are uploading data.
+- Check that the selected profile type (e.g. {{person}}, {{org}} or {{family}}) and role (e.g. {{user}}, {{staff}} or {{volunteer}}) are the same as the type and role of the profiles to which you are uploading data.
 
 ### File Could Not Be Parsed Properly Error
 
