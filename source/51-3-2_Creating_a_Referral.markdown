@@ -68,7 +68,7 @@ A quick reminder that you may have additional custom fields on any of your tabs 
 
    You can go to any profile and see the table showing {{referral}}s they have been involved in in the same way.  So for example, you can also go to the {{referral}} tab in an {{org}}’s profile and see all of the {{referral}}s relating to them.
 
-   Before you watch the next video, why not create at least one {{referral}} in, and one {{referra}}l out, either in your own system or our test one?  You can pause the video and take a moment to try this.  See the next group of videos to learn about {{work}} records in {{Lamplight}}.
+   Before you watch the next video, why not create at least one {{referral}} in, and one {{referral}} out, either in your own system or our test one?  You can pause the video and take a moment to try this.  See the next group of videos to learn about {{work}} records in {{Lamplight}}.
 
 
 ##### No Manual
