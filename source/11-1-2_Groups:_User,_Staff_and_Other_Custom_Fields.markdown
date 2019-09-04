@@ -1,4 +1,4 @@
-11.1.2 {{Group}}s: {{User}}, {{Staff}} and Other Custom Fields
+# 11.1.2 {{Group}}s: {{User}}, {{Staff}} and Other Custom Fields
 
 > All the filters relating to the personal information for the {{people}} and {{org}}s in your system, for example demographic information, are held in tabs called by the name of the role, for example {{User}} or {{Staff}} fields
 
