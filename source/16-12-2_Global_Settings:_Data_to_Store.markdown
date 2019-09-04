@@ -93,7 +93,7 @@ See below for explanations of the different fields:
 
    With this option, {{message}}s can be associated with {{outcome}} records in the same way that they can be associated with {{work}} records and {{referral}} records (see above). A '{{Message}}s' tab becomes available when adding a new {{outcome}} record through the main menu, as shown here:
  
-   ![{{Message}}s on an {{Outcome}} Record](16.2.2f.png)
+   ![{{Message}}s on an {{Outcome}} Record](16.12.2f.png)
 
 - **Do you want to use simple or tabular attendance information on {{outcome}} records?**   
 
