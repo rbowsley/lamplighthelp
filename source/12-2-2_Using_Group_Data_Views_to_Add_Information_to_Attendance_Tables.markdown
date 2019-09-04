@@ -4,7 +4,7 @@
 
 When viewing an existing {{activity}} record, for example {{work}} or {{referral}}, it is possible to use a data view to add columns of information to the attendance table. This can be useful if you want to see contact details so that you can call participants to change arrangements, or to view risk factors of attendees before a session, for example.
 
-If you choose to view {{activites}} records using a data view, the {{people}} attending will be shown in the attendance table as usual, along with whatever extra columns the {{group}} data view contains.
+If you choose to view {{activity}} records using a data view, the {{people}} attending will be shown in the attendance table as usual, along with whatever extra columns the {{group}} data view contains.
 
 To do this:
 
