@@ -4,8 +4,8 @@
 
 There are two videos in this section:
 
-- [51.1.1 Introduction to the Main Menu](/help/index/p/5.1.1).
-- [51.1.2 Homepage Diary and Tabs](/help/index/p/5.1.2).
+- [51.1.1 Introduction to the Main Menu](/help/index/p/51.1.1).
+- [51.1.2 Homepage Diary and Tabs](/help/index/p/51.1.2).
 
 
 ##### No Manual
