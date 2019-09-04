@@ -14,7 +14,7 @@ If you hvae more than one {{project}}, it may be that some of the {{people}} wil
 [Add Profile-sharing Policy](17.2.3a.png)
 
 - The options are:
-  - Type of person / Role of person. These relate to the profile type ({{person}}, {{org}}, {{family}}) and role ({{user}}, {{staff}}, {{contact}}, {{funder}}, {{vol}}). Making a selection will limit the type of {{people}} or {{org}}s that this policy applies to.
+  - Type of person / Role of person. These relate to the profile type ({{person}}, {{org}}, {{family}}) and role ({{user}}, {{staff}}, {{contact}}, {{funder}}, {{volunteer}}). Making a selection will limit the type of {{people}} or {{org}}s that this policy applies to.
   -	What should people in other {{project}}s be able to do with name and address details? This gives several options for what operators in other {{project}}s can do with shared names and contact details.
   - What should people in other {{project}}s be able to do with custom tab and field data? This gives several options for viewing, adding and editing these shared fields.
   - Database operators with the following role will have the above rights: This lets you specify the role of the database operators to whom this policy will apply - for example, you may not want reception level staff to be able to share profiles.
