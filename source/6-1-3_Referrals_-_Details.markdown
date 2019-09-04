@@ -1,4 +1,4 @@
-# 6.1.3    {{Referral}}s - Details
+# 6.1.3    {{Referral}}s: Details
 
 > The details tab allows you to add free text and other information about the {{referral}} 
 
