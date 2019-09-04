@@ -19,7 +19,7 @@
 
 - Each {{waiting list}} has a context menu which you can open by right-clicking on the list in the table or by left-clicking the menu button to the left of it. There are a number of different options on this menu.
 
-   ![{{waiting List}} Context Menu](30.2.0c.png)
+   ![{{Waiting List}} Context Menu](30.2.0c.png)
 
    **View full details**
    - This shows you each {{person}} currently on the {{waiting list}}, the date they joined and the length of time they have been on it.
