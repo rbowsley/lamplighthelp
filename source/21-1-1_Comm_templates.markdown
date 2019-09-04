@@ -17,7 +17,7 @@ If you have not yet created any {{comm}}s templates, there will be two standard 
 
 - Give your template a name, and a short description.
 - You may see a 'Use {{comm}} roles with mail merge fields in this template?' box. If so, you can choose whether you want to be able to use merge fields relating to the {{comm}}s role you have assigned in the record. 
-   - For example, you may have {{comm}} roles called 'service user' and 'referrer', and have added people with these respective roles to the attendance table of the {{comm}} record. When composing the {{comm}}, you can then use merge fields like this: "Dear {{referrer title}} {{referrer surname}}, thank you for referring {{service user name}} to us."
+   - For example, you may have {{comm}} roles called 'service user' and 'referrer', and have added people with these respective roles to the attendance table of the {{comm}} record. When composing the {{comm}}, you can then use merge fields like this: "Dear 'referrer title' 'referrer surname', thank you for referring 'service user name' to us."
    - {{Comm}} roles in a template are used when you are sending a letter to a single recipient; others in the attendance table are just used for merge information drawn from their profiles.
    - For more on setting up {{comm}} roles, see [21.1.3 The {{Comm}} Module: {{Comm}} Roles](/help/index/p/21.1.3).
 - Click the + symbol in the top, right-hand corner of the text box to reveal the text editing tools. This will allow you to apply formatting to the document, as well as including images and merge fields.
