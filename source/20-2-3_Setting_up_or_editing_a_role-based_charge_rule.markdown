@@ -2,7 +2,7 @@
 
 > Role-based charge rules are where you can apply different charges depending on the role in which someone attends a session
 
-You may want to set different charges for {{people}} attending the same session. For example, a training session could be full-price for {{user}}s, but half price for your {{vol}}s. 
+You may want to set different charges for {{people}} attending the same session. For example, a training session could be full-price for {{user}}s, but half price for your {{volunteer}}s. 
 
 To set up a role-based charge rule:
 - Go to 'admin -> system administration -> Module Administration -> Charge Module -> Manage charge module rules and policies'.
