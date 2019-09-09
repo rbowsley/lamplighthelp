@@ -6,7 +6,7 @@ You will use the menu along the top of the screen to get around the system.
 
 The first line of menu items (starting with 'Home') can be clicked; this then displays the heading menu for that section in the coloured bar below. 
 
-![{{Lamplight}} initial menu](3.1.0a.PNG)
+![{{Lamplight}} initial menu](3.1.0a.png)
 
 (The categories that you see in your own system may differ to those shown in the picture above - this is due to each system beind customised for the organisation using it.)
 
