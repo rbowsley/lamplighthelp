@@ -1,6 +1,8 @@
 # 8.1.4 Recording the {{Outcome}} Values
 
-> After the 'When and where' and 'Attendance' tabs, the next tabs that you see are for recording {{outcome}} scores  
+> After the 'When and where' and 'Attendance' tabs, the next tabs that you see are for recording {{outcome}} scores
+
+
 
 Each different set of {{outcome}} measures that you have in your system will have its own tab in the {{outcome}} record. 
 

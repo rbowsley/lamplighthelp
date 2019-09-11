@@ -2,6 +2,8 @@
 
 > There are a number of different ways to retrieve large amounts of information from Lamplight. The one you choose will depend on what information you want and how accessible it needs to be
 
+
+
 If you choose to close your account, the end of our Hosting Agreement with you will mean that we no longer have permission to store your data and it will be deleted from the servers. After 28 days our back-ups will also be removed.  
 
 If you want us to retain your data, with the option to turn it back on in Lamplight at a later date, the Archive Module allows this. 

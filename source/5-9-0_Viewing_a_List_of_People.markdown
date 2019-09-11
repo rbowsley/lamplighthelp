@@ -2,6 +2,8 @@
 
 > Use the '{{people}}' menu to view lists of {{people}} on the system
 
+
+
 To view a list of all {{user}}s:
 
 - Click '{{people}}' on the main menu:

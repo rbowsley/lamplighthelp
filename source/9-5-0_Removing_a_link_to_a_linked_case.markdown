@@ -1,6 +1,8 @@
 # 9.5.0 Removing a Link to a {{Linked Case}}
 
-> Records can be 'unlinked' from a {{linked case}}. The record is will not be deleted 
+> Records can be 'unlinked' from a {{linked case}}. The record is will not be deleted
+
+
 
 It is possible to remove a record from a {{linked case}}. This removes the link, but does not delete the record. Once the link has been taken away, the record will appear back in the 'Unlinked records' section of the '{{Linked case}} view'tab.
 

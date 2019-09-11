@@ -2,6 +2,8 @@
 
 > You can view all the {{referral}} records on your system in one place, as well as filtering them to show by different dates and {{workarea}}s, for example
 
+
+
 To view all {{referral}} records, click '{{work}} -> view -> {{referral}}' on the main menu.
 
 The {{referral}}s table shows a variety of information stored in the records, including the referrer, and who the {{referral}} was made to.

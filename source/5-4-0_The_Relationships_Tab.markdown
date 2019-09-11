@@ -2,6 +2,8 @@
 
 > Relationships link different {{people}} and {{org}}s in {{Lamplight}}
 
+
+
 A {{person}} or {{org}} may have any number of relationships to others in the database. You can manage these in the 'Relationships' tab in the profile. 
 
 For example, you may wish to record which people work with a new {{user}} regularly, who their doctor is, their key worker, social worker, parole officer and other members of the family on the database. You can record as many relationships as you need.

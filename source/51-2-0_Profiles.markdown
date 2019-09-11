@@ -2,6 +2,8 @@
 
 > These videos cover how to create and edit a profile in {{Lamplight}}
 
+
+
 Profiles in {{Lamplight}} are where you keep individual information on the {{people}}, {{org}}s and families that you work with. This includes contact details, demographic information (such as age and gender), and relationships between the {{people}} and {{org}}s in your system. If you want to keep data about a new {{person}} or {{org}} you will first need to create a profile for them. The process for adding any type of profile is the same.
 
 Videos in this section:

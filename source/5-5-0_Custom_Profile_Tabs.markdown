@@ -1,6 +1,8 @@
 # 5.5.0 Custom Profile Tabs
 
-> Custom tabs in a profile contain information about {{people}} that's unlikely to change often, for example demographic details. The information you put in here can be overwritten as necessary 
+> Custom tabs in a profile contain information about {{people}} that's unlikely to change often, for example demographic details. The information you put in here can be overwritten as necessary
+
+
 
 {{Lamplight}} allows you to add as many tabs and fields as you need to in order to record your information. Custom tabs are unique to your organisation, and contain information that your organisation needs for its work and reporting. 
 

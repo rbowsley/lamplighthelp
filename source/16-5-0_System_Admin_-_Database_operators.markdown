@@ -2,6 +2,8 @@
 
 > Database operators are the people that have access to {{Lamplight}}. System Administrators set them up on the system, and decide what level of access they will have
 
+
+
 This section covers
 
 - [16.5.1 Operator Permission Levels](/help/index/p/16.5.1).

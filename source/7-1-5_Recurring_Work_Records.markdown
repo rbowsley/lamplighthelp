@@ -1,6 +1,8 @@
 # 7.1.5 Recurring {{Work}} Records
 
-> Recurring {{work}} records enable you to add many regular {{work}} records in one go 
+> Recurring {{work}} records enable you to add many regular {{work}} records in one go
+
+
 
 When you are creating or editing a {{work}} record, there is an option on the 'When and where' tab, under the time and date, to create a recurring {{work}} record.
 

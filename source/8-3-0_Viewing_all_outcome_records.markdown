@@ -1,6 +1,8 @@
 # 8.3.0 Viewing All {{Outcome}} Records
 
-> You can view all the {{outcome}} records on your system in one place. You can also filter the records you see by date, category and {{workarea}}, for example 
+> You can view all the {{outcome}} records on your system in one place. You can also filter the records you see by date, category and {{workarea}}, for example
+
+
 
 ### Viewing the Table
 

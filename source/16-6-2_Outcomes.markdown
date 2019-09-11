@@ -1,6 +1,8 @@
 # 16.6.2 {{Outcome}}s
 
-> {{Outcome}}s in your system are organised so that you have a main {{outcome}} category and {{outcome}} indicators within each of these categories 
+> {{Outcome}}s in your system are organised so that you have a main {{outcome}} category and {{outcome}} indicators within each of these categories
+
+
 
 Adding, editing and deleting {{outcome}}s works in the same way as for other lists, except that you have a main {{outcome}} category and {{outcome}} indicators within each category. 
 

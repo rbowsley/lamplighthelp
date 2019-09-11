@@ -2,6 +2,8 @@
 
 > Instructions for setting up email in {{Lamplight}} if you have a Gmail account
 
+
+
 ### Step 1: Tell Gmail to Allow Lamplight
 
 You need to set Gmail to allow Lamplight to send emails via your Gmail account:

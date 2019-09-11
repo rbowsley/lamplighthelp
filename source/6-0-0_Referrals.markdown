@@ -1,6 +1,8 @@
 # 6.0.0 {{Referral}}s
 
-> {{Referral}}s records contain the detail of the {{referral}}s your {{user}}s are involved in. 
+> {{Referral}}s records contain the detail of the {{referral}}s your {{user}}s are involved in.
+
+
 
 A {{referral}} record contains the detail of a {{referral}} in to or out of your organisation.  
 

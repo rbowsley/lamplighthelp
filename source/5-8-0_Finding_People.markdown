@@ -2,6 +2,8 @@
 
 > Use the search bar on the top right-hand corner of your screen to find a profile quickly
 
+
+
 There are a number of ways to find a particular {{person}} or {{org}}. The easiest way is to use the search bar in the top-right corner of your screen. 
 
 ![Search Bar](5.8.0b.png)

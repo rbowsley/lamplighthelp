@@ -2,6 +2,8 @@
 
 > Once you have added {{outcome}} scores it is possible to edit and delete them in a number of places. Each measure has to be dealt with separately
 
+
+
 ### To Edit or Delete {{Outcome}} Scores from the Main Menu
 
 - Go to {{activity -> view -> {{outcome}}

@@ -2,6 +2,8 @@
 
 > To add a new profile for a {{person}} or {{org}}, click '{{people}} -> add new' on the main menu
 
+
+
 To add a new profile, go to the top menu bar, click on '{{People}}' and select 'Add' from the sub menu that appears.
 
 ![Add new {{person}} on the main menu](45a.png)

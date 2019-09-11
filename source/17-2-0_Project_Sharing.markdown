@@ -2,6 +2,8 @@
 
 > By default no information is shared between different {{project}}s. {{Project}} sharing allows you to do so. You will need to ask us  to enable {{project}} sharing for you
 
+
+
 {{Project}} sharing lets you control what information is shared between different {{project}}s. You can share profile information as well as {{work}}, {{outcome}}, {{referral}}, {{eval}} and {{comm}} records. 
 
 This sharing is controlled by policies which specify:

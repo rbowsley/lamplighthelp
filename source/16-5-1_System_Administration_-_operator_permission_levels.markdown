@@ -2,6 +2,8 @@
 
 > Each database operator in {{Lamplight}} is allocated a level of access to the system. There are a number of levels which will control what they can see and do
 
+
+
 The different levels of access that you can choose from are:
 
 * **Receptionist:** intended for occasional or low level staff. Operators can add and edit their own records. Within profiles they are only able to view the contact details, relationships, {{work}} records and {{eval}}s tabs. They are unable to work with {{group}}s, {{outcome}}s, {{comm}}s or run {{report}}s.

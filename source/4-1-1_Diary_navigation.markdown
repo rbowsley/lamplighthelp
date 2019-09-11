@@ -1,6 +1,8 @@
 # 4.1.1 Diary Navigation
 
-> Use the icons in the top-right of the diary to change dates or view 
+> Use the icons in the top-right of the diary to change dates or view
+
+
 
 You can use the calendar navigation toolbar, which is found in the top right corner of the diary, to change what dates are displayed. 
 

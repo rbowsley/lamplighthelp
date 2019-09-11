@@ -1,6 +1,8 @@
 # 7.3.0 Viewing All {{Work}} Records
 
-> It is possible to view all the {{work}} records in your system in one table 
+> It is possible to view all the {{work}} records in your system in one table
+
+
 
 You can view all of the {{work}} records in your system in a single table. However, if your organisation has a large number of records, it would be best to filter these down (see below) so that they do not take too long to retrieve. 
 

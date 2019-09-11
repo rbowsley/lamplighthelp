@@ -2,6 +2,8 @@
 
 > The rich text editors in {{Lamplight}} allow you to format the text in text fields
 
+
+
 With rich text editors in {{Lamplight}} you can create formatted text - for example bold, bullet points, colours. 
 
 To open the editor:

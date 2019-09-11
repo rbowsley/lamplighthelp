@@ -3,6 +3,8 @@
 > A guide to some of the more common terms used in {{Lamplight}}
 
 
+
+
 {{Lamplight}} is an intuitive system and much of the terminology will be familiar to you. However, there are some key terms which will help you to find your way around.
 
 **{{User}}**  

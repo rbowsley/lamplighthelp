@@ -2,6 +2,8 @@
 
 > {{Activity}} list templates can be used to view your {{work}} and other {{activity}} records. They are similar to report templates, letting you save search criteria which are then available to use whenever you are searching your records
 
+
+
 When you view {{activity}} records, there is a search bar above the table where you can add filters to narrow down your search, and extra columns so that you can choose to see more information. 
 
 [{{Work}} Records Table](16.10.0a.png)

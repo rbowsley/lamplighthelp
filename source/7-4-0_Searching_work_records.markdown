@@ -2,6 +2,8 @@
 
 > You can search for work records using a free text search
 
+
+
 The search bar at the top of the screen searches {{work}} records for free text, for example to look for specific text in the 'Follow-up' field. 
 
 - Go to the search bar found on the top right-hand corner of the screen. 

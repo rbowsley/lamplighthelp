@@ -2,6 +2,8 @@
 
 > If your import is not working, there are a number of simple checks you can make
 
+
+
 If the upload is not working, you can check the following:
 
 - All column names must exactly match field names in Lamplight. If a field has not been successfully matched, see if you can identify a difference between the column name in your spreadsheet and the field name in Lamplight.

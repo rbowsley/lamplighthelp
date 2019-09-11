@@ -2,6 +2,8 @@
 
 > {{Linked case}}s are a way of linking different kinds of record ({{work}}, {{outcome}}, {{comm}}s etc) together in one place. They allow you to track the amount of time somthing takes from opening to closing
 
+
+
 In most systems that use {{linked case}}s, you'll find their details in the '{{Linked case}} view' tab in their profile.  
 
 

@@ -2,6 +2,8 @@
 
 > The 'Data to store' tab contains options relating to the types of records you want to create and what information you would like to include
 
+
+
 See below for explanations of the different fields:
 
 - **Do you want to use {{message}}s at all?**

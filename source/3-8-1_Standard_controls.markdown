@@ -1,6 +1,8 @@
 # 3.8.1    Standard Controls
 
-> You need to open the editor toolbar to reveal the formatting controls 
+> You need to open the editor toolbar to reveal the formatting controls
+
+
 
 The rich text editor allows you to use formatted text, like a word processor. When it loads initially, you will see the editor looking like this:
 

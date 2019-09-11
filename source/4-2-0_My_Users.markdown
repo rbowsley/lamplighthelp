@@ -1,6 +1,8 @@
 # 4.2.0 My {{User}}s
 
-> 'My {{user}}s' are the {{user}}s you {{work}} with most often 
+> 'My {{user}}s' are the {{user}}s you {{work}} with most often
+
+
 
 There will often be {{user}}s, {{contact}}s or {{funder}}s that you {{work}} with regularly. Rather than searching for them or browsing through long lists, you can create a 'My {{user}}' relationship with them, and they will then be listed in the 'My {{user}}s' tab on your home page. 
 

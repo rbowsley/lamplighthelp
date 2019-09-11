@@ -1,6 +1,8 @@
 # 8.0.0 {{Outcome}}s
 
-> The difference your services are making over time to your {{user}}s, {{staff}} and others are entered as {{outcome}}s in Lamplight  
+> The difference your services are making over time to your {{user}}s, {{staff}} and others are entered as {{outcome}}s in Lamplight
+
+
 
 {{Outcome}}s are the impact your work has on individuals or organisations, measured by showing changes over time. This involves scoring  the same measure two or more times so that you have a baseline starting point, and one or more subsequent scores. 
 

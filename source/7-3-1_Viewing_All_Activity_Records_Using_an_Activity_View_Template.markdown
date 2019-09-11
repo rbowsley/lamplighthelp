@@ -2,6 +2,8 @@
 
 > If you often view your {{work}} records and would like to save your filter settings, system administrators can set up activity view templates
 
+
+
 If you often view tables of records through the main menu ({{Activity}} -> view) it is possible to save the filters and extra columns that you frequently use as a template. These could be columns for {{volunteer}}s attending and specific filters like {{workarea}} and dates, so that the table is ready each time you need it. 
 
 Templates need to be set up by System Administrators. For more on how to do this, please see [16.10.0 Creating {{Activity}} List Templates](/help/index/p/16.10.0).

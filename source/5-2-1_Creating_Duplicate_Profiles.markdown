@@ -2,6 +2,8 @@
 
 > When you add a new profile to {{Lamplight}}, the system will check to see if it is a duplicate. If there is already a {{person}} or {{org}} with the same or similar name, it will be flagged up
 
+
+
 If you add a {{person}} or {{org}} to the system with a similar name to one that is already on there, when you click to save the new profile a pop-up box will appear. 
 
 ![Duplicate Profiles Warning](5.2.1a.png)

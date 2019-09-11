@@ -1,6 +1,8 @@
 # 3.4.0    Tabs
 
-> When you see a tab in {{Lamplight}}, click on it to see the information held there 
+> When you see a tab in {{Lamplight}}, click on it to see the information held there
+
+
 
 Many of the screens in {{Lamplight}} use tabs. For example you will see them along the top of a profile:
 

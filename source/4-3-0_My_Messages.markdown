@@ -1,6 +1,8 @@
 # 4.3.0 My {{Message}}s
 
-> Your {{message}}s - reminders, to-dos - are like your post-it notes in {{Lamplight}}, but with dates attached and linked to other information 
+> Your {{message}}s - reminders, to-dos - are like your post-it notes in {{Lamplight}}, but with dates attached and linked to other information
+
+
 
 You can set {{message}}s that will show both in the table in the 'My {{message}}s' tab and also in your diary, so that no appointment or action needs to be missed. 
 

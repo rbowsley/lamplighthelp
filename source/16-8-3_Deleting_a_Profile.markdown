@@ -2,6 +2,8 @@
 
 > System Administrators can permanently delete profiles. Once they are deleted they cannot be reinstated, even by Lamplight staff
 
+
+
 ### To Delete a Profile
 
 **Finding Which Profiles to Delete

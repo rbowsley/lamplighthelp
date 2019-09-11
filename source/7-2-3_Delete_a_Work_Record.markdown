@@ -2,6 +2,8 @@
 
 > It is possible for operators who have Manager or Administrator levels of access to delete {{activity}} records. This should be done with caution, as there is no way to undelete them
 
+
+
 To delete a record:
 - Find the record in the table (for more on this see [7.2.0 Viewing {{Work}} Records for an Individual](/help/index/p/7.2.0)).
 - Click on the context menu button to the left of it, or right-click on the relevant row.

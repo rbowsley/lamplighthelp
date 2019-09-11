@@ -2,6 +2,8 @@
 
 > It is possible to add {{work}} records from the main menu, as well as from a profile
 
+
+
 **To Add a {{Work}} Record from the Main Menu**
 
 - Go to {{Activity}} -> Add new -> {{Work}} on the main menu. 

@@ -1,6 +1,8 @@
-#  16.4.1 Personal Settings - Logging in and General Settings
+# 16.4.1 Personal Settings - Logging in and General Settings
 
 > This section allows you to custmise what you see on your home screen, what information you show on the 'my {{user}}s' tab, your colour-scheme, some options of how tables are displayed, whether you are warned about timeouts, as well as how you view form data
+
+
 
 'Logging in and gerneral settings' is the first section in personal settings. When you make any change you should scroll to the bottom of this screen and click save. You should then refresh your system (F5 on a windows computer, command – R on a Mac) to see the changes take effect.
 

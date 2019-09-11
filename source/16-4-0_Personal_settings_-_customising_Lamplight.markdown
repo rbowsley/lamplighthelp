@@ -1,6 +1,8 @@
 # 16.4.0    Personal Settings - Customising {{Lamplight}}
 
-> Each database operator has the ability to customise aspects of {{Lamplight}} to fit their work flow. The changes they make will not affect anyone else 
+> Each database operator has the ability to customise aspects of {{Lamplight}} to fit their work flow. The changes they make will not affect anyone else
+
+
 
 Personal settings can be found at 'admin -> system administration -> Customise {{Lamplight}} -> change my personal settings'. 
 

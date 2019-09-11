@@ -2,6 +2,8 @@
 
 > The 'Recipients' tab is where you add the {{people}} and {{org}}s you are sending the {{comm}} to. You can enter individual names, or use a {{group}} to add recipients in bulk
 
+
+
 **Adding Recipients**
 
 In the 'Recipients' tab: 

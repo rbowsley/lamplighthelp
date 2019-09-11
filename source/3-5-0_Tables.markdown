@@ -1,6 +1,8 @@
 # 3.5.0 Tables
 
-> Tables are used in {{Lamplight}} to display information, and they can be searched and customised in a number of ways 
+> Tables are used in {{Lamplight}} to display information, and they can be searched and customised in a number of ways
+
+
 
 There are many tables of information in {{Lamplight}}, like the one below. 
 

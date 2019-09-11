@@ -1,6 +1,8 @@
-#  16.5.5 Login Security Policies
+# 16.5.5 Login Security Policies
 
 > Login security policies limit when and from where operators may log in
+
+
 
 Login security policies relate to the IP addresses that {{Lamplight}} can be accessed from, and the times at which it can be accessed. For example, you might have a policy that only allows logging in on weekday mornings, and another that allows logging in from the office network, Monday to Friday. Different database operators can have different login security policies applied.
 

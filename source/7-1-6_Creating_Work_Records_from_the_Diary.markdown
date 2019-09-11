@@ -2,6 +2,8 @@
 
 > You can add and edit {{work}} records in the diary
 
+
+
 ### Creating a New Record
 
 {{Work}} records can be created in the diary. 

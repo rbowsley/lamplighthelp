@@ -1,6 +1,8 @@
 # 2.2.2 Password Security
 
-> Some tips for keeping {{Lamplight}} secure. 
+> Some tips for keeping {{Lamplight}} secure.
+
+
 
 Just as the security of your home is dependent on the lock you fit to your front door, so your database is only as secure as the passwords you set. With the amount and level of personal data you will be storing on your database, passwords are vitally important, it is worth remembering and implementing the following when setting your password.
 

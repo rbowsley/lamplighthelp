@@ -1,6 +1,8 @@
 # 6.1.0 Adding a {{Referral}} Record
 
-> {{Referral}} records can be added to a {{person}} or {{org}}'s records either in their profile or through the main menu bar 
+> {{Referral}} records can be added to a {{person}} or {{org}}'s records either in their profile or through the main menu bar
+
+
 
 As {{referral}} records usually relate to a single {{user}}, it is easiest to find their profile and open the '{{Referral}}s' tab. Alternatively, you can start a new record by clicking on '{{Activity}}' in the main menu, then choosing 'add new -> {{referral}}'. 
 

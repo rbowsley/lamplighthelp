@@ -1,5 +1,8 @@
 # 9.1.0 Opening a New {{Linked Case}}
 
+> 
+
+
 You can create a new {{linked case}} either through the '{{Linked Case}} View' tab in a profile, or as you link a {{work}} or other record to a {{linked case}}
 
 It is possible to open a new {{linked case}} in a couple of ways. Whichever you choose will open the same pop-up box where you will complete the details.

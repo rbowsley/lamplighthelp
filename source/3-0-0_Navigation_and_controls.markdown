@@ -1,6 +1,8 @@
 # 3.0.0 Navigation and Controls
 
-> This section explains the different ways you can navigate around {{Lamplight}}, and some of the controls you will see on screen. 
+> This section explains the different ways you can navigate around {{Lamplight}}, and some of the controls you will see on screen.
+
+
 
 Your {{Lamplight}} system can hold a large amount of data, and there are a number of different ways to search it. 
 

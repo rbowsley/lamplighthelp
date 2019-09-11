@@ -1,6 +1,8 @@
 # 28.3.1 Publishing Module: Publishing Profiles
 
-> With the publishing module you have the opportunity to publish profiles from your {{Lamplight}} database onto a public facing site. By default no profiles are published, and operators can decide to publish individual records 
+> With the publishing module you have the opportunity to publish profiles from your {{Lamplight}} database onto a public facing site. By default no profiles are published, and operators can decide to publish individual records
+
+
 
 As part of the initial set-up your System Administrator will have specified the type of profiles they are happy for {{Lamplight}} to publish and what information should be published from within them (see section [28.2.0  System Administration - Publishing Module](/help/index/p/28.2.0)). 
 

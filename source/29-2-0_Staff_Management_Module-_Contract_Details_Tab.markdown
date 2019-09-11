@@ -1,6 +1,8 @@
 # 29.2.0 {{Staff}} Management Module: Contract Details Tab
 
-> Details in the contract are used in different places for the {{Staff}} Management Module: the timesheet system uses it in calculations as does the annual leave summary 
+> Details in the contract are used in different places for the {{Staff}} Management Module: the timesheet system uses it in calculations as does the annual leave summary
+
+
 
 You will need to enter details into the 'Contract' tab on a person's profile before you can use the timesheet and annual leave calculations.
 

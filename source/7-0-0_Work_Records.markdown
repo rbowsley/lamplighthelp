@@ -1,6 +1,8 @@
 # 7.0.0 {{Work}} Records
 
-> {{Lamplight}} stores details of the {{work}} you do (services you provide) as {{work}} records 
+> {{Lamplight}} stores details of the {{work}} you do (services you provide) as {{work}} records
+
+
 
 {{Lamplight}} holds details of the {{work}} you do with your {{user}}s. These are called {{work}} records in {{Lamplight}}. Each time you provide a service, you will probably enter it as a {{work}} record. 
 

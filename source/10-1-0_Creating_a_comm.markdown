@@ -1,6 +1,8 @@
 # 10.1.0 Creating a {{Comm}}
 
-> You can create a {{comm}} from the main menu in {{Lamplight}}. This could be an email, letter or mailing labels 
+> You can create a {{comm}} from the main menu in {{Lamplight}}. This could be an email, letter or mailing labels
+
+
 
 To create a new {{comm}} from the main menu:
 - Go to {{Work}} -> {{comm}} -> create on the main menu. 

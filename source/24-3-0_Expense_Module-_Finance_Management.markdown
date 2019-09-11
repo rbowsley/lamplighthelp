@@ -2,6 +2,8 @@
 
 > You can access an overview of all costs that you have entered for your {{activity}} records in the 'Finance management' section. This is also where you can marked them as authorised and subsequently paid
 
+
+
 The 'finances' section can be found under 'admin' on the main menu. 
 
 ![Finances in the Main Menu](24.3.0a.png)

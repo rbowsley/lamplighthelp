@@ -2,6 +2,8 @@
 
 > Instructions for setting up email in {{Lamplight}} if you have an account with another provider
 
+
+
 **Identify Your Server Details** 
 
 - Check our list of common providers at the bottom of this page - you may find the settings there.

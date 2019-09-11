@@ -3,6 +3,8 @@
 > It is possible to customise your diary so that you only see appointments relating to particular {{staff}} and {{workarea}}s. You can also print off your diary
 
 
+
+
 There are a number of options in your diary where you can customise the diary and the records that you see.
 
 ### {{Workarea}}s

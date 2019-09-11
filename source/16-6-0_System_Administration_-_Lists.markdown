@@ -2,6 +2,8 @@
 
 > Managing drop-down lists in system administration allows you to add, edit and delete {{work area}}s, {{outcomes}}, {{case}} categories, relationship types and {{referral}} success categories
 
+
+
 There are a number of drop-down lists which exist in {{Lamplight}}. These can all be added and edited in the same way. They do not always save well when edited in the Chrome browser (due to a bug in the browser itself), so we recommend using Edge or Firefox. 
 
 ### Important Things to Consider when Making Changes 

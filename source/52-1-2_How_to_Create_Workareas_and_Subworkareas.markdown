@@ -2,6 +2,8 @@
 
 > If you start providing a new service, or the same service to a different group, chances are that you will need to add to your {{workarea}}s or {{subworkarea}}s
 
+
+
 You will see the {{workarea}}s and {{subworkarea}}s listed in the ‘when and where’ tab of your {{activity}} records. They let you keep track of what different types of {{work}} you are doing, and are important when it comes to reporting back on the {{work}} you have done.
 
 You can add, edit and delete them in the same place, although both editing and deleting have implications for future reporting. (For more on this see [16.6.1 System Administration - Adding and Editing {{Workarea}}s](/help/index/p/16.6.1).).

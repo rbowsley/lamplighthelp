@@ -1,7 +1,9 @@
-
 # 5.7.0 Printing Profile Information
 
 > You can choose to print information from individual profiles of a {{group}} of profiles
+
+
+
 
 It is possible to print profile information for specific parofiles. This can be done to pdf or to a printer. 
 

@@ -1,6 +1,8 @@
-#    16.11.0 Setting Up Email
+# 16.11.0 Setting Up Email
 
-> Before you can send emails from your Lamplight system, you will need to set up the connection to your existing email account 
+> Before you can send emails from your Lamplight system, you will need to set up the connection to your existing email account
+
+
 
 Lamplight sends emails through your own email servers. This means the sent items will show in your ‘Sent’ email folder, and replies will come to your inbox.  It also means that emails will show as genuinely from you, and are less likely to be marked as spam.
 

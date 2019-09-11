@@ -2,6 +2,8 @@
 
 > The search bar in the top right-hand corner of each screen can be used in three ways - to find {{people}}, to do a full search of the database or to search for help
 
+
+
 In the top right-hand corner of each screen there is a search bar. 
 
 ![Search bar](3.2.0a.PNG)

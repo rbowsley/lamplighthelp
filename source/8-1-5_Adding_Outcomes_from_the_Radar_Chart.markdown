@@ -1,6 +1,8 @@
 # 8.1.5 Adding {{Outcome}}s from the Radar Chart
 
-> It is possible to add {{outcome}} scores directly in the radar chart in an individual's profile 
+> It is possible to add {{outcome}} scores directly in the radar chart in an individual's profile
+
+
 
 You can add {{outcome}} scores directly to the radar chart in the '{{Outcome}}s' tab of a profile. To do this:
 

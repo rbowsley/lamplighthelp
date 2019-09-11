@@ -2,6 +2,8 @@
 
 > When you add a new {{project}}, you will need to make decisions about how your new and existing {{project}}s work together
 
+
+
 When we say we’ve ‘added a new {{project}}’, what we’ve done is given you the ability to add a new {{project}} to your system. This is because a lot of the decisions about how your new and existing {{project}}s work together are taken as you create it.
 
 To add and amend {{project}}s, you’ll need to be a {{Project}} Administrator. This is a level above System Administrator and is only used when a system has multiple {{project}}s. If you do not already have a {{Project}} Administrator, or your Project Admin can't add more operators of this level to the system, contact us to sort this out for you.

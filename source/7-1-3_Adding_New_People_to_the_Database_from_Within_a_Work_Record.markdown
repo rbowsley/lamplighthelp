@@ -2,6 +2,8 @@
 
 > If you have new people attending a {{work}} session who do not yet have a profile in {{Lamplight}}, you can add them to the system  while creating the {{work}} record
 
+
+
 If you are adding {{people}} or {{org}}s to an attendance table and you have someone who is not yet on the system, you can add them to {{Lamplight}} at this point. (You may not be able to do this if your organisation has some custom required fields when adding a new profile). 
 - Type in their name in the search box.
 - If they do not show up on the drop-down menu click the 'add new people to database' button on the right. 
