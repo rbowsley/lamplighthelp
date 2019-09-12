@@ -8,9 +8,10 @@ Your {{Lamplight}} system can hold a large amount of data, and there are a numbe
 
 Some of the most common ways to look for information are:
 
-- Searching for a person on the system [3.2.0 The Search Bar](help/index/p/3.2.0).
-- Adding people to an activity record [3.3.0 Search Boxes](help/index/p/3.3.0).
-- Looking for information on what happened in a session [3.5.0 Tables](help/index/p/3.5.0).
+- Navigating via the [main menu (3.1)](help/index/p/3.1.0)
+- Searching for a person on the system [using the search bar (3.2)](help/index/p/3.2.0).
+- Adding people to an activity record [with search boxes (3.3)](help/index/p/3.3.0).
+- Looking for information on what happened in a session [in tables (3.5)](help/index/p/3.5.0).
 
 
 ##### Tags

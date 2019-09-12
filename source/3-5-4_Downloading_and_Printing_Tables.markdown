@@ -32,6 +32,8 @@ The final option is to 'split print'. This allows you to create multiple print-f
 
 ![Split Print](3.5.4c.png)
 
+Split print opens up lots of tabs - one for each value - and your web browser may block this.  If so, you'll likely see an error message in the top bar of the browser, which should give you the option to allow popups from Lamplight.  Once you've done that you should be able to 'split print' again and see all the tables.
+
 
 ##### Tags
 Next steps

@@ -18,6 +18,8 @@ Wherever you find one, they all behave in the same way - they search for names a
 
 Click on the name you are looking for as soon as it appears, and this will take you to the profile. 
 
+[Section 5.8](/help/index/p/5.8.0) has advanced information about the search boxes.
+
 
 ###### core module
 

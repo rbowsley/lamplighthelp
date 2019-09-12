@@ -8,6 +8,7 @@ When something is loading or saving, you will see this appear in the top-right c
 
 ![Loading indicator](28a.png) 
 
+Please wait for the loading indicator to finish spinning before trying to do anything else.
 
 ###### core module
 

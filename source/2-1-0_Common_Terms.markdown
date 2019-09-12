@@ -10,6 +10,9 @@
 ### {{User}}
 - These are the {{people}} you work with who benefit from your service. For more on {{people}} see section [5.1 Profiles](/help/index/p/5.1.0)
 
+### Profile
+- Where all information about a particular person or organisation is held.
+
 ### {{Workarea}}
 - Often these will be based on your workstreams – the services you provide or types of activity you carry out. For example, Mentoring, Ballet or Schools Outreach. They will probably already have been set up in your system, but the System Admnistrator can always add more or edit the ones that you have. To find out how to do this, see section [16.6.1 System Administration: Adding and editing {{workarea}}s](/help/index/p/16.6.1).
 
