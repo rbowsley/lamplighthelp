@@ -4,7 +4,7 @@
 
 
 
-To log in, go to [https://lamplight.online/](https://lamplight.online/). 
+To log in, go to <a href="https://lamplight.online/">https://lamplight.online/</a>.
 
 We recommend that you use Mozilla Firefox, Google Chrome or Edge browsers. If you are using Microsoft Internet Explorer we suggest you use the most up-to-date version. 
 
