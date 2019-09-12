@@ -1,4 +1,4 @@
-# 5.8.0    Finding {{People}}
+# 5.8.0  <i class="fa fa-user"></i>  Finding {{People}}
 
 > Use the search bar on the top right-hand corner of your screen to find a profile quickly
 

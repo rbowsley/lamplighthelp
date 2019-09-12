@@ -1,4 +1,4 @@
-# 5.3.0 The Contact Details Tab
+# 5.3.0 <i class="fa fa-user"></i> The Contact Details Tab
 
 > The contact details tab in standard in Lamplight systems, and contains the address, phone number, email address and other details. It is also where the role of the {{person}} or {{org}} is stored
 

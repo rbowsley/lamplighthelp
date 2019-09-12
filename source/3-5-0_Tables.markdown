@@ -8,7 +8,7 @@ There are many tables of information in {{Lamplight}}, like the one below.
 
 ![A {{Lamplight}} table](14a.png)
 
-This is the table that would be displayed if you wre searching {{work}} records. 
+This is the table that would be displayed if you were searching {{work}} records. 
 
 Other places where tables are frequently used are:
 

@@ -1,4 +1,4 @@
-# 5.5.0 Custom Profile Tabs
+# 5.5.0 <i class="fa fa-user"></i> Custom Profile Tabs
 
 > Custom tabs in a profile contain information about {{people}} that's unlikely to change often, for example demographic details. The information you put in here can be overwritten as necessary
 

@@ -1,4 +1,4 @@
-# 7.1.1 Work Records: When and Where
+# 7.1.1  <i class="fas fa-hammer"></i> Work Records: When and Where
 
 > The 'When and where' tab stores information about the date, time, {{workarea}} and location of the {{work}} session
 

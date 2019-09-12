@@ -1,4 +1,4 @@
-# 4.0.0 The Home Page
+# 4.0.0 <i class="fa fa-home"></i> The Home Page
 
 > The home page is the first page you see after logging in, and can be reached by clicking 'home' on the main menu at any time
 

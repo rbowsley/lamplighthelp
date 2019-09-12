@@ -1,4 +1,4 @@
-# 7.4.0 Searching {{Work}} Records
+# 7.4.0  <i class="fas fa-hammer"></i>  Searching {{Work}} Records
 
 > You can search for work records using a free text search
 

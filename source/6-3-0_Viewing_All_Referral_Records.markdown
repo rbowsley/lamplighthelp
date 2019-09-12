@@ -1,4 +1,4 @@
-# 6.3.0 Viewing All {{Referral}} Records
+# 6.3.0 <i class="fa fa-redo-alt"></i> Viewing All {{Referral}} Records
 
 > You can view all the {{referral}} records on your system in one place, as well as filtering them to show by different dates and {{workarea}}s, for example
 

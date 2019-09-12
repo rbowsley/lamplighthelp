@@ -1,4 +1,4 @@
-# 7.1.2 {{Work}} Records: Adding Attendance Details
+# 7.1.2  <i class="fas fa-hammer"></i>  {{Work}} Records: Adding Attendance Details
 
 > The attendance tab stores who was at the {{work}} session
 

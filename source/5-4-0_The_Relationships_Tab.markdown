@@ -1,4 +1,4 @@
-# 5.4.0 The Relationships Tab
+# 5.4.0 <i class="fa fa-user"></i> The Relationships Tab
 
 > Relationships link different {{people}} and {{org}}s in {{Lamplight}}
 

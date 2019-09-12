@@ -1,4 +1,4 @@
-# 6.1.1    {{Referral}}s: When and Where
+# 6.1.1  <i class="fa fa-redo-alt"></i> {{Referral}}s: When and Where
 
 > The 'When and where' tab stores information about when and where the {{referral}} happened.
 

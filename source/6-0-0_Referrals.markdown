@@ -1,4 +1,4 @@
-# 6.0.0 {{Referral}}s
+# 6.0.0 <i class="fa fa-redo-alt"></i> {{Referral}}s
 
 > {{Referral}}s records contain the detail of the {{referral}}s your {{user}}s are involved in.
 

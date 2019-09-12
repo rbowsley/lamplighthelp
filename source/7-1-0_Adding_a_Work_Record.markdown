@@ -1,4 +1,4 @@
-# 7.1.0 Adding a {{Work}} Record
+# 7.1.0 <i class="fas fa-hammer"></i> Adding a {{Work}} Record
 
 > It is possible to add {{work}} records from the main menu, as well as from a profile
 

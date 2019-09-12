@@ -1,4 +1,4 @@
-# 7.1.3    Adding New {{People}} to the Database from Within a {{Work}} Record
+# 7.1.3 <i class="fas fa-hammer"></i> Adding New {{People}} to the Database from Within a {{Work}} Record
 
 > If you have new people attending a {{work}} session who do not yet have a profile in {{Lamplight}}, you can add them to the system  while creating the {{work}} record
 

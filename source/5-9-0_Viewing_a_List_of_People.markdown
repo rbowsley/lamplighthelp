@@ -1,4 +1,4 @@
-# 5.9.0 Viewing a List of {{People}}
+# 5.9.0 <i class="fa fa-user"></i> Viewing a List of {{People}}
 
 > Use the '{{people}}' menu to view lists of {{people}} on the system
 

@@ -1,4 +1,4 @@
-# 7.1.4 {{Work}} Record: the 'Details' Tab
+# 7.1.4 <i class="fas fa-hammer"></i> {{Work}} Record: the 'Details' Tab
 
 > The 'Details' tab is a place where you can add a text summary and notes of the session
 

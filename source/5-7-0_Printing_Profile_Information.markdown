@@ -1,4 +1,4 @@
-# 5.7.0 Printing Profile Information
+# 5.7.0 <i class="fa fa-user"></i> Printing Profile Information
 
 > You can choose to print information from individual profiles of a {{group}} of profiles
 
@@ -26,7 +26,7 @@ It is possible to print profile information for specific profiles. This can be d
 ### To Print Details of Multiple Profiles
 
 - It is possible to use a {{group}} to print details from a number of profiles in one document. 
-- Create a {{group}} containing the {{people}} or {{org}}s you need (for more on creating groups see [11.0.0 {{Group}}s](/help/index/p/11.0.0)).
+- Create a {{group}} containing the {{people}} or {{org}}s you need (for more on creating groups see [11.0.0 {{Group}}s](/help/index/p/12.0.0)).
 - Once it has been set up, go to '{{group}}s -> view -> view all' and find it in the list.
 - Either right-click on the {{group}} or left-click on the menu button to the left of it. 
 - Choose 'print' from the context menu.

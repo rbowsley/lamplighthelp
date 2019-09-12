@@ -1,6 +1,6 @@
-# 7.2.2 View Full Details of a {{Work}} Record
+# 7.2.2  <i class="fas fa-hammer"></i> View Full Details of a {{Work}} Record
 
-> Choosing to 'View full details' will show you all the information you entered in a {{Work}} record including when it happened, where, who was there
+> Choosing to 'View full details' will show you all the information you entered in a {{Work}} record including when it happened, where, and who was there
 
 
 
@@ -9,7 +9,8 @@ To view all details of a {{work}} record:
 - Find it in the table on the {{Work}} records tab (for more on this see [7.2.0 Viewing {{Work}} Records for an Individual](/help/index/p/7.2.0).
 - Right click on it in the table, or click on the context menu button to the left. 
 - From the pop-up menu, choose 'view full details'. 
-- A popup window will appear displaying the full record. 
+
+A popup window will appear displaying the full record. 
 
 ![View Full Details](7.2.2a.png)
 

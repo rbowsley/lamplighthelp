@@ -1,4 +1,4 @@
-# 6.1.0 Adding a {{Referral}} Record
+# 6.1.0 <i class="fa fa-redo-alt"></i> Adding a {{Referral}} Record
 
 > {{Referral}} records can be added to a {{person}} or {{org}}'s records either in their profile or through the main menu bar
 

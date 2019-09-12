@@ -1,4 +1,4 @@
-# 6.2.0    {{Referral}}s Tab: Viewing Records for a Particular {{Person}} or {{Org}}
+# 6.2.0  <i class="fa fa-redo-alt"></i>  {{Referral}}s Tab: Viewing Records for a Particular {{Person}} or {{Org}}
 
 > You can find details of all the {{referral}}s a particular {{person}} or {{org}} has been involved in by clicking the '{{Referral}}s tab in their profile
 

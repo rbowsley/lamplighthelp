@@ -1,4 +1,4 @@
-# 5.0.0 {{People}} and {{Org}}s
+# 5.0.0 <i class="fa fa-user"></i> {{People}} and {{Org}}s
 
 > {{Lamplight}} stores details of {{people}} and {{org}}s. Each of these can be of various types and have different roles: this section explains the differences and how they can be used
 
@@ -30,7 +30,7 @@ The customisation of your system means that some of the descriptions below may b
 - **{{Volunteer}}s** are individuals who volunteer with your organisation.
 - **{{Funder}}s** are the individuals or organisations that fund you or to whom you would like to apply for funding.
 
-See section [5.2.0  Adding a profile](/help/index/p/5.2.0) to see how to add a new {{person}}. System administrators can turn off profile types if needed - see [section 16.12.1](/help/index/p/16.12.1) for more information.
+See section [5.2 - Adding a profile](/help/index/p/5.2.0) to see how to add a new {{person}}. System administrators can turn off profile types if needed - see [section 16.12.1](/help/index/p/16.12.1) for more information.
 
 
 ##### Tags

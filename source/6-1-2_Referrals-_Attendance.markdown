@@ -1,4 +1,4 @@
-# 6.1.2 {{Referral}}s: Attendance
+# 6.1.2 <i class="fa fa-redo-alt"></i> {{Referral}}s: Attendance
 
 > The attendance tab is a place to record details of the {{people}} and {{org}}s involved in the {{referral}}
 

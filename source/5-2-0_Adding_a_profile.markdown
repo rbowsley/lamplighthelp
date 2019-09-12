@@ -1,4 +1,4 @@
-# 5.2.0 Adding a Profile
+# 5.2.0 <i class="fa fa-user"></i> Adding a Profile
 
 > To add a new profile for a {{person}} or {{org}}, click '{{people}} -> add new' on the main menu
 
