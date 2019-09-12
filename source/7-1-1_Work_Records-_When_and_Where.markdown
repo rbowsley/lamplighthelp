@@ -23,7 +23,7 @@ If locations are activated in your system, you will find them below {{workarea}}
 ### Custom Fields
 There may be other custom fields on this page which are specific to your system. If you are unsure how to complete these, please ask your System Administrator.
 
-If you'd like to see how this works in practice, you can view our video 'Creating a Work Record.'
+If you'd like to see how this works in practice, you can view our video ['Creating a Work Record'](/help/index/p/51.4.1).
 
 <iframe src="https://player.vimeo.com/video/279240510" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

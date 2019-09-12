@@ -29,7 +29,7 @@ You may also see tabs that relate to modules your organisation has opted to add 
 
 When you have added all information, click the 'save' button in the bottom right. 
 
-To see how to create a new {{work}} record in action, why not watch our 'Creating a Work Record' video?
+To see how to create a new {{work}} record in action, why not watch our ['Creating a Work Record'](/help/index/p/51.4.1) video?
 
 <iframe src="https://player.vimeo.com/video/279240510" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
