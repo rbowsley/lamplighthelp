@@ -23,7 +23,7 @@ The first tab that you come to when creating a {{referral}} record is the 'When 
 - You can select one of these if it is relevant to your {{referral}}/organisation.
 
 
-If you want to see how this works in practice, you can watch our video, 'Creating a {{Referral}}.' 
+If you want to see how this works in practice, you can watch our video, ['Creating a {{Referral}}'](/help/index/p/51.3.1).
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/281971195" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 

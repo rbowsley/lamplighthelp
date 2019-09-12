@@ -1,4 +1,4 @@
-# 6.2.0    {{Referral}s Tab: Viewing Records for a Particular {{Person}} or {{Org}}
+# 6.2.0    {{Referral}}s Tab: Viewing Records for a Particular {{Person}} or {{Org}}
 
 > You can find details of all the {{referral}}s a particular {{person}} or {{org}} has been involved in by clicking the '{{Referral}}s tab in their profile
 
@@ -22,7 +22,7 @@ To view a {{referral}} record right click on the row in the table showing the {{
 - Edit. If you need to change any details in this record, opening it to edit will allow you to do this. The record will be shown in the same format as if you were entering a new one. 
 - Delete. Managers and System Administrators can delete {{referral}} records from the system. **If you do this they cannot be retrieved**.
 - If you have, the {{Comm}}s Module, you will see the option to 'Communicate' This would open up a new {{comm}}s record which is already set up to send to all those in the attendance table of the {{referral}}.
-- If you use {{linked case}}s in your system, you will also see various {{linked case}} options on this menu. For more on {{linked case}}s, see [9.0.0 {{Linked Case}}s](/help/index/p/9.0.0)>. 
+- If you use {{linked case}}s in your system, you will also see various {{linked case}} options on this menu. For more on {{linked case}}s, see [9.0.0 {{Linked Case}}s](/help/index/p/9.0.0). 
 
 
 ###### core module

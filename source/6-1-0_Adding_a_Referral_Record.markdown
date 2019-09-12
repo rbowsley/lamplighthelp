@@ -17,7 +17,7 @@ The record is split up into three tabs:
 
 When you have added all the information that you need to the record, click 'save' in the bottom right of any page. 
 
-You may also be interested in our video, 'Creating a {{Referral}}.'
+You may also be interested in our video, ['Creating a {{Referral}}'](/help/index/p/51.3.1).
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/281971195" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
