@@ -4,7 +4,7 @@
 
 
 
-The first steps to getting started in {{Lamplight}} are to understand some of the key terms used, and know how to log in and choosing a strong password. 
+This section helps you with your first steps to getting started in {{Lamplight}}.  You'll need to understand some of the [concepts and key terms](/help/index/p/2.1.0) used, and know how to [log in](/help/index/p/2.2.0) and [choose a strong password](/help/index/p/2.2.2). 
 
 
 ##### Tags
