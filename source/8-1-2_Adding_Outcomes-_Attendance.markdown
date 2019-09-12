@@ -1,4 +1,4 @@
-# 8.1.2 Adding {{Outcome}}s: Attendance
+# 8.1.2 <i class="fas fa-trophy"></i> Adding {{Outcome}}s: Attendance
 
 > The 'Attendance' or 'Respondent' tab is where you enter details of who the {{outcome}}(s) involve
 
@@ -16,7 +16,7 @@ To add {{people}} to the record:
 
 ![Adding attendees](76a.png)
 
-- If {{Lamplight}} does not find the person, please check that they have a profile in the system. It may be possible to add the person to your system at this point. For more on this see [8.1.3 Adding Outcomes: Adding a New Person](/help/index/p/8.1.3).
+If {{Lamplight}} does not find the person, please check that they have a profile in the system. It may be possible to add the person to your system at this point. For more on this see [8.1.3 Adding Outcomes: Adding a New Person](/help/index/p/8.1.3).
 
 
 You can also add members of a {{group}} in bulk: 
@@ -35,7 +35,7 @@ Some systems will use the simple attendance table, which is differentiated by th
 
 ![Adding indiviuals to a 'Simple' attendance table in an {{outcome}} record](1209a.png)
 
-To see a demonstration of adding an {{outcome}}, see our video below.
+To see a demonstration of adding an {{outcome}}, [see our video below](/help/index/p/15.5.1).
 
 <iframe src="https://player.vimeo.com/video/282332458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

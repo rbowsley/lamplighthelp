@@ -1,4 +1,4 @@
-# 8.2.0 Viewing {{Outcome}}s Records for a Particular Person: The {{Outcome}}s Tab
+# 8.2.0  <i class="fas fa-trophy"></i> Viewing {{Outcome}}s Records for a Particular Person: The {{Outcome}}s Tab
 
 > The '{{Outcome}}s' tab in a {{person}}'s profile is where you can see the change they've experienced over time
 
@@ -60,22 +60,22 @@ Right clicking on a row of the {{outcome}} table will give you a range of option
 
 ![{{Outcome}}s tab on a profile - context menu](50b.png)
 
-- View full details - opens the {{outcome}} record on one page so that you can view the details.
-- Edit - opens the data entry window where you can edit the details of the {{outcome}}. (See section [8.1.0  Adding {{Outcome}}s](/help/index/p/8.1.0)).
-- Delete - removes the {{outcome}} from the system. It will still be possible to find it in the {{outcome}}s table (for more on this see [8.3.0 Viewing All {{Outcome}s Records](/help/index/p/8.3.0), but it will not show in reports or data views.
+- **View full details** - opens the {{outcome}} record on one page so that you can view the details.
+- **Edit** - opens the data entry window where you can edit the details of the {{outcome}}. (See section [8.1.0  Adding {{Outcome}}s](/help/index/p/8.1.0)).
+- **Delete** - removes the {{outcome}} from the system. It will still be possible to find it in the {{outcome}}s table (for more on this see [8.3.0 Viewing All {{Outcome}s Records](/help/index/p/8.3.0), but it will not show in reports or data views.
 
 If you use {{linked case}}s in your system, there more options (See section [9.0.0  {{Linked case}}s](/help/index/p/9.0.0) for more on {{linked case}}s):
 
-- Link to {{linked case}} - allows you to add this {{outcome}} to a {{linked case}}. 
-- Remove link to {{linked case}} - means you can remove this {{outcome}} from a {{linked case}}.
-- Close {{linked case}} - flags the {{linked case}} as closed.
-- Re open {{linked case}} - will open a {{linked case}} that has previously been closed. 
-- View {{linked case}} details - takes you to a screen to see the details of the {{linked case}}.
-- Edit {{linked case}} allows you to edit the details of the {{linked case}} itself.
+- **Link to {{linked case}}** - allows you to add this {{outcome}} to a {{linked case}}. 
+- **Remove link to {{linked case}}** - means you can remove this {{outcome}} from a {{linked case}}.
+- **Close {{linked case}}** - flags the {{linked case}} as closed.
+- **Re open {{linked case}}** - will open a {{linked case}} that has previously been closed. 
+- **View {{linked case}} details** - takes you to a screen to see the details of the {{linked case}}.
+- **Edit {{linked case}}** allows you to edit the details of the {{linked case}} itself.
 
-If you have the Communications Module you will also see:
+If you have the {{Comm}}s Module you will also see:
 
-- {{Comm}} - opens ups a {{comm}}s record with the recipients already added to match the attendees of the {{outcome}} record.
+- **Communicate** - opens ups a {{comm}}s record with the recipients already added to match the attendees of the {{outcome}} record.
 
 For more on {{outcome}}s, see our video.
 

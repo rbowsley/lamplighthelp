@@ -1,4 +1,4 @@
-# 8.4.0 Searching for {{Outcome}} Records
+# 8.4.0  <i class="fas fa-trophy"></i> Searching for {{Outcome}} Records
 
 > You can do a free text search for {{outcome}} records using the search bar at the top of the screen
 

@@ -1,4 +1,4 @@
-# 8.1.5 Adding {{Outcome}}s from the Radar Chart
+# 8.1.5 <i class="fas fa-trophy"></i> Adding {{Outcome}}s from the Radar Chart
 
 > It is possible to add {{outcome}} scores directly in the radar chart in an individual's profile
 
@@ -12,12 +12,12 @@ You can add {{outcome}} scores directly to the radar chart in the '{{Outcome}}s'
 
 ![Mode in the {{Outcome}}s Tab](8.1.5a.png)
 
-- This opens up a new box where you can enter in more details.
+This opens up a new box where you can enter in more details.
 
 ![Details for Outcome Entry on Radar Chart](8.1.5b.png)
 
 - Fill in the date that the {{outcome}} was measured, and the {{workarea}} that it relates to.
-- Underneath that, use the boxed for each measure to add the score.
+- Underneath that, use the boxes for each measure to add the score.
 - At the bottom of the box, click 'save'.
 - Alternatively you can click on the values on the radar chart itself to add scores. You still need to click 'save' at the bottom of the list of scores in the middle box when you have finished.
 
