@@ -6,6 +6,8 @@
 
 {{Lamplight}} allows you to add as many tabs and fields as you need to in order to record your information. Custom tabs are unique to your organisation, and contain information that your organisation needs for its work and reporting. 
 
+To add or edit information in custom tabs, click the 'edit' button on the right-hand side of the tab, complete the information, and click the 'save' button at the bottom of the page.  You can also edit single fields by double-clicking on the existing value.
+
 There are a number of different types of field:
 - Select box - select a single option from the list of options.
 - Multi-select box - select as many options as apply. To select several options, hold the Ctrl key down and click all the options you need. If you need to deselect an option, hold down the Ctrl key and click on it again. 
@@ -23,7 +25,7 @@ If the option you need is not there, speak to your System Administrator about wh
 
 You can edit a number of the fields in each tab at the same time. To do this, click on 'Edit tab' to the right of the page. Click on 'Save' at the bottom right of the page when you have finished. 
 
-If you would like a demonstration of how this works, you can watch our 'Custom Tabs and Fields in Profiles' video. 
+If you would like a demonstration of how this works, you can watch our ['Custom Tabs and Fields in Profiles' video](/help/index/p/51.2.3). 
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279238902" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 

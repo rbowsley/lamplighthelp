@@ -35,7 +35,7 @@ To edit an existing relationship:
 
 ![relationships context](5.4.0b.png) 
 
-- You can:
+You can:
   - Move into the linked {{person}}'s profile by clicking 'view full details'.
   - Edit the relationship link.
   - Reverse the relationship. Relationships in {{Lamplight}} can be two way, for example you could have a Mentor (Mentee) relationship type. This would mean that one {{person}} is the mentor, and the other the mentee. (The actual relationship types that you have will be specific to your system). If the relationship is added the wrong way round, so in this instance the 'Mentor' would be showing as the 'Mentee' and vice versa, you can choose 'Reverse' to put this right.
@@ -56,7 +56,7 @@ The 'Since' column will show you when the relationship was started, and the 'To'
 
 Click the 'View current' button on the right to return to the normal view.
 
-You can see how this works in our 'Relationships' video.
+You can see how this works in our ['Relationships' video](/help/index/p/51.2.4).
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279238968" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 

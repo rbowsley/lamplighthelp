@@ -30,7 +30,7 @@ The customisation of your system means that some of the descriptions below may b
 - **{{Volunteer}}s** are individuals who volunteer with your organisation.
 - **{{Funder}}s** are the individuals or organisations that fund you or to whom you would like to apply for funding.
 
-See section [5.2.0  Adding a profile](/help/index/p/5.2.0) to see how to add a new {{person}}. 
+See section [5.2.0  Adding a profile](/help/index/p/5.2.0) to see how to add a new {{person}}. System administrators can turn off profile types if needed - see [section 16.12.1](/help/index/p/16.12.1) for more information.
 
 
 ##### Tags

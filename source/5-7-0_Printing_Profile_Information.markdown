@@ -5,7 +5,7 @@
 
 
 
-It is possible to print profile information for specific parofiles. This can be done to pdf or to a printer. 
+It is possible to print profile information for specific profiles. This can be done to pdf or to a printer. 
 
 ### To Print Details of a Single Profile
 
@@ -32,6 +32,7 @@ It is possible to print profile information for specific parofiles. This can be 
 - Choose 'print' from the context menu.
 - This opens up the same print menu as for the individual profile, above. You can select which sections of the profiles you would like to print from here.
 
+Be warned that if you do this for a large {{list}} it will take some time and may slow down Lamplight, as it has to load all information from all tabs for all the profiles in the {{list}}.
 
 ##### Tags
 Data protection

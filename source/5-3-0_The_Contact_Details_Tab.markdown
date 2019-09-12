@@ -31,7 +31,8 @@ You can also edit just one field in the contact details:
 
 ![Contact Details Single Field](5.3.0c.png)
 
-### When editing a single field, do not click into another field before you have saved your changes, as this will cause the system to hang. If this happens, click on the 'Contact details' tab at the top of the page again, then re-enter your changes.
+**When editing a single field, do not click into another field before you have saved your changes**, as this will cause the system to hang. If this happens, click on the 'Contact details' tab at the top of the page again, then re-enter your changes.
+
 ### Contact Permissions
 
 This is the second section on the 'Contact details' tab. It shows whether the {{person}} or {{org}} has given permission to contact them. You can edit this section by clicking the 'Edit contact details' button on the right, then saving any changes that you make.
@@ -40,7 +41,7 @@ This is the second section on the 'Contact details' tab. It shows whether the {{
 
 When a new profile is created in {{Lamplight}}, it will have been given a role. This could be {{user}} or {{staff}}, for example. To change the role that a {{person}} or {{org}} has on your system, or to add another role to their profile, clikc on the 'Edit roles' button to the right. Once you have finished editing, click 'Save'.
 
-To see how this works, you can view our video, 'The Contact Details Tab'.
+To see how this works, you can view our video, ['The Contact Details Tab'](/help/index/p/51.2.2)
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279238850" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
