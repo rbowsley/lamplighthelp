@@ -15,16 +15,14 @@ It is possible to edit and delete existing {{eval}}s in {{Lamplight}}, but there
 
 {{Eval}}s are edited in the same section of system admin as they were created in.
 
-**Editing the {{Eval}} Name**
-
+### Editing the {{Eval}} Name
 - Select the {{eval}} you wish to edit in the left column.
 - Double-click the non-bold text ‘{{Eval}} title’ in the middle column.
 - Change the name of the {{eval}} at the top of the dialogue box.
 - If you have more than one project, choose which this {{eval}} applies to.
 - Click the ‘save’ button.
 
-**Editing or Deleting a Field or Field Option**
-
+### Editing or Deleting a Field or Field Option
 - Select the {{eval}} in the left-hand column.
 - Select the field in the middle column.
 - Double-click the non-bold text ‘Question’ in the right-hand column. This opens a dialogue box in which the field name and type can be changed.

@@ -20,7 +20,7 @@
 
 ![Cutsom Tabs Page](16.7.2a.png)
 
-**To Add a New Tab**
+### To Add a New Tab
    
 - In the first box on the left-hand side, click on the button marked click to add.
 
@@ -41,8 +41,7 @@
 
 ![New Tab Details](16.7.2d.png)
 
-**Whenever you create a new tab it is essential to add at least one field immediately, even if you later remove it. If you do not do this the tab will save, so it will show in the profile, but you will not be able to edit or delete it in system admin.**
-
+### Whenever you create a new tab it is essential to add at least one field immediately, even if you later remove it. If you do not do this the tab will save, so it will show in the profile, but you will not be able to edit or delete it in system admin.
 
  **Adding Fields (the Middle Column)**
    
@@ -69,7 +68,7 @@ When you click on a tab in the left-hand column, the middle column will show you
   
  ![New Field in Tab](16.7.2g.png) 
    
-**Setting Options**
+### Setting Options
    
 - In the right column, you’ll now see the options for your field.  (If not, click on the field name - the grey button in the middle column.)
 - This text in the right column will show you the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see.  
@@ -85,8 +84,7 @@ When you click on a tab in the left-hand column, the middle column will show you
 
 Repeat this process until you have added all the tabs, fields and options that you require.
 
-**Linked Fields**
-
+### Linked Fields
 You may want to link fields together so that you can enter multiple records under a single field (for more on this see [16.7.1 Custom Fields in Profiles](/help/index/p/16.7.1)). Remember, if you do this you will not be able to use the data in the linked fields for reporting, creating {{group}}s or {{group}} data views. This is most suitable for historic information you need to hold but do not need to report on, such as previous addresses.
 
 - Create the fields you wish to link on the same tab, and make sure that they are next to one another in the correct order. 

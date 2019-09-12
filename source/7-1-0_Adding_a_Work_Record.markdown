@@ -4,12 +4,10 @@
 
 
 
-**To Add a {{Work}} Record from the Main Menu**
-
+### To Add a {{Work}} Record from the Main Menu
 - Go to {{Activity}} -> Add new -> {{Work}} on the main menu. 
 
-**To Add a {{Work}} Record from a Profile**
-
+### To Add a {{Work}} Record from a Profile
 - Find the profile of a {{person}} or {{org}} who will be involved in this session.
 - Open their '{{work}}' tab.
 - On the right of this tab, click 'Add'.

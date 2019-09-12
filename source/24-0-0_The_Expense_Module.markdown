@@ -6,8 +6,7 @@
 
 This module will enable you to allocate the cost of staff and other resources so that you can calculate what your different services costs.
 
-**Costing**
-
+### Costing
 You can track different types of cost:
 - by {{workarea}} (perhaps your training course).
 - locations used.

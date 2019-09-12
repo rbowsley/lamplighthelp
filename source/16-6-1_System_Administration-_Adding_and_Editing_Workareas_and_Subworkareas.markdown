@@ -35,15 +35,13 @@
 
 [Adding Colour to a {{Workarea}}](16.6.1b.png)
  
-**Editing {{Workarea}}s**
-
+### Editing {{Workarea}}s
 Before editing or deleting {{workarea}}s please see the notes above. As a general rule, you should only change the name of the {{workarea}} if the meaning is staying the same, for example due to a spelling error or a re-brand. 
 
 - Find the text that you need to edit and double-click on it.  
 - Make the changes then press enter on your keyboard to save.
 
-**Deleting a {{Workarea}} or {{Subworkarea}}**
-
+### Deleting a {{Workarea}} or {{Subworkarea}}
 Before you delete a {{workarea}} or {{subworkarea}} see 'Things to Consider' above. 
 
 You can delete a whole {{workarea}} with all its related {{subworkarea}}s in one go, or choose single {{subworkarea}}s.

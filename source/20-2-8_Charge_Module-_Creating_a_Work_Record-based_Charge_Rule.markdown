@@ -18,8 +18,7 @@ Each of these charges is applied to everyone in full. This means that if you are
 - Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields. (It's likely that you will want to tick the 'Should previous rules apply if there is no match using this rule?' box.) 
 
 
-**{{Workarea}}s and {{Subworkarea}}s**
-
+### {{Workarea}}s and {{Subworkarea}}s
 - First enter any rates for {{workarea}}s and {{subworkarea}}s. 
    - If you choose £ in the drop-down, a fixed charge will be used regardless of previous rules in the policy or the duration of the {{work}} record. 
    - Choosing a percentage will calculate a percentage of the amount calculated by previous rules in the policy. 
@@ -28,13 +27,11 @@ Each of these charges is applied to everyone in full. This means that if you are
    - If this is a 'base' rule that will appear first or second in policies, it will be fine to leave some blank, particularly {{subworkarea}}s. 
    - If this is a 'supplement' type rule - adding on to our basic rates set in another rule - then you will either want to tick the 'should previous rules apply' box, or enter 100% to all entries which you'd otherwise leave blank. 
 
-**{{Staff}} and {{Volunteer}} Rates**
-
+### {{Staff}} and {{Volunteer}} Rates
 - The {{staff}} section can use information from staff contracts, if the staffing module has been enabled on your system. If it is, then you are able to use either their 'wage' rates, or their 'charge-out' rates. {{Lamplight}} will use the contract in force on the date of the {{work}} record. These hourly rates will then be multipled by the duration of the {{work}} record, for each member of staff attending - note that they need to be recorded as attendance type 'attended' and role 'staff' on the {{work}} record. 
 - If you do not wish to use these rates, you can also either specify an hourly rate or a fixed rate (regardless of {{work}} record duration). These rates will be applied for each member of staff shown as attending in the {{work}} record attendance table. Choose which of these you want to apply from the drop-down menu, then fill in the rate in the box below.
 
-**Location Rates**
-
+### Location Rates
 - Location rates use information set up in the 'locations' list in system administration. 
    - To add and edit locations go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists -> Work Records -> Locations'. 
    - Find the relevant location in the list and click on 'add contact details'. 

@@ -23,15 +23,13 @@ To run a {{linked case}} {{report}}:
 
 ![{{Linked Case}} {{Report}} Presentation](13.6.0b.png)
 
-**How Should Dates Be Handled?**
-
+### How Should Dates Be Handled?
 {{Linked case}}s involve a start and end date for each one, so you can choose here how you want {{Lamplight}} to handle your date filters on the first page. These options are additional filters, which will narrow down your results.
 - Include {{linked case}}s that were open during the period. When you choose this option, {{Lamplight}} will include data on {{linked case}}s that were open at any point between your 'Date from' and 'Date to' on the first tab. It does not matter whether they were open the whole time, opened half way through, or closed before the end of the period specified.
 - Include only {{linked case}}s that were opened during the period. This will filter out {{linked case}}s that were already open before your 'Date from', even if they were open during the time you specified.
 - Include only {{linked case}}s that were closed during the period. When you choose this option, {{Lamplight}} includes {{linked case}}s which were closed in your time period, regardless of then they were opened. They could have been opened before the 'Date from', or they could also have been opened between your 'Date from' and 'Date to'.
 
-**How Should Rows Be Grouped?**
-
+### How Should Rows Be Grouped?
 - The options in this drop-down come from your {{linked case}} categories as well as profile information. 
 - If you choose one of these, {{Lamplight}} will display the information in additional table rows.  In the example below, we chose our custom 'Hair colour' field.
 
@@ -40,8 +38,7 @@ To run a {{linked case}} {{report}}:
 
 ### The {{Report}} Results
 
-**Aggregated {{Linked Case}} {{Report}}**
-
+### Aggregated {{Linked Case}} {{Report}}
 If you run a {{report}} which collates your {{linked case}} data across the timescale that you have chosen, it will show you:
 
 ![{{Linked Case}} {{Report}} table](13.6.0d.png)
@@ -51,8 +48,7 @@ If you run a {{report}} which collates your {{linked case}} data across the time
 - Number of {{linked case}}s that were closed during the period.
 - Number of {{activity}} records (including {{work}}, {{referral}}, {{outcome}} etc.) attached to any of the {{linked case}}s.
 
-**Individual {{Linked Case}} {{Report}}**
-
+### Individual {{Linked Case}} {{Report}}
 If you choose to group your rows 'by {{linked case}}' in the '{{Report}} Presentation' tab, then the table will show each {{linked case}} that fits your filter criteria in a separate row. The report below is for {{linked case}}s which were opened between 1st January and 30th April 2019.
 
 ![{{Linked Case}} {{Report}} table](13.6.0e.png)

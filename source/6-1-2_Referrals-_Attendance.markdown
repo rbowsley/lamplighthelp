@@ -13,8 +13,7 @@ If the tab on your {{referral}} record shows as 'Attendance', you can include as
 
 ![Adding {{referral}} {{people}}](194a.png)
 
-**Adding Attendees**
-
+### Adding Attendees
 To add additional attendees:
 - Start typing their name in the 'search' box. 
 - When you have typed at least three letters, a drop-down menu will appear showing potential matches. 
@@ -23,8 +22,7 @@ To add additional attendees:
 
 ![Adding additional {{referral}} {{people}}](194b.png)
 
-**Altering Role and Attendance Type**
-
+### Altering Role and Attendance Type
 To alter the attendance type or role for a particular person (e.g. from 'Attended' to 'For reference', for example):
 - Click on the table cell where that information is showing. 
 - A drop-down box will appear. 
@@ -37,16 +35,13 @@ In the case of {{referral}}s, there are additional roles that may be relevant an
 - 'Referred to' (the member of {{staff}} who accepted the {{referral}}). 
 - 'Service {{user}} referred' (the actual {{person}}that was referred). 
 
-**Adding Notes**
-
+### Adding Notes
 There is also the option to add any further notes concerning the attendees. Click in the notes box along from their name to add further detail. 
 
-**Removing Someone from the Table**
-
+### Removing Someone from the Table
 To remove someone added in error, click the delete box - the right-hand table cell of the row you wish to delete. This will check and then remove them from the table (not the database). 
 
-**Unknown Attendees**
-
+### Unknown Attendees
 Although it's unlikely to be relevant in {{referral}}s, you can also add the number of {{people}} that attended who are unknown to you: a large public event, for example. Just add the number of people in the final field 'Number of unknown attendees'. 
 
 ### Involving

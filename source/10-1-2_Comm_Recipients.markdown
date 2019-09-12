@@ -4,8 +4,7 @@
 
 
 
-**Adding Recipients**
-
+### Adding Recipients
 In the 'Recipients' tab: 
 
 - Use the 'search' box at the top of the page to look for individuals or {{group}}s.
@@ -13,8 +12,7 @@ In the 'Recipients' tab:
 - If adding a {{group}}, all current members will be added to the table. 
 - If anyone has opted out of the type of communication that you are setting up, their contact details will not appear in the table and 
 
-**Mail Merge Options**
-
+### Mail Merge Options
 The 'Mail merge options' section refers to linked profiles. These are not switched on in all systems, but if they are in yours you will see names linked to other names when you type in the search box. For example, you might see 'Lamplight Database Systems Ltd, Matthew Parker'. This means that the 'Lamplight Database Systems Ltd' is linked to 'Matthew Parker'.   
 
 ![Adding recipients to a {{comm}}](85a.png)

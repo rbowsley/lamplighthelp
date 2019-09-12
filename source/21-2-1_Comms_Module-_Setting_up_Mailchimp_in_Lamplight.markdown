@@ -15,8 +15,7 @@ The first thing that you will need to do is set up a Mailchimp account. Please m
 
 Your API key is similar to (but not the same as) a username and password that one computer program uses to identify itself to another, and this is what is used to link {{Lamplight}} to Mailchimp. 
 
-**Finding the API Key in Mailchimp**
-
+### Finding the API Key in Mailchimp
 - Click on your name in the top right of the Mailchimp screen.
 - Select ‘account’ from the drop-down menu.
 - Choose ‘Extras’, and ‘API keys’. 
@@ -28,8 +27,7 @@ Your API key is similar to (but not the same as) a username and password that on
 
 ![MailChimp API](225a.PNG)
 
-**Entering the APE Key in {{Lamplight}}**
-
+### Entering the APE Key in {{Lamplight}}
 - From the main Lamplight menu, choose ‘admin -> system administration’.  
 - Under the 'Customise {{Lamplight}}' section, choose ‘Change global settings’.
 - Once this page is open, click on the ‘Communications’ tab at the top.  

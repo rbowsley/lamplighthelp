@@ -46,8 +46,7 @@ With the publishing module:
 
 Columns can be in any order, and need not be included if they won’t contain any data. Additional columns for custom fields can be added to this list. 
 
-**Formatting Tips**
-
+### Formatting Tips
 - Fields are case sensitive. Copy them character-for-character, space-for-space, with the same capitalisation (although the system will attempt to guess in cases where there is not an exact match).
 - You can download all the field names and other settings in the System Administration menu to help with this (under 'File Transfer -> Download filed settings for your sytsem).
 - For multi-select fields, separate values with semi-colons (;) but no spaces (e.g. yes;no;not applicable). Values in drop-down type fields must match the options in the system exactly. If the options are ‘male’ and ‘female’ but the .csv contains ‘m’ and ‘f’, the data will not be imported.
@@ -64,16 +63,14 @@ Information can be uploaded to existing profiles. This tends to be more complex 
 
 Lamplight can match uploaded data to existing profiles using the ID field (a unique reference number for each profile in Lamplight). The simplest way to find profile IDs is to use a {{group}} with a {{group}} data view, although you can also find the ID number manually.
 
-**Downloading Names and Profile IDs**
-
+### Downloading Names and Profile IDs
 Create a {{group}} data view showing the profile ID field. Create a {{group}} of the profiles into which data will be imported, and then view it using the {{group}} data view. Ensure that ‘Show All’ records is selected at the top of the table, then click the ‘Download’ link at the bottom and open the file in Excel.
 
 ![Downloading the {{Group}} with a Data View](16.13.1b.png) 
  
 This spreadsheet displays the name and profile ID for each profile, making it easier to match the information to be imported to the appropriate profile ID.
 
-**Adding Profile IDs Manually**
-
+### Adding Profile IDs Manually
 Profile IDs can also be added to the spreadsheet manually. They can be found either using the method above or by opening the profile and moving the cursor over the name at the top.
 
 

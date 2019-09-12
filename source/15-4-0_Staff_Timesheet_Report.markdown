@@ -17,10 +17,10 @@ Information for {{staff}} timesheet {{report}}s is taken from {{work}} and non-c
 
 The {{report}} presentation tab allows you to select how you wish to view the {{report}} data. 
 
-**Split Tables**
+### Split Tables
 - Split tables are a way of separating the data. For example, if you choose to split the data by {{staff}} name then your results will be shown in a separate table for each member of {{staff}}.
 
-**Row and Column Data** 
+### Row and Column Data
 - Row and column data. You can choose which data to show in your rows and columns. For example, the table below shows {{staff}} names in the rows, and months as the columns. The numbers shown are hours. 
 
 ![{{Staff}} Management Module Results](14.4.0a.png)

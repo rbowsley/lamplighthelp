@@ -11,8 +11,7 @@ These tabs contain the filters relating to the information in the profiles of yo
 - The choices here will depend on what is in your individual system, but may include such things as demographic information.  
 - They may not be visible at all if {{Lamplight}} has no custom fields set up. 
 
-**Things to remember when filtering:**
-
+### Things to remember when filtering:
 Date fields:
 
   - On or after: the date you specify will be included.

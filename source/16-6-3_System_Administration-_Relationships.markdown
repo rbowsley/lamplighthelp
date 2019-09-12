@@ -9,8 +9,7 @@ Relationship types are added, edited and deleted in the same way as other drop-d
 To add a new one, or edit an old one: 
 - Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists -> People and Organisations -> Relation types between people'.
 
-**Inverse Text**
-
+### Inverse Text
 Some relationships are reciprocal, with two different sides. For example, a parent and child, or employer and employee. 
 If the relationship that you are adding is like this: 
 - Add the initial relationship.
@@ -19,8 +18,7 @@ If the relationship that you are adding is like this:
 
 [Inverse Text](16.6.3a.png)
 
-**Linked Records**
-
+### Linked Records
 If you decide to link records, then {{people}} or {{org}}s who have this type of relationship can be added to the attendance table of an {{activity}} record linked to each other.
 
 - When you use the search box in the 'Attendance' tab of a record, the name of the {{person}} or {{org}} you are searching for will appear there.

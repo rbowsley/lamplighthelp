@@ -12,8 +12,7 @@ When you are viewing {{activity}} records ({{work}}, {{outcome}}s etc.):
 
 ![9.9.0a The {{Linked Case}} Context Menu](9.9.0a.png)
 
-**Context Menu {{Linked Case}} Options**
-
+### Context Menu {{Linked Case}} Options
 Some of these options will be greyed out so that you can't choose them. For example, if a record is not already linked to a {{linked case}}, then you will not be able to remove one, or close the one it is associated with. Each record can only be attached to one {{linked case}}.
 
 - Link to {{linked case}}: you can link this record to a {{linked case}} if it is not already linked to another one. If it is already linked then the option will be greyed-out. 

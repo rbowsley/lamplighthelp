@@ -6,8 +6,7 @@
 
 Archiving is straightforward and reversable. When a profile is archived it can still be counted in {{report}}s (if the ‘Include archived profiles?’ field is selected on the report filters page, (for more on this see [13.1.1 Report Filters](/help/index/p/13.1.1)). You can also run {{group}}s of archived {{people}} and {{org}}s. The profile itself will not be found if you use the search box at the top of the screen, or search boxes for attendance tables in {{activity}} records.  
 
-**Only database operators with a Manager level of access to {{Lamplight}} or above will be able to archive, find, and unarchive profiles.**
-
+### Only database operators with a Manager level of access to {{Lamplight}} or above will be able to archive, find, and unarchive profiles.
 ### Archiving a Profile
 
 - Find the profile to be archived.

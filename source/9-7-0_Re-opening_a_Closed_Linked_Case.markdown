@@ -4,8 +4,7 @@
 
 
 
-**To Re-open a Closed {{Linked Case}} in the {{Linked Case}} Tab:**
-
+### To Re-open a Closed {{Linked Case}} in the {{Linked Case}} Tab:
 - Click on the case in the list on the left of the page.
 - Scroll down to the table of records linked to that {{linked case}}.
 - Right click on a record in the table. 
@@ -13,8 +12,7 @@
 
 ![Reopen {{Linked Case}}](9.7.0b.png)
 
-**To Re-Open a Closed {{Linked Case}} If You Do Not Have the {{Linked Case}} Tab:**
-
+### To Re-Open a Closed {{Linked Case}} If You Do Not Have the {{Linked Case}} Tab:
 - Find a record already linked to the closed {{linked case}}. This could be in a profile's '{{Work}} records' tab, for example. 
 - If you can't see any {{linked case}} details, right click on the top header bar of the table to show the list of columns available, and tick '{{Linked case}} name'.
 

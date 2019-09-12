@@ -11,8 +11,7 @@ A rule can contain several bands, each based on a {{group}} - you will need to s
 - In the 'turnover' example, you would need one auto {{group}} for each band. The first auto {{group}} would be (for example) 'turnover below £100,000', the second 'turnover between £100,001 and £250,000' and a third 'turnover greater than £250,001'. 
 - When you have created your auto {{group}}s, you can set up the rule. 
 
-**To set up a {{group}}-based charge rule:**
-
+### To set up a {{group}}-based charge rule:
 - Go to 'admin -> system administration -> Module Administration -> Charge Module -> Manage charge module rules and policies'.
 - Click the 'create a new {{group}} bands charge rule' button. 
 - Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields. (It's likely that you will want to tick the 'Should previous rules apply if there is no match using this rule?' box.) 

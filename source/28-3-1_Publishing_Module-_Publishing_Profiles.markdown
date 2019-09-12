@@ -19,7 +19,7 @@ By default, no profiles are published.
    - Whether it is currently published.
    - Whether it can be updated via the Publishing API.
 
-**Publishing Settings**
+### Publishing Settings
 - You will be able to see att the top of the page whether the profile can be shared or not. 
 - If it can be shared, find the field 'Currently published (double click to edit)', and double click over the word 'No' (if it says yes then this profile is already published).
 - Tick the box.
@@ -30,13 +30,11 @@ By default, no profiles are published.
 - Refresh the page by clicking on the 'Publishing' tab at the top again.
 - The profile is now being shared with the public-facing site. 
 
-**Data That's Published**
-
+### Data That's Published
 - The publishing tab within the profile displays the information being shared. 
 - Any alterations to the information being published will need to be done from within the tab where that data sits usually, with the exception of the 'Publish summary' field, which you can double-click to alter and save.
 
-**To Remove Sharing from a Profile**
-
+### To Remove Sharing from a Profile
 - In the 'Publishing' tab, find the field 'Currently published (double click to edit)'.
 - Double click over the word 'Yes'.
 - Untick the box.

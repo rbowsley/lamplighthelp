@@ -31,8 +31,7 @@ You can also edit just one field in the contact details:
 
 ![Contact Details Single Field](5.3.0c.png)
 
-**When editing a single field, do not click into another field before you have saved your changes, as this will cause the system to hang. If this happens, click on the 'Contact details' tab at the top of the page again, then re-enter your changes.**
-
+### When editing a single field, do not click into another field before you have saved your changes, as this will cause the system to hang. If this happens, click on the 'Contact details' tab at the top of the page again, then re-enter your changes.
 ### Contact Permissions
 
 This is the second section on the 'Contact details' tab. It shows whether the {{person}} or {{org}} has given permission to contact them. You can edit this section by clicking the 'Edit contact details' button on the right, then saving any changes that you make.

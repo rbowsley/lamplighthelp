@@ -92,8 +92,7 @@ It is only recommend to use this if you have an understanding of HTML.
 
 ![Edit and Delete Template Options](21.1.1i.png)
 
-**Deleting a template will not affect any {{comm}}s already sent.**
-
+### Deleting a template will not affect any {{comm}}s already sent.
 
 ###### comms module
 

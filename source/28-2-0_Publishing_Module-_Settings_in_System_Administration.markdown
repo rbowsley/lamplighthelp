@@ -6,8 +6,7 @@
 
 Your System Administrator can set the details of information that may be transferred from {{Lamplight}} to the public-facing site that has been granted permission to receive it. This needs to happen before anything can be published from {{Lamplight}}.
 
-**Please note: These settings do not directly publish information, but simply set permissions for what information can be published.**
-
+### Please note: These settings do not directly publish information, but simply set permissions for what information can be published.
 - Go to 'admin -> system administration' and in the 'Module Administration' section towards the bottom you will find the 'Publishing Module' box.
 - Click 'Manage publishing settings'. 
 - In this page are several tabs controlling how publishing works within the system. 

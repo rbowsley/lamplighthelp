@@ -30,8 +30,7 @@ Once you have your participants in the table, you can alter their role or attend
 
 To remove someone added in error, click the delete box - the right-hand table cell of the row you wish to delete. 
 
-**Simple Attendance Table**
-
+### Simple Attendance Table
 Some systems will use the simple attendance table, which is differentiated by the tab being called 'Respondent'.  This follows the same principle, but only gives you the option to add one {{user}} and one member of {{staff}} or {{volunteer}}.  (The simple setting can be selected in Global settings by your system administrator - for more on this see [16.12.2 Global Settings: Data to Store](/help/index/p/16.12.2). 
 
 ![Adding indiviuals to a 'Simple' attendance table in an {{outcome}} record](1209a.png)

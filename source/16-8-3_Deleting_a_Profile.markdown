@@ -17,8 +17,7 @@
 - Once you have chosen how to look for profiles to delete, click 'next'.
 - Tick the names of the profiles that you want to delete at the top of the next page. If it is a long list and you want to delete them all, you can tick the checkbox next to the name at the top of the list, then hold down the shift key on your keyboard, scroll down the list to the last name and tick the checkbox next to the last name. This will automatically select all of the profiles for you.   
 
-**Choosing Which Details to Delete**
-
+### Choosing Which Details to Delete
 - Decide which details to delete. There are a number of options:
   - Name and address only. This will delete these details, but the rest of the profile information and {{activity}} records will remain on the system.
   - Name, address and relationships. As above, but this option will also delete any relationships so that they do not show in profiles.

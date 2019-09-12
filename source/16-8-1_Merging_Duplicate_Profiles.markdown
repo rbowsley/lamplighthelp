@@ -4,8 +4,7 @@
 
 
 
-**To Merge Profiles**
-
+### To Merge Profiles
 - Go to 'admin -> System administration -> Data Management'.
 - Click on  'Find and merge duplicate profiles'.
 - On this page you can choose what criteria you use to find duplicates, whether it's all or part of a profile name or address.

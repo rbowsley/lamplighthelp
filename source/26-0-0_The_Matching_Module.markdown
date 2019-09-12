@@ -12,8 +12,7 @@ This would be a suitable module for those managing:
 - specialist support.
 - personal assistant/caring.
 
-**Module Features**
-
+### Module Features
 Profiles for both parties would be added to Lamplight, with either the requirements or preferences added. Once in place, the matching function searches the system to identify matches in a range of criteria, for example:
 - location.
 - interests.

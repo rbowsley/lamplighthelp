@@ -11,8 +11,7 @@
 You'll need to be a System Administrator to create templates.
 
 
-**To Create a {{Report}} Template**
-
+### To Create a {{Report}} Template
 - Go to 'admin -> system administration -> Templates -> Manage report templates'.
 
 ![System Admin Showing the {{Report}} Templates Section](16.9.0b.png)
@@ -21,8 +20,7 @@ You'll need to be a System Administrator to create templates.
 
 ![{{Work}} {{Report}} Templates](16.9.0c.png)
 
-**Completing the Template**
-
+### Completing the Template
 - We recommend test your planned {{report}} as a one-off from the main menu first to ensure it is has the filters that you want and is showing appropriate data. You can then  recreate it in the {{report}} templates section. This is because when you complete the template it will save without showing you the {{report}} results. For more on running a {{report}}, see [13.1.0 Running {{Report}}s](/help/index/p/13.1.0).
 
 - The first page of the template is where you give the {{report}} a name, and a description, so that staff will know what it is designed to do.  We encourage you to be as specific as possible. 
@@ -48,8 +46,7 @@ You'll need to be a System Administrator to create templates.
 - Once you have set up the filters and presentation, save your {{report}} using the 'save' button at the end of any page.
 - When you use your template to run a {{report}}, you can scroll past all the filters to see the results table at the bottom of the page. However, as all the filters still appear you can also tweak the {{report}}, for example to change the dates slightly, or to show the results in a different way. This will only update the current {{report}} - the template can only be edited through system administration.
 
-**Viewing {{report}} Templates**
-
+### Viewing {{report}} Templates
 {{Report}} templates show on the main menu in a drop-down menu under the {{report}} type.
 
 ![Report Template Drop-Down Menu](16.9.0d.png)

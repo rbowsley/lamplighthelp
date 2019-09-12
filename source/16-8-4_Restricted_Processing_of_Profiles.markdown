@@ -14,16 +14,14 @@ Important things to note about restricted profiles:
 - Restricted profile names will show in the duplicate checker.
 - If you view a restricted profile it will say 'Restricted for Processing' very clearly across the top of the page. 
 
-**To Restrict Processing**
-
+### To Restrict Processing
 - Open the relevant profile.
 - Click the ‘Restrict processing’ button on the top right of the page.
 - Click 'yes' to confirm that you wish to restrict processing. 
 - You will be taken back to the home page.
 
 
-**Viewing Restricted Profiles**
-
+### Viewing Restricted Profiles
 System Administrators can view restricted profiles. 
 
 - Go to '{{people}} -> view -> (choose the type of {{person}} this is, e.g. {{user}}.
@@ -38,8 +36,7 @@ System Administrators can view restricted profiles.
 
 !{Restricted Processing Warning Message](16.8.4b.png)
 
-**Unrestricting a Profile**
-
+### Unrestricting a Profile
 If the restriction needs to be lifted and the data subject has been notified that it will be, you can unrestrict the profile. Only System Admins can do this. 
 
 - Follow the steps above to find the profile you want to unrestrict in the table. 

@@ -6,16 +6,13 @@
 
 If you are sending emails, you will need to complete the email details tab.  
 
-**Subject Line**
-
+### Subject Line
 - Enter the subject line for your email.
 
-**From**
-
+### From
 - This is the address that return emails will be sent to. Your email provider may require this address to match the sender address, so the email might fail to go out if it doesn't. If you are not sure about this, check with your System Administrator or email provider.
 
-**How Do You Want to Send the Emails?**
-
+### How Do You Want to Send the Emails?
 You can choose if each recipient receives an individual email, or whether it is a single email that is copied to recipients. If you are sending to a large number of recipients, and particularly if there are attachments, we strongly recommend that you send a single email, especially if your email provider has limits on the number of emails sent out daily.
 
 - A separate personalised email.  This will send an email in which you can mail merge the names of the recipients and other identifying information into the email.  We strongly recommend you only use this for emails with a smaller number of recipients, or without attachments.

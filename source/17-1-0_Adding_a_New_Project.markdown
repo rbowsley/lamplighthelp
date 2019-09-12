@@ -35,17 +35,14 @@ The normal process to follow would be:
    
 ![Add a New {{Project}} Dialogue Box](17.1.0b.png)
  
-**{{Project}} Name**
-
+### {{Project}} Name
    - Enter the name of the new {{project}} which will distinguish it from any other {{project}}s on your system.  
 
-**Create {{Project}} Profile**
-
+### Create {{Project}} Profile
    - Creating a {{project}} profile will create a new profile in the system with that {{project}} name which will allow you to assign referrals etc to it.
    - If you want to have a blank {{project}} so that you can start entirely from scratch simply leave the rest of the options blank and click save. You’ll have created a new {{project}}.
    
-**Copying Settings**
-
+### Copying Settings
    If you want your new {{project}} to incorporate elements of an existing {{project}} you can choose which one to copy settings and information from. 
    - Use the drop-down to select a {{project}}.
    - Choose which areas to copy across. When you choose an area (for example profile tabs and fields or {{workarea}}s), all of the tabs and fields or {{workarea}}s are copied across (this does not affect any of the data in the original {{project}}).
@@ -61,12 +58,10 @@ Once you’ve set-up your new {{project}}, you may want to adjust some of the sh
       - Grant types.
       - Wards and boroughs.
 
-**Non-Shared Fields**
-
+### Non-Shared Fields
    Some information needs to be manually entered in each {{project}}. As the fields are not copied across they won’t be shared, and can’t be reported on across {{project}}s. If you have a large amount of information to enter you can ask Lamplight to copy it across for you (however, it still will not be linked to the initial {{project}}). This includes case categories, for example.
 
-**Unsharing Fields**
-
+### Unsharing Fields
    You can share or unshare custom fields in profiles and {{activity}} records yourself from the system administration menu.
 
    - Go to the ‘Manage Custom Fields and Drop-down lists’ section. 
@@ -95,8 +90,7 @@ Be sure to distinguish between custom fields in {{outcome}}s, which are extra fi
 
 {{Eval}}s can be managed through the ‘Manage {{eval}}s’ settings (for more on this see [22.1.1 {{Eval}}s Module: Editing and Deleting {{Eval}}s](/help/index/p/21.1.1)).   
 
-**Unsharing Other Fields**
-
+### Unsharing Other Fields
    There are some fields you won’t be able to unshare yourself. If you ask Lamplight, we’ll be happy to help. These include:
    - {{workarea}}s.
    - locations.

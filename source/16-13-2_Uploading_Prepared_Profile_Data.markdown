@@ -4,8 +4,7 @@
 
 
 
-**It is strongly recommended to conduct a test first by uploading a duplicate file with just the first few rows of data.**
-
+### It is strongly recommended to conduct a test first by uploading a duplicate file with just the first few rows of data.
 Profile data can only be uploaded by a database operator with System Administrator or Project Administrator access.
 
 ### Uploading Profile Information

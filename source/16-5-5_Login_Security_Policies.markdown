@@ -6,8 +6,7 @@
 
 Login security policies relate to the IP addresses that {{Lamplight}} can be accessed from, and the times at which it can be accessed. For example, you might have a policy that only allows logging in on weekday mornings, and another that allows logging in from the office network, Monday to Friday. Different database operators can have different login security policies applied.
 
-**Creating a Login Security Policy**
-
+### Creating a Login Security Policy
 - Go to ‘admin -> system administration -> Database Operators and Security -> Set up login security policies’.
 - You will see a screen like this:
 
@@ -19,8 +18,7 @@ Login security policies relate to the IP addresses that {{Lamplight}} can be acc
 - If you have static IP addresses and want to restrict access to Lamplight to the ones you specify, you can enter multiple addresses in the 'Ip addresses to allow access from' box. Each one should be on a different row.  
 - If you want to restrict operator access to specific days and times you can use the boxes underneath (times used are GMT/BST).
 
-**Appying a Login Security Policy**
-
+### Appying a Login Security Policy
 - Go to ‘admin -> system administration -> Database Operators and Security -> Manage database operators'.
 - Find the database operator you want to apply the policy to in the table.
 - Right-click anywhere in their row or left-click the menu button in the left-hand column.

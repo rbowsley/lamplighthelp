@@ -18,8 +18,7 @@ If you have more than one {{project}} on your system you can select which {{proj
 
 The '{{Report}} presentation' tab gives you different ways to show your data and handle the dates in your {{report}}.
 
-**How to Summarise the Data**
-
+### How to Summarise the Data
 You have three options:
 - Show overall statistics for the period. This is the default option, giving you a sense of turnover and total waiting times. It returns  the following data for each {{waiting list}} selected:
   - Number of {{people}} at the start of the period: the number of {{people}} on the {{waiting list}} on the first day in the range specified.
@@ -47,8 +46,7 @@ This section allows you to use the dates you've selected on the '{{Report}} filt
   - {{people}} who were already on the {{waiting list}} before the start date, but left between the two dates.
   - {{people}} who were added between the two dates and left again.
   
-**Row Data**
-
+### Row Data
 If you choose row data, Lamplight will add rows to your results table to show the information by this field. The options you have in the drop-down will depend on the fields in your database. For example, the table below shows the row data by 'gender'. 
 
 ![{{Waiting List}} {{Report}} Rows Gender](14.5.0a.png)

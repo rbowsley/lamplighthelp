@@ -24,8 +24,7 @@ To be able to calculate the staffing cost, first you will need to add each staff
    - The {{staff}} member has been added to the attendance list.
    - The {{staff}} member's attendance type is 'attended' and their role is 'staff'.
 
-**Using Staffing Costs for Reporting**
-
+### Using Staffing Costs for Reporting
 - Run the work report as usual (for more on this see [17.0.0 Reports](/help/index/p/17.0.0).)
 - In the 'Report presentation' tab choose 'Cost data' as your 'Data to show'. 
 
@@ -39,8 +38,7 @@ To be able to calculate the staffing cost, first you will need to add each staff
 
 ![Total Costs Report Column](24.4.0c.png) 
 
-**Viewing Costs for Individual Records**
-
+### Viewing Costs for Individual Records
 - Go to '{{activity}} -> view -> {{work}}' (or other type of {{activity}} record as necessary).
 - Right-click on the coloured header bar at the top of the table. This will give you a list of the available columns for the table. 
 - Click  'Total cost'. This adds the cost column to your table. 

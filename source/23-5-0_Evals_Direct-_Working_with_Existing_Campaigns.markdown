@@ -73,7 +73,7 @@ If you wish to download the information in the table into a spreadsheet:
 - Clicking the print button will open a new tab, with the table in a print friendly format.  
 - Split print allows you to create multiple print friendly tables, split by whatever item you choose.
 
-**Please note: this will only download the table, not the informtion from individual campaigns. You can download the responses to your campaigns in reporting (see [14.2.0 {{Eval}} Report](/help/index/p/14.2.0)).**
+### Please note: this will only download the table, not the informtion from individual campaigns. You can download the responses to your campaigns in reporting (see [14.2.0 {{Eval}} Report](/help/index/p/14.2.0)).
    
    
 ###### datadirect module

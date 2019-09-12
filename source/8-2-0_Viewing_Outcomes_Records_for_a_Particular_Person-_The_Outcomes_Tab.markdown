@@ -55,8 +55,7 @@ You can customise your table in the following ways:
 
 - Simply tick and untick columns in the list to customise what you see in the table. If you want to keep these as the default settings for this table, choose 'Save table columns layout' from the menu.
 
-**The Context Menu**
-
+### The Context Menu
 Right clicking on a row of the {{outcome}} table will give you a range of options:
 
 ![{{Outcome}}s tab on a profile - context menu](50b.png)

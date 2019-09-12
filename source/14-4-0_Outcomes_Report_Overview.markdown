@@ -8,16 +8,14 @@ The {{outcome}}s {{report}} summarises the changes experienced over time by your
 
 ### {{Report}} Presentation
 
-**How to Summarise the Data**
-
+### How to Summarise the Data
 There are four options in this drop-down. Each one will give you a different {{report}}.
 
 -	‘Difference between earliest and latest scores’ enables you to report on your {{outcome}} measures, and how they have changed over time. Each {{person}} will need to have had a measure scored at least twice for it to be counted in this {{report}}, as it is showing difference. See [14.4.1 Data Produced When Looking at Change](/help/index/p/14.4.1).
 -	‘Count number of ‘yes’ responses’. If you have any {{outcome}} with a yes/no response, you can choose to view the number of ‘yes’ and ‘no’ responses recorded between the dates that you have specified. See [14.4.2 Data Produced When Looking at Count Yes Responses](/help/index/p/14.4.2).
 -	‘Snapshot, view actual scores not change’. This calculates the average score recorded for each measure in the timescale you have chosen, rather than showing the change in it over time. See [14.4.3 Data Produced When Looking at a 'Snapshot'](/help/index/p/14.4.3).
  
-**Split Data**
-
+### Split Data
 - Split data shows your results split by the field that you choose. The options that you have here will be dictated by the custom fields that you have in profiles.
 - You could choose to split by gender, for example. If the options that you have to record gender in your system are 'Male', 'Female' or 'Other', when you run the {{report}} the table will show a separate line for each of the options.
 
@@ -28,8 +26,7 @@ There are four options in this drop-down. Each one will give you a different {{r
 - It is best to use split data with a single {{outcome}} measure rather than a whole category (you can set this in the ‘{{Report}} filters’ tab), otherwise the tables can get cluttered.
 
 
-**How to Handle Dates**
-
+### How to Handle Dates
 - {{Outcome}} {{report}}s are different to others in {{Lamplight}} because they measure change. That is why there are an extra two options which enable you to decide how {{Lamplight}} deals with dates.
   - How should {{outcome}}s dated earlier than the 'date from' filter be handled?  
   If you choose 'measure from the earliest {{outcome}} ever recorded', {{Lamplight}} will ignore the 'Date from' on the '{{Report}} filters' tab, and look for the first score for each {{outcome}} in a {{person}}'s records.

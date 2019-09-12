@@ -6,8 +6,7 @@
 
 Before you decide which types of field to add you need to think carefully the information you want to capture, and how you will need to report on it. See the table below for more information on this.
 
-**Reporting on Custom Fields**
-
+### Reporting on Custom Fields
 There are a number of different ways in which custom fields in {{work}} records can be used to report on. Depending on the type of field that you choose you will be able to:
 
 - Filter {{report}}s: this allows you restrict the results you see based on the field. For example, if you have added a field called 'Team', with the options 'Youth', 'Older People' and 'Working Age Parents', you could then filter the {{report}} so that it only shows you the results for activity records which have chosen the 'Youth' team. (For more on filtering {{report}}s, see [13.1.1 {{Report}} Filters](/help/index/p/13.1.1).).
@@ -15,8 +14,7 @@ There are a number of different ways in which custom fields in {{work}} records 
 - For creating {{group}}s: again, using the above field example you can create an auto {{group}} to show you everyone who has attended a {{work}} session that was tagged with 'Older People' in the last six months. (For more on this see [11.1.2 Groups: {{User}}, {{Staff}} and Other Custom Fields](/help/index/p/11.1.2).)
 
 
-**Types of Custom Field**
-
+### Types of Custom Field
 The table below gives details of how each custom field works, and how you can use each type of field to report on. 
 
 | Field name | Description | For Presenting {{Report}}s | For Creating {{Group}}s | As a {{Group}} Data View Column | 
@@ -42,8 +40,7 @@ The table below gives details of how each custom field works, and how you can us
 | Web address | For additional websites - also providing a link to the site | No | Yes | Yes | 
 
 
-**What Will This Look Like in My System?**
-
+### What Will This Look Like in My System?
 ![Single Select Fields](16.7.1a.png)
 
 ![Multi Select Fields](16.7.1b.png)

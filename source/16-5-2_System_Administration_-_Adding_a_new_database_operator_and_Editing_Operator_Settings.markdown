@@ -5,8 +5,7 @@
 
 
 
-**Please note: When you add a new database operator to the system, it will automatically create a new staff profile for them. If they already have a profile on the system it will be necessary to merge the two (see [16.8.1 Merging Profiles](/help/index/p/16.8.1)). When you do this, make sure that the profile you keep is the new database operator one.**
-
+### Please note: When you add a new database operator to the system, it will automatically create a new staff profile for them. If they already have a profile on the system it will be necessary to merge the two (see [16.8.1 Merging Profiles](/help/index/p/16.8.1)). When you do this, make sure that the profile you keep is the new database operator one.
 ### To Add a New Operator
 
 - Go to 'admin -> system administration -> Database Operators And Security -> Manage database operators.
