@@ -1,6 +1,6 @@
-# 9.0.0 {{Linked Case}}s
+# 9.0.0  <i class="fas fa-link"></i> {{Linked Case}}s
 
-> {{Linked case}}s are a way of linking different kinds of record ({{work}}, {{outcome}}, {{comm}}s etc) together in one place. They allow you to track the amount of time somthing takes from opening to closing
+> {{Linked case}}s are a way of linking different kinds of {{activity}} record ({{work}}, {{outcome}}, {{comm}}s etc) together in one place. They allow you to track the amount of time somthing takes from start to finish
 
 
 
@@ -16,14 +16,14 @@ They are a way of organising records within {{Lamplight}}, where you can bring t
 One person may have several {{linked case}}s, and each {{linked case}} may involve several different people.
 
 Using {{linked case}}s you can: 
--	Easily see all the records in each {{linked case}}.
+- Easily see all the records in each {{linked case}}.
 - Assign a category (these will depend on what is set up in your system). 
--	Report on how many days an individual or organisation has had a {{linked case}} open in a particular category (For example, we supported Jordan for 18 weeks, or the befriending relationship lasted 2 months).
--	Report on what {{linked case}}s were open at a particular time.  For example you could show anyone who had an open Advice {{linked case}} at any time during August last year.  This also makes them great as status trackers.
+- Report on how many days an individual or organisation has had a {{linked case}} open in a particular category (For example, we supported Jordan for 18 weeks, or the befriending relationship lasted 2 months).
+- Report on what {{linked case}}s were open at a particular time.  For example you could show anyone who had an open Advice {{linked case}} at any time during August last year.  This also makes them great as status trackers.
 - Depending on how they are set up on your system, you may be able to select different types of {{linked case}}, or record information such as why the {{linked case}} has closed.
 
 For more on how to use them, please see:
-- [9.1.0 Opening a new {{Linked Case](/help/index/p/9.1.0).
+- [9.1.0 Opening a new {{Linked Case}}](/help/index/p/9.1.0).
 - [9.2.0 Linking Records to a {{Linked Case}}](/help/index/p/9.2.0).
 - [9.3.0 Creating a New Record in the {{Linked Case}} Tab](/help/index/p/9.3.0).
 - [9.6.0 Closing a {{Linked Case}}](/help/index/p/9.6.0).

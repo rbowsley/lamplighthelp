@@ -1,4 +1,4 @@
-# 9.9.0 Working With {{Linked Case}}s Without the {{Linked Case}} View Tab
+# 9.9.0 <i class="fas fa-link"></i> Working With {{Linked Case}}s Without the {{Linked Case}} View Tab
 
 > If your organisation uses {{linked case}}s, it is possible to work with them even if you do not have a {{linked case}} view tab in profiles
 

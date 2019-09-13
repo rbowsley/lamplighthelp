@@ -1,4 +1,4 @@
-# 9.8.0 {{Linked Case}} View Tab
+# 9.8.0  <i class="fas fa-link"></i> {{Linked Case}} View Tab
 
 > The '{{Linked case}} view' tab shows details of all the {{linked case}}s associated with a particular {{person}} or {{org}}
 

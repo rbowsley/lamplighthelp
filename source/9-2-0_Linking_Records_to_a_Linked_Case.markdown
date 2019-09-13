@@ -1,4 +1,4 @@
-# 9.2.0 Linking Records to a {{Linked Case}}
+# 9.2.0 <i class="fas fa-link"></i>  Linking Records to a {{Linked Case}}
 
 > Once you have a {{linked case}} you will want to add records to it. You can do this from the context menu of the {{activity}} record, or in the table of records
 

@@ -1,6 +1,6 @@
-# 9.6.0 Editing, Deleting and Closing a {{Linked Case}}
+# 9.6.0  <i class="fas fa-link"></i> Editing, Deleting and Closing a {{Linked Case}}
 
-> Once you have created a {{linked case}}, it is possible to edit it, close it when it is complete, and also delete in entirely if it was entered in error
+> Once you have created a {{linked case}}, it is possible to edit it, close it when it is complete, and also delete it entirely if it was entered in error
 
 
 
@@ -46,9 +46,8 @@ It is possible to edit and close {{linked case}}s outside the '{{Linked case}}s'
 - Find a record that is linked into the {{linked case}} (in the {{Work}} records tab. 
 - Right click on it to get the context menu.
 - From that menu you can choose 'Edit {{linked case}}', 'Close {{linked case}}' or 'Delete {{linked case}}'. 
-- If closing the {{linked case}} this way, you will not have the chance to edit it or change the date. It will be recorded as closing on today's date. 
-- It is not possible to delete {{linked case}}s from here. 
-- If a record is not linked to a {{linked case}}, or if the {{linked case}} is already closed, you cannot open it, and the option will be disabled. 
+
+If closing the {{linked case}} this way, you will not have the chance to edit it or change the date. It will be recorded as closing on today's date.  It is not possible to delete {{linked case}}s from here. If a record is not linked to a {{linked case}}, or if the {{linked case}} is already closed, you cannot open it, and the option will be disabled. 
 
 
 ###### core module

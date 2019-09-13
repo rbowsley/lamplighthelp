@@ -1,4 +1,4 @@
-# 9.7.0    Re-opening a Closed {{Linked Case}}
+# 9.7.0  <i class="fas fa-link"></i> Re-opening a Closed {{Linked Case}}
 
 > Once you have closed a {{linked case}} it is possible to to re-open it, for example to link another record
 
