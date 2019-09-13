@@ -1,4 +1,4 @@
-# 12.1.2 {{Group}}s: {{User}}, {{Staff}} and Other Custom Fields
+# 12.1.2  <i class="fa fa-users"></i> {{Auto group}}s: {{User}}, {{Staff}} and Other Custom Fields
 
 > All the filters relating to the personal information for the {{people}} and {{org}}s in your system, for example demographic information, are held in tabs called by the name of the role, for example {{User}} or {{Staff}} fields
 
@@ -12,6 +12,7 @@ These tabs contain the filters relating to the information in the profiles of yo
 - They may not be visible at all if {{Lamplight}} has no custom fields set up. 
 
 ### Things to remember when filtering:
+
 Date fields:
 
   - On or after: the date you specify will be included.
@@ -29,5 +30,6 @@ Multi-select fields:
   - 'Has at least two of': people with at least two (maybe more) of the options that you select will be included.
   - 'Has at least three of': people who have at least three of the options that you choose will be included.
   
+Depending on how your system is set up, these can let you do things like {{auto group}}s of "people who do not receive Income Support", or "people with multiple health conditions".
   
-  ###### core module
+###### core module

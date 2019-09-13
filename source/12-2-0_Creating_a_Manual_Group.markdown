@@ -1,14 +1,14 @@
-# 12.2.0 Creating a Manual {{Group}}
+# 12.2.0  <i class="fa fa-users"></i> Creating a {{Manual group}}
 
-> Manual {{group}}s can be used when there is a set of people who have nothing particular to link them in {{Lamplight}}. You may want to group them for a mailing list, for example
+> {{Manual group}}s can be used when there is a set of people who have nothing particular to link them in {{Lamplight}}. They may be members of a committee, for example.
 
 
 
-To create a new manual {{group}}, go to '{{Group}}s -> Add -> Add manual {{group}}' on the main menu.
+To create a new {{manual group}}, go to '{{Group}}s -> Add -> Add manual {{group}}' on the main menu.
 
 You will see the following screen:
 
-![Adding a manual {{group}}](11.2.0a.png)
+![Adding a {{manual group}}](11.2.0a.png)
 
 ### {{Group}} Name Tab
 
@@ -23,7 +23,7 @@ You will see the following screen:
 - Once you see it in the list, click on it to add them to the table.
 - To remove someone from the list, click the red cross in the right-hand column of the table: you will be asked if you are sure. If you are, click 'OK' and they will be removed from the table and the {{group}}.
 
-![Removing a {{Person}} from the Manual {{Group}}](11.2.0a.png)
+![Removing a {{Person}} from the {{Manual Group}}](11.2.0a.png)
 
 When you have added all the {{people}} you want in your {{group}}, click the 'save' button at the bottom-right of the page.
 
@@ -32,13 +32,13 @@ When you have added all the {{people}} you want in your {{group}}, click the 'sa
 You can also add a {{person}} to a manual {{group}} from within their profile. 
 - Go the '{{Group}}s' Tab on their profile.
 - Click the 'Add' button on the right of the page.
-- You'll see a list of current manual {{group}}s - tick or untick the boxes to add or remove the {{person}} from them.
+- You'll see a list of current {{manual group}}s - tick or untick the boxes to add or remove the {{person}} from them.
 
-![Adding a {{Person}} to a Manual group}}](11.2.0c.png)
+![Adding a {{Person}} to a {{Manual group}}](11.2.0c.png)
 
 
 ##### Tags
-Group
+{{Group}}
 
 ###### core module
 

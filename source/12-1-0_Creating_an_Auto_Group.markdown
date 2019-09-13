@@ -1,20 +1,20 @@
-# 12.1.0 Creating an {{Auto Group}}
+# 12.1.0  <i class="fa fa-users"></i> Creating an {{Auto Group}}
 
-> An auto {{group}} allows you to choose criteria which {{Lamplight}} then uses to match profiles to the {{group}}. They can be set up either for {{people}} or {{org}}s
+> An {{auto group}} allows you to choose criteria which {{Lamplight}} then uses to match profiles to the {{group}}. They can be set up either for {{people}} or {{org}}s
 
 
 
 
 With {{group}}s in {{Lamplight}}, less is often more. It is important to know what it is that you are looking for before you start, and not to add too many filters to your {{group}} as you could exclude all possible members in this way. Once you have finished choosing filters, your {{group}} will include {{people}} or {{org}}s that meet **ALL** the criteria you have entered. 
 
-To set up a new {{group}}:
+To set up a new {{auto group}}:
 
 - On the main menu go to '{{group}}s -> add -> add {{auto group}}'. 
 - You will see the following screen:
 
 ![Creating an {{auto group}}](103a.png)
 
-### The only two tabs that you have to fill out are the 'Group name' and '{{People}} and {{org}}s ones. You should pick the filters you need carefully from the other tabs.
+The only two tabs that you have to fill out are the 'Group name' and '{{People}} and {{org}}s ones. You should pick the filters you need carefully from the other tabs.
 
 ### {{Group}} Name
 
@@ -26,16 +26,12 @@ The {{group}} name and a description are compulsory - you can't save your choice
 
 ### {{People}} or {{Org}}s
  
-![Auto {{Group}}s - Choosing What Types of {{People}} to Add](103b.png)
+![{{Auto Group}}s - Choosing What Types of {{People}} to Add](103b.png)
 
-- You must choose whether your auto {{group}} will include {{people}}, {{org}}s or {{family}} - you cannot have a mixture. If you need more than one of these types, you can create a {{group}} for each and them merge them (see [12.3 Creating a Merge {{Group}}](/help/index/p/12.3) for more details). 
-- Unlike most fields in auto {{group}}s, the 'who are' choice (e.g. {{user}}, {{staff}},{{contact}} etc.) is an 'OR' search, so it will include those that meet **any** of the criteria selected, not those that meet all of them. 
-- Next is the option to select the date profiles were added to the system.
-  - On or after. 
-  - On or before.
-  - On.
-  - Between. If you choose this option, a second date box will appear so that you can specify two dates. 
-- The 'Visibility' drop-down box allows you to choose whether your {{group}} will be made up of people who are active on your system, or those who have been archived. For more on archiving, see [16.8.2 Archiving Profiles](/help/index/p/16.8.2). You cannot mix current and archived profiles in the same auto {{group}}.
+- You must choose whether your {{auto group}} will include {{people}}, {{org}}s or {{family}} - you cannot have a mixture. If you need more than one of these types, you can create a {{group}} for each and them merge them (see [12.3 Creating a Merge {{Group}}](/help/index/p/12.3) for more details). 
+- Unlike most fields in {{auto group}}s, the 'who are' choice (e.g. {{user}}, {{staff}},{{contact}} etc.) is an 'OR' search, so it will include those that meet **any** of the criteria selected, not those that meet all of them. 
+- Next is the option to select when the date profiles were added to the system.  If you select 'between' dates, a second date box will appear so that you can specify two dates. 
+- The 'Visibility' drop-down box allows you to choose whether your {{auto group}} will be made up of people who are active on your system, or those who have been archived. For more on archiving, see [16.8.2 Archiving Profiles](/help/index/p/16.8.2). You cannot mix current and archived profiles in the same {{auto group}}.
 
 For information on the other filter choices for {{group}}s, see:
 
@@ -46,7 +42,7 @@ For information on the other filter choices for {{group}}s, see:
 
 
 ##### Tags
-Group
+{{Group}}
 
 ###### core module
 

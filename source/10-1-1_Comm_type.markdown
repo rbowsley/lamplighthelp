@@ -1,4 +1,4 @@
-# 10.1.1    {{Comm}} Type
+# 10.1.1 <i class="fas fa-envelope-open"></i> {{Comm}} Type
 
 > In the core system you can create letters, mailing labels and emails
 
