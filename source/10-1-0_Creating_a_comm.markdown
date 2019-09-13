@@ -1,11 +1,11 @@
-# 10.1.0 Creating a {{Comm}}
+# 10.1.0 <i class="fas fa-envelope-open"></i> Creating a {{Comm}}
 
-> You can create a {{comm}} from the main menu in {{Lamplight}}. This could be an email, letter or mailing labels
+> You can create a {{comm}} from the main menu: {{activity}} -> {{comm}} -> create. This could be an email, letter or mailing labels.
 
 
 
 To create a new {{comm}} from the main menu:
-- Go to {{Work}} -> {{comm}} -> create on the main menu. 
+- Go to {{activity}} -> {{comm}} -> create on the main menu. 
 - You will see the first screen for creating {{comm}}s:
 
 ![Creating a {{comm}} - main menu](83b.png)

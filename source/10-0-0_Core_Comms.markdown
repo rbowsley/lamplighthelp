@@ -1,6 +1,6 @@
-# 10.0.0 Core {{Comm}}s
+# 10.0.0  <i class="fas fa-envelope-open"></i>  Core {{Comm}}s
 
-> You can create and send communications using the core {{comm}}s function in {{Lamplight}}
+> You can create and send communications using the core functions in {{Lamplight}}, without the {{comm}}s module enabled.
 
 
 
