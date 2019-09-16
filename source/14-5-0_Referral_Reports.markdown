@@ -25,7 +25,7 @@ To run a {{referral}} {{report}}:
 
 ![{{Referral}} {{report}} presentation](13.5.0b.png)
 
-You to change the way in which your data is presented. For more on this see [14.1.4 {{Report}} Presentation](/help/index/p/14.1.4).
+You can use the options here to change the way in which your data is presented. For more on this see [14.1.4 {{Report}} Presentation](/help/index/p/14.1.4).
 
 
 ### The {{Report}} Results
