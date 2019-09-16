@@ -35,9 +35,9 @@ The process is almost identical to adding custom tabs and fields on profiles.
 
    - Click 'Save' to save the tab.
 
-### Important: You must always add at least one field to a tab, to ensure it remains editable and visible in System Administration.  If you do not, you'll have an empty tab in your record which you will be unable to edit.
+**Important: You must always add at least one field to a tab, to ensure it remains editable and visible in System Administration.  If you do not, you'll have an empty tab in your record which you will be unable to edit.**  
 
-### Adding Fields (the Middle Column)
+#### Adding Fields (the Middle Column)
 When you click on a tab in the left-hand column, the middle column will show you a list of the fields in that tab.
       
 - To add a new field to a tab, click the 'click to add' button at the bottom of the column in the middle box. 
@@ -60,7 +60,7 @@ When you click on a tab in the left-hand column, the middle column will show you
    - Click to save. The third panel will update showing the information added. 
      
 
-### Setting Options
+#### Setting Options
    
 - In the right column, you’ll now see the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see.  
 - If you can enter options you’ll see a ‘click to add’ button, and a text box.
