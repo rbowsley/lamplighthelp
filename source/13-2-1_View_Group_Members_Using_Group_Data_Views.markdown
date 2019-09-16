@@ -1,4 +1,4 @@
-# 13.2.1 View {{Group}} Members Using {{Group}} Data Views
+# 13.2.1 <i class="fas fa-binoculars"></i>  View {{Group}} Members Using {{Group}} Data Views
 
 > You can use data views to see more information about the members of a {{group}}
 
@@ -15,9 +15,8 @@ To open a {{group}} using a data view:
 ![Viewing members of a {{group}}](110a.png)
 
 - Click on the data view that you want.
-- The members of the {{group}} and data columns from the data view will be shown in a table. 
 
-For example, this is a {{group}} shown in pop-up, without a data view:
+The members of the {{group}} and data columns from the data view will be shown in a table.  For example, this is a {{group}} shown in pop-up, without a data view:
 
 ![Viewing a {{Group}} in Pop-up](12.2.1a.png)
 

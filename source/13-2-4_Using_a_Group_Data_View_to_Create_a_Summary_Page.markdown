@@ -1,4 +1,4 @@
-# 13.2.4 Using a {{Group}} Data View to Create a Summary Page
+# 13.2.4 <i class="fas fa-binoculars"></i> Using a {{Group}} Data View to Create a Summary Page
 
 > You can add a summary tab to profiles. This will bring information from different tabs into one place. A {{group}} data view is used to select the information you want to see in this tab
 
@@ -13,7 +13,8 @@ To add a summary tab:
 - Right-click on the {{group}} that you want to use, or click on the menu button to the left of it in the table.
 - Choose 'use in summary tab in profiles' from the popup menu. 
 - You will receive a confirmation message that the setting has changed.
-- Now when you view a profile you'll see a new 'summary' tab displayed as the first tab.
+
+Now when you view a profile you'll see a new 'summary' tab displayed as the first tab.
 
 ![{{Group}} data view](12.2.4a.png )
 

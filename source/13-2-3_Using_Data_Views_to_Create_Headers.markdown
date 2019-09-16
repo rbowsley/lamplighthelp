@@ -1,4 +1,4 @@
-# 13.2.3 Using Data Views to Create Headers
+# 13.2.3 <i class="fas fa-binoculars"></i> Using Data Views to Create Headers
 
 > You can set up {{group}} data views to use as header bars on profiles
 

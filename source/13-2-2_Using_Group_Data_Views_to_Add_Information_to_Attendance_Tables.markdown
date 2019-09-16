@@ -1,4 +1,4 @@
-# 13.2.2 Using {{Group}} Data Views to Add Information to Attendance Tables
+# 13.2.2 <i class="fas fa-binoculars"></i> Using {{Group}} Data Views to Add Information to Attendance Tables
 
 > {{Activity}} records in {{Lamplight}} have attendance tables to show who was involved. When viewing records, you can use data views to create additional columns in the attendance tables to add details such as addresses or demographics
 
@@ -16,7 +16,9 @@ To do this:
 
 ![Viewing {{work}} record with {{group}} data view](110b.png)
 
-- Click on the one that you would like to use. The popup window will then open for you to view the record, and when you scroll down to the attendance table you will see the extra information in the table of attendees. 
+- Click on the one that you would like to use. 
+
+The popup window will then open for you to view the record, and when you scroll down to the attendance table you will see the extra information in the table of attendees. 
 
 ![Viewing attendees with {{group}} data view](110c.png)
 
