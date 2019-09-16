@@ -1,6 +1,6 @@
 # 12.8.0 <i class="fa fa-users"></i> The Profile {{Group}}s Tab
 
-> You can see which {{group}}s a {{person}} or {{org}} is a member of by looking in the '{{Group}}s' tab on their profile. 
+> You can see which {{group}}s a {{person}} or {{org}} is a member of by looking in the '{{Group}}s' tab on their profile
 
 
 
