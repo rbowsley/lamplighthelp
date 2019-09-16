@@ -14,7 +14,7 @@ To add data in the advanced table:
 
 ![Saving {{Outcome}}s in the Data Table](8.1.6a.png)
 
-**Click 'save'.**
+- When you have finished, click 'save'.
 
 
 ###### core module
