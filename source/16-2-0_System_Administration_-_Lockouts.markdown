@@ -26,7 +26,7 @@ To do this:
 
 - The next time the operator logs in they need to use their most recent password. If they have requested a new one they will need to use the last password they were sent.
 
-### Please note: There will only be one chance to log in correctly before being locked out again. If this happens you will need to go through the same process as above. Once successfully logged in the account is set back to 10 attempts at log in before locking again.
+**Please note: There will only be one chance to log in correctly before being locked out again. If this happens you will need to go through the same process as above. Once successfully logged in the account is set back to 10 attempts at log in before locking again.**
 
 ### Deliberate Lock-Out
 
