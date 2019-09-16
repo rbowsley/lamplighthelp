@@ -16,7 +16,7 @@ To set up and view {{report}}s:
 
 ### Core {{Report}}s 
 
-### All systems will have these so long as they are activated in global settings.
+**All systems will have these so long as they are activated in global settings.**
 - {{Work}} {{report}}s count the number of {{people}} you've worked with, time taken and attendances (see [14.3 {{Work}} {{Report}}s](/help/index/p/14.3)).
 - {{Outcome}} {{report}}s show the impact of your work, and the average changes that have been seen (see [14.4 {{Outcome}} {{Report}}s](/help/index/p/14.4)).
 - {{Referral}} {{report}}s count and summarise the {{referral}}s that have occurred within any time frame (see [14.5 {{Referral}} {{Report}}s](/help/index/14.5)).
@@ -25,7 +25,7 @@ To set up and view {{report}}s:
   
 ### Module {{Report}}s 
 
-### You will only see these on your system if you have the module.
+**You will only see these on your system if you have the module.**
 - {{Comm}} {{report}}s count and present information on {{comm}}s made (see [15.1 {{Comm}} {{Report}}s](help/index/p/15.1)).
 - {{Eval}} {{report}}s summarise responses to {{eval}} questionnaires (see [15.2 {{Eval}} {{Report}}s](/help/index/p/15.2)).
 - {{Matching}} {{report}}s show the number of matches and opportunities registered and requested, and the number of different people involved (see [15.3 {{Matching}} Module {{Report}}](help/index/p/15.3)).
