@@ -3,8 +3,9 @@
 > You can change your password at any time from the system admin or login pages
 
 
-**To Change Your Password Through System Admin**
 
+
+### To Change Your Password Through System Admin
 - Go to 'admin -> change password' on the main menu. 
 - For security reasons you will need to enter your current username (email address) and password, and your new password.
 
@@ -16,8 +17,7 @@
 
 ![Password Change Confirmation](16.1.0b.png)
 
-**To Change Your Password on the Login Page**
-
+### To Change Your Password on the Login Page
 - If you have forgotten your current password, you can request a new one from the 'Forgotton your password?' link on the login page.
 
 ![Forgotton Password Link](16.1.0c.png)

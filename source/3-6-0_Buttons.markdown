@@ -1,6 +1,8 @@
 # 3.6.0 Buttons
 
-> Buttons on {{Lamplight}} pages do more than click - some have menus too 
+> Buttons on {{Lamplight}} pages do more than click - some have menus too
+
+
 
 Many screens have buttons that allow you to do particular things: usually adding or editing information (normally the top right of the page), or saving it (normally the bottom right of the page/pop-up box). Just click the button. 
 

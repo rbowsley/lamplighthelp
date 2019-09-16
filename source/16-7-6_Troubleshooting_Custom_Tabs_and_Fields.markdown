@@ -1,6 +1,8 @@
 # 16.7.6 Troubleshooting Custom Tabs and Fields
 
->  If you have a question about editing or are having an issue with one of your custom tabs or fields, you can find the answer to common queries here
+> If you have a question about editing or are having an issue with one of your custom tabs or fields, you can find the answer to common queries here
+
+
 
 ### I’m trying to make changes to my tabs, but the system hangs/does not save the changes that I make. What can I do?  
    

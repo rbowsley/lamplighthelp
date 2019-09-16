@@ -1,6 +1,8 @@
 # 17.0.0 {{Project}}s
 
-> A {{project}} in {{Lamplight}} is like a completely separate {{Lamplight}} system. You can have comlete separation between projects, or introduce different levels of sharing. You can also run reports across all your {{project}}s 
+> A {{project}} in {{Lamplight}} is like a completely separate {{Lamplight}} system. You can have comlete separation between projects, or introduce different levels of sharing. You can also run reports across all your {{project}}s
+
+
 
 In {{Lamplight}}, a {{project}} is a self-contained system within the overall one. By default, the information within one {{project}} is not visible to other {{project}}s, and the settings for each {{project}} may be completely different too. 
 

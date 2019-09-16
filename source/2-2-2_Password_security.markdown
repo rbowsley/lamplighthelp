@@ -1,9 +1,16 @@
 # 2.2.2 Password Security
 
-> Some tips for keeping {{Lamplight}} secure. 
+> Some tips for keeping {{Lamplight}} secure.
 
-Just as the security of your home is dependent on the lock you fit to your front door, so your database is only as secure as the passwords you set. With the amount and level of personal data you will be storing on your database, passwords are vitally important, it is worth remembering and implementing the following when setting your password.
 
+
+Just as the security of your home is dependent on the lock you fit to your front door, so your database is only as secure as the passwords you set. With the amount and level of personal data you will be storing on your database, passwords are vitally important.
+
+The best thing you can do is use a computer program called a Password Manager.  This can generate a long, strong new password for each system you use, and you just need to remember a single password to get to all your passwords.
+
+If you're not able to do this, it is worth remembering and implementing the following when setting your password:
+
+  * Longer passwords are generally stronger - 10 characters or more, ideally.
   * Do not write your password down.
   * Choose a password that is a mixture of letters and numbers.
   * Chose something that is easy for you to remember but difficult for anyone to guess. E.g. the initial letters of your favourite song title.

@@ -1,6 +1,8 @@
-# 8.0.0 {{Outcome}}s
+# 8.0.0  <i class="fas fa-trophy"></i> {{Outcome}}s
 
-> The difference your services are making over time to your {{user}}s, {{staff}} and others are entered as {{outcome}}s in Lamplight  
+> The difference your services are making over time to your {{user}}s, {{staff}} and others are entered as {{outcome}}s in Lamplight
+
+
 
 {{Outcome}}s are the impact your work has on individuals or organisations, measured by showing changes over time. This involves scoring  the same measure two or more times so that you have a baseline starting point, and one or more subsequent scores. 
 
@@ -12,7 +14,7 @@ Collecting this type of data can be very powerful. It is possible to then {{repo
 
 In some cases it will not be possible or appropriate to collect this data in this way. For example, you may run a one-off training session and ask participants to complete an evaluation form at the end of the session. In this case there is no baseline position, and you will need to be able to report '78% of participants felt that the training was valuable'. You may then compare this with previous years: **but the participants are (most likely) different people.** This is a different type of data, which in {{Lamplight}} uses the {{Eval}} module: see section [22.0.0  {{Eval}}s Module Overview](/help/index/p/22.0.0) for more details. 
 
-For more on {{outcome}}s see our video below.
+For more on {{outcome}}s [see our video below](/help/index/p/51.5.1).
 
 <iframe src="https://player.vimeo.com/video/282332458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

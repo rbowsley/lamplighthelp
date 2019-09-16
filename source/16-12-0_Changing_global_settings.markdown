@@ -2,6 +2,8 @@
 
 > Global settings allow you to make decisions about what information you want to capture and how you want to capture it. System Administrators can customise the system here
 
+
+
 Global settings in {{Lamplight}} affect every database operator as they control how the system behaves, which options are available to all users, and how information is displayed.
 
 Settings affecting each database operator's individual prefernces are found in personal settings.

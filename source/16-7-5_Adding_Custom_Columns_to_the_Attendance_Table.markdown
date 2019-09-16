@@ -2,12 +2,13 @@
 
 > You can add custom columns to the attendance table you see in {{work}} records
 
+
+
 The other option you'll see in '{{Work}} Record Custom Tabs and Fields' is 'Manage custom columns on the attendance table'.  
 
 If you look at the 'Attendance' tab in a {{Work}} record you will see the attendance table. There are a number of columns, including name, attendance type, and role.  It's possible to add additional custom columns here (you may already have some.) However, the attendance table can become quickly crowded if you add too many columns, and so consider what you need carefully.
 
-**Adding a New Column**
-
+### Adding a New Column
 - Go to 'admin -> system adminitsration -> Manage Custom Fields and Drop-down Lists -> {{Work}} Records Custom Tabs and Fields -> Manage custom columns on the attendance table'.
 - You will see any existing custom columns in the left-hand column, under 'Current Sets'.
 - To add a new one, click the 'click to add' button' at the bottom of this column. This will bring up a new 'set' in the middle column.
@@ -22,8 +23,7 @@ If you look at the 'Attendance' tab in a {{Work}} record you will see the attend
 
 **Important** You must always add a field to a column as soon as you create it to ensure it remains editable and visible in System Administration. If you do not, you'll have an empty column in your record which you will be unable to edit. In this case, please contact Lamplight for support.
 
-**Adding a Field**
-
+### Adding a Field
 - In the middle column, choose the button 'Click to add'. 
 - A new section will now appear in the right-hand column: 'Column: Click to add.' 
 - Double click on the non-bold text (not the title) 'Column name:Click to add'
@@ -45,14 +45,12 @@ If you look at the 'Attendance' tab in a {{Work}} record you will see the attend
 - If you have the Publishing Module you will also see fields about publishing. For more on this see [28.0.0. Publishing Module](/help/index/p/28.0.0). 
 - Click 'save' once you have completed the appropriate fields.
 
-**Editing a Column**
-
+### Editing a Column
 - Select the set in the left-hand column.
 - Double click on the text 'Set label' in the middle column.
 - Edit the existing information (as above).
 
-**Editing a Field**
-
+### Editing a Field
 - Click on the field you wish to edit in the centre column. 
 - In the right-hand column, you will see the field information appear (you may need to scroll up if you have a long list of options.) 
 - Double click on the non-bold text 'Column name:'. From here follow the process as above to edit and save the field.

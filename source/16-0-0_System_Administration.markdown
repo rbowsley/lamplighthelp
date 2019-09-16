@@ -2,6 +2,8 @@
 
 > System administration allows you to set up and change the settings on your {{Lamplight}} system. This is where you can alter drop-down lists, add new database operators, and manage many other aspects of your system
 
+
+
 {{Lamplight}} database operators with a System or Project Administrator level of access have permission to make many changes in Lamplight. If you do not have this level of access, you will see a more limited range of options in system administration. 
 
 To view the system administration page, click 'admin' on the main menu, then choose 'system administration.'

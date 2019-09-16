@@ -1,6 +1,8 @@
 # 4.3.0 My {{Message}}s
 
-> Your {{message}}s - reminders, to-dos - are like your post-it notes in {{Lamplight}}, but with dates attached and linked to other information 
+> Your {{message}}s - reminders, to-dos - are like your post-it notes in {{Lamplight}}, but with dates attached and linked to other information
+
+
 
 You can set {{message}}s that will show both in the table in the 'My {{message}}s' tab and also in your diary, so that no appointment or action needs to be missed. 
 
@@ -53,7 +55,7 @@ In any of these tables, you can click on the top of any column in the coloured h
 
 Please note, if the {{message}} tab does not appear within records, this is a global setting which your System Administrator can switch on (for more on this see [16.12.2 Global Settings: Data to Store](/help/index/p/16.12.2). 
 
-You can find some information on {{message}}s on the home page tab in our video, 'Homepage Diary and Tabs'.
+You can find some information on {{message}}s on the home page tab in our video, ['Homepage Diary and Tabs'](/help/index/p/51.1.2).
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/281952413" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 

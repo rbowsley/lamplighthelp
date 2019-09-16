@@ -1,6 +1,8 @@
-# 6.3.0 Viewing All {{Referral}} Records
+# 6.3.0 <i class="fa fa-redo-alt"></i> Viewing All {{Referral}} Records
 
 > You can view all the {{referral}} records on your system in one place, as well as filtering them to show by different dates and {{workarea}}s, for example
+
+
 
 To view all {{referral}} records, click '{{work}} -> view -> {{referral}}' on the main menu.
 
@@ -28,8 +30,7 @@ This will only apply to you, and not the rest of your team. If you would like to
 
 The search bar above the table gives options to filter which data you are seeing, and to add in some additional columns. 
 
-**Restrict by Date and Work Area**
-
+#### Restrict by Date and Work Area
 To restrict the listing to particular dates or {{workarea}}s:
 - Click the search bar or the '+' icon on the right of the search bar.
 - Search options will appear. Change the details and click the 'fetch data' button.
@@ -37,17 +38,15 @@ To restrict the listing to particular dates or {{workarea}}s:
 
 ![Searching for Particular {{Referral}} Records](1206a.png)
 
-**Restrict by Custom Fields**
+#### Restrict by Custom Fields
+Once you have clicked the search bar as above, and the date and work area options are displayed, you will see a further two search bars shown below this.  The first is called 'Custom field filters'.  This lets you select additional filtering options, from the fields inside your  {{referral}} record.  Click the 'Fetch data' button to show records matching these filters.
 
-Once you have clicked the search bar as above, and the date and work area options are displayed, you will see a further two search bars shown below this.  The first called 'Custom field filters'.  This lets you select additional filtering options, from the fields inside your  {{referral}} record.  Click the 'Fetch data' button to show records matching these filters.
-
-**Display Additional Columns**
-
+#### Display Additional Columns
 The second search bar is called 'Additional data columns to display'.  This does not filter, but simply adds additional columns to your table.  Options here will allow you to display names of different {{person}}s or {{organisation}}s who have attended, as well as other items from your work records.
 
 ### The {{Referral}} Table Context Menus
 
-To the left of each record in the table you will see a menu button. If you do not have these, you can add them in your personal settings (for more on this see [16.4.1 Personal Settings - Logging in and General Settings](/help/index/p/16.4.1)). Alternatively,right click the row that you want in the table. This will bring up a menu with the option to view, edit and (if you are a Manager or System Administrator in {{Lamplight}}) delete the records. 
+To the left of each record in the table you will see a menu button. If you do not have these, you can add them in your personal settings (for more on this see [16.4.1 Personal Settings - Logging in and General Settings](/help/index/p/16.4.1)). Alternatively, right click the row that you want in the table. This will bring up a menu with the option to view, edit and (if you are a Manager or System Administrator in {{Lamplight}}) delete the records. 
 
 ![{{Referral Records Table Context Menu](6.3.0b.png)
 
@@ -58,7 +57,7 @@ If you are using {{linked case}}s in your system, you will also see options for 
 If you want to download the information you have searched for into a spreadsheet:
 - Make sure that all the rows of the table are showing on the page (you can do this by choosing to show 'all' in the dropdown box above the table, then click the 'Download' button at the below of the table.  
 - Clicking the print button will open a new tab, with the table in a print friendly format.  
-- Split print allows you to create multiple print friendly tables, split by whatever item you choose. Each of these will open in a new tab. 
+- Split print allows you to create multiple print friendly tables, split by whatever item you choose. Each of these will open in a new tab. (If you choose 'split print' but the new tabs do not appear, you may need to tell your browser to allow pop-ups from Lamplight). 
 
 
 ##### Tags

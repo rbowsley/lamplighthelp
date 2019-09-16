@@ -1,8 +1,21 @@
-# 5.5.0 Custom Profile Tabs
+# 5.5.0 <i class="fa fa-user"></i> Custom Profile Tabs
 
-> Custom tabs in a profile contain information about {{people}} that's unlikely to change often, for example demographic details. The information you put in here can be overwritten as necessary 
+> Custom tabs in a profile contain information about {{people}} that's unlikely to change often, for example demographic details. The information you put in here can be overwritten as necessary
+
+
 
 {{Lamplight}} allows you to add as many tabs and fields as you need to in order to record your information. Custom tabs are unique to your organisation, and contain information that your organisation needs for its work and reporting. 
+
+To add or edit more than one field in custom tabs:
+- Click the 'edit' button on the right-hand side of the tab.
+- Complete the information.
+- Click the 'save' button at the bottom of the page.  
+
+To add information to, or edit, a single field in a custom tab:
+- Double-click on the existing value. 
+- Add the required value or edit the field as necessary. 
+- Save your changes. 
+**Please note:** If you are editing more than one field in this way, please remember to click 'save' after each one. It is possible to click into more than one field at a time to make changes, but {{Lamplight}} will only retain the details of the last one you edited. 
 
 There are a number of different types of field:
 - Select box - select a single option from the list of options.
@@ -21,7 +34,7 @@ If the option you need is not there, speak to your System Administrator about wh
 
 You can edit a number of the fields in each tab at the same time. To do this, click on 'Edit tab' to the right of the page. Click on 'Save' at the bottom right of the page when you have finished. 
 
-If you would like a demonstration of how this works, you can watch our 'Custom Tabs and Fields in Profiles' video. 
+If you would like a demonstration of how this works, you can watch our ['Custom Tabs and Fields in Profiles' video](/help/index/p/51.2.3). 
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279238902" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 

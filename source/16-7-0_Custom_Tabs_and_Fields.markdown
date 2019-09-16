@@ -1,6 +1,8 @@
 # 16.7.0 Custom Tabs and Fields
 
-> You can set up and customise tabs and fields that appear on profiles and {{activity}} records. There are number of different types of field that you can choose to capture your information 
+> You can set up and customise tabs and fields that appear on profiles and {{activity}} records. There are number of different types of field that you can choose to capture your information
+
+
 
 Profile information for {{people}} and {{org}}s is captured via custom tabs and fields. We also use custom tabs and fields in {{activity}} records.
 
@@ -14,8 +16,7 @@ If you add a custom tab to an {{activity}} record, you will see that at the top 
 
 ![CustomTabs on {{Work}} Record](16.7.0b.png)
 
-**Understanding Terminology**
-
+### Understanding Terminology
 - Tab - this is the place where the information will be found. It might be in a profile or added to a {{work}} record (see above).
 
 - Field. This is the information that you want to collect, for example 'Gender', or 'DBS Notes'. Each of the questions in the illustration below is a separate field.

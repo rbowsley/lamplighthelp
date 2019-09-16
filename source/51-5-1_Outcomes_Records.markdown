@@ -2,6 +2,8 @@
 
 > This video shows you how to add and view {{outcome}}s data in an individual’s profile. It also takes you through adding {{outcome}}s by starting from the main menu
 
+
+
 <iframe width="640" height="564" src="https://player.vimeo.com/video/282332458" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 ### Script

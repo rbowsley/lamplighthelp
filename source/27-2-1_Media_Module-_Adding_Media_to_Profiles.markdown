@@ -1,6 +1,8 @@
 # 27.2.1 Media Module: Adding Media to Profiles
 
-> If you have the Media Module, there will be a 'Media' tab in profiles where you can see all the items which are saved for that 
+> If you have the Media Module, there will be a 'Media' tab in profiles where you can see all the items which are saved for that
+
+
 {{person}} or {{org}}, edit the details, and add new ones
 
 To add media to a {{person}} or {{org}'s profile:

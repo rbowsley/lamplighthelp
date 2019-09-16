@@ -2,7 +2,9 @@
 
 > When you have prepared your spreadsheet of profile data you can upload it into {{Lamplight}}
 
-**It is strongly recommended to conduct a test first by uploading a duplicate file with just the first few rows of data.**
+
+
+**We strongly recommend that you conduct a test first by uploading a duplicate file with just the first few rows of data.**  
 
 Profile data can only be uploaded by a database operator with System Administrator or Project Administrator access.
 

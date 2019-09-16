@@ -1,6 +1,8 @@
-# 7.2.3    Delete a {{Work}} Record
+# 7.2.3   <i class="fas fa-hammer"></i>   Delete a {{Work}} Record
 
 > It is possible for operators who have Manager or Administrator levels of access to delete {{activity}} records. This should be done with caution, as there is no way to undelete them
+
+
 
 To delete a record:
 - Find the record in the table (for more on this see [7.2.0 Viewing {{Work}} Records for an Individual](/help/index/p/7.2.0)).

@@ -2,6 +2,8 @@
 
 > Context menus appear when you right-click on the row of a table, use the Apple key click or click the menu button to the left of a table. The options they give you will include viewing and editing a record
 
+
+
 Most tables have context menus. This means that if you right-click on a row of the table (Apple key-click on an Apple Mac), or click on the menu button at the left of the row, you will see a small menu appear. 
 
 ![Context menu buttons](3.5.1a.png)

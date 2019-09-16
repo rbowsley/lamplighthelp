@@ -1,6 +1,8 @@
-#  16.4.4 Personal Settings - Communications
+# 16.4.4 Personal Settings - Communications
 
 > This section is for creating, editing and saving your email signature
+
+
 
 You can use the box and editing tools here to create your email signature.
 

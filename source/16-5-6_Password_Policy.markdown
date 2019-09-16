@@ -2,10 +2,11 @@
 
 > Password policies set rules for database operator passwords
 
+
+
 A System or Project Administrator can determine the rules for all passwords on their {{Lamplight}} system. For example, your organisation’s IT policy may require passwords to be at least 10 characters long with a mixture of characters. You can set this up in {{Lamplight}} to ensure that everyone complies. Password policies apply to all database operators.
 
-**To Set Up a Password Policy**
-
+### To Set Up a Password Policy
 - Go to 'admin -> system administration -> Database Operators and Security -> Set up or edit your password policy’.
 - You will see the following options:
 

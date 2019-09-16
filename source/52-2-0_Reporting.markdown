@@ -2,6 +2,8 @@
 
 > In this section you’ll find videos on viewing and getting your data out of Lamplight, usually for reporting purposes
 
+
+
 The videos in this section are:
 
 - [52.2.1 How to Change Table Layouts](/help/index/p/52.2.1).

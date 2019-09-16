@@ -2,13 +2,15 @@
 
 > Instructions for setting up email in {{Lamplight}} if you have an account with another provider
 
-**Identify Your Server Details** 
+
+
+### Identify Your Server Details
 
 - Check our list of common providers at the bottom of this page - you may find the settings there.
 - Ask your IT support if you have it.
 - Ask your email provider - you may find this information in the provider’s help system.  
 
-**You’ll Need to Know:**
+#### What You’ll Need to Know
 - The server: e.g. smtp.mail.me.com.
 - The SMTP port: e.g. 587.
 - The security method : e.g. TLS.

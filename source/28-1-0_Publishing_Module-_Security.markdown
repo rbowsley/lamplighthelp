@@ -2,6 +2,8 @@
 
 > The Publishing Module has multiple safeguards built in so that only the data you want to publish is accessible
 
+
+
 When you decide to publish information from {{Lamplight}}, it creates web addresses that your website can request. {{Lamplight}} will respond to these requests with the relevant data: your web server can than process this information to display it on your site, in the style you design.
 
 For these data requests to be successful, the following checks all have to pass:
