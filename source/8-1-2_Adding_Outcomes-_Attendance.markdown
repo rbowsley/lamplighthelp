@@ -1,6 +1,6 @@
 # 8.1.2 <i class="fas fa-trophy"></i> Adding {{Outcome}}s: Attendance
 
-> The 'Attendance' or 'Respondent' tab is where you enter details of who the {{outcome}}(s) involve
+> The 'Attendance' or 'Respondent' tab is where you enter details of the {{person}} or {{org}} involved in the {{outcome}}(s) 
 
 
 
