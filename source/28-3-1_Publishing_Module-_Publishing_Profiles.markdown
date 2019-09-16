@@ -19,8 +19,8 @@ By default, no profiles are published.
    - Whether it is currently published.
    - Whether it can be updated via the Publishing API.
 
-### Publishing Settings
-- You will be able to see att the top of the page whether the profile can be shared or not. 
+#### Publishing Settings
+- You will be able to see at the top of the page whether the profile can be shared or not. 
 - If it can be shared, find the field 'Currently published (double click to edit)', and double click over the word 'No' (if it says yes then this profile is already published).
 - Tick the box.
 
