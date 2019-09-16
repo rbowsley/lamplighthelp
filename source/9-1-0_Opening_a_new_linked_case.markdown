@@ -2,16 +2,18 @@
 
 > You can create a new {{linked case}} either through the '{{Linked Case}} View' tab in a profile, or as you link a {{work}} or other record to a {{linked case}}
 
+### Opening New {{Linked Case}}s
+
 It is possible to open a new {{linked case}} in a couple of ways. Whichever you choose will open the same pop-up box where you will complete the details.
 
-### Through the '{{Linked Case}} View' Tab of a profile
+#### Through the '{{Linked Case}} View' Tab of a profile
 
 - Open this tab in the profile. 
 - Scroll down to the bottom. There is a section called 'Create a new {{linked case}}'.
 
 ![Opening a {{Linked Case}} in the Profile Tab](9.1.0a.png)
 
-### While Linking a Record to the {{Linked Case}}
+#### While Linking a Record to the {{Linked Case}}
 - Using the context menu from a view of {{work}} or another record, choose the 'Link to {{linked case}}' option. (If you do not see this option it is because it is not enabled in your system. Your System Administrator will be able to change this if required - see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4).) 
 - This opens a new pop-up box:
 
