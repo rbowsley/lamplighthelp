@@ -9,7 +9,7 @@
 A {{group}} is a collection of {{people}} or {{org}}s. You can set up any number of {{group}}s in your system, and each {{person}} in your database can belong to any number of {{group}}s. For example, you may set up the following {{group}}s:
 
  - Steering group members.
- - Female {{User}}s in N1 aged over 20
+ - Female {{User}}s in N1 aged over 20.
  - New {{user}}s in Q2 and Q3 2019.
  - All youth work staff.
  - Organisations working with children.
