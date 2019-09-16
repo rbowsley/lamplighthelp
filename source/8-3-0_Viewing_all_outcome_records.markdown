@@ -61,14 +61,24 @@ By right clicking on any row in the table, you can open a context menu for that 
 
 ![The {{Outcome}} Table Context Menu](8.3.0b.png)
 
-This gives you a number of options:
--	**View full details**: opens up the record on one page so that you can see all the details.
--	**Edit**: opens the record up in editing mode so that you can make any changes that you need.
--	**Delete**: Removes the record so that it will not be visible in the {{person}} or {{org}}’s profile, and will not be counted in reports or available in data views. However, it will still be possible to view it in this {{outcome}}s table (if you choose to ‘Show deleted records’ as a filter.
+This gives you a number of options.
 
-If you use {{linked case}}s in your system, you will also see options to **link, follow-up, remove link, close the {{linked case}}, edit the {{linked case}} and view the details** from here.
+#### View full details
+This opens up the record on one page so that you can see all the details.
+#### Edit
+You can open the record up in editing mode so that you can make any changes that you need.
+#### Delete
+Choosing this removes the record so that it will not be visible in the {{person}} or {{org}}’s profile, and will not be counted in reports or available in data views. However, it will still be possible to view it in this {{outcome}}s table (if you choose to ‘Show deleted records’ as a filter.
 
-If you have the {{Comm}}s Module, you can **‘communicate’** from here. This opens up a new {{comm}}s record, with everyone involved in the {{outcome}} added as recipients.
+If you use {{linked case}}s in your system, you will also see options to 
+- link
+- follow-up
+- remove link
+- close the {{linked case}} 
+- edit the {{linked case}} and 
+- view the details.
+
+If you have the {{Comm}}s Module, you can ‘communicate’ from here. This opens up a new {{comm}}s record, with everyone involved in the {{outcome}} added as recipients.
 
 
 ### Downloading and Printing the Table
