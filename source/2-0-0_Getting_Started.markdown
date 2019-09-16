@@ -1,6 +1,6 @@
 # 2.0.0 Getting Started
 
-> Introducing some of the terms used in {{Lamplight}}, and logging into the system.
+> Introducing some of the terms used in {{Lamplight}}, and logging into the system
 
 
 
