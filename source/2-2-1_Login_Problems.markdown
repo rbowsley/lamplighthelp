@@ -23,7 +23,7 @@ You may also see a message that you are locked out of the sytsem.
 
 ![Locked out of the system](2.2.0b.png)
 
-This could be because you’ve tried to log in to your account ten times without success. Failed attempts don’t all have to be at once, so can be across several sessions, days or weeks. This is a security feature to stop other people from trying to guess your password over and over.
+This could be because you’ve tried to log in to your account ten times without success. Failed attempts don’t all have to be at once, so can be across several sessions, days or weeks. This is a security feature to stop other people from repeatedly trying to guess your password.
 
 The other reason for a lockout is when your System Administrator has set up login security policies which mean that you can't log in at this time or from the IP address of the computer that you are using.
 

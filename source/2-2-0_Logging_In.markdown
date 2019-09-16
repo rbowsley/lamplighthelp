@@ -1,6 +1,6 @@
 # 2.2.0    Logging In
 
-> You will need to be set up as a database operator to log in to {{Lamplight}}. Your System Administrator can add new operators to the system.
+> You will need to be set up as a database operator to log in to {{Lamplight}}. Your System Administrator can add new operators to the system
 
 
 

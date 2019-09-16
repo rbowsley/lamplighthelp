@@ -14,8 +14,9 @@ To see a table of your existing campaigns:
 
 - The 'Search' bar also allows you to filter by {{workarea}} and custom fields, and to add additional columns.  
   
-   **Filtering**
-- The filter options allow you to filter: 
+#### Filtering  
+
+The filter options allow you to filter: 
    - Between specific dates: set the dates in the 'campaigns are open between' boxes.
    - Related to a particular {{workarea}} or {{subworkarea}}: choose it from the list. If you choose more than one, you will see campaigns which relate to any of the areas chosen rather than to all of them.
    - Related to the staff member who added or edited it last: choose the relevant staff member from the drop-down list.
@@ -24,7 +25,7 @@ To see a table of your existing campaigns:
 - Select the field(s) that you would like to filter the records by. 
 - Click the 'Fetch data' button to show records matching these filters.
 
-   **Display Additional Columns**
+#### Display Additional Columns
 
 You can also opt to show additional columns in your table.
 - Click on these to display names of different {{person}}s or {{organisation}}s who have been invited to respond to the {{eval}}.
@@ -73,7 +74,7 @@ If you wish to download the information in the table into a spreadsheet:
 - Clicking the print button will open a new tab, with the table in a print friendly format.  
 - Split print allows you to create multiple print friendly tables, split by whatever item you choose.
 
-### Please note: this will only download the table, not the informtion from individual campaigns. You can download the responses to your campaigns in reporting (see [14.2.0 {{Eval}} Report](/help/index/p/14.2.0)).
+**Please note:** this will only download the table, not the informtion from individual campaigns. You can download the responses to your campaigns in reporting (see [14.2.0 {{Eval}} Report](/help/index/p/14.2.0)).
    
    
 ###### datadirect module

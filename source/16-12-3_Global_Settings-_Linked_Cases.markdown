@@ -11,25 +11,25 @@ Any type of record or communication (if you have the communications module) can 
 
 The options for this tab are:
 
-- **Do you want to be able to set open dates of {{linked case}}s manually?**
+#### Do you want to be able to set open dates of {{linked case}}s manually?
 
    This option is enabled by default, so the start date of {{linked case}}s can be entered much like it is in {{work}} records. If the start date is always the date the {{linked case}} was entered on the system, or if it's not important to record a start date for a {{linked case}}, disabling this option will make data entry simpler when opening {{linked case}}s.
    
-- **Do you want the {{linked case}} tab on profiles?**
+#### Do you want the {{linked case}} tab on profiles?
 
    The ‘{{Linked case}} view’ tab on profiles allows you to see all the active and inactive {{linked case}}s in a profile, and all the records linked to them. You can also create new {{linked case}}s and link records to them here. If you are not using {{linked case}}s in this way, you can turn off this profile tab using this option. It is still possible to access {{linked case}}s through the main menu at '{{work}} -> view -> {{linked case}}s.
    
- - **If so, you can specify a custom template for the "unlinked records" button here**
+#### If so, you can specify a custom template for the "unlinked records" button here
 
    If you have the {{linked case}} tab enabled on profiles (see option above), there is a button above the list of {{linked case}}s that shows all records not included in a {{linked case}}. You can specify what details appear on this button using the codes outlined in the  menu.
    
    ![The Unlinked Records Button](16.12.3a.png)
  
-- **Custom template for the open {{linked case}} buttons**
+#### Custom template for the open {{linked case}} buttons
 
    As with the option above, you can choose details to appear on the open {{linked case}} buttons. You will need to have set up a custom template for unlinked records for this to take effect.
    
-- **Custom template for the closed {{linked case}} buttons**
+#### Custom template for the closed {{linked case}} buttons
 
    As with the two options above, you can choose what is shown on the closed {{linked case}} buttons. Again, you will need to have set up the custom template for unlinked records for this to take effect.
    

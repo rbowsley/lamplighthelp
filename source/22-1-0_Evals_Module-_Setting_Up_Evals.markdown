@@ -6,7 +6,7 @@
 
 ### To Set Up a New {{Eval}}
 
-### Adding an {{Eval}}
+#### Adding an {{Eval}} in System Admin
 - Click ‘admin’ in the main menu, then ‘system administration’.
 - Scroll to the bottom 'Module Administration' section, find the '{{Eval}}s Module' box and click on ‘Manage {{eval}} templates’.
 - The structure of this page will be familiar to those who have edited custom fields in profiles or records, and it works in the same way as those pages. The left-hand column shows existing {{eval}}s.
@@ -21,7 +21,7 @@
 
 **Please note:** Once an {{eval}} has been created in this way you need to add at least one question, even if it’s just a placeholder, before leaving the page. If you do not do this the {{eval}} will appear blank, and it will no longer be editable. If this happens, please contact Lamplight for support.
 
-### Adding a Field to an {{Eval}}
+#### Adding a Field to the {{Eval}}
 - Click the ‘click to add’ button to reveal options in the right-hand column.
 
 ![Adding Fields to an {{Eval}}](22.1.0b.png)
@@ -55,7 +55,7 @@
 - To make a field mandatory, tick the ‘Is this a required field’ box. This means the {{eval}} won’t save until an answer has been given.
 - Click the ‘save’ button.
 
-### Adding Options to Select Fields
+#### Adding Options to Select Fields
 If the field has a list of options, these must now be added.
 - Once the question has been saved it will be shown in the column on the right. 
 - Enter the options, each one separated by a semi-colon, into the box at the bottom of the right-hand column. Don’t enter any spaces on either side of the semi-colon.
@@ -66,10 +66,10 @@ If the field has a list of options, these must now be added.
 - This list can be reordered by clicking and dragging. 
 - List items can be deleted individually by clicking on the 'Del' button to the right of them.
 
-### Adding More Fields
+#### Adding More Fields
 - You can continue adding fields using the process above (clicking the ‘click to add’ button in the middle column) until the {{eval}} fields are all in place.
 
-**Testing Your {{Eval}}**  
+#### Testing Your {{Eval}}  
 
 Once an {{eval}} has been created, try completing it to ensure everything is displayed as intended. 
 - First refresh the page in your browser (by pressing F5 in Windows or Ctrl+R in OS X), and it will then be accessible through the main menu. 
