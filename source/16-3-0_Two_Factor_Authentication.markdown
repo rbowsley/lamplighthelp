@@ -1,19 +1,19 @@
-# 16.3.0 Two Factor Authentication
+# 16.3.0 <i class="fa fa-cogs"></i> Two Factor Authentication
 
 > Enabling two factor authentication adds a layer of protection to the log-in process
 
 
 
-For two factor authentication, {{Lamplight}} works in conjunction with an app on your phone. Once it is set up, the app generates a new code every 60 seconds. You must enter your user name and password, plus the 6 digit code, to log in. 
-
 Two factor authentication adds a layer of protection to the login process. When set up, an app on your phone generates a 6-digit code every 30 seconds, which is only valid for 30 seconds. To log in you must enter your username/password followed by this 6-digit code. While it does add an extra step to the login process, the security benefits are significant.
 
 ### Adding 2FA to Your Account
 
-- First install an app on your phone (see links to app store versions of the Authenticator app below), or simply search for 'Authenticator App' in your app store: 
-  - Google Play: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_GB.
-  - Windows Marketplace: https://www.microsoft.com/en-gb/store/p/authenticator/9wzdncrfj3rj?rtc=1.
-  - Apple App Store: https://itunes.apple.com/gb/app/google-authenticator/id388497605?mt=8.
+First install an app on your phone (see links to app store versions of the Authenticator app below), or simply search for 'Authenticator App' in your app store: 
+  - Google Play: [https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_GB](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_GB).
+  - Windows Marketplace: [https://www.microsoft.com/en-gb/store/p/authenticator/9wzdncrfj3rj?rtc=1](https://www.microsoft.com/en-gb/store/p/authenticator/9wzdncrfj3rj?rtc=1).
+  - Apple App Store: [https://itunes.apple.com/gb/app/google-authenticator/id388497605?mt=8](https://itunes.apple.com/gb/app/google-authenticator/id388497605?mt=8).
+
+Once you have the app installed and working, 
 - Go to 'system admin -> Database Operators and Security'.
 - Click on 'Enable two-factor authentication and regenerate secret'.  
 - At the bottom of the page is a 'Click here to generate a new secret' button. Click on this. 
