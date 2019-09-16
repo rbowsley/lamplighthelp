@@ -1,6 +1,6 @@
 # 12.6.0 <i class="fa fa-users"></i> Editing {{Group}}s
 
-> Once a {{group}} is set up, you can go back to change the filters when you need to.
+> Once a {{group}} is set up, you can go back to change the filters when you need to
 
 
 
