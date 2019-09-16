@@ -30,7 +30,7 @@ You need to set Gmail to allow Lamplight to send emails via your Gmail account:
 - You will now be able to go back to the section above and allow less secure apps in your account.
 - (Changes in Google domains may change the exact pathway to these settings, but they will normally continue to be available in the Security area.)
 
-**An Alternative to Allowing Less Secure Apps**  
+#### An Alternative to Allowing Less Secure Apps  
 
 Your primary alternative is to use 2 factor authentication, and we recommend this.  However, if you don’t wish to allow less secure apps or use two factor authentication, there is a work around.  You can:
 - Turn on two factor authentication for an individual's account, and set it up.
