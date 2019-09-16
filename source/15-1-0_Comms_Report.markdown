@@ -1,6 +1,6 @@
-# 15.1.0 {{Comm}}s {{Report}}
+# 15.1.0 <i class="fa fa-chart-line"></i> {{Comm}}s {{Report}}
 
-> With {{comm}}s {{report}}s you can  identify and present the number of {{comm}}s made or logged
+> With {{comm}}s {{report}}s you can identify and present the number of {{comm}}s made or logged
 
 
 
@@ -13,17 +13,18 @@ You can show all your {{comm}}s over a given time in a {{report}}.
 - You can also use the {{workarea}} filter to narrow down your logged {{comm}}s as it is a mandatory field on those records.
 
 ### {{Report}} Presentation
-- The fields in this tab work in the same way as they do for other {{report}}s - see [14.1.4 {{Report}} Presentation](/help/index/p/14.1.4).
-- Under 'Row data' '{{Comm}} type' is selected by default. This means that your {{report}} results will be split to show you types of different kind of {{comm}}.
+
+The fields in this tab work in the same way as they do for other {{report}}s - see [14.1.4 {{Report}} Presentation](/help/index/p/14.1.4).  Under 'Row data' '{{Comm}} type' is selected by default. This means that your {{report}} results will be split to show you types of different kind of {{comm}}.
 
 
 
 ![{{Comm}} {{Report}} Table Split by Type of {{Comm}}](14.1.0a.png)
 
-- As with other {{report}}s, you can also choose other fields to present your information by, for example demographic information from the profile as below.
+As with other {{report}}s, you can also choose other fields to present your information by, for example demographic information from the profile as below.
 
 ### The {{Report}}
-- The {{report}} shows you the number of different types of {{comm}} sent in the timescale you have used.
+
+The {{report}} shows you the number of different types of {{comm}} sent in the timescale you have used.
 
 
 ##### Tags

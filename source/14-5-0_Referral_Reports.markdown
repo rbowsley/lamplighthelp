@@ -16,9 +16,7 @@ To run a {{referral}} {{report}}:
 
 ![{{Referral}} {{report}} results](13.5.0a.png)
 
-- Most of the filters are the same as for other reports (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1)).
-- At the bottom you have filters for {{referral}} success and direction. The options within them will vary as they are lists which have been customised for your system to reflect the information you capture in {{referral}} records. 
-- If you do not choose anything from these fields, then your {{report}} will return information from records whatever their success or direction.
+Most of the filters are the same as for other reports (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1)).  At the bottom you have filters for {{referral}} success and direction. The options within them will vary as they are lists which have been customised for your system to reflect the information you capture in {{referral}} records. If you do not choose anything from these fields, then your {{report}} will return information from records whatever their success or direction.
 
 
 ### {{Report}} Presentation
