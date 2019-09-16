@@ -23,9 +23,9 @@ You can also save the columns that you have chosen so that each time you come ba
 
 ![Saving Column Layout](3.5.3a.png)
 
-The layout is saved for a particular type of table, and where tables appear in profiles and the main menu (e.g. {{work}} record tables), you can have different layouts for each.
+The layout is saved for this particular table (e.g. in the {{Relationship}}s tab. Each different table in profiles and the main menu (e.g. {{work}} record tables), can have its own layout.
 
-Selecting 'Reset table columns layout' on the menu will forget whatever settings you've used for this particular table, but without affecting settings for any other tables.
+Select 'Reset table columns layout' on the header bar menu to restore the original {{Lamplight}} settings for the table you are working on. This will not affect settings for any other tables.
 
 ###### core module
 

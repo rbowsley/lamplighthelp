@@ -19,15 +19,15 @@ There are a number of ways to find a particular {{person}} or {{org}}. The easie
 
 You can also search other fields, depending on what you type in:
 
-  - Email address - it needs to be entered in full before the search will begin.
-  - Dates should be entered in the format dd/mm/yyyy, and custom date fields (e.g. 'date of birth') will be searched.
-  - Postcode, phone and mobile phone numbers
-- ID number - if you enter a number, Lamplight will search by the ID number of the {{person}}.  If searching by ID number, you will need to make sure it is at least 3 digits long. You may need to add zeros to the start of the number (e.g. to find {{person}} 23, type 023 in the search bar). Lamplight will also search for {{activity}} and {{linked case}} records with the same ID number.  You can find a person's ID number by hovering over the text 'Profile for' at the top of their profile page. 
+- Email address: this needs to be entered in full before the search will begin.
+- Dates: these should be entered in the format dd/mm/yyyy, and custom date fields (e.g. 'date of birth') will be searched.
+- Postcode, phone and mobile phone numbers.
+- ID number: if you enter a number, Lamplight will search by the ID number of the {{person}}.  If the ID number contains less than 3 numbers you will need to add zeros to the start of it (e.g. to find {{person}} 23, type 023 in the search bar). Lamplight will also search for {{activity}} and {{linked case}} records with the same ID number.  You can find a person's ID number by hovering over the text 'Profile for' at the top of their profile page. 
   
 ![Profile ID Number](5.8.0a.png)
 
 
-You can also search the entire system by clicking the 'Go' button - see section [3.2.0 Search Bar](/help/index/p/3.2.0).
+You can also search the entire system by clicking the 'Go' button. For more on this see section [3.2.0 Search Bar](/help/index/p/3.2.0).
 
 
 ##### Tags

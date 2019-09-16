@@ -14,7 +14,7 @@
 ### To Edit {{Outcome}} Scores from the Radar Chart
 
 - Open the profile of the person whose scores you would like to edit, and click on the '{{Outcome}}s' tab.
-- Choose the relevant set of measures from the 'Select {{outcome}}s to view drop-down menu.
+- Choose the relevant set of measures from the 'Select {{outcome}}s to view' drop-down menu.
 - In the middle boxes, click 'edit' next to the date of the measures that you are altering. 
 - Scroll down to the boxes where the scores are recorded and make your changes. 
 - Click 'save' at the bottom of the box.

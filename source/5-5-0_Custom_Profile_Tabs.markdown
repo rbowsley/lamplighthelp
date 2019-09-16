@@ -6,7 +6,16 @@
 
 {{Lamplight}} allows you to add as many tabs and fields as you need to in order to record your information. Custom tabs are unique to your organisation, and contain information that your organisation needs for its work and reporting. 
 
-To add or edit information in custom tabs, click the 'edit' button on the right-hand side of the tab, complete the information, and click the 'save' button at the bottom of the page.  You can also edit single fields by double-clicking on the existing value.
+To add or edit more than one field in custom tabs:
+- Click the 'edit' button on the right-hand side of the tab.
+- Complete the information.
+- Click the 'save' button at the bottom of the page.  
+
+To add information to, or edit, a single field in a custom tab:
+- Double-click on the existing value. 
+- Add the required value or edit the field as necessary. 
+- Save your changes. 
+**Please note:** If you are editing more than one field in this way, please remember to click 'save' after each one. It is possible to click into more than one field at a time to make changes, but {{Lamplight}} will only retain the details of the last one you edited. 
 
 There are a number of different types of field:
 - Select box - select a single option from the list of options.

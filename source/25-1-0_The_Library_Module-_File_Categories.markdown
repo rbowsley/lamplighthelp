@@ -18,9 +18,10 @@ System Administrators can create  categories which are added to uploaded files a
 Existing file categories can be edited from the same screen:
 - Double-click the category in the list. 
 - Type the new text and press ‘Enter’ to save.
-### Please note: it is best not to change the meaning of existing categories if they already have library items linked to them. The existing items will remain linked once the category has been edited.
+**Please note:** it is best not to change the meaning of existing categories if they already have library items linked to them. The existing items will remain linked once the category has been edited.  
+
 ### Changing the List Order
-- Click on the item in the list that you would like to re-order, then drag and drop it where you would like it to go (left-click and hold the button down while you move your cursor to the new position, before releasing). 
+- Click on the item in the list that you would like to re-order, then drag and drop it where you need it to go (left-click and hold the button down while you move your cursor to the new position, before releasing). 
 - The other options will adjust to make space for it.
 
 ### Deleting a List Item

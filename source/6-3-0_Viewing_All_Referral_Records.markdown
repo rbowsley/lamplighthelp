@@ -18,7 +18,7 @@ If you want to see all the available columns that you can display in the {{refer
 
 ![The {{Referral}} Table Pop-up Menu](6.3.0a.png)
 
-#### Saving your View
+### Saving your View
 
 Once you have finished selecting the columns you want to see, you can save the columns you have at as the default view, so that the next time you look at this table it will be the same. To do that:
 - Right click again on the top coloured header row of the table.
@@ -57,7 +57,7 @@ If you are using {{linked case}}s in your system, you will also see options for 
 If you want to download the information you have searched for into a spreadsheet:
 - Make sure that all the rows of the table are showing on the page (you can do this by choosing to show 'all' in the dropdown box above the table, then click the 'Download' button at the below of the table.  
 - Clicking the print button will open a new tab, with the table in a print friendly format.  
-- Split print allows you to create multiple print friendly tables, split by whatever item you choose. Each of these will open in a new tab. 
+- Split print allows you to create multiple print friendly tables, split by whatever item you choose. Each of these will open in a new tab. (If you choose 'split print' but the new tabs do not appear, you may need to tell your browser to allow pop-ups from Lamplight). 
 
 
 ##### Tags

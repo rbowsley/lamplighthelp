@@ -30,7 +30,7 @@ The 'finances' section can be found under 'admin' on the main menu.
 - Click the button to either authorise or pay the expense. 
 - The expense status will be updated.
 
-### Please note even if you are not able to authorise or pay an expense, you will still be able to select them, but no further action will be possible.
+**Please note:** even if you are not able to authorise or pay an expense, you will still be able to select them, but no further action will be possible.
 - You can use the 'Download' link under the expenses table to download it to an Excel csv format file.
 
 
