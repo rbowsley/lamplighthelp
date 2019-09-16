@@ -1,4 +1,4 @@
-# 14.4.1 {{Outcome}} {{Report}}s - Data Produced When Looking at Change
+# 14.4.1  <i class="fa fa-chart-line"></i> {{Outcome}} {{Report}}s - Data Produced When Looking at Change
 
 > The 'Difference between earliest and latest scores' finds records for people who have had the {{outcome}} measure scored at least two times within the dates specified. It works out the difference between the first and last scores in the date range, then calculates the averages for everyone
 
@@ -10,7 +10,7 @@ If you select 'Difference between earliest and latest scores' in the 'How to sum
 
 ### Table Columns
 
-- The columns in this table show:
+The columns in this table show:
 
   - {{Outcome}} - the name of the particular {{outcome}} measure.
   - Average change - the mean change across all {{people}} included in the {{report}}.
@@ -20,32 +20,31 @@ If you select 'Difference between earliest and latest scores' in the 'How to sum
   - Percentage with positive change - percentage of {{people}} included in the {{report}} whose later score has moved in a positive direction compared to the first (usually gone up).
   - Percentage negative change - percentage of {{people}} where the later {{outcome}} was less positive than the earlier (usually gone down). 
   
-- There are more columns that you can add to your table, for example the number of {{people}} with positive and negative change, rather than the percentages. To see the extra columns that are available, right click the coloured header row of the table.
+There are more columns that you can add to your table, for example the number of {{people}} with positive and negative change, rather than the percentages. To see the extra columns that are available, right click the coloured header row of the table.
 
 ![Extra Table Columns for the {{Outcome}}s {{Report}}](13.4.0c.png)
 
-- To add a column to your table, click on it in the list. To remove it, go back to the list and untick.
+To add a column to your table, click on it in the list. To remove it, go back to the list and untick.
 
 ### Visualisation
 
-- There three different charts that you can use to show your {{outcome}}s data. 
-- To view any of the measures using one of these visualisations, click on the menu button to the left of it in the table, or right click the table row. This will bring up a menu:  
+There three different charts that you can use to show your {{outcome}}s data.  To view any of the measures using one of these visualisations, click on the menu button to the left of it in the table, or right click the table row. This will bring up a menu:  
 
-[The Visualisation Menu](13.4.0d.png)  
+![The Visualisation Menu](13.4.0d.png)  
 
-  - **Radar Chart**
+#### Radar Chart
   
   ![The Radar Chart](13.4.0e.png)
   
   This shows all of the measures for the {{outcome}} category, plotted by their average initial and final scores.
   
-  - **Infographic**
+#### Infographic
 
   ![The Infographic](13.4.0f.png)
  
   This is a visual depiction of the measure selected, using text and arrorws to demonstrate the changes.
  
-   - **Scatterplot**
+#### Scatterplot
    
    ![The Scatterplot](13.4.0g.png)
    

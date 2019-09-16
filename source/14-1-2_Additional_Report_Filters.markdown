@@ -1,4 +1,4 @@
-# 14.1.2 Additional {{Report}} Filters
+# 14.1.2  <i class="fa fa-chart-line"></i> Additional {{Report}} Filters
 
 > Every system has filters based on the custom fields. These can be found in the second 'Additional filters' tab
 

@@ -1,4 +1,4 @@
-# 14.4.2 {{Outcome}} {{Report}}s - Data Produced When Looking at 'Count Yes Responses'
+# 14.4.2  <i class="fa fa-chart-line"></i> {{Outcome}} {{Report}}s - Data Produced When Looking at 'Count Yes Responses'
 
 > If you have an {{outcome}} with yes/no responses, you can choose to count the number of 'yes' responses' given in a specific time period
 

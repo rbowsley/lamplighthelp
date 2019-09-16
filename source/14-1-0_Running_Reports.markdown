@@ -1,6 +1,6 @@
-# 14.1.0 Running {{Reports}}
+# 14.1.0 <i class="fa fa-chart-line"></i>  Running {{Report}}s
 
-> You can run all {{Lamplight}} {{report}}s from the main menu
+> You run all {{Lamplight}} {{report}}s from the main menu
 
 
 

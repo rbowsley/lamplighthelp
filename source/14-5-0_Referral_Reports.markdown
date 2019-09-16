@@ -1,4 +1,4 @@
-# 14.5.0 {{Referral}} {{Report}}s
+# 14.5.0  <i class="fa fa-chart-line"></i> {{Referral}} {{Report}}s
 
 > {{Referral}} {{report}}s allow you to count and summarise {{referral}}s within the timeframe you set
 

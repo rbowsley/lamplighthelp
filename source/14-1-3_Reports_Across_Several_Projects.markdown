@@ -1,4 +1,4 @@
-# 14.1.3 {{Report}}s Across Several {{Project}}s
+# 14.1.3  <i class="fa fa-chart-line"></i> {{Report}}s Across Several {{Project}}s
 
 > The '{{Project}}s' tab lets you run a single {{report}} across several different {{project}}s, combining the results
 

@@ -1,4 +1,4 @@
-# 14.2.0 Core {{Report}}s
+# 14.2.0  <i class="fa fa-chart-line"></i> Core {{Report}}s
 
 > Core {{report}}s are available on every system if these parts of {{Lamplight}} have been chosen in the global settings
 

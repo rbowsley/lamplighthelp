@@ -1,4 +1,4 @@
-# 14.4.3 {{Outcome}} {{Report}}s - Data Produced When Looking at a'Snapshot'
+# 14.4.3  <i class="fa fa-chart-line"></i> {{Outcome}} {{Report}}s - Data Produced When Looking at a'Snapshot'
 
 > A 'snapshot' gives you a chance to see average scores for the dates you are looking at rather than comparing them to see change over time
 

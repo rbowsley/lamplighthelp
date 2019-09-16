@@ -1,6 +1,6 @@
-# 14.0.0 {{Report}}s
+# 14.0.0 <i class="fa fa-chart-line"></i>  {{Report}}s
 
-> {{Report}}s in {{Lamplight}} give answers to 'how many' type questions, giving numerical summaries of the work that's been done and the  impact it's had
+> {{Report}}s in {{Lamplight}} give answers to 'how many' type questions, giving numerical summaries of the work that's been done and the impact it's had
 
 
 

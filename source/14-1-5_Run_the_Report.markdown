@@ -1,4 +1,4 @@
-# 14.1.5 Run the {{Report}}
+# 14.1.5  <i class="fa fa-chart-line"></i>  Run the {{Report}}
 
 > Once you have added the filters that you want to your {{report}}, click 'Run' at the bottom of any tab to get your data
 

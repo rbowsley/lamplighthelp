@@ -1,4 +1,4 @@
-# 14.1.7 Printing and Exporting {{Report}}s
+# 14.1.7  <i class="fa fa-chart-line"></i> Printing and Exporting {{Report}}s
 
 > Once you have run a {{report}}, you can download it as a spreadsheet, or open it in a printer-friendly format
 

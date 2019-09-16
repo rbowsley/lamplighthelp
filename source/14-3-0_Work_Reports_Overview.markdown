@@ -1,4 +1,4 @@
-# 14.3.0 Work {{Report}}s Overview
+# 14.3.0  <i class="fa fa-chart-line"></i> Work {{Report}}s Overview
 
 > If you need to report on the amount of {{work}} that you have been doing, a {{work}} {{report}} is the place to start
 
@@ -16,8 +16,8 @@ There are a number of options of how to present and analyse your data, in the '{
 
 Selecting row and column data enables you to segment your data by the characteristics of those attending (depending on the demographic information that you collect).
 
-For more information on choosing filters for your report, see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1).
-For more information on {{report}} presentation, see [14.1.4 {{Report}} Presentation}}](/help/index/p/14.1.4).
+For more information on choosing filters for your {{report}}, see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1).
+For more information on {{report}} presentation, see [14.1.4 {{Report}} Presentation](/help/index/p/14.1.4).
 
 
 ##### Tags

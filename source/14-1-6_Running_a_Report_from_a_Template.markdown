@@ -1,4 +1,4 @@
-# 14.1.6 Running a {{Report}} from a Template
+# 14.1.6 <i class="fa fa-chart-line"></i> Running a {{Report}} from a Template
 
 > If you run the same {{report}} on a regular basis, your system administrators can set up a template for it.  You will then be able to choose it from a list and run the {{report}} automatically
 
@@ -15,7 +15,7 @@ If there are {{report}}s that you need to run regularly, your System Administrat
 
 ![Running a {{Report}} Template](13.1.6b.png)
 
-- If you need to change any of the saved filters, you can do this as you would when creating a new {{report}}. This will not change the filters for the template itself.
+If you need to change any of the saved filters, you can do this as you would when creating a new {{report}}. This will not change the filters for the template itself.
 
 
 ##### Tags
