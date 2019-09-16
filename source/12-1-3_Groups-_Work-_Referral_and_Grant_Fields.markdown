@@ -8,7 +8,7 @@
 
 The fields in this tab allow you to filter for {{people}} or {{org}}s based on the {{work}} records in their profile. If you want to find {{people}} that have attended sessions based on dates, you first need to set the dates, then you need to specify the {{work area}}(s) you want to filter on. You can also choose to find {{people}} that have not attended at certain periods. So, for example:
 
-#### To identify {{user}}s attending at least one session of Life Skills after 1st April 2018 and before 31st March 2019:
+#### To identify {{user}}s attending at least one session of Life Skills after 1st April 2018 and before 31st March 2019
 - For Date 1 (this will be your 'from' date), choose 'Fixed date' from the drop-down and select 1st April 2018 as the 'value'. {{Lamplight}} will **include** the date that you choose in the search filter.
 - For Date 2 (your 'to' date) choose 'Fixed date' from the drop-down menu, then select 1st April 2019 as the 'value'. {{Lamplight}} will **not include** 'Date 2' in the search filter, so if you want records to 31st March, you have to enter the following day, 1st April.
 - Next go to the 'Number of records in profile **between** date 1 and 2' (the middle line from the next set of three). You are looking for people with at least one record between those dates, so choose 'At least' on the drop-down, then type '1' in the text box after it.
@@ -32,7 +32,7 @@ If you have added all the other filters that you need, and filled in the name an
 
 If you have added all the other filters that you need, and filled in the name and description on the first tab ('{{Group}} name'), scroll to the bottom of the page and click 'Save'.
 
-#### To identify new users - people attending the centre after 1st April 2019 that had never attended before then:
+#### To identify new users - people attending the centre after 1st April 2019 that had never attended before then
 
 Depending on your workflow, you can also use {{group}}s to show people you first worked with in a specific timeframe. This {{group}} includes {{people}} or {{org}}s who have a {{work}} record in the span of time that you're looking at, but do not have any {{work}} records before that point.
 
