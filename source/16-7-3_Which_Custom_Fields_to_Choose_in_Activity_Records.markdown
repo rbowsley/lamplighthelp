@@ -1,4 +1,4 @@
-# 16.7.3 Which Custom Fields to Choose in {{Activity}} Records
+# 16.7.3  <i class="fa fa-cogs"></i> Which Custom Fields to Choose in {{Activity}} Records
 
 > Custom tabs and fields can be added to {{activity}} records to allow you to capture additional information that you may need to record about what is happening
 
@@ -9,9 +9,9 @@ Before you decide which types of field to add you need to think carefully the in
 ### Reporting on Custom Fields
 There are a number of different ways in which custom fields in {{work}} records can be used to report on. Depending on the type of field that you choose you will be able to:
 
-- Filter {{report}}s: this allows you restrict the results you see based on the field. For example, if you have added a field called 'Team', with the options 'Youth', 'Older People' and 'Working Age Parents', you could then filter the {{report}} so that it only shows you the results for activity records which have chosen the 'Youth' team. (For more on filtering {{report}}s, see [13.1.1 {{Report}} Filters](/help/index/p/13.1.1).).
-- Use it for presenting {{report}}s: this allows you to show columns in a {{report}} using this field. So using the above example, you could run a {{report}} on the number of {{work}} sessions you've had in the last six months, and then choose to present it by your 'Team' field. This would then give you a column or row for each of the options in that field - 'Youth', 'Older People' and 'Working Age Parents', so that you could see the results for each different group at a glance. (For more on this see [13.1.4 {{Report}} Presentation](/help/index/p/13.1.4).)
-- For creating {{group}}s: again, using the above field example you can create an auto {{group}} to show you everyone who has attended a {{work}} session that was tagged with 'Older People' in the last six months. (For more on this see [11.1.2 Groups: {{User}}, {{Staff}} and Other Custom Fields](/help/index/p/11.1.2).)
+- Filter {{report}}s: this allows you restrict the results you see based on the field. For example, if you have added a field called 'Team', with the options 'Youth', 'Older People' and 'Working Age Parents', you could then filter the {{report}} so that it only shows you the results for activity records which have chosen the 'Youth' team. (For more on filtering {{report}}s, see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1).).
+- Use it for presenting {{report}}s: this allows you to show columns in a {{report}} using this field. So using the above example, you could run a {{report}} on the number of {{work}} sessions you've had in the last six months, and then choose to present it by your 'Team' field. This would then give you a column or row for each of the options in that field - 'Youth', 'Older People' and 'Working Age Parents', so that you could see the results for each different group at a glance. (For more on this see [14.1.4 {{Report}} Presentation](/help/index/p/14.1.4).)
+- For creating {{group}}s: again, using the above field example you can create {{auto group}}s to show you everyone who has attended a {{work}} session that was tagged with 'Older People' in the last six months. (For more on this see [12.1.2 {{Group}}s: {{User}}, {{Staff}} and Other Custom Fields](/help/index/p/12.1.2).)
 
 
 ### Types of Custom Field

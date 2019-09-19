@@ -1,6 +1,6 @@
-# 16.7.4 Adding and Editing Custom Tabs and Fields to {{Work}} and Other Records
+# 16.7.4  <i class="fa fa-cogs"></i> Adding and Editing Custom Tabs and Fields to {{Work}} and Other Records
 
-> It is possible to add additional tabs and fields to your {{work}}, {{outcome}} and other {{activity}} records through system administration
+> It is possible to add additional tabs and fields to your {{work}}, {{referral}} and other {{activity}} records through system administration
 
 
 
@@ -8,14 +8,14 @@ In the system administration menu page, there is a section called 'Manage Custom
 
 ![System Admin Adding Custom Fields to {{Activity}} Records](16.7.4b.png)
 
-Each type of record works on the same principle, with the example below being for {{work}} records.  
-The process is almost identical to adding custom tabs and fields on profiles.  
+Each type of record works on the same principle, with the example below being for {{work}} records.  The process is almost identical to adding custom tabs and fields on profiles.  
 
 
 ### Adding Fields to a {{Work}} Record
 - Go to 'Manage Custom Fields and Drop-down Lists -> {{Work}} Records Custom Tabs and Fields -> Manage custom tabs and fields on {{work}} records'.
-- You'll see three columns, with the first showing you a list of tabs available on your {{work}} records.  
-- Depending on your set-up you may see one or more of the three standard tabs on the {{work}} record (When and where, Attendance, Details).  This is where you have custom fields added to these tabs. You will not see the standard fields in these tabs.
+
+You'll see three columns, with the first showing you a list of tabs available on your {{work}} records.  Depending on your set-up you may see one or more of the three standard tabs on the {{work}} record (When and where, Attendance, Details).  This is where you have custom fields added to these tabs. You will not see the standard fields in these tabs.
+
 - Click on any tab on the left and you'll see the fields for that tab in the centre column.  
 - If you then click on a field, you'll see the field information, and options if applicable in the right column, as shown below.
 
@@ -23,8 +23,10 @@ The process is almost identical to adding custom tabs and fields on profiles.
 
 
 ### Creating a New Tab
+
 - Select 'Click here to add' at the bottom of the left-hand column.  
-- Fill in the details of the pop-up box:
+
+Fill in the details of the pop-up box:
    - Text: this will be the tab name.
    - What type of person is this for?: you can't edit this field - it is only applicable to custom tabs in profiles.
    - Restrict this field to managers/admins?:  although you can tick this field, it does not function in this record.
@@ -49,7 +51,7 @@ When you click on a tab in the left-hand column, the middle column will show you
 
 ![Adding a new field](16.7.2f.png)
 
-- A pop-up box will open. Complete the details with:
+A pop-up box will open. Complete the details with:
    - The title of the field: this is the text you will see next to the field in the new tab.
    - Which type of profiles it will be applicable to: no answer can be selected here, as records show all fields for all users.
    - The type of field required: for more on types of field see [16.7.3 Custom {{Work}} and Other Record Tabs and Fields](/help/index/p/16.7.3).
@@ -57,19 +59,20 @@ When you click on a tab in the left-hand column, the middle column will show you
    - Whether to restrict the field to Managers and Admins: although you can tick this field, it does not function in this record.
    - If you have more than one project, you have the option to share this new field across your projects.
    - If you have the Publishing Module, you can also specify whether data in this field should be published. See [28.1.0  Publishing Module Security](/help/index/p/28.1.0) for more information about the Publishing Module and the controls in place.
-   - Click to save. The third panel will update showing the information added. 
+   - Click to save. 
+   
+The third panel will update showing the information added. 
      
 
 #### Setting Options
    
-- In the right column, you’ll now see the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see.  
-- If you can enter options you’ll see a ‘click to add’ button, and a text box.
-- The easiest way to enter your options is using the text box at the bottom of the column. Type or paste your options in here, separated by semi-colons (no spaces), then click the 'Add' button below the box to save. 
+In the right column, you’ll now see the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see.   If you can enter options you’ll see a ‘click to add’ button, and a text box.
+
+The easiest way to enter your options is using the text box at the bottom of the column. Type or paste your options in here, separated by semi-colons (no spaces), then click the 'Add' button below the box to save. 
 
 ![Adding Options to a Field](16.7.2h.png)
 
-- It is also possible to add them one at a time by using  the ‘click to add’ button. 
-- You'll see your options appear in the list under 'Options'. 
+It is also possible to add them one at a time by using  the ‘click to add’ button.  You'll see your options appear in the list under 'Options'. 
 
 ![Final Option Text in Field](16.7.2i.png)
 
@@ -94,25 +97,25 @@ All records have the tabs 'Where and Where', 'Attendance', ( this may be called 
 
 ![System Admin - adding fields to system tabs](1221a.png)
 
-- {{Work}} records
-When and where
-Attendance
-Details
+#### {{Work}} records
+- When and where
+- Attendance
+- Details
 
-- {{Outcome}} records
-When and where
-Respondent (if you have this tab)
+#### {{Outcome}} records
+- When and where
+- Respondent (if you have this tab)
 
-- {{Referral}} records
-When and where
-Attendance (if you have this tab)
-Involving (if you have this tab)
-details
+#### {{Referral}} records
+- When and where
+- Attendance (if you have this tab)
+- Involving (if you have this tab)
+- details
 
-- {{Grant}} records
-When and where
-Attendance
-details
+#### {{Grant}} records
+- When and where
+- Attendance
+- details
 
 
 ##### Tags

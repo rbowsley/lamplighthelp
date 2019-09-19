@@ -1,4 +1,4 @@
-# 16.7.6 Troubleshooting Custom Tabs and Fields
+# 16.7.6  <i class="fa fa-cogs"></i> Troubleshooting Custom Tabs and Fields
 
 > If you have a question about editing or are having an issue with one of your custom tabs or fields, you can find the answer to common queries here
 
@@ -18,13 +18,16 @@
    
 ### Can I change the field type without losing my data?  
 
-   We do not recommend that you do this. You need to be careful about what you change it from and to. 
-There are two types of field which do translate well:  
+We do not recommend that you do this. You need to be careful about what you change it from and to.  There are some types of field which do translate well:  
       
    - if you have a single-select field which you change to a multi-select, Lamplight will be able to read the information and this will transfer without a problem. (This does not work the other way around - if you change a multi-select field to a single-select field then for any multi-responses already recorded only the first item selected will show in the field.  
-      
    -	if you change a small text field to a larger one, this just changes the box size and the text is undisturbed.
-   Issues happen when the type of information you are recording is changing. For example, if you change a free text field to a number box, Lamplight will not be able to read the original information in the same way, so any data the has been inputted to that time will not show.
+   - date type fields can be changed to other date type fields, although 'year' fields may cause problems.
+
+
+Issues happen when the type of information you are recording is changing. For example, if you change a free text field to a number box, Lamplight will not be able to read the original information in the same way, so any data the has been inputted to that time will not show.
+
+[Linking or unlinking existing fields](/help/index/p/16.7.1) with data in them will also cause problems and should be avoided.
    
 ### I've set up a new tab/field, but I can't see it when I look at a profile. Where's it gone?  
 
@@ -44,20 +47,14 @@ There are two types of field which do translate well:
       
       If the correct person or role types are not showing, click on either ‘Tab label’ (for tabs) or ‘Field name’ (for fields) to edit the settings. 
    
-   - If you have already selected which tabs to view in your personal settings, you will need to tick any new tabs before they will be visible in profiles.
+   - If you have already selected [which tabs to view in your personal settings](help/index/p/16.4.2), you will need to tick any new tabs before they will be visible in profiles.
    
    ![Selecting Tabs to View in Personal Settings](16.7.6c.png)
-   
-   - To do this:
-      - Go to admin -> system administration -> Customise Lamplight -> Change my personal settings.
-      - Scroll down the page to ‘Profile tab order’ (about halfway down).
-      - Find the tab and click in the box next to it to select. 
-      - Scroll to the bottom of the page and click ‘save’. 
-      - Press F5 to refresh your system for this change to take effect.
+
       
 ### I have a tab showing in profiles with no fields in it, but I can’t see it in system administration.
 
-   This is a ghost tab. This happens if you create a new tab, but then click away from the system admin page before adding any fields. It will show in profiles but it is not in the system admin list, so you can’t add fields or delete it. If you find that you have a ghost tab, please contact us (hello@lamplightdb.co.uk) and we will delete it for you.
+   This is a "ghost tab". This happens if you create a new tab, but then click away from the system admin page before adding any fields. It will show in profiles but it is not in the system admin list, so you can’t add fields or delete it. If you find that you have a ghost tab, please contact us (hello@lamplightdb.co.uk) and we will delete it for you.
    
    
 ##### Tags
