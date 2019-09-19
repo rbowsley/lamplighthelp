@@ -39,5 +39,22 @@ To view a {{grant}} record, right click on the row in the table showing the {{re
 - If you use {{linked case}}s in your system, you will also see various {{linked case}} options on this menu. For more on {{linked case}}s, see [9.0.0 {{Linked Case}}s](/help/index/p/9.0.0). 
 
 
-******* Download and print ******
-© 2019 GitHub, Inc.
+### Downloading and Printing the Table
+Underneath the table there are options to download and print it. 
+
+#### Downloading to a Spreadsheet
+
+Just above the table, make sure that the 'Show' drop-down is set to 'all'. 
+- Scroll to the bottom of the table and click the 'Download' button.  
+- Depending on your browser, your table may immediately open in a spreadsheet, or you may need to click on a 'Download' box at the bottom of the screen to open it.
+
+#### Opening Print View
+
+- Clicking the 'Print' button at the bottom of the table will open it in a new tab in a print-friendly format.  
+- Split print allows you to create multiple print-friendly tables split by whatever item you choose, for example {{workarea}}. Each one will open in a separate tab.
+
+See [3.5 Tables](/help/index/p/3.5.0) for more help on using tables.
+
+
+###### core module
+
