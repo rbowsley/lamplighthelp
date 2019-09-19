@@ -12,8 +12,8 @@ These records can be used in a number of different ways:
 Once you are using {{grant}} records, it is possible to use custom and template reports to show the amounts involved in the timescales you choose. For more information, see [14.7.0 {{Grant}} {{Report}}s](/help/index/p/14.7.0).
 
 - [11.1.0 Adding {{Grant}} Records](/help/index/p/11.1.0).
-- [11.2.0 {{Grant}}s Tab: Viewing Records for a Particular {{Person}} or {{Org]](/help/index/p/11.2.0).
-- [11.3.0 Vering all {{Grant}} Records](/help/index/p/11.3.0).
+- [11.2.0 {{Grant}}s Tab: Viewing Records for a Particular {{Person}} or {{Org](/help/index/p/11.2.0).
+- [11.3.0 Viewing all {{Grant}} Records](/help/index/p/11.3.0).
 
 
 ###### core module
