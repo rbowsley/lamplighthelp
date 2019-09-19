@@ -1,4 +1,4 @@
-# 16.4.4 Personal Settings - Communications
+# 16.4.4 <i class="fa fa-cogs"></i> Personal Settings - Communications
 
 > This section is for creating, editing and saving your email signature
 
@@ -13,7 +13,7 @@ Click the plus sign at the top right of the box to display full editing options,
 ![The Comms Signature Box Editing Toolbar](16.4.4b.png)
 
 
-Once you have clicked 'save' at the bottom of the page, this signature will automatically be added to emails, letters and SMS text messages when you set them up in {{Lamplight}}.
+Once you have clicked 'save' at the bottom of the page, this signature will automatically be added to emails, letters and SMS text messages when you create them in {{Lamplight}} (although you can remove the text).  It will show as a mail merge option when creating {{comm}}s.
 
 
 ###### core module

@@ -1,4 +1,4 @@
-# 16.5.4 Deleting a Database Operator
+# 16.5.4  <i class="fas fa-address-card"></i> Deleting a Database Operator
 
 > It is important to delete members of staff as database operators when they leave
 
@@ -14,5 +14,8 @@ When a database operator leaves your organisation you should to remove their acc
 
 ![Delete Database Operator Confirmation](16.5.4a.png)
 
+
+##### Tags
+GDPR
 
 ###### core module

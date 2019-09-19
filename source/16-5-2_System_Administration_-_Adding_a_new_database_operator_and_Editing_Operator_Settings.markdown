@@ -1,4 +1,4 @@
-# 16.5.2 System Administration - Adding a New Database Operator and Editing Operator Settings
+# 16.5.2  <i class="fas fa-address-card"></i> System Administration - Adding a New Database Operator and Editing Operator Settings
 
 > System Administrators can add new database operators to their system in the dtabase operators' table. They can also go back to edit their permission level and other details
 
@@ -10,7 +10,8 @@
 ### To Add a New Operator
 
 - Go to 'admin -> system administration -> Database Operators And Security -> Manage database operators.
-- The table on this page (see below) shows you all the operators currently in the system. Depending on how many you have, the table may go onto subsequent pages. From here you can add new operators, edit settings, change restrictions, lock, unlock or remove them.
+
+The table on this page (see below) shows you all the operators currently in the system. Depending on how many you have, the table may go onto subsequent pages. From here you can add new operators, edit settings, change restrictions, lock, unlock or remove them.
 
 ![Database Operators Table](16.5.2a.png)
 
@@ -20,10 +21,10 @@
 
 ![new database operator](150a.png)
 
-- Complete the form:
+Complete the form:
    - The email address will be the operator's log-in.
    - Choose the operator role (see [16.5.1 System Administration - Operator Permission Levels](/help/index/p/16.5.1).
-   - You can choose to copy personal settings from another database operator if you want to. Many of the things you take for granted about how your system looks and works are determined by these, including headers on profiles, a particular layout for tables in your system and the tabs that you see on your home page. If in doubt, copy settings from yourself. (See [16.4.0 Personal Settings: Customising {{Lamplight}}]9/help/index/p/16.4.0)).
+   - You can choose to copy personal settings from another database operator if you want to. Many of the things you take for granted about how your system looks and works are determined by these, including headers on profiles, a particular layout for tables in your system and the tabs that you see on your home page. If in doubt, copy settings from yourself. (See [16.4.0 Personal Settings: Customising {{Lamplight}}](/help/index/p/16.4.0)).
    - If you have multiple {{project}}s, tick the ones the operator will have access to. This does not share the operator's profile with these projects - that will need to be done separately - but it means that they will be able to view and edit information in them (depending on the access level). 
    - If you have log-in policies you can choose one here (see [16.5.5 Login Security Policies](/help/index/p/16.5.5)).
    - When you have finished, save.
@@ -36,6 +37,8 @@ If the new password does not arrive it is most likely to be an issue with the re
 - In the database operators' table (see above), click on the menu to the left the new operator (you can also bring this menu up by right clicking on the relevant row in the table). 
 - Choose 'Reset password'. The new password will be displayed in a pop-up box (it will also be emailed to the database operator.) 
 - You can write down this password or take a screenshot and share it as appropriate.
+
+The operator will need to change their password when they next login.
 
 ### Editing Existing Operators
 

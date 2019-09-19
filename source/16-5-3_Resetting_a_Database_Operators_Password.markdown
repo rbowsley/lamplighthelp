@@ -1,4 +1,4 @@
-# 16.5.3 Resetting a Database Operator's Password
+# 16.5.3 <i class="fas fa-address-card"></i>  Resetting a Database Operator's Password
 
 > It is possible for system and project administrators to request a new password for an operator, and to see it as it is reset
 
@@ -15,7 +15,7 @@ To ask for the password to be reset:
 
 ![Password Notification](16.5.3b.png)
 
-- This password will only be used once - when the database operator logs in they will be asked to reset it.
+This password will only be used once - when the database operator logs in they will be asked to reset it.
 
 
 ###### core module

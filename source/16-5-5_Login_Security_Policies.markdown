@@ -1,4 +1,4 @@
-# 16.5.5 Login Security Policies
+# 16.5.5  <i class="fas fa-address-card"></i> Login Security Policies
 
 > Login security policies limit when and from where operators may log in
 
@@ -10,12 +10,12 @@ Login security policies relate to the IP addresses that {{Lamplight}} can be acc
 - Go to ‘admin -> system administration -> Database Operators and Security -> Set up login security policies’.
 - You will see a screen like this:
 
-[Log-in Security Policies](16.5.5a.png)
+![Log-in Security Policies](16.5.5a.png)
 
-- Any policies that you already have will be at the top of the page (so in the example above we just have one - 'Main Office Mon-Wed).
+Any policies that you already have will be at the top of the page (so in the example above we just have one - 'Main Office Mon-Wed).
 - Click the ‘add new’ button at the bottom.
 - Give your login security policy a name.
-- If you have static IP addresses and want to restrict access to Lamplight to the ones you specify, you can enter multiple addresses in the 'Ip addresses to allow access from' box. Each one should be on a different row.  
+- If you have static IP addresses and want to restrict access to Lamplight to the ones you specify, you can enter multiple addresses in the 'Ip addresses to allow access from' box. Each one should be on a different row.  A static IP address means that it doesn't change; most consumer Internet services will use dynamic IP addressing, which means your address can change.  If this happens and you are using an IP restriction, you will no longer be able to log in.  Contact your Internet Service Provider to ask them about static IP addresses if you are not sure.
 - If you want to restrict operator access to specific days and times you can use the boxes underneath (times used are GMT/BST).
 
 ### Appying a Login Security Policy
@@ -25,11 +25,11 @@ Login security policies relate to the IP addresses that {{Lamplight}} can be acc
 - From the pop-up menu choose ‘Edit’.
 - In the next pop-up window, select the login security policy to apply from the drop-down list.
 
-[Applying a Log-in Security Policy](16.5.5b.png)
+![Applying a Log-in Security Policy](16.5.5b.png)
 
 - An operator trying to log in at a time, or from an IP address, that is not allowed will see a message saying that they cannot log in at present. 
 
-[Lockout Message](16.5.5c.png)
+![Lockout Message](16.5.5c.png)
 
 Why not watch our video demonstration? (Please note, the layout of the system administration page has changed since this video was recorded, but the process is the same).
 
@@ -39,5 +39,6 @@ Why not watch our video demonstration? (Please note, the layout of the system ad
 ##### Tags
 Advanced topics
 System admin
+GDPR
 
 ###### core module
