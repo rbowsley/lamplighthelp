@@ -1,4 +1,4 @@
-# 16.7.2 Adding and Editing Profile Custom Tabs and Fields
+# 16.7.2  <i class="fa fa-cogs"></i> Adding and Editing Profile Custom Tabs and Fields
 
 > Profile information for {{people}} and {{org}}s, for example demographics, is captured with custom tabs and fields
 
@@ -14,9 +14,11 @@
 
 ![Setting up custom fields and tabs](146a.png)
 
-- The left-hand panel lists the tabs currently set up. (There are some default tabs in profiles, 'Contact details' for example, which you can't edit. You will not see them in this list).
-- The central panel will list the fields available in whichever tab is highlighted. 
-- The right-hand panel will show details for the fields within that tab.
+The **left-hand panel** lists the tabs currently set up. (There are some default tabs in profiles, 'Contact details' for example, which you can't edit. You will not see them in this list).
+
+The **central panel** will list the fields available in whichever tab is highlighted. 
+
+The **right-hand panel** will show details for the fields within that tab.
 
 ![Cutsom Tabs Page](16.7.2a.png)
 
@@ -30,33 +32,34 @@
 
 ![Setting the tab name](16.7.2c.png)
 
-- Complete the pop-up box:
+Complete the pop-up box:
    - Text - this will be the title of the field that appears in the profile.
    - Type of {{person}} - you must choose what type or types of {{person}} this new field is for. If you do not choose anything here then the new tab will not be visible on any profiles.
    - Roles - you can also choose to limit this tab to {{people}}, {{org}}s or {{family}} (if they are used in your system) with particular roles.
    - Restrict the field - ticking this means that only operators with a Manager or Administration level of access will be able to see the field and its contents.
    - Projects - if you have more than one project in your system, you can choose to share this tab so that it is also visible in other projects. When tabs and fields are shared, it is possible to report information across projects.
-- Once you have finished, click the 'save' button in the bottom right corner. 
-- You will now see the details you’ve added in the middle box.
+
+Once you have finished, click the 'save' button in the bottom right corner. You will now see the details you’ve added in the middle box.
 
 ![New Tab Details](16.7.2d.png)
 
 **Whenever you create a new tab it is essential to add at least one field immediately, even if you later remove it. If you do not do this the tab will save, so it will show in the profile, but you will not be able to edit or delete it in system admin.**
 
- #### Adding Fields (the Middle Column)
+#### Adding Fields (the Middle Column)
    
-When you click on a tab in the left-hand column, the middle column will show you a list of the fields in that tab.
-      
-- To add a new field to a tab, click the 'click to add' button at the bottom of the column in the middle box. 
+When you click on a tab in the left-hand column, the middle column will show you a list of the fields in that tab.  To add a new field to a tab: 
+
+- click the 'click to add' button at the bottom of the column in the middle box. 
 
 ![Add a Field to a Tab](16.7.2e.png)
 
-- The box on the right-hand side of the screen will then open.
+The box on the right-hand side of the screen will then open.
 - In the right column, double click over the text 'Field name: click to add'.
 
 ![Adding a new field](16.7.2f.png)
 
-- A pop-up box will open. Complete the details with:
+A pop-up box will open. Complete the details with:
+
    - The title of the field (this is the text you will see next to the field in the new tab).
    - Which type of profiles it will be applicable to (both the type of {{person}} and the role. It is important that you fill these in, or the field will not be visible in any profiles.
    - The type of field required. For more on types of field see [16.7.1 Custom Fields in Profiles](/help/index/p/16.7.1).
@@ -70,22 +73,25 @@ When you click on a tab in the left-hand column, the middle column will show you
    
 #### Setting Options
    
-- In the right column, you’ll now see the options for your field.  (If not, click on the field name - the grey button in the middle column.)
+In the right column, you’ll now see the settings for your field (if you can't, click on the field name - the grey button in the middle column.)
+
 - This text in the right column will show you the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see.  
 - If you can enter options you’ll see a ‘click to add’ button, and a text box.
-- The easiest way to enter your options is using the text box at the bottom of the column. Type or paste your options in here, separated by semi-colons (no spaces), then click the 'Add' button below the box to save. 
+- The easiest way to enter your options is using the text box at the bottom of the column. Type or paste your options in here, separated by semi-colons (no spaces), then click the 'Add' button below the box to save them all. 
 
 ![Adding Options to a Field](16.7.2h.png)
 
-- It is also possible to add them one at a time by using  the ‘click to add’ button. 
-- You'll see your options appear in the list under 'Options'. 
+It is also possible to add them one at a time by using  the ‘click to add’ button. 
+
+You'll see your options appear in the list under 'Options'. 
 
 ![Final Option Text in Field](16.7.2i.png)
 
 Repeat this process until you have added all the tabs, fields and options that you require.
 
 #### Linked Fields
-You may want to link fields together so that you can enter multiple records under a single field (for more on this see [16.7.1 Custom Fields in Profiles](/help/index/p/16.7.1)). Remember, if you do this you will not be able to use the data in the linked fields for reporting, creating {{group}}s or {{group}} data views. This is most suitable for historic information you need to hold but do not need to report on, such as previous addresses.
+
+You may want to link fields together so that you can enter multiple records under a single field (for more on this see [16.7.1 Custom Fields in Profiles](/help/index/p/16.7.1)). Remember, if you do this you will not be able to use the data in the linked fields for reporting, creating {{group}}s or {{group}} data views. This is most suitable for historic information you need to hold but do not need to report on, such as previous addresses, or other notes that are required for day-to-day work, but do not need to be analysed or filtered.
 
 - Create the fields you wish to link on the same tab, and make sure that they are next to one another in the correct order. 
 - Select them both. To do this, click and hold the left mouse button to the left of the first field you want to link. A small red rectangle will appear. 
@@ -94,8 +100,10 @@ You may want to link fields together so that you can enter multiple records unde
 ![Adding linked fields part 2](146h.png)
 
 - When you have selected all the fields you want to link together, release the left mouse button. When you do this the links will be saved, and the background colours change to show this.
-- You can create several groups of linked fields on the same tab. These links are indicated by the different background colours of the fields.
-- If you wish to remove a link from fields in a tab, click the left mouse button and drag the red rectangle back over the group of linked fields. This will remove the link.
+
+You can create several groups of linked fields on the same tab. These links are indicated by the different background colours of the fields.
+
+If you wish to remove a link from fields in a tab, click the left mouse button and drag the red rectangle back over the group of linked fields. This will remove the link.
 
 ### Changing the Order of Fields in a Tab
 
@@ -123,7 +131,7 @@ To edit a field option:
 - Double click on the text of the option, , e.g. 'Female'. This will open up the dialogue box.
 - Make the changes that you need, then press 'enter' on your keyboard to save. 
  
- ### Deleting Tabs, Fields and Options
+### Deleting Tabs, Fields and Options
  
  To delete any tab, field or option:
  

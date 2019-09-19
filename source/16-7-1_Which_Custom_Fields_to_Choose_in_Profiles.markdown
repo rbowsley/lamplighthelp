@@ -1,4 +1,4 @@
-# 16.7.1 Which Custom Fields to Choose in Profiles
+# 16.7.1  <i class="fa fa-cogs"></i> Which Custom Fields to Choose in Profiles
 
 > It is important to think about what type of field you need - if it is just for qualitative information, or whether it is something that you will need to use for reporting in the future
 
@@ -12,9 +12,8 @@ There are a number of different ways in which custom fields in profiles can be u
 - Use it for presenting {{report}}s: this allows you to show columns in a {{report}} using this field. If you have a demographic field, for example gender, you could run a report on the number of {{work}} sessions you've had in the last six months, and then choose to present it by your 'Gender' field. This would then give you a column or row for each of the options in that field so that you could see the results for each different group at a glance. (For more on this see [13.1.4 {{Report}} Presentation](/help/index/13/1/4).)
 - For creating {{group}}s: again, using the above field example you can create an auto {{group}} with gender as a filter. (For more on this see [11.1.3 {{Group}}s: {{Work}}, {{Referral}} and {{Grant}} Fields](/help/index/p/11.1.3)).
 - Add as a column or filter records in a table: you can view tables of records from the main menu (to find out more please see [7.3.0 Viewing All {{Work}} Records](/help/index/p/7.3.0)). In this example, you could use the search bar above the table to add in a column for each of the options.
-There are a number of different ways in which custom fields in profiles can be used for reporting. 
 
-The table below gives details for each type of field. 
+There are a number of different ways in which custom fields in profiles can be used for reporting.  The table below gives details for each type of field. 
 
 
 | Field name | Description |For Filtering {{Report}}s | For Presenting {{Report}}s | For Creating {{Group}}s | As a {{Group}} Data View Column |
@@ -35,7 +34,7 @@ The table below gives details for each type of field.
 | Year selector | Choose just the year from a drop-down | No | Yes | Yes | Yes |
 | Radio buttons | Select one from a range of options | No | Yes | Yes | Yes |
 | Checkboxes | Select multiple options using tick boxes | No | Yes | Yes | Yes |
-| Charity number lookup | enter a Charity Commission registered number and Lamplight will add a link to their page on the Charity Commission website | NO | No | Yes | Yes |
+| Charity number lookup | enter a Charity Commission registered number and Lamplight will add a link to their page on the Charity Commission website | No | No | Yes | Yes |
 | Twitter name | A text box that will let you look up their recent tweets | No | No | Yes | Yes |
 | Web address | For additional websites - also providing a link to the site | No | Yes | Yes | Yes |
 

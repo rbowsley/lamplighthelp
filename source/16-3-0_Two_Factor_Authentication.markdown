@@ -45,5 +45,6 @@ To verify which operators have 2FA enabled:
 
 ##### Tags
 Advanced topics
+GDPR
 
 ###### core module

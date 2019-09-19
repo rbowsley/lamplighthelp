@@ -11,7 +11,7 @@
 - When a work record is saved, the {{workarea}} and {{subworkarea}}s selected within that record are saved with it.  
 - If you edit the {{workarea}} or {{subworkarea}} in system administration this will change the {{workarea}} or {{subworkarea}} in all the records where the  original one was recorded. For example, if you edit Counselling so that it is now Sports, every record that had a {{workarea}} of Counselling will now have one of Sports.  
 - If you edit the name, you will no longer be able to filter or report on the previous {{workarea}}. As in the above example, the list of filters for {{report}}s or {{group}}s will show Sports, not Counselling. 
-- If you delete a {{workarea}} or {{subworkarea}} you will not be able to filter by it for {{report}}s, {{group}}s or when viewing {{activity}} records. However, if you run a report showing all {{work}} then choose to present it by {{workarea}} or {{subworkarea}}, the deleted ones will still be shown in the table (providing there is data recorded to show). (For more on reporting, see [13.0.0 Reporting](/help/index/p/13.0.0), and for {{group}}s see [11.0.0 {{Group}}s](/help/index/p/11.0.0).)
+- If you delete a {{workarea}} or {{subworkarea}} you will not be able to filter by it for {{report}}s, {{group}}s or when viewing {{activity}} records. However, if you run a report showing all {{work}} then choose to present it by {{workarea}} or {{subworkarea}}, the deleted ones will still be shown in the table (providing there is data recorded to show). (For more on reporting, see [13.0.0 Reporting](/help/index/p/13.0.0), and for {{group}}s see [11.0.0 {{Group}}s](/help/index/p/11.0.0).). 
 - For this reason we suggest not removing work areas until then end of your reporting period.
 - When you delete a {{workarea}} you are only deleting the category, not any of the historic work records related to it.
 
@@ -33,7 +33,7 @@
 - Always create and save your {{workarea}} so that it appears in bold before adding the {{subworkarea}}s below it. 
 - We would recommend that colours are added to {{workarea}}s after the headings have been entered. To do this,  double-click over 'Background colour' and move the cursor around the colour pad. When you have the colour you would like, press 'save change'.
 
-[Adding Colour to a {{Workarea}}](16.6.1b.png)
+![Adding Colour to a {{Workarea}}](16.6.1b.png)
  
 ### Editing {{Workarea}}s
 Before editing or deleting {{workarea}}s please see the notes above. As a general rule, you should only change the name of the {{workarea}} if the meaning is staying the same, for example due to a spelling error or a re-brand. 
@@ -51,7 +51,7 @@ You can delete a whole {{workarea}} with all its related {{subworkarea}}s in one
 - Drop it in the box. (If you have just created the {{workarea}} you will need to leave this page and return before you can delete it).
 - This is now deleted. You do not need to do anything else, but it will continue to show in the grey box until you leave this page and re-open it. 
 
-[Deleted {{Workarea}}](16.6.1c)
+![Deleted {{Workarea}}](16.6.1c)
 
 
 ###### core module
