@@ -1,4 +1,4 @@
-# 60.0.0 {{Grant}} Records
+# 11.0.0 {{Grant}} Records
 
 > {{Grant}} records in Lamplight allow you to record money coming into your organisation
 
