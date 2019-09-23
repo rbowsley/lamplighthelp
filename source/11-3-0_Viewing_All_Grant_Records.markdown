@@ -1,4 +1,4 @@
-# 60.3.0 Viewing All {{Grant}} Records
+# 11.3.0 Viewing All {{Grant}} Records
 
 > You can open up a table from the main menu which will show you all the {{grant}} records recorded in {{Lamplight}}. You can also use filters to search for the ones you need
 
@@ -11,7 +11,7 @@
 
 You will see the following screen:
 
-![{{Grant}} records list](59a.png)
+![{{Grant}} records list](60.3.0a.png)
 
 The table shows all {{grant}} records occurring within a set date range ordered by most recent date to oldest (that is the date saved in the record, not the date that they were entered onto the system). The default range of dates shown (for example, all records from two months in the past to two months in the future) can be set in your 'Personal Settings', and can be different for each individual. For more on this see [16.4.3 Personal Settings: Default Values for Dates on Lists](/help/index/p/16.4.3). 
 
@@ -19,11 +19,13 @@ The table shows all {{grant}} records occurring within a set date range ordered 
 
 You can choose which columns you see in the table by right clicking in the coloured header row.  This will bring up a list of all the available columns. If there is a tick next to a column then it will be visible in the table. Unticked items are hidden.  
 
+![{{Grant}}s Table Menu](60.3.0b.png)
+
 - You can change this by clicking to tick or untick the column you wish to show or hide. 
 - If you want to make that change the default view, right click again on the header row, and choose 'Save table columns layout' from the bottom of the list. You will now see your chosen columns when you run this type of table. (If you have added additional columns from the 'Additional data columns to display' view, see below, these will also be saved.) This only affects you, and not the rest of your team.  
 - Choose 'Reset table columns layout' to return to the standard system view. 
 
-![Saving Table Column Layout{{Grant}} Records](7.3.0a.png)
+![Saving Table Column Layout{{Grant}} Records](60.3.0c.png)
 
 ### The Table Search Bar
 
@@ -33,7 +35,7 @@ Above the table is a bar marked 'Search'. If you click on this then you will fin
 
 The top section gives you filters that you can use to narrow down the selection of {{grant}} records you see. 
 
-![Searching for particular {{grant}} records](7.3.0b.png)
+![Searching for particular {{grant}} records](60.3.0d.png)
 
 - Date and time. You can choose the date range that you want the records to cover.
 - {{Workarea}}. You can restrict the records to specific {{workarea}}s and {{subworkarea}}s. 
