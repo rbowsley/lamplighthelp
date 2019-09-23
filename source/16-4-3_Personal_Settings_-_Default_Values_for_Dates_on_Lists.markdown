@@ -1,4 +1,4 @@
-# 16.4.3 <i class="fa fa-cogs"></i> Personal Settings - Default Values for Dates on Lists
+# 16.4.3 <i class="fas fa-tools"></i> Personal Settings - Default Values for Dates on Lists
 
 > This section allows you to set the default date-range of {{activity}} records that will be displayed in a table view. You can also change some other default options for records here, such as the amount of time given for a {{work}} record
 

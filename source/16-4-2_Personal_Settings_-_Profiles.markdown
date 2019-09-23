@@ -1,4 +1,4 @@
-# 16.4.2 <i class="fa fa-cogs"></i> Personal Settings - Profiles
+# 16.4.2 <i class="fas fa-tools"></i> Personal Settings - Profiles
 
 > This section allows you to customise how information is displayed when you are looking at a profile, for example setting up a summary tab, header bars, and deciding the tabs you can see and which order they are in
 

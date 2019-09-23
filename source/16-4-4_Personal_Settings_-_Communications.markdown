@@ -1,4 +1,4 @@
-# 16.4.4 <i class="fa fa-cogs"></i> Personal Settings - Communications
+# 16.4.4 <i class="fas fa-tools"></i> Personal Settings - Communications
 
 > This section is for creating, editing and saving your email signature
 

@@ -56,7 +56,7 @@ The details you will need are:
    - Authentication: login
    - SSL type: TLS
    - Username: [your email address]
-   - Password: Your Gmail / Google password.
+   - Password: Your Gmail / Google password
 
 Save the changes.  If you’re setting up each operator individually, you need to repeat this for each operator.
 
@@ -66,5 +66,6 @@ Save the changes.  If you’re setting up each operator individually, you need t
 
 There are some limits on how many emails you can send with Gmail. The current limits are set out here: [https://support.google.com/a/answer/166852?hl=en](https://support.google.com/a/answer/166852?hl=en)
 
+If you need to, you can use MailChimp with Lamplight to send bulk emails. See [21.2.0 {{Comm}}s: Linking with Mailchimp](/help/index/p/21.2.0) for more details. 
 
 ###### core|comms module

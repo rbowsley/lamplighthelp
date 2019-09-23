@@ -1,4 +1,4 @@
-# 16.12.1 Global Settings: {{People}} and {{Org}}s
+# 16.12.1  <i class="fas fa-tools"></i> Global Settings: {{People}} and {{Org}}s
 
 > The '{{People}} and {{org}}s' tab contains options concerning how to record information about {{people}} and relationships in profiles, how the search function works and displays results, and how new profiles are created
 
@@ -9,7 +9,7 @@
 
 #### Do you want to keep {{user}} names anonymously?   
 
-   If this option is not enabled, the name is a required field for creating a {{user}} profile. With this option enabled, {{user}} profiles can be created without entering a name. Profiles can be identified by their lamplight ID numbers, which are automatically assigned. They can still be created with names as well, so it is possible to have a mixture of profiles that are and are not anonymous.
+   If this option is not enabled, the name is a required field for creating a {{user}} profile. With this option enabled, {{user}} profiles can be created without entering a name. Profiles can be identified by their {{Lamplight}} ID numbers, which are automatically assigned. They can still be created with names as well, so it is possible to have a mixture of profiles that are and are not anonymous.
 
 #### Do you want to store middle names?  
 
@@ -25,19 +25,17 @@
 
    ![Default Contact when Adding a Relationship](16.12.1a.png)
  
-   For example, if you want general communications with an {{org}} to be addressed to the Receptionist, you need to tick this box when you link the Receptionist’s profile to the {{org}} profile. 
-
-   We would advise you to only have one profile set as the default contact for each {{org}}, otherwise the system will not always make the desired selection when addressing communications. 
+   For example, if you want general communications with an {{org}} to be addressed to the Receptionist, you need to tick this box when you link the Receptionist’s profile to the {{org}} profile.  We would advise you to only have one profile set as the default contact for each {{org}}, otherwise the system will not always make the desired selection when addressing communications. 
 
    Note that this option only takes effect when the setting ‘Do you want to use relationships between {{people}} in {{work}} and other records?’ is enabled (see below).
 
 #### Do you want to be able to add new profiles from the relations tab?  
 
-   This option enables you to create profiles using the ‘Find {{people}}’ box when adding relationships to profiles. If the {{person}} or {{org}} that you need to link to does not have a profile, you can enter the name in the 'Find people' box as you are creating the relationship. The new profile will then be created using just this name. You will need to navigate to the profile afterwards to update the profile with other details. It will automatically have been created as a {{person}} who is a {{user}}, so if this is not their role type you can change it on the profiles 'Contact details' tab.
+   This option enables you to create profiles using the ‘Find {{people}}’ box when adding relationships to profiles. If the {{person}} or {{org}} that you need to link to does not have a profile, you can enter the name in the 'Find people' box as you are creating the relationship. The new profile will then be created using just this name. You will need to navigate to the profile afterwards to update the profile with other details. It will automatically have been created as a {{person}} who is a {{user}}, so if this is not their role type you can change it on the their 'Contact details' tab.
 
    If this option is enabled and you create a profile in this way, you will be asked to confirm that this is what you intended:
 
-   [Creating a New Profile Confirmation](16.12.1b.png)
+![Creating a New Profile Confirmation](16.12.1b.png)
  
 #### Do you want to use relationships between {{people}} in {{work}} and other records?   
 
@@ -53,7 +51,7 @@
 
    Lamplight has two types of profiles enabled by default: ‘{{person}}’ and ‘{{org}}’. If you do not need to use both, this is where you can disable the type you don’t need.
 
-   In addition, you can enable ‘family’ profiles. These can be useful if you need to record specific details about a family as well as the individuals in that family. For example, whether the family has access to a car, or details of their immigration status or housing situation. If you do decide to use family profiles, you may also want to link family members to the family profile using relationships.
+   In addition, you can enable ‘family’ profiles. These can be useful if you need to record specific details about a family as well as the individuals in that family. For example, whether the family has access to a car, or details of their immigration status or housing situation. If you do decide to use family profiles, you may also want to link family members to the family profile using relationships.  Note that ther term 'family' can be [translated](/help/index/p/16.16.0) if needed, so they don't have to be families - this is just the default terminology.
 
 #### What roles may different {{people}} or {{org}}s have?   
 
@@ -69,10 +67,14 @@
 
 #### How to check for duplicates when entering new {{people}}?    
 
-   This option determines how the system searches for similar profiles to prevent the creation of duplicates. The options are shown below.
+   This option determines how the system searches for similar profiles to prevent the creation of duplicates. The options are:
+   
+   - Names which sound similar but may be spelled differently.  This can help catch typos or different spellings (e.g. Claire, Clare, Clair) but expects English words, so detection of duplicates from other languages may not work as effectively.  This is the default and will generally be the best option.
+    - Names which contain other names.  This will search the full names for your new profile name
+	- Identical names.  Will search (non case sensitively) for exactly the same name in your system.
+	
+If you have the ['my user restriction'](/help/index/p/16.12.6) duplicates will still be detected, but operators affected will not be able to resolve it as they won't have access to the existing possible duplicates.
 
-![How to Search for Duplicates](16.12.1c.png)
- 
 #### Do you want to enable autosave on profile custom tabs?   
 
    This option can be useful if you often forget to save the information you have entered into custom profile tabs before you leave the page. It will save automatically in this case. Be careful enabling this option though, because any information you delete or overwrite will be lost automatically, without requiring you to click the save button. There is no way to cancel or undo once it has autosaved.
@@ -118,14 +120,16 @@
 
    You can change this so that additional searches will be carried out if there are fewer than three results, for example. By putting a larger number here, {{Lamplight}} will search for more records, but searching will be slower.
 
-   The top-right search bar works in the following way:
+The top-right search bar works in the following way:
     - If you enter a number, it will search for profile IDs, {{work}}/{{referral}}/{{outcome}} IDs, or case IDs.
     - If you enter an email address, it will search email addresses.
-    - If you enter a date, it will search date fields in profiles.
-    - If it looks like a postcode, it will search in the postcode field.
+    - If you enter a date, it will search custom date fields in profiles (so you can search by date of birth, for example)
+    - If your search term looks like a UK postcode, it will search in the postcode field.
     - If you enter a series of letters, it will search full names.
+
+Once this first search is done:
     - If the number of results is below the limit set in this configuration option, it will then search the Alternative Name field in profiles.  
-    - If the number of results is still below this limit, it will search for names that sound like the search term provided (using the Metaphone algorithm).
+    - If the number of results is still below this limit, it will search for names that sound like the search term provided.
 
 
 ### Adding New Profiles

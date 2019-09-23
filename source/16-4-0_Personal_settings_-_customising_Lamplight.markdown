@@ -1,4 +1,4 @@
-# 16.4.0  <i class="fa fa-cogs"></i> Personal Settings - Customising {{Lamplight}}
+# 16.4.0  <i class="fas fa-tools"></i> Personal Settings - Customising {{Lamplight}}
 
 > Each database operator has the ability to customise aspects of {{Lamplight}} to fit their work flow. The changes they make will not affect anyone else
 

@@ -1,4 +1,4 @@
-# 16.12.7 Global Settings: Staff Module
+# 16.12.7 <i class="fas fa-tools"></i> Global Settings: Staff Module
 
 > You will only see this tab on your system if you have the Staff Management Module. The settings here relate to how timesheets are handled
 

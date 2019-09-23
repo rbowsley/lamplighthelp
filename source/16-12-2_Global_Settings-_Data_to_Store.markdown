@@ -1,4 +1,4 @@
-# 16.12.2 Global Settings: Data to Store
+# 16.12.2 <i class="fas fa-tools"></i> Global Settings: Data to Store
 
 > The 'Data to store' tab contains options relating to the types of records you want to create and what information you would like to include
 
@@ -6,36 +6,26 @@
 
 See below for explanations of the different fields:
 
+### {{Message}}s
+
 #### Do you want to use {{message}}s at all?
 
-   {Message}}s are an optional function in {{Lamplight}}. They are not used for reporting but can be a useful way of keeping track of things that need to be done.
+   {{Message}}s are an optional function in {{Lamplight}}. They are not used for reporting but can be a useful way of keeping track of things that need to be done.
 
    {{Message}}s are associated with a date and time, assigned a category and/or flag and can be marked as complete, along with a date and time, when accomplished. To add, edit and delete flag and category types, go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists -> {{Message}}s'.
 
    {{Message}}s are also linked to profiles and can be viewed directly in a profile’s ‘{{Message}}s’ tab, (you will only see this if the option is selected in your system).
 
-   {Message}}s appear in a table, such as the one below. As this {{message}} has been associated with a database operator, it is showing up in the ‘{{Message}}s’ tab on their homepage.
+   {{Message}}s appear in a table, such as the one below. As this {{message}} has been associated with a database operator, it is showing up in the ‘{{Message}}s’ tab on their homepage.
  
    ![{{Message}}s Table](16.12.2a.png)
 
-#### Do you want to allow bulk updating of the attendance table in {{work}} and other records?  
 
-   When adding profiles to the attendance table in a {{work}} record, {{referral}} record or {{outcome}} record, you must usually specify attendance type and role for each profile, as well as adding any notes.
-
-   With this option enabled, there is an additional row in the table that allows you to edit these fields for all the visible rows of the attendance table at once.
-
-   ![Bulk Update Attendance Table](16.12.2b.png)
-
-#### Do you want to allow adding new service user profiles from {{work}}, {{referral}} etc. records, even if you have profile essential fields enabled (see previous tab)? 
-
-   If you have specified essential fields that must be completed when adding profiles, it is not usually possible to create new profiles from within a {{work}}, {{referral}} or {{outcome}} record. This is because profiles created in this way will not have the essential fields completed was you add them.
-
-   Enabling this option will mean that profiles can be created in the attendance table of {{activity}} records even though they will  not have all the essential information completed at that time.
-
-   If you want to use this option, it is important to remember that you will need to go back to complete the essential information for these profiles once you have finished creating the {{activity}} record.
-   
 
 ### {{Work}} Records
+
+   
+
 
 #### Do you want to store {{work}} records? 
 
@@ -47,7 +37,7 @@ See below for explanations of the different fields:
 
    When entering {{work}} records in {{Lamplight}}, there is a default duration of sixty minutes. This means that when you enter the  start time for a {{work}} record, the end time is automatically set to sixty minutes later (you can always edit this to the actual end time as needed). 
 
-   If you usually see clients for a set amount of time that it not sixty minutes, changing this setting will reduce the amount of data entry you need to do for each {{work}} record. For example, if a typical appointment within your organisation lasts thirty minutes, it makes sense to change this setting to thirty.
+   If you usually see clients for a set amount of time that it not sixty minutes, changing this setting will change the amount of data entry you need to do for each {{work}} record. For example, if a typical appointment within your organisation lasts thirty minutes, it makes sense to change this setting to thirty.
 
 #### Do you want to use {{message}}s with {{work}} records?   
 
@@ -68,7 +58,7 @@ See below for explanations of the different fields:
  
    ![Add to Diary Tickbox](16.12.2c.png)
  
-   Note that if you enable this, operators will be able to create {{work}} records that do not show on the home page diary, but these records remain accessible to all operators as normal (for example in {{work}} > view > {{work}}) so this feature does not restrict access to information.
+   Note that if you enable this, operators will be able to create {{work}} records that do not show on the home page diary, but these records remain accessible to all operators as normal (for example in {{work}} > view > {{work}}) so this feature does not restrict access to information - it is not a security feature.
 
 #### Do you want plain text or rich text boxes for summary, description and follow up?    
 
@@ -79,6 +69,24 @@ See below for explanations of the different fields:
    If you don’t require these formatting options, this option changes these to plain text boxes instead, as in the example below.
 
    ![Plain Text](16.12.2e.png)
+   
+   
+
+#### Do you want to allow bulk updating of the attendance table in {{work}} and other records?  
+
+   When adding profiles to the attendance table in a {{work}} record, {{referral}} record or {{outcome}} record, you must usually specify attendance type and role for each profile, as well as adding any notes.
+
+   With this option enabled, there is an additional row in the table that allows you to edit these fields for all the visible rows of the attendance table at once.
+
+   ![Bulk Update Attendance Table](16.12.2b.png)
+
+#### Do you want to allow adding new service user profiles from {{work}}, {{referral}} etc. records, even if you have profile essential fields enabled (see previous tab)? 
+
+   If you have specified essential fields that must be completed when adding profiles, it is not usually possible to create new profiles from within a {{work}}, {{referral}} or {{outcome}} record. This is because profiles created in this way will not have the essential fields completed was you add them.
+
+   Enabling this option will mean that profiles can be created in the attendance table of {{activity}} records even though they will  not have all the essential information completed at that time.
+
+   If you want to use this option, it is important to remember that you will need to go back to complete the essential information for these profiles once you have finished creating the {{activity}} record.
 
 
 ### {{Outcome}} Records
@@ -116,7 +124,7 @@ See below for explanations of the different fields:
 
 ### {{Referral}} Records
 
-#### Do you want to store {{referral}} details?**   
+#### Do you want to store {{referral}} details?
 
    {{Referral}} records are one of the core types of information that can be recorded in {{Lamplight}}. In their simplest form, they track who has been referred, who has referred them and who they have been referred to, along with {{referral}} reason, additional notes and details of the date, time and relevant {{work}} area. They can also be configured to record different ways in which one {{person}} is directed to another contact or service, for example signposting. If you do not require this type of information to be recorded in {{Lamplight}}, you can disable the functionality with this option.
 
@@ -150,6 +158,8 @@ See below for explanations of the different fields:
 
 ### {{Eval}} Records
 
+If you have the {{eval}} module these options will apply:
+
 #### Do you want to use {{message}}s with {{eval}} records?   
 
    As with {{work}} records, {{outcome}} records, {{referral}} records and grant records, you can choose whether to enable {{message}}s with {{eval}} records. Disabling this option will prevent the ‘{{Message}}s’ tab from appearing when entering {{eval}} records.
@@ -165,4 +175,4 @@ See below for explanations of the different fields:
    As with {{referral}} records, you can choose to specify a ‘date to’ as well as a ‘date from’ for {{eval}} records, allowing them to last for a specific duration rather than being recorded as a single point in time.
 
 
-###### core system
+###### core|eval system
