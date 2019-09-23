@@ -1,4 +1,4 @@
-# 60.2.0 The {{Grant}}s Tab: Viewing Individual {{Grant}} Records
+# 11.2.0 The {{Grant}}s Tab: Viewing Individual {{Grant}} Records
 
 > The '{{Grant}}s' tab in a profile shows the detail of the {{grant}} records held for that {{person}} or {{org}}
 
