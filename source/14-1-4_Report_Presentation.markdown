@@ -61,8 +61,6 @@ As mentioned above, if you are specifying the column data that you want to see i
 
 You may see some more options here - these relate to custom fields that you have in your records.
 
-For more on this, see our 'Report Presentation' video.
-
 
 ###### core module
 
