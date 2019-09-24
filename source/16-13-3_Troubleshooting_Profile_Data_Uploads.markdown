@@ -1,4 +1,4 @@
-# 16.13.3 Troubleshooting Profile Data Uploads
+# 16.13.3 <i class="fas fa-exchange-alt"></i> Troubleshooting Profile Data Uploads
 
 > If your import is not working, there are a number of simple checks you can make
 
@@ -8,11 +8,11 @@ If the upload is not working, you can check the following:
 
 - All column names must exactly match field names in Lamplight. If a field has not been successfully matched, see if you can identify a difference between the column name in your spreadsheet and the field name in Lamplight.
 - Open the .csv file using a basic text editor (such as Notepad in Windows or TextEdit on a Mac) and see what has been saved. This can help to identify a difference in the actual text of the file and what is being displayed in Excel.
-- If date columns do not match or are different when viewing the .csv as plain text, click in the cell in Excel and check what it shows you. The cell format may need to be changed to 'Text' to avoid the date being formatted differently.
-- Occasionally a translation in the system could affect the name used to import (for example, if ‘Last name’ in your system has been renamed to ‘Family name’). Check in Admin > System Administration > Customise Lamplight > change terms used in Lamplight for en_GB and use the original, untranslated terms.
+- If date columns do not match or are different when viewing the .csv as plain text, click in the cell in Excel and check what it shows you. The cell format may need to be changed to 'Text' (in Excel, using a formula, not just formatting as text) to avoid the date being formatted differently.
+- Occasionally a translation in the system could affect the name used to import (for example, if ‘Last name’ in your system has been renamed to ‘Family name’). Check in Admin > System Administration > Customise Lamplight > change terms used in Lamplight for en_GB and use the original, untranslated terms.  Your data file should include the untranslated field names (the [built-in ones are listed in section 16.13.1](/help/index/p/16.13.1)).
 
 If you are seeking to upload to existing profiles:
-- Ensure that the profile ID numbers have been clearly matched to the correct profiles.
+- Ensure that the profile ID numbers have been matched to the correct profiles.
 - Check that the selected profile type (e.g. {{person}}, {{org}} or {{family}}) and role (e.g. {{user}}, {{staff}} or {{volunteer}}) are the same as the type and role of the profiles to which you are uploading data.
 
 ### File Could Not Be Parsed Properly Error

@@ -1,4 +1,4 @@
-# 16.18.0 Search Indexing
+# 16.18.0  <i class="fab ha-searchengin"></i>  Search Indexing
 
 > You may occasionally need to rebuild your search index to look for the profile and activity record information that you need
 
@@ -10,8 +10,7 @@ When you search for information using the search bar in the top right corner of 
 
 ![Rebuild Free Text Search](16.18.0a.png)
 
-- You will see the whirring circle in the top right of the page to show that {{Lamplight}} is working on this.
-- Once it has finished a message will appear to show that the index has been updated.
+You will see the whirring circle in the top right of the page to show that {{Lamplight}} is working on this.  Once it has finished a message will appear to show that the index has been updated.
 
 ![Search Index Updated Message](16.18.0c.png)
 
