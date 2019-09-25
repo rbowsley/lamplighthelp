@@ -1,6 +1,6 @@
 # 23.5.0 {{Eval}}s Direct: Working with Existing Campaigns
 
-> Once you have set up a campaign, it is possible to go back to view, edit and delete it
+> Once you have set up a campaign, you can view, edit some settings, or delete it
 
 
 
@@ -12,7 +12,7 @@ To see a table of your existing campaigns:
 
 ![DataDirect Search Bar](23.5.0a.png)
 
-- The 'Search' bar also allows you to filter by {{workarea}} and custom fields, and to add additional columns.  
+The 'Search' bar also allows you to filter by {{workarea}} and custom fields, and to add additional columns.  
   
 #### Filtering  
 
@@ -28,7 +28,7 @@ The filter options allow you to filter:
 #### Display Additional Columns
 
 You can also opt to show additional columns in your table.
-- Click on these to display names of different {{person}}s or {{organisation}}s who have been invited to respond to the {{eval}}.
+- Click on these to display names of different {{people}} or {{organisation}}s who have been invited to respond to the {{eval}}.
 - Click 'Fetch data' once you have finished to show your results.
 
 ### To Change and Save Your Table View
@@ -38,33 +38,43 @@ To customise the columns shown in the table:
    - Ticked columns are currently visible in the table, and unticked ones are hidden.  
 - Click on the item you wish to show or hide. 
 - Once you have the table as you want it, you can save it as your default table view. Right click again to bring up the pop-up list, and at the bottom choose 'Save table columns layout'. (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)This only affects you, not any other database operators.
-- Choose 'Reset table columns layout' to return to the default layout.  
+
+Choose 'Reset table columns layout' to return to the default layout.  
 
 ### The Context Menu
 
 To bring up a context menu:
-- Click on the sqare to the left of a row, or right click on the campaign you are interested in. 
-- This brings up a number of options.
+- Click on the sqare to the left of a row, or right click on the campaign you are interested in.  This brings up a number of options:
 
-   ![Campaign Context Menu](25.3.0b.png)
+   ![Campaign Context Menu](23.5.0b.png)
 
 - View full details: shows a summary of the campaign information and settings. 
-   - If you need to find an individual url for an invitee, right-click on the header row of the invitee table in this view. From this menu, tick the 'Their url' option and a column will be added to the table showing the individual url for each person. This only applies if you have opted to send out individual {{eval}}s rather than using the same url address for all.
+
+If you need to find an individual url for an invitee, right-click on the header row of the invitee table in this view. From this menu, tick the 'Their url' option and a column will be added to the table showing the individual url for each person. This only applies if you have opted to send out individual {{eval}}s rather than using the same url address for all.
    
    ![Their URL](23.5.0d.png)
    
 - Edit: edits the campaign information and settings.
-   - You'll see that some items are blanked out: to prevent data inconsistencies you cannot change the {{eval}} template, {{workarea}}, or the separate page option.
+
+You'll see that some items are blanked out: to prevent data inconsistencies you cannot change the {{eval}} template, {{workarea}}, or the separate page option.
+
+In addition, for 'separate page' campaigns, you cannot remove invitees who have already responded: the red cross to delete will not be visible in the invitees table. 
+
+When you have made the changes you want to, click the 'save' button.  They will immediately be 'live' for anyone viewing the survey.
 
    ![Edit Campaign](23.5.0c.png)
 
-   - In addition, for 'separate page' campaigns, you cannot remove invitees who have already responded: the red cross to delete will not be visible in the invitees table. 
-   - When you have made the changes you want to, click the 'save' button.
+
 - Delete: deletes the campaign.  You cannot undo this.
-   - You can only delete campaigns that have not had any responses. If you try to delete one that has some replies saved you will receive an error message. 
-   - If you want to stop an existing campaign, you can edit it to change the 'date to' to the current time and date, which will prevent any more responses. Anyone attempting to respond to it will see an error message. 
+
+You can only delete campaigns that have not had any responses. If you try to delete one that has some replies saved you will receive an error message. 
+
+If you want to stop an existing campaign, you can edit it to change the 'date to' to the current time and date, which will prevent any more responses. Anyone attempting to respond to it will see an error message. 
+
 - Duplicate record: duplicates the campaign, so that if it is similar to one you you are setting up you can alter the details rather then creating one from scratch.
+
 - Email all invitees/have responded/not yet reponded: takes you to a {{comm}}s page to email these invitees (for more see [23.3.0 Communicating with Invitees of an {{Eval}}s Direct Campaign](/help/index/p/23.3.0)).
+
 - View report of reponses:  takes you to an {{eval}}s report (for more see [{{Eval}} Report 14.2.0](/help/index/p/14.2.0)).
 
 ### Downloading, Printing and Split Print

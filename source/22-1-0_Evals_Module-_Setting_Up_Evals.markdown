@@ -13,7 +13,7 @@
 - Click the grey ‘click to add’ button. This will reveal options in the middle column.
 - Double-click the non-bold text, ‘{{Eval}} title: click to add’ to open a dialogue box.
 
-[Adding an {{Eval}} Template](22.1.0a.png)
+![Adding an {{Eval}} Template](22.1.0a.png)
 
 - In the 'Text' box, give the {{eval}} a name.
 - If the system has multiple projects, specify to which the {{eval}} applies.
@@ -22,16 +22,16 @@
 **Please note:** Once an {{eval}} has been created in this way you need to add at least one question, even if it’s just a placeholder, before leaving the page. If you do not do this the {{eval}} will appear blank, and it will no longer be editable. If this happens, please contact Lamplight for support.
 
 #### Adding a Field to the {{Eval}}
-- Click the ‘click to add’ button to reveal options in the right-hand column.
+Click the ‘click to add’ button to reveal options in the right-hand column.
 
 ![Adding Fields to an {{Eval}}](22.1.0b.png)
 
-- Double-click the non-bold text ‘Question: click to add’.
-- In the dialogue box that appears, write the question in the ‘Text’ field.
+Double-click the non-bold text ‘Question: click to add’.
+In the dialogue box that appears, write the question in the ‘Text’ field.
 
 ![The {{Eval}} Fields Dialogue Box](22.1.0c.png)
 
-- Using the ‘Type’ field, select the type of field you wish to use. The options are as follows:
+Using the ‘Type’ field, select the type of field you wish to use. The options are as follows:
    - Select box: a drop-down list allowing a single selection.
    - Multi-select box: a drop-down box allowing the selection of multiple items (by holding Ctrl).
    - Text box: a single-line text-entry field.
@@ -51,23 +51,22 @@
    - Charity number lookup: a text field where you can enter an English charity number, which then provides a link to the charity page on the Open Charities site.
    - Twitter name: a text field in which to enter a Twitter name, which provides a link to the Twitter profile.
    - Web address: a text field in which to enter a web address, which provides a link to the website.
-       
-- To make a field mandatory, tick the ‘Is this a required field’ box. This means the {{eval}} won’t save until an answer has been given.
-- Click the ‘save’ button.
+
+[Section 16.7.1](/help/index/p/16.7.1) has more information about custom field types.
+
+To make a field mandatory, tick the ‘Is this a required field’ box. This means the {{eval}} won’t save until an answer has been given.
+
+Click the ‘save’ button when you are done with that field.
 
 #### Adding Options to Select Fields
-If the field has a list of options, these must now be added.
-- Once the question has been saved it will be shown in the column on the right. 
-- Enter the options, each one separated by a semi-colon, into the box at the bottom of the right-hand column. Don’t enter any spaces on either side of the semi-colon.
+If the field has a list of options, these must now be added.  Once the question has been saved it will be shown in the column on the right.  Enter the options, each one separated by a semi-colon, into the box at the bottom of the right-hand column. Don’t enter any spaces on either side of the semi-colon.
 
-[Setting Up Field Options](22.1.0d.png)
+![Setting Up Field Options](22.1.0d.png)
 
-- Click the ‘Add’ button below. The items will appear in a list above. 
-- This list can be reordered by clicking and dragging. 
-- List items can be deleted individually by clicking on the 'Del' button to the right of them.
+Click the ‘Add’ button below. The items will appear in a list above.  This list can be reordered by clicking and dragging.  List items can be deleted individually by clicking on the 'Del' button to the right of them.
 
 #### Adding More Fields
-- You can continue adding fields using the process above (clicking the ‘click to add’ button in the middle column) until the {{eval}} fields are all in place.
+You can continue adding fields using the process above (clicking the ‘click to add’ button in the middle column) until the {{eval}} fields are all in place.
 
 #### Testing Your {{Eval}}  
 

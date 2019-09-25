@@ -10,7 +10,7 @@ To view a {{report}} of your campaign responses:
 - Find the one that you want and right-click on it (or click on the menu button to the left).
 - Select 'view {{report}} of responses' from the menu.
 - This takes you directly to the {{Eval}}s {{report}}, taking the dates and other details from your campaign. Scroll to the bottom for the results.
-- From there you can carry out further analysis and download a workbook of the complete results (see section [14.2.0  {{Eval}} {{Report}}](/help/index/p/14.2.0) for more o this. 
+- From there you can carry out further analysis and download a workbook of the complete results (see section [14.2.0  {{Eval}} {{Report}}](/help/index/p/14.2.0) for more on this. 
 
 
 ###### datadirect module

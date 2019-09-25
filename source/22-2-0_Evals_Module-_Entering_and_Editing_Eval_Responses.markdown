@@ -6,7 +6,7 @@
 
 ### Entering Responses 
 
-- Go to {{work}}-> add new-> {{eval}}.
+- Go to {{work}}-> add new-> {{eval}}.  A side menu appears listing the {{eval}}s templates you have in your system
 - Click on the {{eval}} you wish to enter information for. 
 - The following screen will appear:
 
@@ -18,12 +18,13 @@
 
 ![Adding an {{eval}} - questions](22.2.0a.png)
 
-- Complete the answers to the questions, and click the 'save' button in the bottom right. 
+- Complete the answers to the questions, 
+- Click the 'save' button in the bottom right. 
 - You will now see the saved {{eval}}. 
 
 ### Editing Responses
 
-It is possible to edit responses once they have been added:
+You can edit responses once they have been added:
 
 - Find the {{eval}} you would like to change, either in {{work}} -> view -> {{eval}}s, or in the profile of the person that it is linked to (you will not be able to do this if the {{eval}} has been entered anonymously - see above).
 - Left-click on the menu button to the left, or right-click on the table-row.
