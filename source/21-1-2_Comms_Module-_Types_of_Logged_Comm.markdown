@@ -1,6 +1,6 @@
 # 21.1.2 {{Comm}}s Module: Types of Logged {{Comm}}
 
-> With the {{Comms}} Module you can create a list of types of {{comm}} which you can then log in your system
+> Logged {{comm}}s can be flagged by type, which you can change
 
 
 

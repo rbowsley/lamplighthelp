@@ -8,8 +8,7 @@ The first thing that you will need to do is set up a Mailchimp account. Please m
 
 ### Setting Up a Mailchimp Account
 
-- Go to their sign-up page: [https://login.mailchimp.com/signup/](https://login.mailchimp.com/signup/).
-- Here you can follow the wizard. You will need to give details of your website as part of this - if you do not have a website you can enter the address of your social media feed, for example Twitter or Facebook. Please do not use the Lamplight address.
+Go to their sign-up page: [https://login.mailchimp.com/signup/](https://login.mailchimp.com/signup/) and follow their setup wizard. You will need to give details of your public website as part of this - if you do not have a website you can enter the address of your social media feed, for example Twitter or Facebook. Please do not use the Lamplight address.
 
 ### Linking Mailchimp to {{Lamplight}}
 
@@ -25,25 +24,26 @@ Your API key is similar to (but not the same as) a username and password that on
 - Click on  ‘Create a key’ (under ‘Your API keys’). 
 - Copy this key and open {{Lamplight}}.
 
-![MailChimp API](225a.PNG)
-
 #### Entering the API Key in {{Lamplight}}
 - From the main Lamplight menu, choose ‘admin -> system administration’.  
 - Under the 'Customise {{Lamplight}}' section, choose ‘Change global settings’.
 - Once this page is open, click on the ‘Communications’ tab at the top.  
+
+![MailChimp API](225a.PNG)
+
 - Scroll down to the ‘Mailchimp’ section.  (If this isn’t here, you’ll need to ask us to activate Mailchimp in your system.)  
 - Enter the API key in the field ‘MailChimp API key’.  
+- Click save to store the API key.  {{Lamplight}} can then use this to complete the setup.
 
-### Mailchimp Options
+### Complete the setup: Mailchimp Options in {{Lamplight}}
 
-You can also set-up your Mailchimp options on this page.
-- Which Mailchimp audience to use with Lamplight?: this will be greyed out as it is set-up automatically.
-- Default {{workarea}} to flag Mailchimp campaigns with: this field lets you choose which {{workarea}} Mailchimp emails will be logged against. You can an existing  {{workarea}} and {{subworkarea}} or set up new ones through system admin.
-   - It will show up in the {{comm}}s table in a profile.
-   - You can use it as a filter when running reports. 
-- Default {{comm}} type to flag campaigns with: choose a {{comm}} type from the drop-down for tagging your Mailchimp communications. The default is 'email'. Again, you could set up a new type of {{comm}} for this in system administration if needed.
+You need to set-up your Mailchimp options on this page.
+- Choose the 'audience' in Mailchimp that you want to use with {{Lamplight}}.  Please note that to ensure consistency once it is set it cannot be changed.  
+- Default {{workarea}} to flag Mailchimp campaigns with: this field lets you choose which {{workarea}} Mailchimp emails will be logged against.  When you send the email in Mailchimp a copy will be sent to {{Lamplight}} to be stored in the {{comm}}s tab in a profile.
+- Default {{comm}} type to flag campaigns with: choose a {{comm}} type from the drop-down for tagging your Mailchimp communications. The default is 'email'.
 - If someone chooses to unsubscribe, who should Lamplight tell?: the drop-down list shows everyone who has access as a database operator. The unsubscribe notification will appear as a {{message}} in the diary and {{message}} list of whoever you choose.
-- Once you have finished, save your changes.
+
+Once you have finished, save your changes.
 
 
 ###### comms module
