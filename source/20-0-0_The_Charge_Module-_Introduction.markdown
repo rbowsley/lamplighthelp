@@ -1,6 +1,6 @@
 # 20.0.0 The Charge Module: Introduction
 
-> The Charge Module allows you to set charges for attending a {{work}} session, and then decide who should pay that charge
+> The Charge Module allows you to set charges for attending a {{work}} record, and then decide who should pay that charge
 
 
 
@@ -26,20 +26,20 @@ A more complex charge policy might:
 - Use an hourly rate for the {{workarea}} chosen, a fixed amount for the location used, and the hourly rate for the staff present.
 - Charge any unemployed {{person}} attending a fixed rate of £10.
  - Give a discount for {{people}} booking online before a certain date.
- - Only charges {{user}}s attending the full amount; staff are charged nothing and {{people}} that do not turn up are charged 50%.
+ - Only charge {{user}}s attending the full amount; staff are charged nothing and {{people}} that do not turn up are charged 50%.
 
 A more complicated payee policy might say: 
 - If the {{person}} attending lives in Westminster, charge Westminster Council 50% (we have a contract with them).
 - If the {{person}} attending has a visual impairment, charge £30 to a private Foundation that has given us a grant.
-- Charge any remainder to the {{org}} linked to the person that attended.
+- Charge any remainder to the organisation linked to the person that attended.
 
 When you create a {{work}} record using these policies, {{Lamplight}} will calculate the amounts and payees, and they will appear on the {{charge}} tab of the relevant profiles, with a summary shown on the {{work}} record. 
 
 By using these policies it is possible that the amount charged for someone attending a session will not be the same as they pay: indeed often the {{person}} attending will not pay anything. In these cases, the 'charge' should be thought of as the total amount paid by all parties (i.e. funders) for that person attending. 
 
-### Stacking Policies
+### Policies are made up of a series of Rules
 
-You can set-up mutiple rules in the same policy, and determine the order in which they apply. This is important, as rules will be applied to attendees in the order in which they are listed. For example, if the first rule in a policy charges a {{volunteer}} £10 based on their attendance, no further rules will be processed for that {{volunteer}}.  This is very important to bear in mind as you read through the rest of this help section.
+You set-up mutiple rules to create a policy, and determine the order in which they apply. This is important, as rules will be applied to attendees in the order in which they are listed. For example, if the first rule in a policy charges a {{volunteer}} £10 based on their attendance, no further rules will be processed for that {{volunteer}}.  This is very important to bear in mind as you read through the rest of this help section.
 
 
 ###### charge module

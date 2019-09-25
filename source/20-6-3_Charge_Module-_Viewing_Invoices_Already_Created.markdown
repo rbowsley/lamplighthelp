@@ -1,27 +1,25 @@
-# 20.6.3 Charge Module: Viewing Invoices Already Created
+# 20.6.3 Charge Module: Viewing Items Allocated to Invoices
 
-> You can see a list of all invoices that have been issued from the admin menu
+> You can see a list of all invoiced items that have been issued from the admin menu
 
 
 
 ### Viewing All Invoices Issued in Your System
 
-To view a table showing all invoices which have been issued:
+To view a table showing all invoices which have been issued, go to admin > finances -> view invoices. 
 
-- Go to admin > finances -> view invoices. 
-- You will see a table showing invoices previously created.
+You will see a table showing invoices previously created.
 
 ![Viewing invoices created](20.6.3a.png)
 
-- By default you will see invoices created in the last month. To change this, click on the search bar above the table to change the dates. 
+By default you will see invoices created in the last month. To change this, click on the search bar above the table to change the dates. 
 
 ![The Search Bar](20.6.3b.png)
 
-### Viewing Invoices Issued to a Particular {{Person}} or {{Org))
+### Viewing Invoices Issued to a Particular {{Person}} or {{Org}}
 
 - To see invoices for a particular {{person}} or {{org}}, open their profile.
-- Click on the 'Charges' tab.
-- You will see a table showing all the charges allocated to them. 
+- Click on the 'Charges' tab.  You will see a table showing all the charges allocated to them. 
 - Where an invoice has been created you will see a number in the 'invoice number' column. 
 
 ![Invoice Number](20.6.3c.png)

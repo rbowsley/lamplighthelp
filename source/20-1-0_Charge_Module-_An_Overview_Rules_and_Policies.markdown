@@ -1,6 +1,6 @@
 # 20.1.0 Charge Module: An Overview Rules and Policies
 
-> A charge rule contains a single logic-based step to calculate part of a charge, or decide how to allocate that charge. A policy is a combination of rules
+> A charge rule is a single logic-based step to calculate part of a charge, or decide how to allocate that charge. A policy is a combination of rules
 
 
 
@@ -23,6 +23,8 @@ You can now combine these two rules in a charge policy, with the flat-rate rule 
 ![Summer Outing Charge Policy](20.1.0c.png)
 
 When you apply this policy, {{Lamplight}} will look at each {{person}} listed on the {{work}} record. It will apply the first rule, and charge them £50. It will then apply the second rule: if they are listed as a Service user charge 100% of £50 (i.e. £50), if not charge 0% of £50 (i.e. £0). 
+
+This is a slightly artificial example to demonstrate the idea: this example could be achieved by a single Role base charge rule that specified £50 for the Service user and 0 for the rest.  However, rules can be re-used in several policies, so in some circumstances it would be sensible to split things up as in this example.
 
 ### Payee Policies
 

@@ -12,26 +12,24 @@ To set up a date-based charge rule:
 
 ![Setting up a date-based charge rule](20.2.6a.png)
 
-- Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields.
+Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields.
+
 - You can add several date bands to the rule, each with different settings. The first date band to match will be used.
-- Click on the date (by default today's date) in the first row. 
-- A calendar will appear: select the date you want. 
+- Click on the date (by default today's date) in the first row. A calendar will appear: select the date you want. 
 - Do the same for the 'date to'. 
-- Click in the next cell, 'Comparison date', where you will see two choices: date booked or date added. 
-   - 'Date added' is the date this attendance was last updated (when you edit a record it 're-adds' them to the record). For late cancellation fee type rules, you will want to choose 'date added'. 
-   - For early-bird discounts, you will want to choose 'date booked'. This is when they were first entered into the attendance table.
-- Once you have completed this field, click the little save button in the cell. 
+- Click in the next cell, 'Comparison date', where you will see two choices: date booked or date added.  'Date added' is the date this attendance was last updated (when you edit a record it 're-adds' them to the record). For late cancellation fee type rules, you will want to choose 'date added'. For early-bird discounts, you will want to choose 'date booked'. This is when they were first entered into the attendance table.  Once you have completed this field, click the little save button in the cell. 
 - You may optionally also set filters for attendance type and role: again click the cells in the table and choose those that you need.
-- Finally, add a rate. 
+
+Finally, add a rate. 
    - If it is a number (for example £10) it will be interpreted as a fixed amount of money.
-   - If it is a percentage this will be calculated based on the charge already applied in previous rules. 
-   - If you use percentages, this should not be the first rule in a policy. This is because it will have no previous amount to calculate from, so all charges will come out as 0 (as any % of 0 is 0). 
-- If needed, you can now add additional rows to this table by clicking on the 'add row' button at the end of the last row in the table. Make sure your date bands do not overlap, or you will get unpredictable results. 
-- **If you do really need two rules that cover the same date range, you will need to add them as separate rules, and then combine them in the policy.** 
+   - If it is a percentage (for example 25%) this will be calculated based on the charge already applied in previous rules.  If you use percentages, this should not be the first rule in a policy. This is because it will have no previous amount to calculate from, so all charges will come out as 0 (as any % of 0 is 0). 
+
+
+If needed, you can now add additional rows to this table by clicking on the 'add row' button at the end of the last row in the table. Make sure your date bands do not overlap, or you will get unpredictable results. **If you do really need two rules that cover the same date range, you will need to add them as separate rules, and then combine them in the policy.** 
 
 ![A Date-based Charge Rule](20.2.6b.png)
 
-- When you have finished, click the 'save' button in the bottom-right corner. 
+When you have finished, click the 'save' button in the bottom-right corner. 
 
 
 ###### charge module

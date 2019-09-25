@@ -4,17 +4,19 @@
 
 
 
-To add charge and payee policies to {{work}} records:
+To use charge and payee policies with a {{work}} record:
 
-- If you are using the Charge Module, you will see a 'Charges' tab when creating a new {{work}} records. 
-- Open this tab and you will see two drop-downs: 'select charging policy for this record' and 'select payee policy for this record'. 
+- create or edit a {{work}} record
+- you will see a 'Charges' tab 
+- select this tab and you will see two drop-downs: 'select charging policy for this record' and 'select payee policy for this record'. 
 
 ![Using charge and payee policies](20.6.0a.png)
 
-- If the drop-downs are empty, you will need to create some policies - start at section [22.2.0  Setting Up Rules and Policies](/help/index/p/20.2.0) for help on how to do this. 
-- If you can see policies, select the ones you wish to use for this {{work}} record from the drop-downs. 
-- When you save the record {{Lamplight}} will calculate charges for each person listed on the attendance tab, and then determine who will pay them. 
-- When you save the record you will see this information in summary in the attendance table: 
+If the drop-downs are empty, you will need to create some policies - start at section [22.2.0  Setting Up Rules and Policies](/help/index/p/20.2.0) for help on how to do this. 
+
+If you can see policies, select the ones you wish to use for this {{work}} record from the drop-downs. 
+
+When you save the record {{Lamplight}} will calculate charges for each person listed on the attendance tab, and then determine who will pay them.   You will see this information in summary in the attendance table: 
 
 ![Viewing charges and payees in a {{work}} record](20.6.0b.png)
 

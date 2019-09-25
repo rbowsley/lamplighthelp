@@ -20,7 +20,7 @@ To set up an other person relationship payee rule:
 
 ![Charge Based on Relationship to Attendee](20.4.4b.png)
 
-- When you have finished click 'save' in the bottom right hand corner. You will return to the charge module admin menu. 
+When you have finished click 'save' in the bottom right hand corner. You will return to the charge module admin menu. 
 
 
 ###### charge module

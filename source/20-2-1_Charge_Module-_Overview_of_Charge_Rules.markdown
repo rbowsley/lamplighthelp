@@ -7,6 +7,7 @@
 Almost all charge rules have two fields in common:
 
   1. Rule name.
+  
   2. Should previous rules apply if there is no match using this rule?
   
 ### Rule Name
@@ -19,7 +20,8 @@ Imagine we have set up two rules: a flat-rate charge rule (for £50) and a role-
 
 When we come to use the policy, {{Lamplight}} will look at each {{person}} listed. First it will set the charge to £50. Then it will check their role. 
   - If it is 'service user', then the final charge will be 100% of £50. 
-  - If it is something else, say a staff member, what should {{Lamplight}} do? We've only set our rule to do anything with service users.   - If the 'should previous rules apply' box was ticked, then if the rule does not match (because it's a member of staff), the previous (flat-rate) rule will apply, and they'll be charged £50. 
+  - If it is something else, say a staff member, what should {{Lamplight}} do? We've only set our rule to do anything with service users.   
+  - If the 'should previous rules apply' box was ticked, then if the rule does not match (because it's a member of staff), the previous (flat-rate) rule will apply, and they'll be charged £50. 
   - If the box was not ticked, the rule does not match and the previous flat-rate rule does not apply, so they will be charged £0. 
 
 In general, it's likely that for attendance and role-based rules, you will not want previous rules to apply. For other types of rule, it's more likely that you will want previous rules to apply. 
