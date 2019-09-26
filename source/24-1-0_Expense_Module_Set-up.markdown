@@ -21,25 +21,25 @@ Settings are added, edited and deleted in the same way.
 
 ### Adding, Editing and Deleting List Items
 
-### Adding a List Item  
+#### Adding a List Item  
 
 - The final option in the list will always be ‘double-click to add’. Double-click this text to create a new blank list item. 
 - Type the name and save by pressing 'enter' on your keyboard. 
 - Your item will be added, and the ‘double click to add’ link will reappear at the bottom of the list.
    
-### Editing a List Item  
+#### Editing a List Item  
 
 - Double-click the text of the list item that you would like to edit.
 - This will open up a text field which you can edit. 
 - Once edited, press ‘Enter’ on your keyboard to save it.
    
-### Deleting a List Item  
+#### Deleting a List Item  
 
 - Click on the item you no longer need and drag it to the grey box at the bottom which says ‘Drag here to delete’. 
 - The item will appear in the grey box, confirming that it is being deleted. 
 **Please note:** It is not possible to delete a list item that has just been created without first leaving the page. If you see the  ‘Unable to delete item’ error message, click back to the system administration menu then return to the editing page.
    
-### Changing the List Order  
+#### Changing the List Order  
 
 - Change the order of the list by left-clicking an item and dragging it to its new position before releasing. 
 - The other items will adjust to make space for it.
@@ -59,7 +59,8 @@ The costs of using locations can also be calculated if hourly rates are already 
 
 - Put the hourly rate into this field.
 - Click the ‘save’ button. 
-- Once an hourly rate has been added to a location, whenever the location is used, the costings module will add a cost per hour for its use.
+
+Once an hourly rate has been added to a location, whenever the location is used, the costings module will add a cost per hour for its use.
 
 For more on setting up Locations see [52.1.1 How to Add and Edit Locations](/help/index/p/52.1.1).
 
