@@ -6,11 +6,8 @@
 
 See below for explanations of the different fields:
 
-<<<<<<< HEAD
+
 ### {{Message}}s
-=======
-#### Do you want to use {{message}}s at all?
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 #### Do you want to use {{message}}s at all?
 
@@ -24,24 +21,8 @@ See below for explanations of the different fields:
  
    ![{{Message}}s Table](16.12.2a.png)
 
-<<<<<<< HEAD
-=======
-#### Do you want to allow bulk updating of the attendance table in {{work}} and other records?  
-
-   When adding profiles to the attendance table in a {{work}} record, {{referral}} record or {{outcome}} record, you must usually specify attendance type and role for each profile, as well as adding any notes.
-
-   With this option enabled, there is an additional row in the table that allows you to edit these fields for all the visible rows of the attendance table at once.
-
-   ![Bulk Update Attendance Table](16.12.2b.png)
-
-#### Do you want to allow adding new service user profiles from {{work}}, {{referral}} etc. records, even if you have profile essential fields enabled (see previous tab)? 
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
-
 
 ### {{Work}} Records
-
-   
-
 
 #### Do you want to store {{work}} records? 
 
@@ -140,11 +121,7 @@ See below for explanations of the different fields:
 
 ### {{Referral}} Records
 
-<<<<<<< HEAD
 #### Do you want to store {{referral}} details?
-=======
-#### Do you want to store {{referral}} details?**   
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
    {{Referral}} records are one of the core types of information that can be recorded in {{Lamplight}}. In their simplest form, they track who has been referred, who has referred them and who they have been referred to, along with {{referral}} reason, additional notes and details of the date, time and relevant {{work}} area. They can also be configured to record different ways in which one {{person}} is directed to another contact or service, for example signposting. If you do not require this type of information to be recorded in {{Lamplight}}, you can disable the functionality with this option.
 
@@ -178,11 +155,8 @@ See below for explanations of the different fields:
 
 ### {{Eval}} Records
 
-<<<<<<< HEAD
 If you have the {{eval}} module these options will apply:
 
-=======
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 #### Do you want to use {{message}}s with {{eval}} records?   
 
    As with {{work}} records, {{outcome}} records, {{referral}} records and grant records, you can choose whether to enable {{message}}s with {{eval}} records. Disabling this option will prevent the ‘{{Message}}s’ tab from appearing when entering {{eval}} records.
