@@ -1,10 +1,6 @@
 # 20.2.5    Charge Module: Setting up an Attendance/Role-based Charge Rule
 
-<<<<<<< HEAD:source/20-2-5_Charge_Module-_Setting_up_an_Attendance-Role-based_Charge_Rule.markdown
 > This allows you to combine information and set up charge rules using data on attendance (booked, cancelled, no show etc.) alongside the different attendance roles (service user, volunteer, staff etc.)
-=======
-> This allows you to combine information and set up charge rules using data on attendance (booked, cancelled, no show etc.) alongside the different roles ({{staff}}, {{vol}}, {{user}} etc.)
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/20-2-5_Charge_Module-_Setting_up_an_Attendance-Role-based_Charge_Rule.markdown
 
 
 

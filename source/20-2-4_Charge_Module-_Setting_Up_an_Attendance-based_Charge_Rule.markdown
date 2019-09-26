@@ -1,10 +1,6 @@
 # 20.2.4 Charge Module: Setting Up an Attendance-based Charge Rule
 
-<<<<<<< HEAD:source/20-2-4_Charge_Module-_Setting_Up_an_Attendance-based_Charge_Rule.markdown
 > An attendance-based charge rule is where you can set different rules depending on whether a person attended a {{work}} record, cancelled or did not turn up etc.
-=======
-> An attendance-based charge rule is where you can set different rules depending on whether a person attended a session, cancelled or did not turn up etc.
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/20-2-4_Charge_Module-_Setting_Up_an_Attendance-based_Charge_Rule.markdown
 
 
 

@@ -1,12 +1,6 @@
 # 16.7.0  <i class="fa fa-cogs"></i> Custom Tabs and Fields
 
-<<<<<<< HEAD
 > You can set up and customise tabs and fields that appear on profiles, {{activity}} records and {{linked case}}s. There are number of different types of field that you can choose to capture your information
-=======
-> You can set up and customise tabs and fields that appear on profiles and {{activity}} records. There are number of different types of field that you can choose to capture your information
-
-
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 
 
@@ -23,14 +17,9 @@ If you add a custom tab to an {{activity}} record, you will see that at the top 
 ![CustomTabs on {{Work}} Record](16.7.0b.png)
 
 ### Understanding Terminology
-<<<<<<< HEAD
-
 #### Tab 
 
 This is the place where the information will be found. It might be in a profile or added to a {{work}} record (see above).
-=======
-- Tab - this is the place where the information will be found. It might be in a profile or added to a {{work}} record (see above).
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 #### Field
 

@@ -4,11 +4,7 @@
 
 
 
-<<<<<<< HEAD:source/20-4-1_Charge_Module-_Setting_up_an_Attendee_Payee_Rule.markdown
 An attendee payee rule is very simple: the person or organisation listed on the {{work}} record pays their charges. All you need to do is specify the amount.
-=======
-An attendee payee rule is very simple: the person or organisation listed on the {{work}} record pays. All you need to do is specify the amount.
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/20-4-1_Charge_Module-_Setting_up_an_Attendee_Payee_Rule.markdown
 
 To add an attendee payee rule:
 

@@ -14,7 +14,6 @@ Go to ‘admin -> system administration -> Data Management -> PERMANENTLY delete
   - Find single profile. This is a search box which you can use to find the profile you want to delete. Like the standard {{Lamplight}} search box, it will not find archived profiles. 
   - Find profiles that have not been updated in the last.... If you choose this option, you can specify a timescale, and {{Lamplight}} will look for profiles where the profile fields, custom fields and {{activity}} records have not been edited or updated in that time. You will see a list on the next page to choose from. 
 
-<<<<<<< HEAD
 Once you have chosen how to look for profiles to delete, click 'next'.
 
 Tick the names of the profiles that you want to delete at the top of the next page. If it is a long list and you want to delete them all, you can tick the checkbox next to the name at the top of the list, then hold down the shift key on your keyboard, scroll down the list to the last name and tick the checkbox next to the last name. This will automatically select all of the profiles for you.   
@@ -22,10 +21,7 @@ Tick the names of the profiles that you want to delete at the top of the next pa
 #### Choosing Which Details to Delete
 
 You now choose what to delete:
-=======
-#### Choosing Which Details to Delete
-- Decide which details to delete. There are a number of options:
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
+
   - Name and address only. This will delete these details, but the rest of the profile information and {{activity}} records will remain on the system.
   - Name, address and relationships. As above, but this option will also delete any relationships so that they do not show in profiles.
   - Name address, relationships, custom fields, and remove from work etc. records. In addition to the information in the previous options, choosing this one will delete all profile data and remove the {{person}} or {{org}} from all attendance tables in {{activity}} records. This includes {{work}}, {{referral}}s, {{outcome}}s, {{grant}}s etc. The records themselves will not be deleted.

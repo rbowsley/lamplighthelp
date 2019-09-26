@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 # 16.5.2  <i class="fas fa-address-card"></i> System Administration - Adding a New Database Operator and Editing Operator Settings
-=======
-# 16.5.2 System Administration - Adding a New Database Operator and Editing Operator Settings
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 > System Administrators can add new database operators to their system in the dtabase operators' table. They can also go back to edit their permission level and other details
-
 
 
 

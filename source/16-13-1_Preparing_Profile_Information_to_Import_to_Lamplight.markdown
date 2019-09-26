@@ -17,12 +17,9 @@ There is no need to enter tab information, just the field name.
 
 Only one combination of profile type ({{person}}, {{org}} or {{family}}) and role ({{user}}, {{staff}}, {{volunteer}}, {{contact}} or {{funder}}) can be imported at a time, so a separate sheet is needed for each (e.g. one for {{person}}>{{user}}s, another for {{person}}>{{staff}}).  This is because different profile types have different custom fields.
 
-<<<<<<< HEAD:source/16-13-1_Preparing_Profile_Information_to_Import_to_Lamplight.markdown
 The spreadsheet should have a column for each field to be imported, and must be saved in .csv format. Note that saving an Excel workbook in .csv format will only save the current tab as .csv files do not support multiple sheets.
 
 
-=======
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-13-1_Preparing_Profile_Information_to_Import_to_Lamplight.markdown
 #### Field Names
 
 The built-in headers that Lamplight will recognise for profile fields are:
@@ -60,7 +57,6 @@ With the publishing module:
 
 Columns can be in any order, and need not be included if they won’t contain any data. Additional columns for custom fields can be added to this list. 
 
-<<<<<<< HEAD:source/16-13-1_Preparing_Profile_Information_to_Import_to_Lamplight.markdown
 Be careful with the ID field: it's generally better not to include one (but see below if you do).  It can be interpreted by Lamplight in two ways: as the ID given by the previous system that the data is being migrated from; or the Lamplight profile ID.  Unless you are certain that you need this and know what you're doing, it's best not to include it at all; please contact us if you think that you do.  
 
 In addition to the built-in profile fields listed, you can add whatever custom fields you need.  Enter the name of the field exactly as the column header, and follow the tips below when formatting the data.
@@ -68,9 +64,6 @@ In addition to the built-in profile fields listed, you can add whatever custom f
 #### Formatting Tips  
 
 When preparing your data for upload, bear in mind the following tips: 
-=======
-#### Formatting Tips  
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-13-1_Preparing_Profile_Information_to_Import_to_Lamplight.markdown
 
 - Fields are case sensitive. Copy them character-for-character, space-for-space, with the same capitalisation (although the system will attempt to guess in cases where there is not an exact match).
 - You can download all the field names and other settings in the System Administration menu to help with this (under 'File Transfer -> Download filed settings for your sytsem).
@@ -88,11 +81,6 @@ Information can be uploaded to existing profiles. This tends to be more complex 
 
 Lamplight can match uploaded data to existing profiles using the ID field (a unique reference number for each profile in Lamplight). The simplest way to find profile IDs is to use a {{group}} with a {{group}} data view, although you can also find the ID number manually.
 
-#### Downloading Names and Profile IDs 
-<<<<<<< HEAD:source/16-13-1_Preparing_Profile_Information_to_Import_to_Lamplight.markdown
-=======
-Create a {{group}} data view showing the profile ID field. Create a {{group}} of the profiles into which data will be imported, and then view it using the {{group}} data view. Ensure that ‘Show All’ records is selected at the top of the table, then click the ‘Download’ link at the bottom and open the file in Excel.
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-13-1_Preparing_Profile_Information_to_Import_to_Lamplight.markdown
 
 [Create a {{group}} ](/help/index/p/12) of the profiles into which data will be imported, and then view the {{group}} members.  Make sure the ['ID' column is showing](/help/index/p/3.5.3).  Ensure that ‘Show All’ records is selected at the top of the table, then [click the ‘Download’ link at the bottom](/help/index/p/3.5.4) and open the file in Excel.
  

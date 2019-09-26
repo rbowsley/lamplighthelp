@@ -1,17 +1,6 @@
-<<<<<<< HEAD:source/16-4-2_Personal_Settings_-_Profiles.markdown
 # 16.4.2 <i class="fas fa-tools"></i> Personal Settings - Profiles
 
 > This section allows you to customise how information is displayed when you are looking at a profile, for example setting up a summary tab, header bars, and deciding the tabs you can see and which order they are in
-
-=======
-# 16.4.2 Personal Settings - Profiles
-
-> This section allows you to customise how information is displayed when you are looking at a profile, for example setting up a summary tab, header bars, and deciding the tabs you can see and which order they are in
-
-
-
-There are a number of settings which use {{group}} data views to display information. For more on what these are and how to set them up, see [12.0.0 {{Group}} Data Views](/help/index/p/12.2.0).
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-4-2_Personal_Settings_-_Profiles.markdown
 
 
 There are a number of settings which use {{group}} data views to display information. For more on what these are and how to set them up, see [13.0.0 {{Group}} Data Views](/help/index/p/13).

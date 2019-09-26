@@ -5,17 +5,13 @@
 
 
 ### Identify Your Server Details
-<<<<<<< HEAD
 
 You will need SMTP connection settings for your email server in order to send emails through it.  This information is not available to us at Lamplight, you'll need to find it:
-=======
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 - Check our list of common providers at the bottom of this page - you may find the settings there.
 - Ask your IT support if you have it.
 - Ask your email provider - you may find this information in the provider’s help system.  
 
-<<<<<<< HEAD
 There are detailed instructions for [Outlook and Gmail](/help/index/p/16.11.0) in this  manual.
 
 #### What You’ll Need to Know
@@ -25,14 +21,6 @@ There are detailed instructions for [Outlook and Gmail](/help/index/p/16.11.0) i
 - The security method : e.g. TLS
 - Authentication method: (Normally login)
 - Your username: e.g. me@myemail.com
-=======
-#### What You’ll Need to Know
-- The server: e.g. smtp.mail.me.com.
-- The SMTP port: e.g. 587.
-- The security method : e.g. TLS.
-- Authentication method: (Normally login).
-- Your username: e.g. me@myemail.com.
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 - Your email password.
 
 ### Entering Settings in Lamplight
@@ -71,7 +59,7 @@ If you need to send more emails than your provider allows you can use MailChimp 
 | Yandex | smtp.yandex.com | 465 | Login | SSL |
 | Zoho Mail| smtp.zoho.com | 587 | Login | TLS |
 
-(These were correct as of May 2019 but may change - please check with your email provider if you're having problems.
+(These were correct as of May 2019 but may change - please check with your email provider if you're having problems).
 
 ###### core module
 

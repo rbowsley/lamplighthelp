@@ -36,8 +36,8 @@ Your API key is similar to (but not the same as) a username and password that on
 
 ### Mailchimp Options
 
-You can also set-up your Mailchimp options on this page.
-- Which Mailchimp audience to use with Lamplight?: this will be greyed out as it is set-up automatically.
+You can also set up your Mailchimp options on this page.
+- Which Mailchimp audience to use with Lamplight?: this will be greyed out as it is set up automatically.
 - Default {{workarea}} to flag Mailchimp campaigns with: this field lets you choose which {{workarea}} Mailchimp emails will be logged against. You can an existing  {{workarea}} and {{subworkarea}} or set up new ones through system admin.
    - It will show up in the {{comm}}s table in a profile.
    - You can use it as a filter when running reports. 
