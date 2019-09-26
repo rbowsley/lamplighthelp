@@ -2,6 +2,8 @@
 
 > Once you have created a basic profile, you can add the contact details to it
 
+
+
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279238850" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 ### Script

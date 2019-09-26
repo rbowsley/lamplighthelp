@@ -2,6 +2,8 @@
 
 > This video shows you the first steps for creating a new profile for a {{person}} or {{org}} in {{Lamplight}}
 
+
+
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279238826" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>  
   
   

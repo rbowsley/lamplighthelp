@@ -1,6 +1,8 @@
 # 28.3.2 Publishing Module: Publishing {{Work}} Records
 
-> To assist in publicising your events and advertising the services you offer to a wider audience, the publishing module can share your  {{work}} record information with your public-facing site 
+> To assist in publicising your events and advertising the services you offer to a wider audience, the publishing module can share your  {{work}} record information with your public-facing site
+
+
 
 If your settings allow {{work}} records  to be published, this does not happen by default. Each record individual record needs to be shared separately. This is to ensure that confidential information isn’t accidently published.
 

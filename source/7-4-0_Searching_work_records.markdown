@@ -1,6 +1,8 @@
-# 7.4.0 Searching {{Work}} Records
+# 7.4.0  <i class="fas fa-hammer"></i>  Searching {{Work}} Records
 
 > You can search for work records using a free text search
+
+
 
 The search bar at the top of the screen searches {{work}} records for free text, for example to look for specific text in the 'Follow-up' field. 
 

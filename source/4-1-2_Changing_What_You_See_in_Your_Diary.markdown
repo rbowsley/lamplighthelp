@@ -3,6 +3,8 @@
 > It is possible to customise your diary so that you only see appointments relating to particular {{staff}} and {{workarea}}s. You can also print off your diary
 
 
+
+
 There are a number of options in your diary where you can customise the diary and the records that you see.
 
 ### {{Workarea}}s
@@ -31,7 +33,7 @@ This allows you to see at a glance where an {{activity}} is happening, and can b
 
 ### {{Staff}} Attending
 
-If you only want to see the appointments that relate to particular {{staff}}, there is a box on the right under the diary which lists the {{staff} that are on your system. 
+If you only want to see the appointments that relate to particular {{staff}}, there is a box on the right under the diary which lists the {{staff}} that are on your system. 
 
 ![Diary {{Staff}} attending](4.1.2d.png)
 

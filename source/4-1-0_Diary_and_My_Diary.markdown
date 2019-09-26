@@ -2,6 +2,8 @@
 
 > By default, the diary shows all that's going on for the current week
 
+
+
 The diary shows all that is going on for the current week. In the 'Diary' tab you can view appointments for all {{staff}} who have a profile on Lamplight. The 'My Diary' tab will simply show your own appointments and {{message}}s.
 
 ![{{Lamplight}} Home Page Diary](35a.png)

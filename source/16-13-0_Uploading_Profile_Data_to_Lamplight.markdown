@@ -1,6 +1,8 @@
-# 16.13.0 Uploading Profile Data to {{Lamplight}}
+# 16.13.0 <i class="fas fa-exchange-alt"></i>  Uploading Profile Data to {{Lamplight}}
 
 > Profile information can be uploaded in bulk to {{Lamplight}}. It will need to be prepared so that it is in the correct format first
+
+
 
 In {{Lamplight}} we identify two different types of information - information you hold about people and information you hold about the activities that you do with them. 
 

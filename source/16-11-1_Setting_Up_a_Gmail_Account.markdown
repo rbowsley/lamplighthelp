@@ -1,6 +1,8 @@
-# 16.11.1 Setting Up a Gmail Account
+# 16.11.1 <i class="fas fa-envelope-open"></i> Setting Up a Gmail Account
 
 > Instructions for setting up email in {{Lamplight}} if you have a Gmail account
+
+
 
 ### Step 1: Tell Gmail to Allow Lamplight
 
@@ -17,7 +19,7 @@ You need to set Gmail to allow Lamplight to send emails via your Gmail account:
 
 ![Allow Less Secure Apps Slider](16.11.1b.png)
 
-- If you do not see the ‘Allow less secure apps’ box, your Google Administrator may need to enable it.  They will need to:
+If you do not see the ‘Allow less secure apps’ box, your Google Administrator may need to enable it.  They will need to:
 - Log in to Gmail.
 - Click the cog in the upper-right corner, then ‘Manage this domain’.
 - Click the ‘Security’ logo.
@@ -25,10 +27,10 @@ You need to set Gmail to allow Lamplight to send emails via your Gmail account:
 - Click ‘Go to settings for less secure apps’.
 - Click ‘Allow users to manage their access to less secure apps’.
 - Click ‘Save’.
-- You will now be able to go back to the section above and allow less secure apps in your account.
-- (Changes in Google domains may change the exact pathway to these settings, but they will normally continue to be available in the Security area.)
 
-**An Alternative to Allowing Less Secure Apps**  
+You will now be able to go back to the section above and allow less secure apps in your account.  (Changes in Google domains may change the exact pathway to these settings, but they will normally continue to be available in the Security area).
+
+#### An Alternative to Allowing Less Secure Apps  
 
 Your primary alternative is to use 2 factor authentication, and we recommend this.  However, if you don’t wish to allow less secure apps or use two factor authentication, there is a work around.  You can:
 - Turn on two factor authentication for an individual's account, and set it up.
@@ -39,28 +41,31 @@ Your primary alternative is to use 2 factor authentication, and we recommend thi
 
 As you are not using 2 factor authentication, you allow Lamplight access to your Gmail server by entering the server details and your email password.  This allows Lamplight access to send emails from your account.
 
-- Go to 'admin -> system administration -> Communication settings'.
-- In here you have two options:
+Go to 'admin -> system administration -> Communication settings'.  There are two options to how email should be routed:
+
    - Email settings: to send via a single email account for all operators. You can use this as a default for all operators if you want to. Once you have set this up, anyone without an individual operator email account will still be able to send emails from this one.
    - Email settings: to send via individual operator email accounts. Use this option to have different settings for individual users.
-- Whichever you are setting up, you will need to complete the following fields for each email account you add:
+
+Whichever you are setting up, you will need to complete the following fields for each email account you add:
   
-[Lamplight Settings](16.11.1c.png)
+![Lamplight Settings](16.11.1c.png)
   
-- The details you will need are:
-   - Host name: smtp.gmail.com.
-   - Port:	587.
-   - Authentication: login.
-   - SSL type: TLS.
-   - Username: email address.
-   - Password: Your Gmail / Google password.
-- If you’re setting up each operator individually, you need to repeat this for each operator.
-- Save when complete.
+The details you will need are:
+   - Host name: smtp.gmail.com
+   - Port:	587
+   - Authentication: login
+   - SSL type: TLS
+   - Username: [your email address]
+   - Password: Your Gmail / Google password
+
+Save the changes.  If you’re setting up each operator individually, you need to repeat this for each operator.
+
 
 
 ### Email Sending Limits in Gmail
 
-There are some limits on how many emails you can send with Gmail. The current limits are set out here: https://support.google.com/a/answer/166852?hl=en
+There are some limits on how many emails you can send with Gmail. The current limits are set out here: [https://support.google.com/a/answer/166852?hl=en](https://support.google.com/a/answer/166852?hl=en)
 
+If you need to, you can use MailChimp with Lamplight to send bulk emails. See [21.2.0 {{Comm}}s: Linking with Mailchimp](/help/index/p/21.2.0) for more details. 
 
-###### core module
+###### core|comms module

@@ -1,6 +1,8 @@
-# 7.1.5 Recurring {{Work}} Records
+# 7.1.5 <i class="fas fa-hammer"></i>  Recurring {{Work}} Records
 
-> Recurring {{work}} records enable you to add many regular {{work}} records in one go 
+> Recurring {{work}} records enable you to add many regular {{work}} records in one go
+
+
 
 When you are creating or editing a {{work}} record, there is an option on the 'When and where' tab, under the time and date, to create a recurring {{work}} record.
 
@@ -29,7 +31,7 @@ When a single record has been edited it drops out of the group, and can only be 
 
 ![Recurring Edit](219c.png) 
 
-Why not see how this works in practice in our video, 'Recurring Records'.
+Why not see how this works in practice in our video, ['Recurring Records'](/help/index/p/51.4.3)
 
 <iframe src="https://player.vimeo.com/video/279240685" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

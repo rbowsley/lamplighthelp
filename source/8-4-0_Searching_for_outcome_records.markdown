@@ -1,6 +1,8 @@
-# 8.4.0 Searching for {{Outcome}} Records
+# 8.4.0  <i class="fas fa-trophy"></i> Searching for {{Outcome}} Records
 
-> You can do a free text search for {{outcome}} records using the search bar at the top of the screen 
+> You can do a free text search for {{outcome}} records using the search bar at the top of the screen
+
+
 
 If you want to search {{outcome}} records using a free text search (for example to search for text in the 'comments' field), use the search box on the top right-hand corner of your screen. 
 

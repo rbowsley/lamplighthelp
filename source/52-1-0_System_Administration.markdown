@@ -2,6 +2,8 @@
 
 > Lamplight gives administrators control over their system: adding new areas of work, merging duplicates, creating new database operators, and many other functions. These videos will help you see how to accomplish a variety of these tasks
 
+
+
 Videos in this Section:
 
 - [52.1.1 How to Add and Edit Locations](/help/index/p/51.1.1).

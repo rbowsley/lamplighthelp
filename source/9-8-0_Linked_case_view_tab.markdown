@@ -1,6 +1,8 @@
-# 9.8.0 {{Linked Case}} View Tab
+# 9.8.0  <i class="fas fa-link"></i> {{Linked Case}} View Tab
 
 > The '{{Linked case}} view' tab shows details of all the {{linked case}}s associated with a particular {{person}} or {{org}}
+
+
 
 IF you use {{linked case}}s in your system, you will probably have a tab called {{Linked case}} view in profiles. If you do not have this it will either be because it is not selected in your personall settings (for more on this see [16.4.2 Personal Settings: Profiles](/help/index/p/16.4.2)), or because your System Administrator has chosen not to use this tab. They can switch it on in global settings (see [16.12.3 Global Settings: {{Linked Case}}s](/help/index/p/16.12.3)).
 

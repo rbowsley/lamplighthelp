@@ -2,6 +2,8 @@
 
 > This video covers how to link {{people}} and {{org}}s using the 'Relationships' tab. You can connect individuals to a {{family}} or employees to their {{org}}, for example
 
+
+
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279238968" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 ### Script

@@ -1,6 +1,8 @@
-# 16.5.0 System Admin - Database Operators
+# 16.5.0  <i class="fas fa-address-card"></i> System Admin - Database Operators
 
 > Database operators are the people that have access to {{Lamplight}}. System Administrators set them up on the system, and decide what level of access they will have
+
+
 
 This section covers
 

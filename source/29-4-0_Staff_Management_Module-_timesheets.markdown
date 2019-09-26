@@ -1,6 +1,8 @@
 # 29.4.0 {{Staff}} Management Module: Timesheets
 
-> {{Staff}} timesheets are created based on the information recorded in the contract details and non-contract, absence, training, appraisal and {{work}} records in the profile 
+> {{Staff}} timesheets are created based on the information recorded in the contract details and non-contract, absence, training, appraisal and {{work}} records in the profile
+
+
 
 ![{{Staff}} timesheet](123a.png)
 
