@@ -75,6 +75,11 @@
 	
 If you have the ['my user restriction'](/help/index/p/16.12.6) duplicates will still be detected, but operators affected will not be able to resolve it as they won't have access to the existing possible duplicates.
 
+<<<<<<< HEAD:source/16-12-1_Global_Settings-_People_and_Orgs.markdown
+=======
+![How to Search for Duplicates](16.12.1c.png)
+ 
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-12-1_Global_Settings-_People_and_Orgs.markdown
 #### Do you want to enable autosave on profile custom tabs?   
 
    This option can be useful if you often forget to save the information you have entered into custom profile tabs before you leave the page. It will save automatically in this case. Be careful enabling this option though, because any information you delete or overwrite will be lost automatically, without requiring you to click the save button. There is no way to cancel or undo once it has autosaved.

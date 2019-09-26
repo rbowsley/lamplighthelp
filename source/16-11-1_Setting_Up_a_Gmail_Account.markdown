@@ -28,8 +28,11 @@ If you do not see the ‘Allow less secure apps’ box, your Google Administrato
 - Click ‘Allow users to manage their access to less secure apps’.
 - Click ‘Save’.
 
+<<<<<<< HEAD
 You will now be able to go back to the section above and allow less secure apps in your account.  (Changes in Google domains may change the exact pathway to these settings, but they will normally continue to be available in the Security area).
 
+=======
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 #### An Alternative to Allowing Less Secure Apps  
 
 Your primary alternative is to use 2 factor authentication, and we recommend this.  However, if you don’t wish to allow less secure apps or use two factor authentication, there is a work around.  You can:

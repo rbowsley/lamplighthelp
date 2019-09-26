@@ -4,6 +4,8 @@
 
 
 
+
+
 You can use this type of rule if you add {{people}} to {{work}} records using linked relationships. For example, if Matt Parker is linked to Lamplight Database Systems as an employee, and this type of relationship has been enabled to be used in linked records in your system, then you can add 'Matt Parker, Lamplight Database Systems' to the {{work}} record, instead of just 'Matt Parker' or 'Lamplight Database Systems'. In this example you will most likely want to send the bill to Lamplight Database Systems, rather than Matt Parker personally, so you can use a body-type payee rule set to 'organisation' to ensure that it is the organisation that pays. (For more on linked records, see [16.6.3 System Administraton: Relationships](/help/index/p/16.6.3).)
 
 To add a body-type payee rule:

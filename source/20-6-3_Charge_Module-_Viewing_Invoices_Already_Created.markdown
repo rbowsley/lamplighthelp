@@ -4,6 +4,8 @@
 
 
 
+
+
 ### Viewing All Invoices Issued in Your System
 
 To view a table showing all invoices which have been issued, go to admin > finances -> view invoices. 

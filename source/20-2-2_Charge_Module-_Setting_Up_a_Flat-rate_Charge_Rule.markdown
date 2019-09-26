@@ -4,6 +4,8 @@
 
 
 
+
+
 To set up a flat-rate charge rule:
 - Go to admin -> system administration -> Module Administration -> Charge Module -> manage charge module rules and policies. 
 - Click the 'create new flat-rate charge rule' button. 

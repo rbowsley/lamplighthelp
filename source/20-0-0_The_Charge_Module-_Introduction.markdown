@@ -1,6 +1,10 @@
 # 20.0.0 The Charge Module: Introduction
 
+<<<<<<< HEAD:source/20-0-0_The_Charge_Module-_Introduction.markdown
 > The Charge Module allows you to set charges for attending a {{work}} record, and then decide who should pay that charge
+=======
+> The Charge Module allows you to set charges for attending a {{work}} session, and then decide who should pay that charge
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/20-0-0_The_Charge_Module-_Introduction.markdown
 
 
 

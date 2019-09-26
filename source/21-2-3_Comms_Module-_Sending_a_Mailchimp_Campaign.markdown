@@ -4,6 +4,8 @@
 
 
 
+
+
 Mailchimp has its own wizard system which you can use to set up the layout and content of your campaign - see their website for more details. We’ll focus on selecting which {{Lamplight}} {{group}} to which to send the mailing.
 
 ### Selecting Your Recipients

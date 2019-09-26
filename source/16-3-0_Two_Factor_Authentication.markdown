@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 # 16.3.0 <i class="fa fa-cogs"></i> Two Factor Authentication
+=======
+# 16.3.0 Two Factor Authentication
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 > Enabling two factor authentication adds a layer of protection to the log-in process
 
 
+<<<<<<< HEAD
+=======
+
+For two factor authentication, {{Lamplight}} works in conjunction with an app on your phone. Once it is set up, the app generates a new code every 60 seconds. You must enter your user name and password, plus the 6 digit code, to log in. 
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 Two factor authentication adds a layer of protection to the login process. When set up, an app on your phone generates a 6-digit code every 30 seconds, which is only valid for 30 seconds. To log in you must enter your username/password followed by this 6-digit code. While it does add an extra step to the login process, the security benefits are significant.
 

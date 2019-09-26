@@ -2,10 +2,15 @@
 
 > {{Linked case}}s in Lamplight are a way to link different types of work in one place. This tab is where you can turn them on or off, depending on whether you need to use them, and also contains some settings for them
 
+<<<<<<< HEAD:source/16-12-3_Global_Settings-_Linked_Cases.markdown
 
 
 ### Do you want to use {{linked case}}s at all?
+=======
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-12-3_Global_Settings-_Linked_Cases.markdown
 
+
+### Do you want to use {{linked case}}s at all?
 {{Linked case}}s in Lamplight are a way to link different pieces of work. A {{linked case}} has a name, description and start and end dates. There are also three types of category that can be used to label {{linked case}}s - you can set these up in system administration. To do this, go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists -> {{Linked Case}}s. (For more on how to add items to a list in system administration, see [16.6.0 System Administration: Lists](/help/index/p/16.0.0).)
 
 Any {{activity}} record or {{comm}} (if you have the {{comm}}s module) can be added to a {{linked case}}, as well as records which relate to different {{workarea}}s.  For more on this see [9.0.0 {{Linked Case}}s](/help/index/p/9.0.0).
@@ -22,19 +27,44 @@ The options for this tab are:
    
 #### If so, you can specify a custom template for the "unlinked records" button here
 
-   If you have the {{linked case}} tab enabled on profiles (see option above), there is a button above the list of {{linked case}}s that shows all records not included in a {{linked case}}. You can specify what details appear on this button using the codes outlined in the  menu.
+   If you have the {{linked case}} tab enabled on profiles (see option above), there is a button above the list of {{linked case}}s that shows all records not included in a {{linked case}}. You can specify what details appear on this button using the codes outlined in the  menu. In the case below we show the number of records on the button:
    
+<<<<<<< HEAD:source/16-12-3_Global_Settings-_Linked_Cases.markdown
    These buttons act as summaries of the {{linked case}}, so these templates can be used if you need to see different information about each at a glance.  When you click on the buttons the full details of the {{linked case}} are loaded and shown.
    
+=======
+      
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-12-3_Global_Settings-_Linked_Cases.markdown
    ![The Unlinked Records Button](16.12.3a.png)
+   
+   In the global settings page it looks like this:
+   
+   ![Global Settings for Unlinked Records Button](16.12.3b.png)
  
 #### Custom template for the open {{linked case}} buttons
 
-   As with the option above, you can choose details to appear on the open {{linked case}} buttons. You will need to have set up a custom template for unlinked records for this to take effect.
+   As with the option above, you can choose details to appear on the open {{linked case}} buttons. You will need to have set up a custom template for unlinked records for this to take effect (see above). The one we have set up here shows the case name, ID number, the number of records in the case and the total time taken on it to date:
    
+   ![The Open {{Linked Case}} Button](16.12.3c.png)
+   
+   The set-up for this in global settings looks like this:
+   
+<<<<<<< HEAD:source/16-12-3_Global_Settings-_Linked_Cases.markdown
+=======
+   ![Global Settings for Open {{Linked Case}} Button](16.12.3d.png)
+   
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-12-3_Global_Settings-_Linked_Cases.markdown
 #### Custom template for the closed {{linked case}} buttons
 
-   As with the two options above, you can choose what is shown on the closed {{linked case}} buttons. Again, you will need to have set up the custom template for unlinked records for this to take effect.
+   As with the two options above, you can choose what is shown on the closed {{linked case}} buttons. Again, you will need to have set up the custom template for unlinked records for this to take effect (see above). In the example below, we have chosen to show the name, ID number and date of closure of the case:
+      
+   ![The Closed {{Linked Case}} Button](16.12.3e.png)
+   
+   The set-up for this in global settings looks like this:
+   
+   ![Global Settings for Closed {{Linked Case}} Button](16.12.3f.png)
+   
+   
    
    
 ###### core module

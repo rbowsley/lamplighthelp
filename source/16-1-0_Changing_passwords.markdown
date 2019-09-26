@@ -19,8 +19,12 @@ Save the new password once you've finished.  You will receive on-screen confirma
 ![Password Change Confirmation](16.1.0b.png)
 
 ### To Change Your Password on the Login Page
+<<<<<<< HEAD
 
 If you have forgotten your current password, you can request a new one from the 'Forgotton your password?' link on the login page.
+=======
+- If you have forgotten your current password, you can request a new one from the 'Forgotton your password?' link on the login page.
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 ![Forgotton Password Link](16.1.0c.png)
 

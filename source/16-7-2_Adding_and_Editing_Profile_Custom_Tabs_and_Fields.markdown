@@ -45,7 +45,11 @@ Once you have finished, click the 'save' button in the bottom right corner. You 
 
 **Whenever you create a new tab it is essential to add at least one field immediately, even if you later remove it. If you do not do this the tab will save, so it will show in the profile, but you will not be able to edit or delete it in system admin.**
 
+<<<<<<< HEAD:source/16-7-2_Adding_and_Editing_Profile_Custom_Tabs_and_Fields.markdown
 #### Adding Fields (the Middle Column)
+=======
+ #### Adding Fields (the Middle Column)
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-7-2_Adding_and_Editing_Profile_Custom_Tabs_and_Fields.markdown
    
 When you click on a tab in the left-hand column, the middle column will show you a list of the fields in that tab.  To add a new field to a tab: 
 
@@ -90,8 +94,12 @@ You'll see your options appear in the list under 'Options'.
 Repeat this process until you have added all the tabs, fields and options that you require.
 
 #### Linked Fields
+<<<<<<< HEAD:source/16-7-2_Adding_and_Editing_Profile_Custom_Tabs_and_Fields.markdown
 
 You may want to link fields together so that you can enter multiple records under a single field (for more on this see [16.7.1 Custom Fields in Profiles](/help/index/p/16.7.1)). Remember, if you do this you will not be able to use the data in the linked fields for reporting, creating {{group}}s or {{group}} data views. This is most suitable for historic information you need to hold but do not need to report on, such as previous addresses, or other notes that are required for day-to-day work, but do not need to be analysed or filtered.
+=======
+You may want to link fields together so that you can enter multiple records under a single field (for more on this see [16.7.1 Custom Fields in Profiles](/help/index/p/16.7.1)). Remember, if you do this you will not be able to use the data in the linked fields for reporting, creating {{group}}s or {{group}} data views. This is most suitable for historic information you need to hold but do not need to report on, such as previous addresses.
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-7-2_Adding_and_Editing_Profile_Custom_Tabs_and_Fields.markdown
 
 - Create the fields you wish to link on the same tab, and make sure that they are next to one another in the correct order. 
 - Select them both. To do this, click and hold the left mouse button to the left of the first field you want to link. A small red rectangle will appear. 

@@ -4,7 +4,11 @@
 
 
 
+<<<<<<< HEAD
 You can request backups of your database at any time. They will be created in MySQL format and available for download within an hour. If you download your data you must ensure that it is encrypted and saved securely: if in doubt please do not download, or seek advice first. 
+=======
+You can request backups of your database at any time. They will be created in SQL format and available for download within an hour. If you download your data you must ensure that it is encrypted and saved securely: if in doubt please do not download, or seek advice first. 
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 To request a download:
 

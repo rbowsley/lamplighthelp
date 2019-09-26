@@ -4,6 +4,8 @@
 
 
 
+
+
 If you have the {{Comm}}s Module you can log {{comm}}s in your system. When you do this, there will be an area in the record for you to specify the type of {{comm}} (email, letter, SMS etc.) from a list. 
 
 ### Add a {{Comm}} Type

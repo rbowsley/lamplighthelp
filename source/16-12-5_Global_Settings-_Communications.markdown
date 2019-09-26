@@ -4,7 +4,11 @@
 
 
 
+<<<<<<< HEAD:source/16-12-5_Global_Settings-_Communications.markdown
 The fields in the {{comm}}s tab are:
+=======
+The fields in the communications tab are:
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-12-5_Global_Settings-_Communications.markdown
 
 ### General {{Comm}}s Settings
 

@@ -3,6 +3,12 @@
 > If you have profile-sharing policies you can use them when adding a new profile or in the '{{Project}} sharing' tab
 
 
+<<<<<<< HEAD:source/17-2-4_Project_Sharing-_Sharing_Profiles.markdown
+=======
+> If you have profile-sharing policies you can use them when adding a new profile or in the 'Project sharing' tab
+
+
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/17-2-4_Project_Sharing-_Sharing_Profiles.markdown
 
 If you have {{project}} sharing enabled, then when adding a new profile you will see an additional drop-down box: 'Select {{project}} sharing policy'. You will have to select something from this drop-down, but the default option is always 'No sharing'. Please check directly with your System Administrator if you are unsure about which to use.
 

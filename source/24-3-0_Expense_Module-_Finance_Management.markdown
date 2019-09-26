@@ -33,8 +33,12 @@ You will see a table of expenses incurred.
 - The expense status will be updated.
 
 **Please note:** even if you are not able to authorise or pay an expense, you will still be able to select them, but no further action will be possible.
+<<<<<<< HEAD
 
 You can use the 'Download' link under the expenses table to download it to an Excel csv format file.
+=======
+- You can use the 'Download' link under the expenses table to download it to an Excel csv format file.
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 
 ###### costs module

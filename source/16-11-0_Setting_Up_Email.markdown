@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 16.11.0 <i class="fas fa-envelope-open"></i>  Setting Up Email
+=======
+# 16.11.0 Setting Up Email
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 > Before you can send emails from your Lamplight system, you will need to set up the connection to your existing email account
 
@@ -16,8 +20,12 @@ If you will be using {{Lamplight}} to send out bulk emails, then a single email 
 Because emails are sent through your own server, there are sometimes limits on how many emails you can send with some certain accounts.  You can check with your provider how this may affect you. If you need to, you can use MailChimp with {{Lamplight}} for sending out bulk email. You need the {{Comm}}s Module for this. For more on Mailchimp and {{Lamplight}}, see [21.2.0 {{Comm}}s: Linking with Mailchimp](/help/index/p/21.2.0).
 
 ### Two Factor Authentication
+<<<<<<< HEAD
 
 Some email providers allow you to set-up 2-factor authentication.  If so the setup may be slightly different: if you use [Office 365](/help/index/p/16.11.4) or [Gmail](/help/index/p/16.11.2) we have separate guides for this.  
+=======
+Some email providers allow you to set-up 2-factor authentication.  If you use Office 365 or Gmail we have separate guides for this.  
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 If you are using 2-factor authentication, you’ll need to follow the help systems for your email provider, to generate what’s called an ‘App password’.  You’ll use this as the password for Lamplight.  
 

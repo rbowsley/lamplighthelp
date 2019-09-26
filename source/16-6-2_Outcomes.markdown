@@ -3,6 +3,12 @@
 > {{Outcome}}s in your system are organised so that you have a main {{outcome}} category and {{outcome}} indicators within each of these categories
 
 
+<<<<<<< HEAD
+=======
+> {{Outcome}}s in your system are organised so that you have a main {{outcome}} category and {{outcome}} indicators within each of these categories
+
+
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 Adding, editing and deleting {{outcome}}s works in the same way as for other lists, except that you have a main {{outcome}} category and {{outcome}} indicators within each category. 
 
@@ -11,8 +17,12 @@ You can have as many categories as you need, and each can hold any number of {{o
 Before you change or delete an {{outcome}} you need to consider the implications. These are the same as for {{workarea}}s - for more on this see [16.6.1 Adding and Editing {{Workarea}}s and {{Subworkarea}}s](/help/index/16.6.1)).
 
 ### To Add a New {{Outcome}}
+<<<<<<< HEAD
 
 Always remember to press enter after each field that you enter. If you do not do this, the system may hang. If this happens, click on system admin in the green toolbar, and then start again in {{outcome}}s.
+=======
+- Always remember to press enter after each field that you enter. If you do not do this, the system may hang. If this happens, click on system admin in the green toolbar, and then start again in {{outcome}}s.
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 - Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists' -> {{Outcome}}s -> {{Outcome}} measures'.
 - Any {{outcome}}s already in your system will be at the top of the screen. Scroll to the end of the page and double click on 'double-click to add'.
 - A text box will open, type in the title of your {{outcome}} category and press enter to save. You have now set up a new category, and will need to add the indicators to it. 
@@ -20,7 +30,10 @@ Always remember to press enter after each field that you enter. If you do not do
 ![New {{Outcome}} Category](16.6.2a.png)
 
 ### To Add Indicators/Questions to an {{Outcome}}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 - Double-click on the text 'double-click to add' immediately under the category name you just entered, and type in the text for your indicator. Press 'enter' to save. 
 - '{{Outcome}} type'. Double-click on this and a drop-down list will appear. This offers you:
 

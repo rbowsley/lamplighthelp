@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 # 16.8.4  <i class="fa fa-user"></i> Restricted Processing of Profiles
+=======
+# 16.8.4 Restricted Processing of Profiles
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 > If a {{person}} requests that processing of their data is restricted, go to their profile and click the 'Restrict processing' button
 
 
 
+<<<<<<< HEAD
 'Restricted processing' is a particular right for data subjects under the GDPR (art 10(1)(a)-(d)). If a data subject requests that processing is restricted then their data can still be stored but can't be processed unless it is with their consent or relates to legal claims, the rights of others or reasons of important public interest.  Further information about this is available on the [ICO website](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-restrict-processing/).
+=======
+'Restricted processing' is a particular right for data subjects under the GDPR (art 10(1)(a)-(d)). If a data subject requests that processing is restricted then their data can still be stored but can't be processed unless it is with their consent or relates to legal claims, the rights of others or reasons of important public interest. 
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 Important things to note about restricted profiles:
 
@@ -15,14 +23,20 @@ Important things to note about restricted profiles:
 - If you view a restricted profile it will say 'Restricted for Processing' very clearly across the top of the page. 
 
 ### To Restrict Processing
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 - Open the relevant profile.
 - Click the ‘Restrict processing’ button on the top right of the page.
 - Click 'yes' to confirm that you wish to restrict processing. 
 
 You will be taken back to the home page.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 ### Viewing Restricted Profiles
 System Administrators can view restricted profiles. 
 
@@ -36,7 +50,11 @@ System Administrators can view restricted profiles.
 - From here you can click on the name in the table to view the profile. 
 - When the profile opens you'll see a warning message at the top:
 
+<<<<<<< HEAD
 ![Restricted Processing Warning Message](16.8.4b.png)
+=======
+!{Restricted Processing Warning Message](16.8.4b.png)
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 ### Unrestricting a Profile
 If the restriction needs to be lifted and the data subject has been notified that it will be, you can unrestrict the profile. Only System Admins can do this. 

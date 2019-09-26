@@ -4,7 +4,11 @@
 
 
 
+<<<<<<< HEAD:source/21-2-2_Comms_Module-_Creating_MailChimp_Mailing_Lists_in_Lamplight.markdown
 You can sync existing {{Lamplight}} {{group}}s to Mailchimp. See section [12.0.0  Introduction to {{group}}s](/help/index//p/12.0.0) for more on creating these. 
+=======
+You can sync existing {{Lamplight}} {{group}}s to Mailchimp. See section [11.0.0  Introduction to {{group}}s](/help/index//p/11.0.0) for more on creating these. 
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/21-2-2_Comms_Module-_Creating_MailChimp_Mailing_Lists_in_Lamplight.markdown
 
 ### To Sync {{Lamplight}} {{Group}}s to Mailchimp
 

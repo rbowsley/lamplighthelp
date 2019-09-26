@@ -1,6 +1,11 @@
 # 23.0.0 The {{Eval}}s Direct Module
 
 > The {{Eval}}s Direct Module allows your to ask your clients to fill out {{eval}}s online so that you do not have to input the data for ones which have been completed
+<<<<<<< HEAD:source/23-0-0_The_Evals_Direct_Module.markdown
+=======
+
+
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/23-0-0_The_Evals_Direct_Module.markdown
 
 
 

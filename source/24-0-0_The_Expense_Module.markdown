@@ -4,7 +4,11 @@
 
 
 
+<<<<<<< HEAD:source/24-0-0_The_Expense_Module.markdown
 This module will enable you to allocate the cost of staff and other resources so that you can calculate what your different services cost on a per-beneficiary basis.  It also provides a mechanism that allows you to manage staff expenses.
+=======
+This module will enable you to allocate the cost of staff and other resources so that you can calculate what your different services costs.
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/24-0-0_The_Expense_Module.markdown
 
 ### Costing
 You can track different types of cost:

@@ -1,4 +1,8 @@
+<<<<<<< HEAD:source/16-2-0_System_Administration_-_Lockouts.markdown
 # 16.2.0 <i class="fa fa-cogs"></i> System Administration - Lockouts
+=======
+# 16.2.0 System Administration - Lockouts
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-2-0_System_Administration_-_Lockouts.markdown
 
 > If a database operator has tried to log in to their account 10 times without success the account will be locked. It is also possible to temporarily lock the acccount of an operator if you do not want them to access the system for any reason
 
@@ -27,8 +31,11 @@ To do this:
 
 The next time the operator logs in they need to use their most recent password. If they have requested a new one they will need to use the last password they were sent.
 
+<<<<<<< HEAD:source/16-2-0_System_Administration_-_Lockouts.markdown
 **Please note: There will only be one chance to log in correctly before being locked out again. If this happens you will need to go through the same process as above. Once successfully logged in the account is set back to 10 attempts at log in before locking again.**
 
+=======
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-2-0_System_Administration_-_Lockouts.markdown
 ### Deliberate Lock-Out
 
 If you do not want a database operator to access the database for any reason, a System Administrator can lock the account. 

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 16.4.1 <i class="fas fa-tools"></i> Personal Settings - Logging in and General Settings
+=======
+# 16.4.1 Personal Settings - Logging in and General Settings
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 > This section allows you to custmise what you see on your home screen, what information you show on the 'my {{user}}s' tab, your colour-scheme, some options of how tables are displayed, whether you are warned about timeouts, as well as how you view form data
 

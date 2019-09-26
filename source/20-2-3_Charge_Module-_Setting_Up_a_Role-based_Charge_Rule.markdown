@@ -4,6 +4,8 @@
 
 
 
+
+
 You may want to set different charges for {{people}} attending the same session. For example, a training session could be full-price for {{user}}s, but half price for your {{volunteer}}s. 
 
 To set up a role-based charge rule:

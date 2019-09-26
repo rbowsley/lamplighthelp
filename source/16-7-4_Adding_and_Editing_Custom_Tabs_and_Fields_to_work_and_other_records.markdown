@@ -4,6 +4,8 @@
 
 
 
+
+
 In the system administration menu page, there is a section called 'Manage Custom Fields and Drop-down Lists'. This is where you'll find options for adding and managing custom fields and tabs to different types of {{activity}} record.
 
 ![System Admin Adding Custom Fields to {{Activity}} Records](16.7.4b.png)
@@ -23,7 +25,10 @@ You'll see three columns, with the first showing you a list of tabs available on
 
 
 ### Creating a New Tab
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 - Select 'Click here to add' at the bottom of the left-hand column.  
 
 Fill in the details of the pop-up box:

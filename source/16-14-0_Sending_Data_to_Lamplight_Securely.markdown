@@ -4,7 +4,11 @@
 
 
 
+<<<<<<< HEAD:source/16-14-0_Sending_Data_to_Lamplight_Securely.markdown
 You can send Lamplight a file within the system. You should never email personally identifiable information - email is not secure enough.
+=======
+You can send Lamplight a file within the system. You should never email personally identifiable information - there are no guarantees that it is secure, and a high chance that it is not. 
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-14-0_Sending_Data_to_Lamplight_Securely.markdown
 
 ### To Send Data Securely
 

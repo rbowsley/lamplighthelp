@@ -22,7 +22,11 @@
 **Please note:** Once an {{eval}} has been created in this way you need to add at least one question, even if it’s just a placeholder, before leaving the page. If you do not do this the {{eval}} will appear blank, and it will no longer be editable. If this happens, please contact Lamplight for support.
 
 #### Adding a Field to the {{Eval}}
+<<<<<<< HEAD:source/22-1-0_Evals_Module-_Setting_Up_Evals.markdown
 Click the ‘click to add’ button to reveal options in the right-hand column.
+=======
+- Click the ‘click to add’ button to reveal options in the right-hand column.
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/22-1-0_Evals_Module-_Setting_Up_Evals.markdown
 
 ![Adding Fields to an {{Eval}}](22.1.0b.png)
 
@@ -52,21 +56,33 @@ Using the ‘Type’ field, select the type of field you wish to use. The option
    - Twitter name: a text field in which to enter a Twitter name, which provides a link to the Twitter profile.
    - Web address: a text field in which to enter a web address, which provides a link to the website.
 
+<<<<<<< HEAD:source/22-1-0_Evals_Module-_Setting_Up_Evals.markdown
 [Section 16.7.1](/help/index/p/16.7.1) has more information about custom field types.
 
 To make a field mandatory, tick the ‘Is this a required field’ box. This means the {{eval}} won’t save until an answer has been given.
 
 Click the ‘save’ button when you are done with that field.
+=======
+#### Adding Options to Select Fields
+If the field has a list of options, these must now be added.
+- Once the question has been saved it will be shown in the column on the right. 
+- Enter the options, each one separated by a semi-colon, into the box at the bottom of the right-hand column. Don’t enter any spaces on either side of the semi-colon.
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/22-1-0_Evals_Module-_Setting_Up_Evals.markdown
 
 #### Adding Options to Select Fields
 If the field has a list of options, these must now be added.  Once the question has been saved it will be shown in the column on the right.  Enter the options, each one separated by a semi-colon, into the box at the bottom of the right-hand column. Don’t enter any spaces on either side of the semi-colon.
 
 ![Setting Up Field Options](22.1.0d.png)
 
+<<<<<<< HEAD:source/22-1-0_Evals_Module-_Setting_Up_Evals.markdown
 Click the ‘Add’ button below. The items will appear in a list above.  This list can be reordered by clicking and dragging.  List items can be deleted individually by clicking on the 'Del' button to the right of them.
 
 #### Adding More Fields
 You can continue adding fields using the process above (clicking the ‘click to add’ button in the middle column) until the {{eval}} fields are all in place.
+=======
+#### Adding More Fields
+- You can continue adding fields using the process above (clicking the ‘click to add’ button in the middle column) until the {{eval}} fields are all in place.
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/22-1-0_Evals_Module-_Setting_Up_Evals.markdown
 
 #### Testing Your {{Eval}}  
 

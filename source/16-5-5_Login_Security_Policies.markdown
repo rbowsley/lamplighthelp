@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 16.5.5  <i class="fas fa-address-card"></i> Login Security Policies
+=======
+# 16.5.5 Login Security Policies
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 > Login security policies limit when and from where operators may log in
 

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 16.4.4 <i class="fas fa-tools"></i> Personal Settings - Communications
+=======
+# 16.4.4 Personal Settings - Communications
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 > This section is for creating, editing and saving your email signature
 

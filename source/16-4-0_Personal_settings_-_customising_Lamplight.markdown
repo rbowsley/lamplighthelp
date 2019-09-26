@@ -3,6 +3,12 @@
 > Each database operator has the ability to customise aspects of {{Lamplight}} to fit their work flow. The changes they make will not affect anyone else
 
 
+<<<<<<< HEAD
+=======
+> Each database operator has the ability to customise aspects of {{Lamplight}} to fit their work flow. The changes they make will not affect anyone else
+
+
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 Personal settings can be found at 'admin -> system administration -> Customise {{Lamplight}} -> change my personal settings'. 
 

@@ -23,10 +23,16 @@ Once you have added a staff member's hourly salary, this information used every 
    - The {{staff}} member has been added to the attendance list.
    - The {{staff}} member's attendance type is 'attended' and their role is 'staff'.
 
+<<<<<<< HEAD:source/24-4-0_Expense_Module-_Reporting_Using_Cost_Data_Linked_to_the_Staff_Management_Module.markdown
 
 ### Using Staffing Costs for Reporting
 
 Run the work report as usual (for more on this see [17.0.0 Reports](/help/index/p/17.0.0)).  In the 'Report presentation' tab choose 'Cost data' as your 'Data to show'. 
+=======
+### Using Staffing Costs for Reporting
+- Run the work report as usual (for more on this see [17.0.0 Reports](/help/index/p/17.0.0).)
+- In the 'Report presentation' tab choose 'Cost data' as your 'Data to show'. 
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/24-4-0_Expense_Module-_Reporting_Using_Cost_Data_Linked_to_the_Staff_Management_Module.markdown
 
 ![Choosing Cost Data in a Report](24.4.0b.png)
 
@@ -40,8 +46,11 @@ The {{report}} will generate the following statistics:
 ![Total Costs Report Column](24.4.0c.png) 
 
 ### Viewing Costs for Individual Records
+<<<<<<< HEAD:source/24-4-0_Expense_Module-_Reporting_Using_Cost_Data_Linked_to_the_Staff_Management_Module.markdown
 
 To view the calculated cost of a particular {{work}} record, 
+=======
+>>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/24-4-0_Expense_Module-_Reporting_Using_Cost_Data_Linked_to_the_Staff_Management_Module.markdown
 - Go to '{{activity}} -> view -> {{work}}' (or other type of {{activity}} record as necessary).
 - Right-click on the coloured header bar at the top of the table. This will give you a list of the available columns for the table. 
 - Click  'Total cost'. This adds the cost column to your table. 
