@@ -51,11 +51,8 @@ In addition:
 - Projects: You can select which projects this field should display in (if you have more than one {{Lamplight}} project).
 - If you have the Publishing Module you will also see fields about publishing. For more on this see [28.0.0. Publishing Module](/help/index/p/28.0.0). This does not apply to custom attendance fields, however, as attendances cannot be published.
 
-<<<<<<< HEAD
 Click 'save' once you have completed the appropriate fields.
 
-=======
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 ### Editing a Column
 - Select the set in the left-hand column.
 - Double click on the text 'Set label' in the middle column.

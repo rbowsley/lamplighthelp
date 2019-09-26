@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 16.11.0 <i class="fas fa-envelope-open"></i>  Setting Up Email
 
 > Before you can send emails from your Lamplight system, you will need to set up the connection to your existing email account

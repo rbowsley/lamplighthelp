@@ -2,17 +2,9 @@
 
 > System Administrators and Managers can archive a profile once it is no longer active if you don't need to add information to it or amend information that is already in it
 
-<<<<<<< HEAD
-
 
 Archiving is straightforward and reversable. When a profile is archived it can still be counted in {{report}}s (if the ‘Include archived profiles?’ field is selected on the report filters page, (for more on this see [13.1.1 Report Filters](/help/index/p/14.1.1)). You can also run {{group}}s of archived {{people}} and {{org}}s. The profile itself will not be found if you use the search box at the top of the screen, or search boxes for attendance tables in {{activity}} records.  
 
-=======
-
-
-Archiving is straightforward and reversable. When a profile is archived it can still be counted in {{report}}s (if the ‘Include archived profiles?’ field is selected on the report filters page, (for more on this see [13.1.1 Report Filters](/help/index/p/13.1.1)). You can also run {{group}}s of archived {{people}} and {{org}}s. The profile itself will not be found if you use the search box at the top of the screen, or search boxes for attendance tables in {{activity}} records.  
-
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 **Only database operators with a Manager level of access to {{Lamplight}} or above will be able to archive, find, and unarchive profiles.**  
 
 ### Archiving a Profile

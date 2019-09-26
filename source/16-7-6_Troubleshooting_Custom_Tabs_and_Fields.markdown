@@ -3,12 +3,6 @@
 > If you have a question about editing or are having an issue with one of your custom tabs or fields, you can find the answer to common queries here
 
 
-<<<<<<< HEAD
-=======
-> If you have a question about editing or are having an issue with one of your custom tabs or fields, you can find the answer to common queries here
-
-
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
 
 ### I’m trying to make changes to my tabs, but the system hangs/does not save the changes that I make. What can I do?  
    

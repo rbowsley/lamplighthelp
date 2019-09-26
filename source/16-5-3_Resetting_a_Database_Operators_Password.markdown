@@ -1,8 +1,4 @@
-<<<<<<< HEAD:source/16-5-3_Resetting_a_Database_Operators_Password.markdown
 # 16.5.3 <i class="fas fa-address-card"></i>  Resetting a Database Operator's Password
-=======
-# 16.5.3 Resetting a Database Operator's Password
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-5-3_Resetting_a_Database_Operators_Password.markdown
 
 > It is possible for system and project administrators to request a new password for an operator, and to see it as it is reset
 

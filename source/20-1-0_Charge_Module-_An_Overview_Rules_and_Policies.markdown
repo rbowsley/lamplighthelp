@@ -1,10 +1,6 @@
 # 20.1.0 Charge Module: An Overview Rules and Policies
 
-<<<<<<< HEAD:source/20-1-0_Charge_Module-_An_Overview_Rules_and_Policies.markdown
 > A charge rule is a single logic-based step to calculate part of a charge, or decide how to allocate that charge. A policy is a combination of rules
-=======
-> A charge rule contains a single logic-based step to calculate part of a charge, or decide how to allocate that charge. A policy is a combination of rules
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/20-1-0_Charge_Module-_An_Overview_Rules_and_Policies.markdown
 
 
 

@@ -5,12 +5,6 @@
 
 
 Before you decide which types of field to add you need to think carefully the information you want to capture, and how you will need to report on it. See the table below for more information on this.
-<<<<<<< HEAD:source/16-7-3_Which_Custom_Fields_to_Choose_in_Activity_Records.markdown
-=======
-
-### Reporting on Custom Fields
-There are a number of different ways in which custom fields in {{work}} records can be used to report on. Depending on the type of field that you choose you will be able to:
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-7-3_Which_Custom_Fields_to_Choose_in_Activity_Records.markdown
 
 ### Reporting on Custom Fields
 There are a number of different ways in which custom fields in {{work}} records can be used to report on. Depending on the type of field that you choose you will be able to:
@@ -19,10 +13,6 @@ There are a number of different ways in which custom fields in {{work}} records 
 - Use it for presenting {{report}}s: this allows you to show columns in a {{report}} using this field. So using the above example, you could run a {{report}} on the number of {{work}} sessions you've had in the last six months, and then choose to present it by your 'Team' field. This would then give you a column or row for each of the options in that field - 'Youth', 'Older People' and 'Working Age Parents', so that you could see the results for each different group at a glance. (For more on this see [14.1.4 {{Report}} Presentation](/help/index/p/14.1.4).)
 - For creating {{group}}s: again, using the above field example you can create {{auto group}}s to show you everyone who has attended a {{work}} session that was tagged with 'Older People' in the last six months. (For more on this see [12.1.2 {{Group}}s: {{User}}, {{Staff}} and Other Custom Fields](/help/index/p/12.1.2).)
 
-<<<<<<< HEAD:source/16-7-3_Which_Custom_Fields_to_Choose_in_Activity_Records.markdown
-
-=======
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/16-7-3_Which_Custom_Fields_to_Choose_in_Activity_Records.markdown
 ### Types of Custom Field
 The table below gives details of how each custom field works, and how you can use each type of field to report on. 
 

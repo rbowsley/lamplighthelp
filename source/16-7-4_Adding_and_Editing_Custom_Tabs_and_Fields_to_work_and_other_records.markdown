@@ -25,11 +25,8 @@ You'll see three columns, with the first showing you a list of tabs available on
 
 
 ### Creating a New Tab
-<<<<<<< HEAD
 
-=======
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2
-- Select 'Click here to add' at the bottom of the left-hand column.  
+Select 'Click here to add' at the bottom of the left-hand column.  
 
 Fill in the details of the pop-up box:
    - Text: this will be the tab name.

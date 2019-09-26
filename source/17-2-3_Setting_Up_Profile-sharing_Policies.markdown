@@ -3,12 +3,7 @@
 > If you have more than one {{project}} in your system, it is possible to set up policies to dictate which parts of profiles (if any) can be shared, and by whom
 
 
-
-<<<<<<< HEAD:source/17-2-3_Setting_Up_Profile-sharing_Policies.markdown
 If you have more than one {{project}}, it may be that some of the {{people}} will be the same on each. Rather than entering them twice, it is possible to share {{people}} and their profile information across {{project}}s.
-=======
-If you hvae more than one {{project}}, it may be that some of the {{people}} will be the same on each. Rather than entering them twice, it is possible to share {{people}} and their profile information across {{project}}s.
->>>>>>> 0e65355ac6181e0c406b6862567511f0a9ab98b2:source/17-2-3_Setting_Up_Profile-sharing_Policies.markdown
 
 - Click ‘admin’ in the main menu’.
 - Select ‘system administration’ from the sub-menu below.
