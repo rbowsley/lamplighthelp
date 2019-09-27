@@ -28,13 +28,22 @@ If the {{volunteering opportunity}} happens at the main address of the {{opportu
 
 If it happens elsewhere you can specify the address instead, and this is the one that will be used to match.
 
+![Location of opportunity](26.2.1b.PNG)
+
 #### {{Volunteering opportunity}} availability
 
 Use this section to specify when during the week, and between which dates, the {{volunteering opportunity}} is available.
+
+![Availability](26.2.1c.PNG)
+
+
+#### What the {{volunteering opportunity}} is
+
+The rest of the Opportunity details section is for text and category selections to describe the {{volunteering opportunity}}.  This text is used for information for potential applicants.  The categories can be used to match to {{volunteering application}}s.
+
+Any of the information in this tab may appear on a public website if you are publishing {{volunteering opportunity}} records.
+
  
  
-
-
-
 
 ###### match module
