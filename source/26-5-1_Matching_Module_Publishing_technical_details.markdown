@@ -30,10 +30,6 @@ The main endpoint for searching volunteering opportunities is
 parameters are available:
 
 
-| Field name | Description |For Filtering {{Report}}s | For Presenting {{Report}}s | For Creating {{Group}}s | As a {{Group}} Data View Column |
-| :--------- | :---------- | :------------------- | :--------------------- | :---------------------- | :----------------------------- |
-| Select box | A drop-down list of options which operators will be able to choose one of | Yes | Yes | Yes | Yes |
-| Multi-sel
 
 | Parameter | Type | Description |
 | :-------- | :--- | :---------- |

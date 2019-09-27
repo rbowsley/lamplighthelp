@@ -1,4 +1,4 @@
-# 26.4.0 Matching Module - Matching {{volunteering_application}} and {{volunteering_opportunity}} records
+# 26.4.0 Matching Module - Matching {{volunteering application}} and {{volunteering opportunity}} records
 
 > {{Lamplight}} will find the best matches for {{volunteering opportunity}} and {{volunteering application}} records
 
