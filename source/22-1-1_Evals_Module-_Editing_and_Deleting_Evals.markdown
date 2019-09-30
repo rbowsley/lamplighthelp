@@ -1,6 +1,6 @@
 # 22.1.1 {{Eval}}s Module: Editing and Deleting {{Eval}}s
 
-> Before editng or deleting {{eval}}s, consider the effect this may have on existing data
+> Before editing or deleting {{eval}}s, consider the effect this may have on existing data
 
 
 
