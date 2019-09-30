@@ -31,7 +31,7 @@ This is the default option, giving you a sense of turnover and total waiting tim
   - Number joining the {{waiting list}} in the period: number of {{people}} added between the two dates.
   - Number leaving the {{waiting list}} in the period: number of {{people}} taken off between the two dates.
   - Total number of different {{people}}: one {{person}} may be on the same {{waiting list}} more than once in the date range, but they will only be counted once in this column. This may mean that this figure is different to the previous columns.
-  - The mean time spent on {{waiting list}}: the amount of time spent on the {{waiting list}} up until the specifice 'date to', averaged across everyone. This will mean that the figure changes, depending on the 'date to' that you set.
+  - The mean time spent on {{waiting list}}: the amount of time spent on the {{waiting list}} up until the specific 'date to', averaged across everyone. This will mean that the figure changes, depending on the 'date to' that you set.
   - The mean time spent on {{waiting list}} (weekdays): a similar calculation to the one above excluding weekends (but not bank holidays etc.)
 
 #### Weekly showing average size of {{waiting list}}, or Monthly showing average size of {{waiting list}}. 
