@@ -17,6 +17,7 @@ If all those checks pass successfully, {{Lamplight}} will look at which pieces o
 
 Your data is still in your control, so you could add additional controls on your web server (e.g. don't display {{work}} records that have a particular {{workarea}}, or add a registration/signin mechanism so that only your members can see it). This approach gives you a very fine level of control about what data is published, and where to. 
 
+We strongly recommend that the API key is kept secret, and for that reason we do not support jsonp responses that wrap data in a javascript callback function, because that means that your API key is embedded in your website and is therefore public.
 
 ###### publish module
 

@@ -19,17 +19,21 @@ You can choose to publish either when you’re adding a new record or you can ed
 
 ![Adding Publishing Settings to a {{Work}} Record](28.3.2a.png)
 
-- **Publish this record via Lamplight API?**  
-   Allows the individual record to be published.
+#### Publish this record via Lamplight API?
    
-- **Title of the record for publishing**  
-   Give the record a title, which you can use when publishing.
+Allows the individual record to be published.
    
-- **Do you want to allow the addition of attendees through the Lamplight API?**  
-   This will allow people to add themselves to an activity through your site or app, if it is configured to do so.
+#### Title of the record for publishing
    
-- **Maximum number of clients allowed?**  
-   If people can add themselves to the record through your site, this sets a maximum number who will be accepted.
+Give the record a title, which you can use when publishing.  You will need to check with your developer / website to understand how this title is used on the public site.
+   
+#### Do you want to allow the addition of attendees through the Lamplight API?
+   
+This will allow people to add themselves to an activity through your site or app, if it is configured to do so.
+   
+#### Maximum number of clients allowed?
+   
+If people can add themselves to the record through your site, this sets a maximum number who will be accepted.  If you have a limit to the number of people that can attend the record, it allows your website to know if a record is "full".  However the details of the attendances (i.e. names) of a record are never published.
 
 
 ### To Edit and Remove Sharing from a {{Work}} Record
@@ -38,6 +42,8 @@ You can choose to publish either when you’re adding a new record or you can ed
 - Edit any of the fields that you would like to change.
 - If you want to stop sharing this record, untick the checkbox next to 'Publish this record via {{Lamplight}} API?'
 - Save your changes.
+
+Changes to publishing take effect immediately when the record is saved - this may include autosaving of {{work}} records.
 
 
 ###### publish module
