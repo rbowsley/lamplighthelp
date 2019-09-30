@@ -1,6 +1,6 @@
 # 27.0.0 The Media Module
 
-> The Media Module is a way to store documents, pictures and video content about your work and {{users}}
+> The Media Module is a way to store documents, pictures and video content about your work and {{user}}s
 
 
 
