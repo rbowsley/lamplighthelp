@@ -4,7 +4,7 @@
 
 
 
-A {{work}} {{report}} gives a numerical summary of of information from your {{work}} records. They can show the number of:
+A {{work}} {{report}} gives a numerical summary of information from your {{work}} records. They can show the number of:
 - attendances
 - unique individuals
 - people hours
