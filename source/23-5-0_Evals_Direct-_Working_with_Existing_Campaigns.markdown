@@ -46,13 +46,13 @@ Choose 'Reset table columns layout' to return to the default layout.
 ### The Context Menu
 
 To bring up a context menu:
-- Click on the sqare to the left of a row, or right click on the campaign you are interested in.  This brings up a number of options:
+- Click on the square to the left of a row, or right click on the campaign you are interested in.  This brings up a number of options:
 
    ![Campaign Context Menu](23.5.0b.png)
 
 - View full details: shows a summary of the campaign information and settings. 
 
-If you need to find an individual url for an invitee, right-click on the header row of the invitee table in this view. From this menu, tick the 'Their url' option and a column will be added to the table showing the individual url for each person. This only applies if you have opted to send out individual {{eval}}s rather than using the same url address for all.
+If you need to find an individual URL for an invitee, right-click on the header row of the invitee table in this view. From this menu, tick the 'Their URL' option and a column will be added to the table showing the individual URL for each person. This only applies if you have opted to send out individual {{eval}}s rather than using the same URL address for all.
    
    ![Their URL](23.5.0d.png)
    
@@ -73,11 +73,11 @@ You can only delete campaigns that have not had any responses. If you try to del
 
 If you want to stop an existing campaign, you can edit it to change the 'date to' to the current time and date, which will prevent any more responses. Anyone attempting to respond to it will see an error message. 
 
-- Duplicate record: duplicates the campaign, so that if it is similar to one you you are setting up you can alter the details rather then creating one from scratch.
+- Duplicate record: duplicates the campaign, so that if it is similar to one you are setting up you can alter the details rather then creating one from scratch.
 
-- Email all invitees/have responded/not yet reponded: takes you to a {{comm}}s page to email these invitees (for more see [23.3.0 Communicating with Invitees of an {{Eval}}s Direct Campaign](/help/index/p/23.3.0)).
+- Email all invitees/have responded/not yet responded: takes you to a {{comm}}s page to email these invitees (for more see [23.3.0 Communicating with Invitees of an {{Eval}}s Direct Campaign](/help/index/p/23.3.0)).
 
-- View report of reponses:  takes you to an {{eval}}s report (for more see [{{Eval}} Report 14.2.0](/help/index/p/14.2.0)).
+- View report of responses:  takes you to an {{eval}}s report (for more see [{{Eval}} Report 14.2.0](/help/index/p/14.2.0)).
 
 ### Downloading, Printing and Split Print
 
@@ -86,7 +86,7 @@ If you wish to download the information in the table into a spreadsheet:
 - Clicking the print button will open a new tab, with the table in a print friendly format.  
 - Split print allows you to create multiple print friendly tables, split by whatever item you choose.
 
-**Please note:** this will only download the table, not the informtion from individual campaigns. You can download the responses to your campaigns in reporting (see [14.2.0 {{Eval}} Report](/help/index/p/14.2.0)).
+**Please note:** this will only download the table, not the information from individual campaigns. You can download the responses to your campaigns in reporting (see [14.2.0 {{Eval}} Report](/help/index/p/14.2.0)).
    
    
 ###### datadirect module
