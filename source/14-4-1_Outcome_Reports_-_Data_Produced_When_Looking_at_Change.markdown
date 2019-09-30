@@ -42,7 +42,7 @@ There three different charts that you can use to show your {{outcome}}s data.  T
 
   ![The Infographic](13.4.0f.png)
  
-  This is a visual depiction of the measure selected, using text and arrorws to demonstrate the changes.
+  This is a visual depiction of the measure selected, using text and arrows to demonstrate the changes.
  
 #### Scatterplot
    
