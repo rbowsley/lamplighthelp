@@ -6,7 +6,7 @@
 
 There will often be {{user}}s, {{contact}}s or {{funder}}s that you {{work}} with regularly. Rather than searching for them or browsing through long lists, you can create a 'My {{user}}' relationship with them, and they will then be listed in the 'My {{user}}s' tab on your home page. 
 
-(If the 'My {{user}}s' tab doesn't appear on your home page, you may need to enable it in your personal settings - see [16.4.1  Personal Settings - Logging in and General Settings](/help/index/p/16.4.1).)
+(If the 'My {{user}}s' tab doesn't appear on your home page, you may need to enable it in your personal settings - see [16.4.1 Personal Settings - Logging in and General Settings](/help/index/p/16.4.1).)
 
 The relationship between you and your {{user}}, {{contact}} or {{funder}} will need to be set up in the 'Relationships' tab on the profile.  See section [5.4.0 The Relationships Tab](/help/index/p/5.4.0) for more information on how to do this. 
 
