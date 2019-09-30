@@ -58,7 +58,7 @@ The {{report}} shows:
 - Whether the {{linked case}} is open or closed at the time you are running the {{report}}.
 - The date the {{linked case}} was closed, if applicable.
 - The total length to of time up to now in weekdays that the {{linked case}} has been/was open. This does not count weekends.
-- The total lenght of time up to now, including weekends, that the {{linked case}} has been/was open.
+- The total length of time up to now, including weekends, that the {{linked case}} has been/was open.
 - The total amount of time spent on this {{linked case}}. This will look at **all** the records attached to each {{linked case}} (not just those in the time period specified for the {{report}}) and total up the time they have taken.
 - Number of {{activity}} records (including {{work}}, {{outcome}}, {{referral}} etc.) attached to each {{linked case}} in the time period.
 
