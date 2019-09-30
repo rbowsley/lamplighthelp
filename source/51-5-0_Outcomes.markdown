@@ -8,7 +8,7 @@ Your organisation will have decided on the {{outcome}}s that are available in yo
 
 Videos in this section:
 
-- [51.5.1 {{Outcome}}s](/help/index/p/50.5.1).
+- [51.5.1 {{Outcome}}s](/help/index/p/51.5.1).
 
 
 ##### No Manual

@@ -32,7 +32,7 @@ It is possible to print profile information for specific profiles. This can be d
 - Choose 'print' from the context menu.
 - This opens up the same print menu as for the individual profile, above. You can select which sections of the profiles you would like to print from here.
 
-**Please note:** if you do this for a large {{list}} it will take some time and may slow down Lamplight as it has to load all information from all tabs for all the profiles in the {{list}}.
+**Please note:** if you do this for a large {{group}} it will take some time and may slow down Lamplight as it has to load all information from all tabs for all the profiles in the {{group}}.
 
 ##### Tags
 Data protection

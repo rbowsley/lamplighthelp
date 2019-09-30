@@ -25,7 +25,7 @@
 
    **View full details**
    - This shows you each {{person}} currently on the {{waiting list}}, the date they joined and the length of time they have been on it.
-   - If there is a black arrow to the right of this row, there are {{group}} data views which you can use to see more detail about the people on the {{waiting list}}. See section [12.2.2 Using {{Group}} Data Views to Add Information to Attendance Tables](/help/index/p/12.2.2) for more information.
+   - If there is a black arrow to the right of this row, there are {{group}} data views which you can use to see more detail about the people on the {{waiting list}}. See section [13.2.2 Using {{Group}} Data Views to Add Information to Attendance Tables](/help/index/p/13.2.2) for more information.
 
    ![View Full Details](30.2.0d.png)
    
