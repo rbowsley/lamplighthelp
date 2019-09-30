@@ -124,7 +124,7 @@ If you edit a field, be aware that when you change the title of a field this wil
 To edit the tab or field:
 
 - Double click on the text: ‘Field name’, or ‘Tab label’.  
-- Make the changes you want, and press 'enter' on your keyboard to save.You can now edit the options.
+- Make the changes you want, and press 'enter' on your keyboard to save. You can now edit the options.
  
 To edit a field option:
  
