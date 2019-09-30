@@ -6,7 +6,7 @@
 
 If you want to use login policies you will need to set them up and apply them through system admin.
 
-Please note, the System Admnistration page has been updated since this video was made. The screen that is shown 1 minute into the video will now look like this:
+Please note, the System Administration page has been updated since this video was made. The screen that is shown 1 minute into the video will now look like this:
 
 ![Login Policies](52.1.5a.png)
 
