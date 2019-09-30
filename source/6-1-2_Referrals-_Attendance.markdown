@@ -26,7 +26,7 @@ To add additional attendees:
 To alter the attendance type or role for a particular person (e.g. from 'Attended' to 'For reference', for example):
 - Click on the table cell where that information is showing. 
 - A drop-down box will appear. 
-- Select the appropriate option. These options are customised for your system, and your system administrator can add options to them as necessary (see section [16.6.0  System Administration - Lists](/help/index/v/{{version}}/p/16.6.0)). 
+- Select the appropriate option. These options are customised for your system, and your system administrator can add options to them as necessary (see section [16.6.0 System Administration - Lists](/help/index/v/{{version}}/p/16.6.0)). 
 
 ![Adding roles of {{referral}} {{people}}](194c.png)
 
