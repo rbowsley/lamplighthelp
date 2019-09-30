@@ -10,7 +10,7 @@ Each different set of {{outcome}} measures that you have in your system will hav
 
 You may also have some tabs relating to modules in your system - these are outlined in green in the above picture.
 
-- Click on any tab to see the measures in the {{outcome}} and record scords for them. 
+- Click on any tab to see the measures in the {{outcome}} and record scores for them. 
 
 These {{outcome}}s will either be recorded as:
 
@@ -24,7 +24,7 @@ When entering {{outcome}}s you will either see a drop-down box with yes-no optio
 
 Once you have entered the actual score or yes/no, you can also add a comment to the score. The comment can be any text, perhaps an explanation or evidence. It is not a field that can be reported on, but it can be seen when viewing the saved record, as a column in the  table view on the {{Outcome}}s tab (for more on this see [8.2.0 The {{Outcome}}s Tab](/help/index/p/8.2.0) or as a column in the {{outcome}}s table (see [8.3.0 Viewing All {{Outcome}} Records](/help/index/p/8.3.0).
 
-The 'our work' tickbox means that you can record changes in the {{person}}'s situation, even if they are not the result of your work. This is for reference only, and can be seen if you view the completed {{outcome}}s record.
+The 'our work' tick box means that you can record changes in the {{person}}'s situation, even if they are not the result of your work. This is for reference only, and can be seen if you view the completed {{outcome}}s record.
 
 You can enter information for as few or as many {{outcome}}s as you wish. When you have finished, click the 'save' button at the bottom-right of the page. 
 
