@@ -39,7 +39,7 @@
  
 #### Do you want to use relationships between {{people}} in {{work}} and other records?   
 
-   If you choose to enable this option then there will be a ‘default contact’ tickbox when you set up a new relationship. 
+   If you choose to enable this option then there will be a ‘default contact’ tick box when you set up a new relationship. 
 
 #### Do you want to allow multiple default contacts for a single profile?   
 
@@ -51,7 +51,7 @@
 
    Lamplight has two types of profiles enabled by default: ‘{{person}}’ and ‘{{org}}’. If you do not need to use both, this is where you can disable the type you don’t need.
 
-   In addition, you can enable ‘family’ profiles. These can be useful if you need to record specific details about a family as well as the individuals in that family. For example, whether the family has access to a car, or details of their immigration status or housing situation. If you do decide to use family profiles, you may also want to link family members to the family profile using relationships.  Note that ther term 'family' can be [translated](/help/index/p/16.16.0) if needed, so they don't have to be families - this is just the default terminology.
+   In addition, you can enable ‘family’ profiles. These can be useful if you need to record specific details about a family as well as the individuals in that family. For example, whether the family has access to a car, or details of their immigration status or housing situation. If you do decide to use family profiles, you may also want to link family members to the family profile using relationships.  Note that the term 'family' can be [translated](/help/index/p/16.16.0) if needed, so they don't have to be families - this is just the default terminology.
 
 #### What roles may different {{people}} or {{org}}s have?   
 
