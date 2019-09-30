@@ -4,7 +4,7 @@
 
 
 
-These options relate to how you view your activities records in {{Lamplight}}, as well as customising some of your data entry choices when entering new actities records.
+These options relate to how you view your activities records in {{Lamplight}}, as well as customising some of your data entry choices when entering new activities records.
 
 ### Date From Type (Earliest Date) and Date From (Value)
 
