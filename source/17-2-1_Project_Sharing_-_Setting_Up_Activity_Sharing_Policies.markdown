@@ -8,7 +8,7 @@ If you have more than one {{project}} in {{Lamplight}}, you may want to share so
 
 - Click ‘admin’ in the main menu’.
 - Select ‘system administration’ from the sub-menu below.
-- In the ‘Manage projects’ section, click ‘{{Project}} sharing {{work}} etc policies’.
+- In the ‘Manage projects’ section, click ‘{{Project}} sharing {{work}} etc. policies’.
 - As with other lists in {{Lamplight}} you'll see current policies.
 
 ![Current {{Activity}} Sharing Policies](17.2.1a.png)
