@@ -26,9 +26,9 @@ There are a number of different types of field:
 - Check box - click on the box to fill in a tick.
 - Radio button - click on the button to indicate a yes.
 - Dates - dates are entered in UK format by selecting from the day/month/year select boxes, or you can use the pop-up calendar to find the date.
-- Times - times are entered on a 24 hour clock from select boxes.
+- Times - times are entered on a 24-hour clock from select boxes.
 - Number box - {{Lamplight}} will only accept numbers in this box - no text, spaces or other characters.
-- Charity number look-up - allows the charity number of an organisation to be entered, along with a link to their page on the Charity Commission web-site.
+- Charity number look-up - allows the charity number of an organisation to be entered, along with a link to their page on the Charity Commission website.
 
 If the option you need is not there, speak to your System Administrator about what needs to be added. If you have the appropriate permission levels, see section [16.7.2 Adding Custom Tabs and Fields in Profiles](/help/index/p/16.7.2). 
 
