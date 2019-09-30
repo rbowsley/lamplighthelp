@@ -6,7 +6,7 @@
 
 Global settings in {{Lamplight}} affect every database operator as they control how the system behaves, which options are available to all users, and how information is displayed.
 
-Settings affecting each database operator's individual prefernces are found in [personal settings](/help/index/p/16.4.0).
+Settings affecting each database operator's individual preferences are found in [personal settings](/help/index/p/16.4.0).
 
 To access global settings (you need to be a System Administrator), go to 'admin -> system administration -> Customise Lamplight -> Change global settings’.
 
