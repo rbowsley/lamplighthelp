@@ -8,7 +8,7 @@ You will see the {{workarea}}s and {{subworkarea}}s listed in the ‘when and wh
 
 You can add, edit and delete them in the same place, although both editing and deleting have implications for future reporting. (For more on this see [16.6.1 System Administration - Adding and Editing {{Workarea}}s](/help/index/p/16.6.1).).
 
-Please note, the system admnistration page has been updated since this video was made. The screen that is shown at 1 minute 40 no longer looks like this. You will now need to look for the {{workarea}}s list in the 'Manage Custom Fields and Dropdown Lists' section, under the '{{Activity}} Records' heading.
+Please note, the system administration page has been updated since this video was made. The screen that is shown at 1 minute 40 no longer looks like this. You will now need to look for the {{workarea}}s list in the 'Manage Custom Fields and Dropdown Lists' section, under the '{{Activity}} Records' heading.
 
 ![Adding {{Workarea}}s](52.1.2a.png)
 
