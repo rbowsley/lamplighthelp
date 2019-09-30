@@ -19,7 +19,7 @@ Profiles for both parties would be added to Lamplight, with either the requireme
 - availability.
 
 If using the module for employment/volunteering opportunities, it enables you to publish the opportunities to your website.
-Full reporting on the module enables you to accurately demonstrate the matching relationships made. Reports such as the number of matching opportunities registered/requested, number of successful placements/matches made and, for example the number of different people involved. With a variety of presentation options, these reports can also be broken down in different ways, such as by demographic data. 
+Full reporting on the module enables you to accurately demonstrate the matching relationships made. Reports such as the number of matching opportunities registered/requested, number of successful placements/matches made and, for example the number of different people involved. With a variety of presentation options, these reports can also be broken down in different ways, such as by demographic data.  {{Report}}s are covered in [section 15.3](/help/index/p/15.3).
 
 
 ###### match module
