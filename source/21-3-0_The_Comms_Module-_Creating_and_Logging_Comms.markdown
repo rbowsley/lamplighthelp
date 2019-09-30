@@ -20,10 +20,10 @@ The 'people merge' fields will insert information about the {{people}} that are 
 #### Document Templates
 These are standard letters and emails (or parts of them) which are unique to your organisation, that any database operator can use - simply select the one that you want to use from the menu.  
    
-See section [21.1.1  {{Comm}} Templates](/help/index/p/21.1.1) for more information about document templates and how System Adminstrators can set them up.
+See section [21.1.1  {{Comm}} Templates](/help/index/p/21.1.1) for more information about document templates and how System Administrators can set them up.
 
 #### {{Activity}} Merge
-If you have started the {{comm} from an {{activity}} record ({{work}}, {{referral}} etc), you will be able to use the '{{Activity}} merge options.  See [section 21.3.1](/help/index/p/21.3.1) for how to do this.
+If you have started the {{comm} from an {{activity}} record ({{work}}, {{referral}} etc.), you will be able to use the '{{Activity}} merge options.  See [section 21.3.1](/help/index/p/21.3.1) for how to do this.
   
   ![Sending a {{Comm}} Through the {{Work}} Record](21.3.0c.png)
   
