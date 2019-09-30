@@ -8,7 +8,7 @@ A '{{comm}}' created within {{Lamplight}} is a letter, email or mailing labels. 
 
 ![{{Comm}} Options](10.0.0a.png)
 
-When you send emails from Lamplight they will be set up in the system and then sent through your email server, so restrictions on number of emails and size of attachements that apply to your organisation's emails will still apply when using Lamplight. 
+When you send emails from Lamplight they will be set up in the system and then sent through your email server, so restrictions on number of emails and size of attachments that apply to your organisation's emails will still apply when using Lamplight. 
 
 Before you can send emails through Lamplight your system or project administrator will need to set up your server details in system administration (for more information see [16.11.0 Setting Up Email](/help/index/p/16.11.0).
 
