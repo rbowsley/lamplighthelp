@@ -4,7 +4,7 @@
 
 
 
-### Calulating Staffing Costs
+### Calculating Staffing Costs
 
 #### Adding the Staff Member's Hourly Wages
 
