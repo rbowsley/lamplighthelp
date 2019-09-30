@@ -12,7 +12,7 @@ If you start typing into it a drop-down will appear listing the {{people}} that 
 
 ![Search bar in progress](3.2.0b.PNG)
 
-See section [5.8.0  Finding {{People}}](/help/index/p/5.8.0) for more details.
+See section [5.8.0 Finding {{People}}](/help/index/p/5.8.0) for more details.
 
 However, if you click the 'Go' button a different search will be carried out. {{Lamplight}} will do a full-text search of the entire system, looking at profiles, {{work}}, {{outcome}} and {{referral}} records, and {{comm}}s (if the {{comm}}s module is enabled) and present the information on a new screen. This search uses a similar approach to web searches.
 
