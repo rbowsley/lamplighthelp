@@ -16,7 +16,7 @@ Your system is customised to suit the needs of your organisation, and your Syste
 - In this manual you will find information on the general concepts and language we use in the system (section [2  General Concepts](/help/index/p/2.0.0)), and how to navigate around the system and use some of the common controls (section [3  Navigation and Controls](/help/index/p/3.0.0)).
 
 ### Getting Started
-- Section [Section 4 -  Homepage](/help/index/p/4.0.0) gets you started, explaining what's on the home page. The subsequent chapters explain how to add, edit and view records in the system. 
+- [Section 4 -  Homepage](/help/index/p/4.0.0) gets you started, explaining what's on the home page. The subsequent chapters explain how to add, edit and view records in the system. 
 
 ### Modules
 - At the end of the manual you will also find support for 'Modules'. These are optional additions to {{Lamplight}} that provide extra features. You may not have them in your system, and if this is the case the sections will be slightly greyed out. If you are interested in turning any of these on in your system please get in touch. 

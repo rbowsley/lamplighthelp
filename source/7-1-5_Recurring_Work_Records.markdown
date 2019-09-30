@@ -19,7 +19,7 @@ There are a number of options for how records can recur.
 -  Daily. You decide which days you would like this appointment to repeat on, and then the date when these will finish. The 'until' date is non-inclusive, so if you would like them to finish on 11th April, the 'until' date will be 12th April. There is also the option to make this every 2, 3, 4 weeks etc., rather than recurring every week.
 - Weekdays. This works as for 'Daily' above, but in the initial boxes {{Lamplight}} ticks Monday to Friday by default, rather than all 7 days.
 - Weekly. As above, but the default is that the day of the week on which you are adding the record is checked. You can alter this, and add more days or change the day completely as needed. 
-- Monthly. {{Lamplight}} will assume that you want the session to recur monthly on the same day as the initial appoitment. You can set this to be every first, second, third, fourth or fifth instance of that day in the month.
+- Monthly. {{Lamplight}} will assume that you want the session to recur monthly on the same day as the initial appointment. You can set this to be every first, second, third, fourth or fifth instance of that day in the month.
 - Yearly. This will then recur every year on the same day, up to but not including the end date that you specify. 
 - Custom. You can choose custom dates for the appointment to recur on. It will be added at the same time as the original record on each of these dates. 
 

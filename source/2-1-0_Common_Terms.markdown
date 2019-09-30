@@ -14,7 +14,7 @@
 - Where all information about a particular person or organisation is held.
 
 ### {{Workarea}}
-- Often these will be based on your workstreams – the services you provide or types of activity you carry out. For example, Mentoring, Ballet or Schools Outreach. They will probably already have been set up in your system, but the System Admnistrator can always add more or edit the ones that you have. To find out how to do this, see section [16.6.1 System Administration: Adding and editing {{workarea}}s](/help/index/p/16.6.1).
+- Often these will be based on your workstreams – the services you provide or types of activity you carry out. For example, Mentoring, Ballet or Schools Outreach. They will probably already have been set up in your system, but the System Administrator can always add more or edit the ones that you have. To find out how to do this, see section [16.6.1 System Administration: Adding and editing {{workarea}}s](/help/index/p/16.6.1).
 
 ### {{Subworkarea}}
 - You can use these to further divide up the work you do. They help you to record a finer level of detail and monitor who is attending what. For example, Mentoring can be further divided into Education and Employment. As with {{workarea}}s, these will probably already be set up in your system, although the System Administrator can add and edit them. For more on this see the section on adding {{workarea}}s above. 

@@ -14,7 +14,7 @@ All services that are not needed on the server are turned off. Remote access use
 
 ### Application Security
 
-Authorisation and access control across the entire application defaults to ‘no access’ unless you are logged in and have the appropriate permissions. No application code is located in public directories on the server. Passwords are stored securely (not in plain text), but password policy (strength, frequency of changes etc) are for the customer to decide and adopt.  Repeated login attempts take an increasingly long time to complete.
+Authorisation and access control across the entire application defaults to ‘no access’ unless you are logged in and have the appropriate permissions. No application code is located in public directories on the server. Passwords are stored securely (not in plain text), but password policy (strength, frequency of changes etc.) are for the customer to decide and adopt.  Repeated login attempts take an increasingly long time to complete.
 
 All data coming into the application are validated and filtered; all data out are escaped, and all forms are ‘salted’ prevent CSRF attacks.  Each customer’s data are stored in a separate database, with separate access for each customer.  Data changes are logged by who made the change and the date and time of the change.
 
@@ -52,7 +52,7 @@ Both Aurora data and S3 file data is automatically replicated across multiple di
 
 We use Cloudfront monitoring to oversee performance and availability of all services.  We aim to deliver responses within 300ms (from the load balancer request to response) and currently average around 250ms during weekdays.
 
-Disaster Recovery procedures apply when your datacentre is likely to be out of action for an extended period of time, and you need to switch to an alternative provision. Amazon already provides Availability Zones within the London region for High Availability; however to ensure data stays within the UK we do not use other regions as standby DR sites. We judge that the risk in which an entire Amazon region is offline for an extended period is sufficiently small that it does not justify the cost of maintaining a third party DR site.
+Disaster Recovery procedures apply when your data centre is likely to be out of action for an extended period of time, and you need to switch to an alternative provision. Amazon already provides Availability Zones within the London region for High Availability; however to ensure data stays within the UK we do not use other regions as standby DR sites. We judge that the risk in which an entire Amazon region is offline for an extended period is sufficiently small that it does not justify the cost of maintaining a third party DR site.
 
 
 ##### Tags
