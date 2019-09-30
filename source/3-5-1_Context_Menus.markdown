@@ -8,7 +8,7 @@ Most tables have context menus. This means that if you right-click on a row of t
 
 ![Context menu buttons](3.5.1a.png)
 
-If you don't have the context menu button in the left column of the table and would like to enable it, you can do this in the personal settings section on the admin menu. See section [16.4.1  Personal Settings - Logging in and General Settings](/help/index//p/16.4.1) for how to do this. 
+If you don't have the context menu button in the left column of the table and would like to enable it, you can do this in the personal settings section on the admin menu. See section [16.4.1 Personal Settings - Logging in and General Settings](/help/index//p/16.4.1) for how to do this. 
 
 The options on the context menu relate to the row that you clicked on. Some of these menu items may be light grey, which means they are disabled. This is either because the option is not relevant (for example, you can't close a {{linked case}} that's already closed), or because you do not have sufficient access rights (for example, you are not allowed to delete records). 
 
