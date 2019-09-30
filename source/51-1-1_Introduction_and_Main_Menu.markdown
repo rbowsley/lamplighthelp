@@ -32,7 +32,7 @@ First, we’ll look at the main menu.
 
 - **Searching**
 
-   At the very top right of the {{Lamplight}} screen you’ll see a grey search box with 'search profiles or help' written in it. A profile is the individual entry for any {{person}} or {{org}} you know and have entered into into {{Lamplight}}. This search box is the easiest way to find a profile, or to get help.
+   At the very top right of the {{Lamplight}} screen you’ll see a grey search box with 'search profiles or help' written in it. A profile is the individual entry for any {{person}} or {{org}} you know and have entered into {{Lamplight}}. This search box is the easiest way to find a profile, or to get help.
 
    Start typing a {{person}} or {{org}}'s name in the search box, and as soon as you’ve typed the first three characters, a list will appear with the first 10 matches. You can keep typing to narrow down the options to the one you want, and then click to select the profile you want. The drop-down list searches for names, postcodes, email addresses, and ID numbers.
 
