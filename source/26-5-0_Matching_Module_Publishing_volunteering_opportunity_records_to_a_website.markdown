@@ -1,6 +1,6 @@
-# 26.5.0 Matching Module - Publishing {{volunteering_opportunity}} records to a website
+# 26.5.0 Matching Module - Publishing {{volunteering opportunity}} records to a website
 
-> Create 'feeds' - an easy way to embed a searchable list of {{volunteering opportunity}} records on your website or elsewhere
+> Create 'API feeds' - an easy way to embed a searchable list of {{volunteering opportunity}} records on your website or elsewhere
 
 The Matching Module includes the ability to publish {{volunteering opportunity}} records externally.  This is separate to the publishing module, and does not require it to work.  The easiest way to do this is to create 'feeds' - embeddable widgets that you can copy and paste into your website quickly and easily.  You set up these feeds with a few starting criteria within {{Lamplight}} as a system administrator.
 
