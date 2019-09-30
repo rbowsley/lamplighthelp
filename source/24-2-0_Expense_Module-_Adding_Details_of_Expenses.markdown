@@ -1,6 +1,6 @@
 # 24.2.0 Expense Module: Adding Details of Expenses
 
-> With the Expense Module, you can add add expense detail to a new {{work}} or other {{activity}} record
+> With the Expense Module, you can add expense detail to a new {{work}} or other {{activity}} record
 
 
 
