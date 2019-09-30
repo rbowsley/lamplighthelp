@@ -9,7 +9,7 @@ The other option you'll see in '{{Work}} Record Custom Tabs and Fields' is 'Mana
 If you look at the 'Attendance' tab in a {{Work}} record you will see the attendance table. There are a number of columns, including name, attendance type, and role.  It's possible to add additional custom columns here (you may already have some.) However, the attendance table can become quickly crowded if you add too many columns, and so consider what you need carefully.
 
 ### Adding a New Column
-- Go to 'admin -> system adminitsration -> Manage Custom Fields and Drop-down Lists -> {{Work}} Records Custom Tabs and Fields -> Manage custom columns on the attendance table'.
+- Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists -> {{Work}} Records Custom Tabs and Fields -> Manage custom columns on the attendance table'.
 
 You will see any existing custom columns in the left-hand column, under 'Current Sets'.
 
