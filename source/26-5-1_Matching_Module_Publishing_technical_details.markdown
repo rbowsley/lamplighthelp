@@ -78,19 +78,12 @@ If format=html or format=iframe you'll get rendered html, which will look someth
 like this:
 
 <code>
-
 &lt;div class="lamplight lamplight-volunteering lamplight-listing"&gt;
-
-
     &lt;div id="lamplight_opportunity_container"&gt;
-
-
         &lt;div
             data-lplt_id="109"
             class="lplt-calendar-item workarea1-border control-workarea1"&gt;
-
             &lt;div class="lplt-detail"&gt;
-
                 &lt;div class="lplt-summary"&gt;
                 &lt;h3&gt;&lt;a href="http://lamplight/api/volunteering/opportunity/one?id=109&key=ccb4b364daae60c9956ff27de36245a3&format=iframe"&gt;test 2 all day friday, org 9 custom post SO21&lt;/a&gt;&lt;/h3&gt;at Generous Funder
                 &lt;/div&gt;
@@ -98,15 +91,11 @@ like this:
                 SO21 2JY
                 &lt;/p&gt;
             &lt;/div&gt;
-
         &lt;/div&gt;
-
         &lt;div
             data-lplt_id="110"
             class="lplt-calendar-item workarea1-border control-workarea1"&gt;
-
             &lt;div class="lplt-detail"&gt;
-
                 &lt;div class="lplt-summary"&gt;
                 &lt;h3&gt;&lt;a href="http://lamplight/api/volunteering/opportunity/one?id=110&key=ccb4b364daae60c9956ff27de36245a3&format=iframe"&gt;test 3 evenings, org 8&lt;/a&gt;&lt;/h3&gt;at Grange Community Centre
                 &lt;/div&gt;
@@ -114,9 +103,7 @@ like this:
                 33a Bills Lane, North Front, Bargate, Southampton, SO14 0AB
                 &lt;/p&gt;
             &lt;/div&gt;
-
         &lt;/div&gt;
-
     &lt;/div&gt;
 &lt;/div&gt;
 
