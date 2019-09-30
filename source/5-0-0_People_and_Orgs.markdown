@@ -21,7 +21,7 @@
   * {{Funder}}s
   * {{Org}}s
   
-The customisation of your system means that some of the descriptions below may be innacurate for you, as one or more of these roles may have been adapted to match your service.  The title will be correct, but the description may not match.
+The customisation of your system means that some of the descriptions below may be inaccurate for you, as one or more of these roles may have been adapted to match your service.  The title will be correct, but the description may not match.
 
 - **{{User}}s** are your service users; your main beneficiaries. These can be {{people}}, {{family}}, {{org}}s, depending on the work you do. 
 - **{{Staff}}** are the people who carry out the work that you do with your beneficiaries. 
