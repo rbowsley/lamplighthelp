@@ -18,7 +18,7 @@ When you ‘copy’ elements of an existing {{project}} these fields are shared 
 
 The normal process to follow would be:
 
-- When you create the {{project}}, share the type of fields (profile fields, {{workarea}}s etc) that you want the {{project}}s to have in common.
+- When you create the {{project}}, share the type of fields (profile fields, {{workarea}}s etc.) that you want the {{project}}s to have in common.
 - Once you have finished this, go through and manually unshare any individual fields which are not appropriate.
 - Ask Lamplight to unshare any individual areas which you cannot unshare yourself.
 
@@ -39,7 +39,7 @@ To add a new {{project}}, right click on any existing {{project}}s in the table,
 Enter the name of the new {{project}} which will distinguish it from any other {{project}}s on your system.  
 
 #### Create {{Project}} Profile
-Creating a {{project}} profile will create a new profile in the system with that {{project}} name which will allow you to assign referrals etc to it.
+Creating a {{project}} profile will create a new profile in the system with that {{project}} name which will allow you to assign referrals etc. to it.
 
 If you want to have a blank {{project}} so that you can start entirely from scratch simply leave the rest of the options blank and click save. You’ll have created a new {{project}}.
    
