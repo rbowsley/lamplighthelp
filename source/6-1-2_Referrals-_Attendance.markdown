@@ -33,7 +33,7 @@ To alter the attendance type or role for a particular person (e.g. from 'Attende
 In the case of {{referral}}s, there are additional roles that may be relevant and can be useful when running {{report}}s. These are: 
 - 'Referrer' (who made the {{referral}}).
 - 'Referred to' (the member of {{staff}} who accepted the {{referral}}). 
-- 'Service {{user}} referred' (the actual {{person}}that was referred). 
+- 'Service {{user}} referred' (the actual {{person}} that was referred). 
 
 #### Adding Notes
 There is also the option to add any further notes concerning the attendees. Click in the notes box along from their name to add further detail. 
