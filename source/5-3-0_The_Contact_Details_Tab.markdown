@@ -39,7 +39,7 @@ This is the second section on the 'Contact details' tab. It shows whether the {{
 
 ### Role - Main Relationship(s) to You
 
-When a new profile is created in {{Lamplight}}, it will have been given a role. This could be {{user}} or {{staff}}, for example. To change the role that a {{person}} or {{org}} has on your system, or to add another role to their profile, clikc on the 'Edit roles' button to the right. Once you have finished editing, click 'Save'.
+When a new profile is created in {{Lamplight}}, it will have been given a role. This could be {{user}} or {{staff}}, for example. To change the role that a {{person}} or {{org}} has on your system, or to add another role to their profile, click on the 'Edit roles' button to the right. Once you have finished editing, click 'Save'.
 
 To see how this works, you can view our video, ['The Contact Details Tab'](/help/index/p/51.2.2)
 
