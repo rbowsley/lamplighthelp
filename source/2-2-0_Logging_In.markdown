@@ -8,7 +8,7 @@ To log in, go to <a href="https://lamplight.online/">https://lamplight.online/</
 
 We recommend that you use Mozilla Firefox, Google Chrome or Edge browsers. If you are using Microsoft Internet Explorer we suggest you use the most up-to-date version. 
 
-Once the page has loaded, enter your user name (your email address) and your password in the appropriate boxes. The user name and password are case sensitive. 
+Once the page has loaded, enter your username (your email address) and password in the appropriate boxes. The username and password are case sensitive. 
 
 
 ##### Tags
