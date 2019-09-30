@@ -12,7 +12,9 @@ The 'finances' section can be found under 'admin' on the main menu.
 
 - Go to 'admin -> finances -> expenses'.
 
-You will see a table of expenses incurred. 
+You will see a table of expenses incurred. (If you can't immediately see the ones that you are looking for, you may need to click on the 'Search' bar above the table and alter the dates in the filter).
+
+![Expenses Table](24.3.0c.png)
 
    - Click on the search bar above this table to find filters (such as date and status) that you can apply to narrow down the records that you are seeing. 
    - When you have chosen your filter options, click the 'fetch data' button and the table below will be refreshed.
@@ -21,9 +23,6 @@ You will see a table of expenses incurred.
    - You may not authorise expenses that you have incurred yourself.
    - If you have the Staff Management Module, you can only authorise payments for people that you do not manage. 
    - If you do not have the Staff Management Module, database operators with a Manager or System/Project Administrator level of access can authorise claims.
-
-![Finance](203a.jpg)
-
 - If you are able to authorise/pay an expense, tick the select box to choose the expense you wish to authorise/pay. 
 - As it is selected, the details will be transferred into the second table. 
 
