@@ -10,7 +10,7 @@ The first line of menu items (starting with 'Home') can be clicked; this then di
 
 ![{{Lamplight}} initial menu](3.1.0a.png)
 
-(The categories that you see in your own system may differ to those shown in the picture above - this is due to each system beind customised for the organisation using it.)
+(The categories that you see in your own system may differ to those shown in the picture above - this is due to each system being customised for the organisation using it.)
 
 
 If you click many of these headings a dropdown sub-menu will appear. Simply click on the sub-menu item to go to the page you need.
