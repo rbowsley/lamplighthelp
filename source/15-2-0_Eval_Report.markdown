@@ -12,7 +12,7 @@ To run an {{eval}} report:
 
 At the bottom of the filters page there are two more options: 'Select '{{eval}}' and 'Select campaign' (you will only see the second of these if you have the {{Eval}}s Direct Module). 
   - 'Select {{eval}}', listing the {{eval}}s available. You have to choose one of these - the top option is always selected by default.
-  - 'Select campaign'. If you have the Datadirect Module you will also see this option. Each time you set up a new {{eval}} to send out, this is called a 'campaign'. You can choose the one that you want to report on from the drop-down. If you do this, {{Lamplight}} will igore the {{eval}} chosen in the 'Select {{eval}}' box above.
+  - 'Select campaign'. If you have the Datadirect Module you will also see this option. Each time you set up a new {{eval}} to send out, this is called a 'campaign'. You can choose the one that you want to report on from the drop-down. If you do this, {{Lamplight}} will ignore the {{eval}} chosen in the 'Select {{eval}}' box above.
 
 ### The {{Report}} Results
 
@@ -37,7 +37,7 @@ You can also, in the 'Show data as' field, choose whether you would like your re
 
 ### {{Eval}} Filters
 
-Once you have run the initial {{report}} an extra tab will be added: '{{Eval}} filters'. This enables you to filter the {{report}} by responses to one or more questions. For example, in our {{report}} we want to filter it to show what eveyone who accessed the 'High trees' service responded to the rest of the survey.  
+Once you have run the initial {{report}} an extra tab will be added: '{{Eval}} filters'. This enables you to filter the {{report}} by responses to one or more questions. For example, in our {{report}} we want to filter it to show what everyone who accessed the 'High trees' service responded to the rest of the survey.  
 
 ![{{Eval}}s {{Report}} Filters](14.2.0b.png)
 
