@@ -24,13 +24,13 @@ A flat-rate rule charges everyone the same amount, as specified in the rule.  Se
 
 #### Attendance- based Rule
 
-An attendance-based rule varies the charge based on the attendance type selected in the {{work}} record (Attended, Did not attend, Cancelled etc). You can specify a fixed amount, or a percentage of the total charge.  See [20.2.4 Setting Up an Attendance-based Charge Rule](/help/index/p/20.2.4) for more.
+An attendance-based rule varies the charge based on the attendance type selected in the {{work}} record (Attended, Did not attend, Cancelled etc.). You can specify a fixed amount, or a percentage of the total charge.  See [20.2.4 Setting Up an Attendance-based Charge Rule](/help/index/p/20.2.4) for more.
 
 **For example**, "charge people attendance £20" would use an Attendance-based rule.
 
 #### Role-based Rule
 
-A role-based rule varies the charge based on the role type selected in the {{work}} record (service user, staff etc). You can specify a fixed amount, or a percentage of the total charge.  See [20.2.3 Setting Up a Role-based Charge Rule](/help/index/p/20.2.3) for more.
+A role-based rule varies the charge based on the role type selected in the {{work}} record (service user, staff etc.). You can specify a fixed amount, or a percentage of the total charge.  See [20.2.3 Setting Up a Role-based Charge Rule](/help/index/p/20.2.3) for more.
 
 **For example**, "charge people who cancelled a £10 cancellation fee" would use a Role-based rule.
 
