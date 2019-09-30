@@ -25,7 +25,7 @@ The fields in this tab are:
  
 #### Do you want data tables to display case details?
 
-   If you select this option, your {{activity}}>view tables (e.g. {{work}}, {{outcome}}s etc) will automatically display case information when they open. The fields include case ID, case name and case open. If this box is left unticked it is still possible to choose to view these columns by right clicking on the table header row and ticking the options that you wish to include.
+   If you select this option, your {{activity}}>view tables (e.g. {{work}}, {{outcome}}s etc.) will automatically display case information when they open. The fields include case ID, case name and case open. If this box is left unticked it is still possible to choose to view these columns by right clicking on the table header row and ticking the options that you wish to include.
 
 #### Do you want {{work}} data tables to add hidden columns for description and follow up text?
 
