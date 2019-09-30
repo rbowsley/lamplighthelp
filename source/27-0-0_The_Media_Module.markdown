@@ -4,7 +4,7 @@
 
 
 
-The Media Module lets you add pictures, video, and other files to your records in Lamplight. You may want to upload referral forms, a video of a session or photos of users, for example, or to link to photos on Flickr and Youtube videos.
+The Media Module lets you add pictures, video, and other files to your records in Lamplight. You may want to upload referral forms, a video of a session or photos of users, for example, or to link to photos on Flickr and YouTube videos.
 
 Files can be attached to profiles, or to {{work}} and other records.
 
