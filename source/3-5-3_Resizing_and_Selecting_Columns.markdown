@@ -14,7 +14,7 @@ Click and drag the column to change its width.
 
 ### Selecting Columns to View
 
-Many tables in {{Lamplight}} have columns which are hidden. When you right click on the coloured header row of the table you will see a list of all the available columns you can view. You can tick and untick by each one (you will need to do this one at a time) to choose the information you would like to view in your table. This enables you to select appropriate information to download if required (see section [3.5.4  Downloading tables](/help/index/p/3.5.4)). 
+Many tables in {{Lamplight}} have columns which are hidden. When you right click on the coloured header row of the table you will see a list of all the available columns you can view. You can tick and untick by each one (you will need to do this one at a time) to choose the information you would like to view in your table. This enables you to select appropriate information to download if required (see section [3.5.4 Downloading tables](/help/index/p/3.5.4)). 
 
 ![Showing or hiding columns](18c.png) 
 
