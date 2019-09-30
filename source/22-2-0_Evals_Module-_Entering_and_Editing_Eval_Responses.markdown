@@ -6,11 +6,11 @@
 
 ### Entering Responses 
 
-- Go to {{work}}-> add new-> {{eval}}.  A side menu appears listing the {{eval}}s templates you have in your system
+- Go to {{activity}} -> add new -> {{eval}}.  A side menu appears listing the {{eval}} templates you have in your system
 - Click on the {{eval}} you wish to enter information for. 
 - The following screen will appear:
 
-![Adding an {{eval}}](117a.png)
+![Adding an {{eval}}](22.2.0b.png)
 
 - The 'when and where' and 'attendance' tabs are the same as those for {{work}} records and {{outcome}}s (see section [7.1.1  When and Where](/help/index//p/7.1.1) and [7.1.2  Adding Attendance Details to a {{Work}} Record](/help/index/p/7.1.2) for more details). 
 - If you would like your {{eval}}s to be anonymous you can leave the attendance table blank. However, if you do this you will not be able to view the {{eval}} results in that {{user}}'s profile, and when running {{report}}s you will not be able to use any demographics from profiles to inform the report. 
