@@ -20,7 +20,6 @@ Complete all columns in the row by clicking inside each box in turn or using the
    - Incurred by: this will link the expense claim to a profile within the database. Start typing in the box to find the {{person}} or {{org}} you need. Click on the name in the drop-down when it appears.
    - Details: if you need to give any further details of the expense, you can record it here.
    
-![Add expense](202a.png)
 
 If you have more than one expense claim for the {{work}} record, click 'add row' at the end of any row to add more lines to the table. 
 
