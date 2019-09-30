@@ -4,7 +4,7 @@
 
 
 
-A summary tab can be added to profiles which allows you to choose information from different tabs and show it in one place. It is fully customisable, and each database operator can set up a different summary tab, or share the same one. A {{group}} data view is used to set the prarmeters for the information that will be shown in the tab. You can change or remove the tab at any time.
+A summary tab can be added to profiles which allows you to choose information from different tabs and show it in one place. It is fully customisable, and each database operator can set up a different summary tab, or share the same one. A {{group}} data view is used to set the parameters for the information that will be shown in the tab. You can change or remove the tab at any time.
 
 To add a summary tab:
 
