@@ -65,7 +65,7 @@ In either case you will **overwrite your data in {{Lamplight}}** if you use this
 
 When it is done you will be shown 'Upload results'.  At this point it is recommended that you leave {{Lamplight}} open on this tab and open a second browser tab to check the data in some of the profiles where information has been added or changed to see that it looks as you would expect. 
 
-If there is a problem with the upload, return to {{Lamplight}} in the orignal browser window and click the ‘Undo’ button to remove the imported data. **Once this tab has been closed, the upload can no longer be undone.**  Undoing the upload will allow you to edit your spreadsheet and then upload again.
+If there is a problem with the upload, return to {{Lamplight}} in the original browser window and click the ‘Undo’ button to remove the imported data. **Once this tab has been closed, the upload can no longer be undone.**  Undoing the upload will allow you to edit your spreadsheet and then upload again.
 
 When you are happy with the results of the upload then you can close the tab.
 
