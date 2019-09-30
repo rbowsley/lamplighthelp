@@ -14,7 +14,7 @@ For example, if you set up the record and ask it to recur every Wednesday for 6 
 
 There are a number of options for how records can recur. 
 
-![recurring options](219a.png)
+![Recurring Options](7.1.5a.png)
 
 -  Daily. You decide which days you would like this appointment to repeat on, and then the date when these will finish. The 'until' date is non-inclusive, so if you would like them to finish on 11th April, the 'until' date will be 12th April. There is also the option to make this every 2, 3, 4 weeks etc., rather than recurring every week.
 - Weekdays. This works as for 'Daily' above, but in the initial boxes {{Lamplight}} ticks Monday to Friday by default, rather than all 7 days.
