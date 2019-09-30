@@ -19,7 +19,7 @@ It is possible to open a new {{linked case}} in a couple of ways. Whichever you 
 
 ![Opening a {{Linked Case}} through the Context Menu](9.1.0b.png)
 
-- Instead of choosing an existing case from the predicted options, you can also enter the name and detalis of a new one. (For more on adding records to an existing {{linked case}}, see [9.2.0 Linking Records to a {{Linked Case}}](help/index/p/9.2.0).)
+- Instead of choosing an existing case from the predicted options, you can also enter the name and details of a new one. (For more on adding records to an existing {{linked case}}, see [9.2.0 Linking Records to a {{Linked Case}}](help/index/p/9.2.0).)
 
 ### Completing the New {{Linked Case}} Details
 When you have the new {{linked case}} pop-up, you will need to complete the details.  These will include the {{linked case}} name, (which is often the name of the {{user}}), the date, and possibly other fields.
@@ -27,7 +27,7 @@ When you have the new {{linked case}} pop-up, you will need to complete the deta
 ![Completing a {{Linked Case}}](9.1.0c.png)
 
 - You may have additional fields to complete. You may come back to edit some of these later or when you are closing the {{linked case}}. For example, in the shot above, we have an 'On completion' drop-down list as we were closing the {{linked case}}. 
-- Complete any which are relevent now.  
+- Complete any which are relevant now.  
 - You can also make any notes about the {{linked case}} in the '{{linked case}} description'.
 - Once you have completed the details, use the save button to save the {{linked case}}.
 
