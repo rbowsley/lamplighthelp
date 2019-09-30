@@ -4,7 +4,7 @@
 
 
 
-You can change the tabs that appear on your home page (without affecting other system operators) in System Administration - see section [16.4.1  Personal Settings - Logging In and General Settings](/help/index/p/16.4.1) for more information. 
+You can change the tabs that appear on your home page (without affecting other system operators) in System Administration - see section [16.4.1 Personal Settings - Logging In and General Settings](/help/index/p/16.4.1) for more information. 
 
 Why not watch our 'Introduction and Main Menu' video to see this in action?
 
