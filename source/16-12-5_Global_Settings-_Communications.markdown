@@ -65,7 +65,7 @@ The fields in the {{comm}}s tab are:
 
    By default, mobile phone numbers are expected to be UK mobile numbers, and it is not possible to save invalid numbers. Selecting this option means that mobile numbers must instead be formatted in the international style (e.g. +44 79XX XXXXXX).
    
-#### 24x account username and password for sending sms messages.
+#### 24x account username and password for sending SMS messages
 
    You will need these when you come to top up SMS credits so that you can continue to send from your {{Lamplight}} system. 24x is the company that sends the actual text messages. This means you can access your account directly to top up with credits and view reports. You can log in to the 24x control panel at [http://24x.com/](http://24x.com).
    
@@ -73,24 +73,24 @@ The fields in the {{comm}}s tab are:
 
    This will show you how many credits you have remaining on your account. There is also a link to 24x.com here.
    
-#### Always cut messages short to 160 characters.
+#### Always cut messages short to 160 characters
    
    This option allows you to make sure that text messages sent can only use 1 credit each. With mail merge options, someone with a long name may mean the text message you thought would be less than 160 characters ends up going over and costing you double. Ticking this option will automatically cut off the message at 160 characters.
    
 #### Allow SMS to reply to an email address
 
-   Ticking this option means that any replies to an sms are forwarded to the email address you specify. Please note that each reply costs an extra 24x credit, and recipients will see a different ‘from’ number. If you enable this, when you come to send an sms you have the option of providing an email address. If you do not do this the mobile number you provide will be the reply-to number.
+   Ticking this option means that any replies to an SMS are forwarded to the email address you specify. Please note that each reply costs an extra 24x credit, and recipients will see a different ‘from’ number. If you enable this, when you come to send an SMS you have the option of providing an email address. If you do not do this the mobile number you provide will be the reply-to number.
    
 
 ### Mailing Label {Comm}}s Settings
 
-#### Default mailing label size.
+#### Default mailing label size
 
    When creating mailing labels, there is a tab that allows you to specify the type of label, from a list of standard Avery sizes.
  
    If you know that database operators will usually use the same size label, it can simplify the process to set a default size using this option.
-
-#### Default address block/text to use when creating mailing labels:
+   
+#### Default address block/text to use when creating mailing labels
 
    This field allows you to specify the text that is automatically added when creating mailing labels. This is usually address merge fields. If this field is left blank, the default content is as shown below.
    
