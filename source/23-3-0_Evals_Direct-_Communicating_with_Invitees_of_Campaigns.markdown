@@ -15,7 +15,7 @@ Fill out the email form as you would normally (for more information on this see 
 - In the 'Message content' tab, click on the + at the top of the text box to open the text editing tools. 
 - At the bottom of the editing toolbar you will see an '{{Eval}} campaign' drop-down box.
 
-![comm invitees](210a.png)
+![comm invitees](23.3.0a.png)
 
 This has mail-merge fields so that you can add each recipient's URL (if you have set up your campaign to send to invitees individually), the title, start date and end dates for the campaign. Using these options you can send personalised emails to each recipient, inviting them to complete the {{eval}} and giving them a link in the email that will take them straight to it.
 
