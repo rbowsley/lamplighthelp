@@ -4,7 +4,7 @@
 
 
 To show a list of the current members in any {{group}}:
-- Go go '{{group}}s -> view -> view all'.
+- Go to '{{group}}s -> view -> view all'.
 - Right-click (Apple key-click) on the {{group}} you wish to view.
 - Select 'Quick view in popup' from the menu.
  
