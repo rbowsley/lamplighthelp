@@ -40,7 +40,7 @@ If you use {{linked case}}s in your system you will also see these options (See 
 #### Link to {{linked case}}
 This is one of the places where you can add this {{work}} record to a {{linked case}}. 
 #### Follow up {{linked case}}
-Choosing this option duplicates the {{work}} record, opens the duplicate for edting and saves it in the same {{linked case}}. This is a quick way to create a new record in the same {{linked case}} if it shares details with the original {{work}} record. 
+Choosing this option duplicates the {{work}} record, opens the duplicate for editing and saves it in the same {{linked case}}. This is a quick way to create a new record in the same {{linked case}} if it shares details with the original {{work}} record. 
 #### Remove link to {{linked case}}.
 You can remove this {{work}} record from the {{linked case}} it is attached to.
 #### Close {{linked case}}
