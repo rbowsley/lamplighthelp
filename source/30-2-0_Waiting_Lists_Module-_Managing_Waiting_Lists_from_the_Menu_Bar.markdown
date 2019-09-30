@@ -39,12 +39,12 @@
    - Database operators with a Manager level of access or above will be given the option to edit the {{waiting list}} (this option is visible in grey text and cannot be selected by operators with a lower access level.) 
    - Choosing this option will open up the {{waiting list}} record so that you can amend details as needed. 
    **Duplicate record**
-   - If you need to add a new {{waiting list}} which is very similar to one you already have you can choose to duplicate the exising one. The new {{waiting list}} will appear in the table with the same name as the original one, plus the word 'copy' at the end. 
+   - If you need to add a new {{waiting list}} which is very similar to one you already have you can choose to duplicate the existing one. The new {{waiting list}} will appear in the table with the same name as the original one, plus the word 'copy' at the end. 
    - You should use the context menu again to edit this record, changing the name and any details which are different to your existing group. 
    - **Be aware, copying a {{waiting list}} includes the {{waiting list}} members. To remove them from your new record, go to the '{{Waiting list}} members' tab and click on the red cross in the table to the right of anyone who should not be there.**   
    
    **View Mailchimp status**
-   - If you have the {{Comm}}s Module and are linked to Mailchimp it is possible to sync the members of the {{waiting list}}. This means that you could send out a Mailchimp communiction to all of them. See [21.2.0 {{Comm}}s: Linking with Mailchimp](/help/index/p/21.2.0) for more details.  
+   - If you have the {{Comm}}s Module and are linked to Mailchimp it is possible to sync the members of the {{waiting list}}. This means that you could send out a Mailchimp communication to all of them. See [21.2.0 {{Comm}}s: Linking with Mailchimp](/help/index/p/21.2.0) for more details.  
    
    **Print**
    - If you select this option a new tab will open in your browser, and you will be given the option to print profile details of those on the {{waiting list}}.  
