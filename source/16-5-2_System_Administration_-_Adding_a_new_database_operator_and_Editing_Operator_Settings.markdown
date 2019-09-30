@@ -1,6 +1,6 @@
 # 16.5.2  <i class="fas fa-address-card"></i> System Administration - Adding a New Database Operator and Editing Operator Settings
 
-> System Administrators can add new database operators to their system in the dtabase operators' table. They can also go back to edit their permission level and other details
+> System Administrators can add new database operators to their system in the database operators' table. They can also go back to edit their permission level and other details
 
 
 
@@ -41,11 +41,11 @@ The operator will need to change their password when they next login.
 
 ### Editing Existing Operators
 
-- You can go back the the database operators' table at any time, open the menu next to the relevant operator and choose 'Edit'.  
+- You can go back the database operators' table at any time, open the menu next to the relevant operator and choose 'Edit'.  
 - This will open the original pop-up box that you saw when first adding the operator. 
 - You can change any details that you need here (see above in 'To Add a New Operator' for details). 
 
-You can see a demonstration of this in our video below (please note that the layout of the system administation page has changed since this was recorded).
+You can see a demonstration of this in our video below (please note that the layout of the system administration page has changed since this was recorded).
 
 <iframe src="https://player.vimeo.com/video/279249125" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 - Click 'save' when finished. 
