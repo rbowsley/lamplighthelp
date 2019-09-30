@@ -10,7 +10,7 @@ When a database operator leaves your organisation you should to remove their acc
 - On the database operators table, find the operator you need to remove.
 - Right click on their name or use the menu button to the left of it.
 - Select delete from the pop-up menu.
-- You will be asked to confirm thta you want to delete the record. Press OK.
+- You will be asked to confirm that you want to delete the record. Press OK.
 
 ![Delete Database Operator Confirmation](16.5.4a.png)
 
