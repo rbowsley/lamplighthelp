@@ -9,9 +9,9 @@ System Administrators can create  categories which are added to uploaded files a
 ### Setting Up File Categories
 - Go to ‘admin -> system administration’.
 - Find the 'Module Administration' section towards the bottom of the page. 
-- In the 'Library Module' boxk click 'Manage library categories’.
+- In the 'Library Module' box click 'Manage library categories’.
 - On the list page, double-click where it says ‘double click to add’ at the bottom of the list of existing categories.
-- Type the name of the category in the text fieled that opens up.
+- Type the name of the category in the text field that opens up.
 - When you have finished, press the ‘Enter’ key on your keyboard to save.
 
 #### Editing a File Category
