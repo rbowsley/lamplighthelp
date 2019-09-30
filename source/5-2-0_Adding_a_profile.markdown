@@ -10,7 +10,7 @@ To add a new profile, go to the top menu bar, click on '{{People}}' and select '
 
 At this point you will see one of two things. 
 
-- A drop-down menu asking you to choose the type of {{person}} you wish to create - (see [5.1.0  Profiles](/help/index/p/5.1.0) for more information about these roles.) 
+- A drop-down menu asking you to choose the type of {{person}} you wish to create - (see [5.1.0 Profiles](/help/index/p/5.1.0) for more information about these roles.) 
 
 ![Add new {{person}} through dropdown menu](1200a.png)
 
