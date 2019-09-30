@@ -9,7 +9,7 @@ A {{volunteering opportunity}} is similar to other {{activity}} records.  To cre
 The when and where tab is very similar to that for [{{work}} records](/help/index/p/7.1.1).  The differences are 
  
  - Depending on your context you may not want to use location.  Generally speaking the location will be specified separately in the details tab, and it is that location that's used to geographically match {{volunteering applicant}} to the {{volunteering opportunity}}.
- - The {{volunteering opportunity}} should identify what it is - again depending on your context it may be a job title, volunteering role, or something else.  If you publish {{volunteering opportunity}} records to your website it could be public.
+ - The {{volunteering opportunity}} should identify what it is - again depending on your context it may be a job title, volunteering role, or something else.  If you publish {{volunteering opportunity}} records to your website it will be public.
  - Whether to publish the {{volunteering opportunity}} to external websites.  See [section 26.5 Publishing records to a website](/help/index/p/26.5).
  
 ### {{Opportunity provider}} and {{volunteer}}s

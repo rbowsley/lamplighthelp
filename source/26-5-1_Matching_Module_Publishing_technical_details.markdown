@@ -41,14 +41,14 @@ parameters are available:
 | id            | int    | The ID of the volunteering opportunity |
 
 
-### Paging
+#### Paging
 
 `start` is the record to start from; `num` is the number of results to return.
 
 `include_form` will include a search form in the response (not for json formatted requests).
 
 
-### Return formats
+#### Return formats
 
 Data can be returned as partial `html`, `json`, or `iframe` - html results in a full web page.
 Pass the `format` parameter to set this.  The default is `html` if this is empty or invalid.
@@ -72,53 +72,53 @@ console.log({"meta": {}, "data": {}});
 (See below for the structure of the data actually returned).
 
 
-## Return data
+### Return data
 
 If format=html or format=iframe you'll get rendered html, which will look something
 like this:
 
 <code>
 
-<div class="lamplight lamplight-volunteering lamplight-listing">
+&lt;div class="lamplight lamplight-volunteering lamplight-listing"&gt;
 
 
-    <div id="lamplight_opportunity_container">
+    &lt;div id="lamplight_opportunity_container"&gt;
 
 
-        <div
+        &lt;div
             data-lplt_id="109"
-            class="lplt-calendar-item workarea1-border control-workarea1">
+            class="lplt-calendar-item workarea1-border control-workarea1"&gt;
 
-            <div class="lplt-detail">
+            &lt;div class="lplt-detail"&gt;
 
-                <div class="lplt-summary">
-                <h3><a href="http://lamplight/api/volunteering/opportunity/one?id=109&key=ccb4b364daae60c9956ff27de36245a3&format=iframe">test 2 all day friday, org 9 custom post SO21</a></h3>at Generous Funder
-                </div>
-                <p class="lplt-maindetail">
+                &lt;div class="lplt-summary"&gt;
+                &lt;h3&gt;&lt;a href="http://lamplight/api/volunteering/opportunity/one?id=109&key=ccb4b364daae60c9956ff27de36245a3&format=iframe"&gt;test 2 all day friday, org 9 custom post SO21&lt;/a&gt;&lt;/h3&gt;at Generous Funder
+                &lt;/div&gt;
+                &lt;p class="lplt-maindetail"&gt;
                 SO21 2JY
-                </p>
-            </div>
+                &lt;/p&gt;
+            &lt;/div&gt;
 
-        </div>
+        &lt;/div&gt;
 
-        <div
+        &lt;div
             data-lplt_id="110"
-            class="lplt-calendar-item workarea1-border control-workarea1">
+            class="lplt-calendar-item workarea1-border control-workarea1"&gt;
 
-            <div class="lplt-detail">
+            &lt;div class="lplt-detail"&gt;
 
-                <div class="lplt-summary">
-                <h3><a href="http://lamplight/api/volunteering/opportunity/one?id=110&key=ccb4b364daae60c9956ff27de36245a3&format=iframe">test 3 evenings, org 8</a></h3>at Grange Community Centre
-                </div>
-                <p class="lplt-maindetail">
+                &lt;div class="lplt-summary"&gt;
+                &lt;h3&gt;&lt;a href="http://lamplight/api/volunteering/opportunity/one?id=110&key=ccb4b364daae60c9956ff27de36245a3&format=iframe"&gt;test 3 evenings, org 8&lt;/a&gt;&lt;/h3&gt;at Grange Community Centre
+                &lt;/div&gt;
+                &lt;p class="lplt-maindetail"&gt;
                 33a Bills Lane, North Front, Bargate, Southampton, SO14 0AB
-                </p>
-            </div>
+                &lt;/p&gt;
+            &lt;/div&gt;
 
-        </div>
+        &lt;/div&gt;
 
-    </div>
-</div>
+    &lt;/div&gt;
+&lt;/div&gt;
 
 </code>
 

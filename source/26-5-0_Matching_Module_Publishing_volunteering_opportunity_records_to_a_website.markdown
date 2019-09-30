@@ -1,4 +1,4 @@
-# 26.5 Matching Module - Publishing {{volunteering_opportunity}} records to a website
+# 26.5.0 Matching Module - Publishing {{volunteering_opportunity}} records to a website
 
 > Create 'feeds' - an easy way to embed a searchable list of {{volunteering opportunity}} records on your website or elsewhere
 
