@@ -23,7 +23,7 @@ You can find online instructions from Microsoft for setting up two factor authen
 
 ![Additional Security Microsoft](16.11.4b.png)
 
-- Click on 'additional security verification', then chooset he link 'Create and manage app passwords'.
+- Click on 'additional security verification', then choose the link 'Create and manage app passwords'.
 - This opens a new page - click on 'create'.
 
 ![Microsoft Create Password](16.11.4c.png)
@@ -33,7 +33,7 @@ You can find online instructions from Microsoft for setting up two factor authen
 
 ![Microsoft Password Screen](16.11.4d.png)
 
-- The exact path to follow in Microsoft  may change as they update their help, but is likley to always be in the ‘Security’ area.
+- The exact path to follow in Microsoft  may change as they update their help, but is likely to always be in the ‘Security’ area.
 
 ### Entering Settings in Lamplight
 
