@@ -19,7 +19,7 @@ If this problem persists, you may need to change your password or check with you
 
 ### Locked Out
 
-You may also see a message that you are locked out of the sytsem.  
+You may also see a message that you are locked out of the system.  
 
 ![Locked out of the system](2.2.0b.png)
 
@@ -27,7 +27,7 @@ This could be because you’ve tried to log in to your account ten times without
 
 The other reason for a lockout is when your System Administrator has set up login security policies which mean that you can't log in at this time or from the IP address of the computer that you are using.
 
-If you see this message please see your System Admnistrator who will be able to unlock your account. Once it has been unlocked you will only have one chance to log in correctly before being locked out again. This is a security feature to stop unauthroised access to your account. If you fail to log in correctly the first time, you will need to ask your System Administrator to unlock the account again. Once you have successfully logged in to your account, the counter is reset to ten failed log-in attempts before you are locked out again.
+If you see this message please see your System Administrator who will be able to unlock your account. Once it has been unlocked you will only have one chance to log in correctly before being locked out again. This is a security feature to stop unauthorised access to your account. If you fail to log in correctly the first time, you will need to ask your System Administrator to unlock the account again. Once you have successfully logged in to your account, the counter is reset to ten failed log-in attempts before you are locked out again.
 
 There is information on lockouts in section for System Administrators on unlocking an account in section [16.2 System Administration: Lockouts](help/index/p/16.2.0).  Please tell your System Administrator if you have been locked out but are certain you have not had lots of failed login attempts.
 
