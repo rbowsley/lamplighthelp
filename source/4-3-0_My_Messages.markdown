@@ -10,7 +10,7 @@ You can create {{message}}s for yourself, or for anyone else with a profile in {
 
 ### To Create a New {{Message}} from the Home Page
 
-- In the 'My {{message}}s' tab, click on the 'add row' button at the right hand end of the any table row.
+- In the 'My {{message}}s' tab, click on the 'add row' button at the right-hand end of the any table row.
 
 ![Adding a new {{message}}](4.3.0a.png)
 
