@@ -10,7 +10,7 @@ The choice of fields that can be added is the same wherever you are  putting the
 There are a number of different ways in which custom fields in profiles can be used for reporting. Depending on the type of field that you choose you will be able to:
 
 - Use it for presenting {{report}}s: this allows you to show columns in a {{report}} using this field. If you have a demographic field, for example gender, you could run a report on the number of {{work}} sessions you've had in the last six months, and then choose to present it by your 'Gender' field. This would then give you a column or row for each of the options in that field so that you could see the results for each different group at a glance. (For more on this see [13.1.4 {{Report}} Presentation](/help/index/13/1/4).)
-- For creating {{group}}s: again, using the above field example you can create an auto {{group}} with gender as a filter. (For more on this see [11.1.3 {{Group}}s: {{Work}}, {{Referral}} and {{Grant}} Fields](/help/index/p/11.1.3)).
+- For creating {{group}}s: again, using the above field example you can create an auto {{group}} with gender as a filter. (For more on this see [12.1.3 {{Group}}s: {{Work}}, {{Referral}} and {{Grant}} Fields](/help/index/p/12.1.3)).
 - Add as a column or filter records in a table: you can view tables of records from the main menu (to find out more please see [7.3.0 Viewing All {{Work}} Records](/help/index/p/7.3.0)). In this example, you could use the search bar above the table to add in a column for each of the options.
 
 There are a number of different ways in which custom fields in profiles can be used for reporting.  The table below gives details for each type of field. 

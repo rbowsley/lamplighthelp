@@ -28,7 +28,7 @@ To set up and view {{report}}s:
 **You will only see these on your system if you have the module.**
 - {{Comm}} {{report}}s count and present information on {{comm}}s made (see [15.1 {{Comm}} {{Report}}s](help/index/p/15.1)).
 - {{Eval}} {{report}}s summarise responses to {{eval}} questionnaires (see [15.2 {{Eval}} {{Report}}s](/help/index/p/15.2)).
-- {{Matching}} {{report}}s show the number of matches and opportunities registered and requested, and the number of different people involved (see [15.3 {{Matching}} Module {{Report}}](help/index/p/15.3)).
+- Matching module {{report}}s show the number of matches and {{volunteer opportunity}} and {{volunteer application}}s registered and requested, and the number of different people involved (see [15.3 Matching Module {{Report}}](help/index/p/15.3)).
 - {{Staff}} timesheet {{report}}s breakdown how {{staff}}/{{volunteer}} time is spent, captured via the {{Staff}} Management Module (see [15.4 Staff Timesheet Report](help/index/p/15.4)).
 - {{Waiting list}} {{report}}s show the numbers of {{people}} on {{waiting list}}s, and the average waiting time for each (see [15.5 {{Waiting List}} {{Report}}s]((help/index/p/15.5)).
 

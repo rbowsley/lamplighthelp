@@ -12,7 +12,7 @@ Once you have double-clicked the field it will be open to edit. Click the 'save'
 
 ![Editing single pieces of information in a profile](24b.png)
 
-To edit all the items in a tab, use the larger 'edit' button on the right-hand-side (see [3.8.1  Standard Controls](/help/index/p/3.8.1)).
+To edit all the items in a tab, use the larger 'edit' button on the right-hand-side.
 
 
 ##### Tags

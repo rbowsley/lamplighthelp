@@ -6,7 +6,7 @@
 
 ### {{Work}} Fields
 
-The fields in this tab allow you to filter for {{people}} or {{org}}s based on the {{work}} records in their profile. If you want to find {{people}} that have attended sessions based on dates, you first need to set the dates, then you need to specify the {{work area}}(s) you want to filter on. You can also choose to find {{people}} that have not attended at certain periods. So, for example:
+The fields in this tab allow you to filter for {{people}} or {{org}}s based on the {{work}} records in their profile. If you want to find {{people}} that have attended sessions based on dates, you first need to set the dates, then you need to specify the {{workarea}}(s) you want to filter on. You can also choose to find {{people}} that have not attended at certain periods. So, for example:
 
 #### To identify {{user}}s attending at least one session of Life Skills after 1st April 2018 and before 31st March 2019
 - For Date 1 (this will be your 'from' date), choose 'Fixed date' from the drop-down and select 1st April 2018 as the 'value'. {{Lamplight}} will **include** the date that you choose in the search filter.

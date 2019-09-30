@@ -8,7 +8,7 @@ You can match {{volunteering application}}s to {{volunteering opportunity}} reco
 
 ### How to match
 
-Find the record that you want to find matches for.  You can find these in the profiles of those involved, or from the main menu: {{activity}} > view > {{volunteering application}} (or {{volunteering opportunity}}.  [Use the search filters](/help/index/p/26.3) to find the record you need, and right-click (or click the small 'menu' button) to bring up the context menu:
+Find the record that you want to find matches for.  You can find these in the profiles of those involved, or from the main menu: {{activity}} > view > {{volunteering application}} (or {{volunteering opportunity}}.  [Use the search filters](/help/index/p/26.3.0) to find the record you need, and right-click (or click the small 'menu' button) to bring up the context menu:
 
 ![{{Volunteering opportunity}} context menu](26.3.0c.PNG)
 

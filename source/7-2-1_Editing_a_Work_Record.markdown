@@ -14,7 +14,7 @@ The editing window will open, and you can make any changes that you need.
 
 - Click the 'save' button at the bottom of any page when you have finished.
 
-To see more, you can watch our video, ['Viewing and Editing Work Records in a Profile'](/help/index/p/51.5.5).
+To see more, you can watch our video, ['Viewing and Editing Work Records in a Profile'](/help/index/p/51.4.4).
 
 <iframe src="https://player.vimeo.com/video/279240823" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

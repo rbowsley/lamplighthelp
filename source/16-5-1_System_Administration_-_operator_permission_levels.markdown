@@ -14,7 +14,7 @@ The different levels of access that you can choose from are:
 * **Reporting:** has full access to the {{report}}s in the system, but cannot view or edit any other information. This can be useful for trustees, for example, so that they can see aggregate performance data, but not access individual case notes or profiles.
 * **{{Project}} Admin (where applicable):** has full system admin access as well as management of {{project}}s where a system has more than one.
 
-![Database Operator Table](16.5.1b.png)
+![Database Operator Table](16.5.1b.jpg)
 
 
 ###### core module

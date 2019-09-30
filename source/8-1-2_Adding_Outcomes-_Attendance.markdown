@@ -35,7 +35,7 @@ Some systems will use the simple attendance table, which is differentiated by th
 
 ![Adding indiviuals to a 'Simple' attendance table in an {{outcome}} record](1209a.png)
 
-To see a demonstration of adding an {{outcome}}, [see our video below](/help/index/p/15.5.1).
+To see a demonstration of adding an {{outcome}}, [see our video below](/help/index/p/51.5.1).
 
 <iframe src="https://player.vimeo.com/video/282332458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

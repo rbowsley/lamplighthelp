@@ -4,7 +4,7 @@
 
 
 
-When you choose the '{{Work}} records' tab in a profile, you will see a table showing all the {{work}} that that {{profile}} is listed on, whatever their role or attendance.
+When you choose the '{{Work}} records' tab in a profile, you will see a table showing all the {{work}} that that profile is listed on, whatever their role or attendance.
 
 ![{{Work}} records tab in a profile](49a.png)
 

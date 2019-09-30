@@ -12,7 +12,7 @@ To run a {{grant}} {{report}}:
 
 - On the main menu click '{{report}}s -> more -> {{grant}}s {{report}}.
 - You will see the {{report}} filters screen. 
-- Most of the filters are the same as for other {{report}}s [see 13.1.1 {{Report}} Filters](/help/index/p/13.1.1).
+- Most of the filters are the same as for other {{report}}s [see 14.1.1 {{Report}} Filters](/help/index/p/14.1.1).
 - At the bottom you have the '{{Grant}} type' filter, which is specific to the {{grant}} {{report}}. The options that you see in the drop-down list will be specific to your system. 
 
 ![{{Grant}} {{Report}} Filter](13.7.0a.png)

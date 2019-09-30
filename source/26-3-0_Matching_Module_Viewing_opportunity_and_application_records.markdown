@@ -1,4 +1,4 @@
-# 26.3 Matching Module - Viewing {{volunteering application}} and {{volunteering opportunity}} records
+# 26.3.0 Matching Module - Viewing {{volunteering application}} and {{volunteering opportunity}} records
 
 > View all {{volunteering application}} and {{volunteering opportunity}} records from the main menu {{activity}} > view > ..., or in the profile of those involved
 
