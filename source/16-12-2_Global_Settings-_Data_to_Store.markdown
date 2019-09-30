@@ -47,13 +47,13 @@ See below for explanations of the different fields:
  
    If you need to enter historical records onto your system, you can adjust this setting so that the list goes back further, allowing you to enter older records.
 
-#### Do you want to add an "add to diary" tickbox on {{work}} records?   
+#### Do you want to add an "add to diary" tick box on {{work}} records?   
 
    When a {{work}} record is created it is added to the diaries on the home page. This makes them visible in the ‘My Diary’ tab and the shared ‘Diary’ tab.
 
-   This option allows you add a tickbox to the bottom of the 'When and where' tab on {{work}} records which allows you to choose whether each record should be added to these diaries.
+   This option allows you add a tick box to the bottom of the 'When and where' tab on {{work}} records which allows you to choose whether each record should be added to these diaries.
  
-   ![Add to Diary Tickbox](16.12.2c.png)
+   ![Add to Diary Tick box](16.12.2c.png)
  
    Note that if you enable this, operators will be able to create {{work}} records that do not show on the home page diary, but these records remain accessible to all operators as normal (for example in {{work}} > view > {{work}}) so this feature does not restrict access to information - it is not a security feature.
 
@@ -90,7 +90,7 @@ See below for explanations of the different fields:
 
 #### Do you want to store {{outcome}} records?  
 
-   {{Outcome}}s in {{Lamplight}} are used to track change over time. An {{outcome}} record functions as a snapshot of one point in time, and multiple {{outcome}} records can be compared to measure difference. They are usually used to understand the difference an organisation’s work is making, and are very useful for capturing numerical numerical information for reports or funding proposals. By default, {{outcome}} records are enabled.
+   {{Outcome}}s in {{Lamplight}} are used to track change over time. An {{outcome}} record functions as a snapshot of one point in time, and multiple {{outcome}} records can be compared to measure difference. They are usually used to understand the difference an organisation’s work is making, and are very useful for capturing numerical information for reports or funding proposals. By default, {{outcome}} records are enabled.
 
    This functionality can be disabled if {{outcome}}s are not needed in your system.
    
