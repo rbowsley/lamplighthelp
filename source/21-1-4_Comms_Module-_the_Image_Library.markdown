@@ -4,15 +4,15 @@
 
 
 
-Before you can add a file image to a {{comm}} you will need to upload it to the {{comm}}s image library. **Make sure that the item you're adding is the size that you will want it to be when you use it**. You won't be able to resize it within your {{Lamplight}} {{comm}}.
+Before you can add a file image to a {{comm}} you will need to upload it to the {{comm}}s image library. 
 
-To add an image:
+#### To add an image:
 
 - Go to 'admin -> system administration -> {{Comm}} Settings -> {{Comm}} image library'.
 
 Current items in the library are displayed as thumbnails so that you can preview them all. 
 
-   ![Library images](157a.png)
+   ![Library images](21.1.4a.png)
 
 These are also the images that will appear on the drop-down 'Image library' menu in the text editor when creating {{comm}}s.
 
