@@ -31,7 +31,7 @@ Enter the content of your template into the large text field. This could be the 
 
 If you paste text from another source, we'd recommend that you paste it into the box as plain text, either by using Ctrl+Shift+v in Windows, or pasting into Notepad first and then copying from there. This will take out any stray HTML from other programmes which could corrupt the formatting of your template.
 
-You can insert images from the {{comm}}s library using the ‘Image library’ menu. (For more on adding images to the library, see [21.1.4 {{Comm}}s Module Image Library](/help/index/p/21.1.4).  Once inserted, you can choose to justify the picture left, centrally or right by selecting it with your mouse and using the text justification buttons.  You can also add images from the web by clicking the small image icon in the ‘Insert’ section of the text editor and specifying the relevant url.
+You can insert images from the {{comm}}s library using the ‘Image library’ menu. (For more on adding images to the library, see [21.1.4 {{Comm}}s Module Image Library](/help/index/p/21.1.4).  Once inserted, you can choose to justify the picture left, centrally or right by selecting it with your mouse and using the text justification buttons.  You can also add images from the web by clicking the small image icon in the ‘Insert’ section of the text editor and specifying the relevant URL.
 
  Once text and images are in place, format the {{comm}} using the options at the top of the text box, as in any document editor.
 
