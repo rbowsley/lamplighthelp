@@ -15,11 +15,11 @@ The ‘My User’ restriction allows for a stricter level of access limitation t
 
 #### Restrict operators below manager level to only view "my users" they are linked to.
 
-   This turns on the 'My user' restriction.  As explained above, it will limit anyone with a staff, data entry or reception level of access to the system, so that they can only see the profiles of people and organisations they are linke to by a 'my user' relationship.
+   This turns on the 'My user' restriction.  As explained above, it will limit anyone with a staff, data entry or reception level of access to the system, so that they can only see the profiles of people and organisations they are linked to by a 'my user' relationship.
    
 #### Restrict operators below manager level to only view {{activity}} and {{linked case}} records linked to the "my users" they are linked to.
    
-   Similar to the above restriction, this restricts access to all {{work}} and other {{activity}} records so that those with the lower level of access will onloy be able to see records relating to people who are linked to them with a 'my user' relationship. This relates to the main menu options under 'activity -> view'.
+   Similar to the above restriction, this restricts access to all {{work}} and other {{activity}} records so that those with the lower level of access will only be able to see records relating to people who are linked to them with a 'my user' relationship. This relates to the main menu options under 'activity -> view'.
    
 #### If using "my users" restriction above, should newly added profiles be made a "my user".
 
