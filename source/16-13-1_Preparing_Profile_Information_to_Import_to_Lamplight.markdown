@@ -1,6 +1,6 @@
 # 16.13.1 <i class="fas fa-exchange-alt"></i> Preparing Profile Information to Import to {{Lamplight}}
 
-> You will need to have your information in an Excel csv spreadsheet, formatted so that it wil be imported to the correct fields
+> You will need to have your information in an Excel csv spreadsheet, formatted so that it will be imported to the correct fields
 
 
 
@@ -66,7 +66,7 @@ In addition to the built-in profile fields listed, you can add whatever custom f
 When preparing your data for upload, bear in mind the following tips: 
 
 - Fields are case sensitive. Copy them character-for-character, space-for-space, with the same capitalisation (although the system will attempt to guess in cases where there is not an exact match).
-- You can download all the field names and other settings in the System Administration menu to help with this (under 'File Transfer -> Download filed settings for your sytsem).
+- You can download all the field names and other settings in the System Administration menu to help with this (under 'File Transfer -> Download filed settings for your system).
 - For multi-select fields, separate values with semi-colons (;) but no spaces (e.g. yes;no;not applicable). Values in drop-down type fields must match the options in the system exactly. If the options are ‘male’ and ‘female’ but the .csv contains ‘m’ and ‘f’, the data will not be imported.
 - Checkboxes can be defined as ‘Yes’, or left blank for no.
 - For multi-select radio buttons and checkboxes, simply enter the values.
