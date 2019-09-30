@@ -1,6 +1,6 @@
 # 23.4.0 {{Eval}}s Direct: Viewing Campaign Responses
 
-> You can see see the responses to any campaign collected to date by viewing your campaign in Datadirect
+> You can see the responses to date for any campaign by viewing it in DataDirect
 
 
 
