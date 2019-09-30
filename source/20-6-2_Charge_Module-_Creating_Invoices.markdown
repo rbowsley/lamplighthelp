@@ -31,7 +31,7 @@
 ### Creating Individual Invoices from the Profile 
 
 - Open the profile of the {{person}} or {{org}} whose invoices you would like to create.
-- Select the relevant table rows using the tickboxes.
+- Select the relevant table rows using the tick boxes.
 - Click the 'batch for invoicing' button. 
 
 ![Creating Invoices from Profiles](20.6.2f.png)
