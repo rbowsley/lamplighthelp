@@ -1,6 +1,6 @@
 # 16.9.0 Creating {{Report}} Templates
 
-> A {{report}} template is a a way of saving the filters and display options for a particular {{report}} so that you can run it without having to re-enter them
+> A {{report}} template is a way of saving the filters and display options for a particular {{report}} so that you can run it without having to re-enter them
 
 
 
