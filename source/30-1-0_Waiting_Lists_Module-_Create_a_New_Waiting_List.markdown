@@ -43,7 +43,7 @@ Creating a new {{waiting list}} is like adding a record in {{Lamplight}}.
 
 #### Alerts
    
-- You can choose to alert a database operator when someone has been on the {{waiting list}} for more than a specfied number of days, weeks, months or years. The alert takes the form of a notice in their ‘Diary’ page.
+- You can choose to alert a database operator when someone has been on the {{waiting list}} for more than a specified number of days, weeks, months or years. The alert takes the form of a notice in their ‘Diary’ page.
    - In the field starting ‘Alert me when…’, select days, weeks, months or years from the dropdown, and then add the appropriate number in the box. For example, if you select months and then enter ‘6’, it will alert you after six months.
    - Choose which database operator will receive the alert from the drop-down box.
 
@@ -56,7 +56,7 @@ Creating a new {{waiting list}} is like adding a record in {{Lamplight}}.
 #### {{Project}} Sharing
  
 - If you have multiple {{Lamplight}} {{project}}s, you’ll see an additional ‘{{Project}} sharing’ tab. You can choose here which {{project}}s this {{waiting list}} will be available for. 
-- It’s important to note that although different {{project}}s will be able to use this list when shared, each {{project}} will have its own list, and the names in the list will not be shared aross {{project}}s.
+- It’s important to note that although different {{project}}s will be able to use this list when shared, each {{project}} will have its own list, and the names in the list will not be shared across {{project}}s.
    
    
 When all the information has been added, click the 'save' button on the bottom right hand corner. You have now created your new {{waiting list}}.
