@@ -20,9 +20,9 @@ Save the new password once you've finished.  You will receive on-screen confirma
 
 ### To Change Your Password on the Login Page
 
-If you have forgotten your current password, you can request a new one from the 'Forgotton your password?' link on the login page.
+If you have forgotten your current password, you can request a new one from the 'Forgotten your password?' link on the login page.
 
-![Forgotton Password Link](16.1.0c.png)
+![Forgotten Password Link](16.1.0c.png)
 
 Follow the instructions and a new password will be sent to the email address that you use to log in to your account. 
 
