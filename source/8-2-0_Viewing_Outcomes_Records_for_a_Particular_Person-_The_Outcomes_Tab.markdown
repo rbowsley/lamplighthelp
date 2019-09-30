@@ -15,7 +15,7 @@ The information you see on the '{{Outcome}}s' tab in a profile will only be for 
 
 ![The Radar Chart](8.2.0a.png)
 
-The radar chart shows thw score for a single {{outcome}} measure on each axis. You can choose the {{outcome}} category you want to look at from the drop-down box directly above the chart. 
+The radar chart shows the score for a single {{outcome}} measure on each axis. You can choose the {{outcome}} category you want to look at from the drop-down box directly above the chart. 
 
 If scores have been entered for these {{outcome}}s, they will show on the chart. The position of the line shows the scores, and colour of the line matches to a box to the right of the chart, showing the date the score was added.
 
@@ -47,7 +47,7 @@ You can customise your table in the following ways:
 
 - Click on the top row of a column to re-order the records. For example, you could choose to sort by date, category or {{workarea}}. 
 
-- View more or less records on one page by choosing an optiong from the 'Show' drop-down above the table. Alternatively you can click on the page numbers (also above the table) to move through the records.
+- View more or less records on one page by choosing an options from the 'Show' drop-down above the table. Alternatively you can click on the page numbers (also above the table) to move through the records.
 
 - Change the columns that you see in the table by right-clicking on the top header-row to see a list of what is available.
 

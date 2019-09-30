@@ -8,7 +8,7 @@ If you often view tables of records through the main menu ({{Activity}} -> view)
 
 Templates need to be set up by System Administrators. For more on how to do this, please see [16.10.0 Creating {{Activity}} List Templates](/help/index/p/16.10.0).
 
-Once you have these in yuour system, they are ready to use:
+Once you have these in your system, they are ready to use:
 - Go to '{{Activity}} -> view' on the main menu. 
 - The different types of record will be displayed in a list.
 - Where there are any {{activity}} view templates set up for that type of record, there will be a small black arrow to the right of the box:
