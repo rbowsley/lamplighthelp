@@ -29,7 +29,7 @@ The {{group}} name and a description are compulsory - you can't save your choice
 ![{{Auto Group}}s - Choosing What Types of {{People}} to Add](103b.png)
 
 - You must choose whether your {{auto group}} will include {{people}}, {{org}}s or {{family}} - you cannot have a mixture. If you need more than one of these types, you can create a {{group}} for each and them merge them (see [12.3 Creating a Merge {{Group}}](/help/index/p/12.3) for more details). 
-- Unlike most fields in {{auto group}}s, the 'who are' choice (e.g. {{user}}, {{staff}},{{contact}} etc.) is an 'OR' search, so it will include those that meet **any** of the criteria selected, not those that meet all of them. 
+- Unlike most fields in {{auto group}}s, the 'who are' choice (e.g. {{user}}, {{staff}}, {{contact}} etc.) is an 'OR' search, so it will include those that meet **any** of the criteria selected, not those that meet all of them. 
 - Next is the option to select when the date profiles were added to the system.  If you select 'between' dates, a second date box will appear so that you can specify two dates. 
 - The 'Visibility' drop-down box allows you to choose whether your {{auto group}} will be made up of people who are active on your system, or those who have been archived. For more on archiving, see [16.8.2 Archiving Profiles](/help/index/p/16.8.2). You cannot mix current and archived profiles in the same {{auto group}}.
 

@@ -6,7 +6,7 @@
 
 You can look for {{people}} with a particular score, those who have changed over time or those who have maintained a score for a specified period of time. 
 
-Bear in mind here that {{Lamplight}} treats yes-no {{outcome}}s as 1 - 0 (ie a 'yes' is stored as 1, and a 'no' as a 0), so to find {{people}} that have the answer 'yes' recorded against a particular {{outcome}} you'll need to enter the '{{Outcome}} score' as 'Equal to' '1'. 
+Bear in mind here that {{Lamplight}} treats yes-no {{outcome}}s as 1 - 0 (i.e. a 'yes' is stored as 1, and a 'no' as a 0), so to find {{people}} that have the answer 'yes' recorded against a particular {{outcome}} you'll need to enter the '{{Outcome}} score' as 'Equal to' '1'. 
 
 ### {{Outcome}}
 

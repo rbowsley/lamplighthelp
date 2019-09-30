@@ -4,7 +4,7 @@
 
 
 
-If need to add {{activity}} records ({{work}}, {{referral}}, {{outcome}} etc) to a {{linked case}} which already holds a similar record to the one you need to add, it is possible to duplicate one of the existing records. This will retain all the details of the original (date and time, {{workarea}}, attendees, text notes etc.).  It will open automatically so that you can edit the details rather than needing to add all the information in from scratch.
+If you want to add {{activity}} records ({{work}}, {{referral}}, {{outcome}} etc.) to a {{linked case}} which already holds a similar record, it is possible to duplicate one the existing one. This will retain all the details of the original (date and time, {{workarea}}, attendees, text notes etc.), and will open automatically so that you can edit the details rather than starting the record from scratch.
 
 To do this:
 

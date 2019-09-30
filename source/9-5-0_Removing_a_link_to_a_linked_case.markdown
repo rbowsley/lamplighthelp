@@ -4,7 +4,7 @@
 
 
 
-It is possible to remove a record from a {{linked case}}. This removes the link, but does not delete the record. Once the link has been taken away, the record will appear back in the 'Unlinked records' section of the '{{Linked case}} view'tab.
+It is possible to remove a record from a {{linked case}}. This removes the link, but does not delete the record. Once the link has been taken away, the record will appear back in the 'Unlinked records' section of the '{{Linked case}} view' tab.
 
 ### To remove the link:
 - Go to the '{{Linked case}} view' tab in the profile.
@@ -15,7 +15,7 @@ It is possible to remove a record from a {{linked case}}. This removes the link,
 
 - You will see a pop-up menu. Choose 'Remove link to {{linked case}}'.
 
-If a record is not linked to a {{linked case}} this option will be greyed out in the menu.  If the {{linked case}} is closed, you will need to repoen the {{linked case}} before you can remove the link. To find out how to reopen a {{linked case}}, see [9.7.0 Reopening a Closed {{Linked Case}}](/help/index/p/9.7.0).
+If a record is not linked to a {{linked case}} this option will be greyed out in the menu.  If the {{linked case}} is closed, you will need to reopen the {{linked case}} before you can remove the link. To find out how to reopen a {{linked case}}, see [9.7.0 Reopening a Closed {{Linked Case}}](/help/index/p/9.7.0).
 
 
 ###### core module

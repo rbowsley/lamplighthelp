@@ -4,7 +4,7 @@
 
 
 
-### '{{User}} Fields', '{{Staff}} Fields', '{{Funder}} Fields' Etc
+### '{{User}} Fields', '{{Staff}} Fields', '{{Funder}} Fields' Etc.
 
 These tabs contain the filters relating to the information in the profiles of your {{user}}s, {{staff}}, and {{funder}}s respectively. The fields for {{work}} and other {{activity}} records are held in separate tabs.
 

@@ -1,6 +1,6 @@
 # 9.0.0  <i class="fas fa-link"></i> {{Linked Case}}s
 
-> {{Linked case}}s are a way of linking different kinds of {{activity}} record ({{work}}, {{outcome}}, {{comm}}s etc) together in one place. They allow you to track the amount of time somthing takes from start to finish
+> {{Linked case}}s are a way of linking different kinds of {{activity}} record ({{work}}, {{outcome}}, {{comm}}s etc.) together in one place. They allow you to track the amount of time something takes from start to finish
 
 
 

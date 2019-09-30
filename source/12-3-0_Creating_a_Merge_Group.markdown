@@ -6,7 +6,7 @@
 
 {{Merge group}}s change as their component {{group}}s change. Whenever you run a {{merge group}} it will check each of the {{group}}s that it is composed of and give an up-to-date list.  Note that if your component {{group}}s are complex and take time to run, this will slow down your {{merge group}}.
 
-They also remove any duplicates, so if one {{person}} or organisation is present in more than one of the consitituent {{group}}s they will only appear once in the {{merge group}}. 
+They also remove any duplicates, so if one {{person}} or organisation is present in more than one of the constituent {{group}}s they will only appear once in the {{merge group}}. 
 
 They can be used in the same way that {{manual group}} and {{auto group}}s are.
 
