@@ -18,7 +18,7 @@ Any policies that you already have will be at the top of the page (so in the exa
 - If you have static IP addresses and want to restrict access to Lamplight to the ones you specify, you can enter multiple addresses in the 'Ip addresses to allow access from' box. Each one should be on a different row.  A static IP address means that it doesn't change; most consumer Internet services will use dynamic IP addressing, which means your address can change.  If this happens and you are using an IP restriction, you will no longer be able to log in.  Contact your Internet Service Provider to ask them about static IP addresses if you are not sure.
 - If you want to restrict operator access to specific days and times you can use the boxes underneath (times used are GMT/BST).
 
-### Appying a Login Security Policy
+### Applying a Login Security Policy
 - Go to ‘admin -> system administration -> Database Operators and Security -> Manage database operators'.
 - Find the database operator you want to apply the policy to in the table.
 - Right-click anywhere in their row or left-click the menu button in the left-hand column.
