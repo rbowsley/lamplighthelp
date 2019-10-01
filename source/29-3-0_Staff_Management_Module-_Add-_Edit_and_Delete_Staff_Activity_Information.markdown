@@ -1,10 +1,10 @@
-# 29.3.0 {{Staff}} Management Module: Add, Edit and Delete {{Staff}} Activity Information
+# 29.3.0 Staff Management Module: Add, Edit and Delete {{Staff}} Activity Information
 
-> With the {{Staff}} Management Module you can add training, absence, appraisal and non-contact records to {{staff}} profiles
+> With the Staff Management Module you can add training, absence, appraisal and non-contact records to {{staff}} profiles
 
 
 
-Each member of {{staff}} will have tabs in their profile where you can add training, absence, appraisal and non-contact records. These will only be visible to the {{staff}} member themselves and people who are in their direct line of management. 
+Each member of {{staff}} profile will have tabs where you can add training, absence, appraisal and non-contact records. These will only be visible to the {{staff}} member themselves and people who are in their direct line of management. 
 
 ![{{Staff}} Management Tabs in a Profile](29.3.0a.png)
 
@@ -18,10 +18,12 @@ This follows a similar process to adding {{work}} records (see section [7.1.0  A
 
 - Go to the {{staff}} member's profile and click on the tab you wish to enter information into. 
 - On the right-hand side of the screen click 'add'. 
-- A new form will open. The record is split into tabs: 'When and where', 'Attendance' and 'Details'. These must be completed before saving. 
-- {{Staff}} non-contact records can also be added and viewed from the diary. Please see section [7.1.6 Creating {{Work}} Records from the Diary](/help/index/p/7.1.6) for more information. 
 
- ### Editing and Deleting Records
+A new form will open. The record is split into tabs: 'When and where', 'Attendance' and 'Details'. These must be completed before saving. 
+
+{{Staff}} non-contact records can also be added and viewed from the diary. Please see section [7.1.6 Creating {{Work}} Records from the Diary](/help/index/p/7.1.6) for more information. 
+
+### Editing and Deleting Records
  
 - Find the record in the relevant tab. Existing records will appear in a table.
 
