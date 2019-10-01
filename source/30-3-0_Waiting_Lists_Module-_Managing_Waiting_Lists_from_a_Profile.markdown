@@ -16,12 +16,9 @@ To add them to an existing {{waiting list}}:
 
 ![Adding a {{Person}} to a {{Waiting List}} from their Profile](30.3.0a.png)
 
-- The table in the profile tab will automatically update, showing that the {{person}} or {{org}} has been added to the {{waiting list}}, the date that they joined and the amount of time that they have been on it. 
-- The context menu for each {{waiting list}} can be accessed via the menu button in the left hand column, or by right-clicking on the relevant row of the table. From here you can:
-   - alter.
-   - add.
-   - view.
-   - delete the {{person}} from the {{waiting list}}. 
+The table in the profile tab will automatically update, showing that the {{person}} or {{org}} has been added to the {{waiting list}}, the date that they joined and the amount of time that they have been on it. 
+
+The context menu for each {{waiting list}} can be accessed via the menu button in the left hand column, or by right-clicking on the relevant row of the table - see [30.2 - managing {{waiting list}}s](/help/index/p/30.2) for more information about these actions.
 
 
 ###### waiting module
