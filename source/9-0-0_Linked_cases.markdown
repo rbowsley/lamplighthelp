@@ -19,7 +19,7 @@ Using {{linked case}}s you can:
 - Easily see all the records in each {{linked case}}.
 - Assign a category (these will depend on what is set up in your system). 
 - Report on how many days an individual or organisation has had a {{linked case}} open in a particular category (For example, we supported Jordan for 18 weeks, or the befriending relationship lasted 2 months).
-- Report on what {{linked case}}s were open at a particular time.  For example you could show anyone who had an open Advice {{linked case}} at any time during August last year.  This also makes them great as status trackers.
+- Report on what {{linked case}}s were open at a particular time.  For example, you could show anyone who had an open Advice {{linked case}} at any time during August last year.  This also makes them great as status trackers.
 - Depending on how they are set up on your system, you may be able to select different types of {{linked case}}, or record information such as why the {{linked case}} has closed.
 
 For more on how to use them, please see:
