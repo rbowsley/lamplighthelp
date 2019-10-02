@@ -27,8 +27,8 @@ There are three types of {{group}}: {{manual group}}s, {{auto group}}s, and {{me
 
 You can use {{group}}s in different ways:
 
-- Bulk data entry. If you have a regular {{group}} of {{user}}s that comes to a particular session every week, instead of adding them individually each time you can create a {{group}}. All you need to do then is type the name of the {{group}} into the search box on the 'Attendance' tab of your {{work}} record. {{Lamplight}} will automatically add everyone that's in the {{group}} to the attendance table in the {{work}} record (see section [7.1.2  Adding Attendance Details](/help/index//p/7.1.2) ). You can do the same for {{outcome}}s and {{comm}}s records.
-- {{Report}} filters. {{Group}}s can be used to filter whose data is included in a {{report}} (see section [14.1.1  {{Report}} filters](/help/index/p/14.1.1) ). This will provide a report on a specific set of people. 
+- Bulk data entry. If you have a regular {{group}} of {{user}}s that comes to a particular session every week, instead of adding them individually each time you can create a {{group}}. All you need to do then is type the name of the {{group}} into the search box on the 'Attendance' tab of your {{work}} record. {{Lamplight}} will automatically add everyone that's in the {{group}} to the attendance table in the {{work}} record (see section [7.1.2 Adding Attendance Details](/help/index//p/7.1.2) ). You can do the same for {{outcome}}s and {{comm}}s records.
+- {{Report}} filters. {{Group}}s can be used to filter whose data is included in a {{report}} (see section [14.1.1 {{Report}} filters](/help/index/p/14.1.1) ). This will provide a report on a specific set of people. 
 - {{Group}} data views. You can use data views to show detailed information about members of the {{group}} (see section [13 {{Group}} Data Views](/help/index/p/13)).
 
 
