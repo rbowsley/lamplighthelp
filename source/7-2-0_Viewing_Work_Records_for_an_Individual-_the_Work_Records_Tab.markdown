@@ -1,6 +1,6 @@
 # 7.2.0  <i class="fas fa-hammer"></i>  Viewing {{Work}} Records for an Individual: the {{Work}} Records Tab
 
-> The '{{Work}} records' tab shows the {{work}} you've done with a particular {{person}} or {{org}}
+> The '{{Work}} records' tab shows the {{work}} you've done with a specific {{person}} or {{org}}
 
 
 
@@ -20,7 +20,7 @@ See [section 3.5](/help/index/p/3.5.0) for more on using tables.
 
 ### Searching the Table
 
-Above the table there may be a collapsible search bar. (This is a depends on how you have chosen to set up your system, and is a global setting. To find out more, see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4). This search bar gives more options for filtering the records that you see and adding in additional columns. You can find out more about this search bar in [7.3 Viewing All {{Work}} Records](/help/index/p/7.3.0).
+Above the table there may be a collapsible search bar. (This is a depends on how you have chosen to set up your system, and is a global setting. To find out more, see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4).) This search bar gives more options for filtering the records that you see and adding in additional columns. You can find out more about this search bar in [7.3 Viewing All {{Work}} Records](/help/index/p/7.3.0).
 
 ### The Context Menu
 
@@ -31,11 +31,11 @@ Each {{work}} record in the table has a context menu to the left of it. If you c
 #### View full details
 This opens the {{work}} record in a popup window so that you can see all the information on one page.
 #### Edit
-This opens the data entry window where you can change the details of the {{work}}, for example add new attendees or follow-up details. (See section [7.1.0  Adding a {{work}} record](/help/index//p/7.1.0) )
+This opens the data entry window where you can change the details of the {{work}}, for example add new attendees or follow-up details. (See section [7.1.0 Adding a {{work}} record](/help/index//p/7.1.0) )
 #### Duplicate
 You can use this to create an exact copy of the {{work}} record which you can then edit as you like.  This can be useful if you are creating a similar record for a different date.  Be aware this will copy all content, including notes from the 'Details' tab.
 
-If you use {{linked case}}s in your system you will also see these options (See section [9.0.0  {{Linked case}}s](/help/index//p/9.0.0) for more information):
+If you use {{linked case}}s in your system you will also see these options (See section [9.0.0 {{Linked case}}s](/help/index//p/9.0.0) for more information):
 
 #### Link to {{linked case}}
 This is one of the places where you can add this {{work}} record to a {{linked case}}. 
@@ -52,11 +52,11 @@ This opens a list of {{work}} records, {{outcome}}s and {{comm}}s that are linke
 #### Edit {{linked case}}
 If you click on this option it takes you to a screen where you can edit the details of the {{linked case}} itself.
 #### Communicate (you will only see this if you have the {{Comm}}s Module)
-Choosing this option opens a new {{comm}}s record (See section [10.0.0  {{Comm}}s](/help/index/p/10.0.0) for more on {{comm}}s) and enters the names of the {{people}} that attended the piece of {{work}} in the 'Recipients' table.
+Choosing this option opens a new {{comm}}s record (See section [10.0.0 {{Comm}}s](/help/index/p/10.0.0) for more on {{comm}}s) and enters the names of the {{people}} that attended the piece of {{work}} in the 'Recipients' table.
 #### Delete
-This action is only open to database operators with a Manager or Administrator level of access. It archives the {{work}} record so that it is not immediately visible in tables, and cannot be undone.
+This action is only open to database operators with a Manager or Administrator level of access. It archives the {{work}} record so that it is not immediately visible in tables and cannot be undone.
 #### Add {{outcome}}s
-This option opens the {{outcome}}s data entry window (see section [8.1.0  Adding {{outcome}}s from the Main Menu Bar](/help/index/p/8.1.0) for more on {{outcome}}s). The date, time, {{workarea}} information and {{people}} who attended the piece of {{work}} will be added automatically to the draft {{outcome}}s record. 
+This option opens the {{outcome}}s data entry window (see section [8.1.0 Adding {{outcome}}s from the Main Menu Bar](/help/index/p/8.1.0) for more on {{outcome}}s). The date, time, {{workarea}} information and {{people}} who attended the piece of {{work}} will be added automatically to the draft {{outcome}}s record. 
 
 To see this in action, why not watch our video, ['Viewing and Editing Work Records in a Profile'](/help/index/p/51.4.4)?
 
