@@ -34,7 +34,7 @@ When you send a campaign through Mailchimp you will use these sync categories to
 
 If you want to see all your {{Lamplight}} syncs with Mailchimp, go to 'admin -> system administration -> {{Comm}} Settings -> View Mailchimp event history'.
 
-Each row in this table is a 'sync' of a {{list}} with Mailchimp.  To see details of what happened, click on the row of the table.  You will see each email address and the result from Mailchimp.
+Each row in this table is a 'sync' of a list with Mailchimp.  To see details of what happened, click on the row of the table.  You will see each email address and the result from Mailchimp.
 
 ###### comms module
 
