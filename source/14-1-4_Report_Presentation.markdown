@@ -24,7 +24,7 @@ When you run the report, {{Lamplight}} will produce a table for each field in yo
 
 The row and column data drop-down lists give you the chance to specify exactly what you want to see in your table.  When you specify row data and run the {{report}}, {{Lamplight}} will present the information split into rows by the field that you have chosen.
 
-For example, if you choose to sort the rows by what field you would like to see represented in the rows of your table, For example, you could choose to show your results by 'Day of the week':
+For example, if you choose to sort the rows by what field you would like to see represented in the rows of your table, you could choose to show your results by 'Day of the week':
 
 ![{{Report}} Presented by Row Data](13.1.4d.png)
 
@@ -53,7 +53,7 @@ The table then looks like this:
 As mentioned above, if you are specifying the column data that you want to see in the {{report}} table then you will need to choose one of the options for the data you want in the table. 
 
 - Number of attendances. This is like ticks in a register or bums on seats. It gives you the number of times that people turned up to sessions.
-- Number of different people. These are your unique individuals. You may have 20 attendances, but that is because 5 people turned up four times each. So your number of different people would be five.
+- Number of different people. These are your unique individuals. You may have 20 attendances, but that is because 5 people turned up four times each. In this case your number of different people would be five.
 - Number of sessions. Each {{activity}} record you save counts as a 'session'. This column gives you the total number that relate to the filters you have chosen.
 - Total length of {{work}} records. If you ran your sessions continuously one after the other, this is how long they would last for.
 - People hours delivered. Adding the total amount of time all these people spent attending sessions gives you your people hours.
