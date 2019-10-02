@@ -10,7 +10,7 @@ The search bar at the top of the screen searches {{work}} records for free text,
 - Type in the text you wish to search for and click the 'Go' button.
 - {{Lamplight}} carries out a full text search of the system. 
 
-See section [3.2.0  Search Bar](/help/index/p/3.2.0) for more information on what it can do.
+See section [3.2.0 Search Bar](/help/index/p/3.2.0) for more information on what it can do.
 
 
 ##### Tags
