@@ -8,7 +8,7 @@ If you want to search {{outcome}} records using a free text search (for example 
 
 - Type in the text you wish to search for.
 - Click the 'Go' button.
-- {{Lamplight}} will do a full-text search of the system. See section [3.2.0  Search Bar](/help/index/p/3.2.0) for more information on what it can do.
+- {{Lamplight}} will do a full-text search of the system. See section [3.2.0 Search Bar](/help/index/p/3.2.0) for more information on what it can do.
 
 
 ###### core module
