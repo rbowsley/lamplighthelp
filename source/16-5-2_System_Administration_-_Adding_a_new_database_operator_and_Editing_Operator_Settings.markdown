@@ -8,7 +8,7 @@
 
 ### To Add a New Operator
 
-- Go to 'admin -> system administration -> Database Operators And Security -> Manage database operators.
+- Go to 'admin -> system administration -> Database Operators and Security -> Manage database operators.
 
 The table on this page (see below) shows you all the operators currently in the system. Depending on how many you have, the table may go onto subsequent pages. From here you can add new operators, edit settings, change restrictions, lock, unlock or remove them.
 
