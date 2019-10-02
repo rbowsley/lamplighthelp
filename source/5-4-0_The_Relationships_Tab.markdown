@@ -40,7 +40,7 @@ You can:
   - Edit the relationship link.
   - Reverse the relationship. Relationships in {{Lamplight}} can be two way, for example you could have a Mentor (Mentee) relationship type. This would mean that one {{person}} is the mentor, and the other the mentee. (The actual relationship types that you have will be specific to your system). If the relationship is added the wrong way round, so in this instance the 'Mentor' would be showing as the 'Mentee' and vice versa, you can choose 'Reverse' to put this right.
   - Close relationship. This will move the relationship from the current table into the 'history'. 
-  - Communicate. You will only see this option if you have the {{Comm}}s Module. It opens up a new {{comm}} record to communicate with linked {{person}} (not with the {{person}} whose profile you are in).
+  - Communicate. You will only see this option if you have the {{Comm}}s Module. It opens a new {{comm}} record to communicate with linked {{person}} (not with the {{person}} whose profile you are in).
   - Copy address details from ..... This is useful if you are adding someone who they lives/works at the same address - a family member or employee, for example. {{Lamplight}} will copy the address directly from the profile in the table to the {{person}} or {{org}} linked to them, updating the 'Contact details' tab immediately. Note - this action cannot be undone. 
   
 
