@@ -1,6 +1,6 @@
 # 13.2.0 <i class="fas fa-binoculars"></i> Using {{Group}} Data Views in Lamplight
 
-> Once you have {{group}} data views in your system, there are a number of places that you can use them in {{Lamplight}} to help you see the information you need
+> Once you have {{group}} data views in your system, you can use them in different places in {{Lamplight}} to help you see the information you need
 
 
 
