@@ -64,9 +64,9 @@ A pop-up box will open. Complete the details with:
    - Which type of profiles it will be applicable to (both the type of {{person}} and the role. It is important that you fill these in, or the field will not be visible in any profiles.
    - The type of field required. For more on types of field see [16.7.1 Custom Fields in Profiles](/help/index/p/16.7.1).
    - Whether it is a required field (if you choose this option it will not be possible to edit the tab and save it without putting data in this field).
-   - Whether to restrict the field to Managers and Admins. If you select this it means that  means that database operators with lower levels of access will not see these fields or be able to add data to them.
+   - Whether to restrict the field to Managers and Admins. If you select this it means that database operators with lower levels of access will not see these fields or be able to add data to them.
    - If you have more than one project, you have the option to share this new field across your projects.
-   - If you have the Publishing Module, you can also specify whether data in this field should be published - although the profile will also need to be published before any data becomes available. See [28.1.0  Publishing Module Security](/help/index/p/28.1.0) for more information about the Publishing Module and the controls in place.
+   - If you have the Publishing Module, you can also specify whether data in this field should be published - although the profile will also need to be published before any data becomes available. See [28.1.0 Publishing Module Security](/help/index/p/28.1.0) for more information about the Publishing Module and the controls in place.
    - Click to save. The third panel will update showing the information added. 
   
  ![New Field in Tab](16.7.2g.png) 
@@ -81,7 +81,7 @@ In the right column, you’ll now see the settings for your field (if you can't,
 
 ![Adding Options to a Field](16.7.2h.png)
 
-It is also possible to add them one at a time by using  the ‘click to add’ button. 
+It is also possible to add them one at a time by using the ‘click to add’ button. 
 
 You'll see your options appear in the list under 'Options'. 
 
@@ -128,14 +128,14 @@ To edit the tab or field:
  
 To edit a field option:
  
-- Double click on the text of the option, , e.g. 'Female'. This will open up the dialogue box.
+- Double click on the text of the option, e.g. 'Female'. This will open the dialogue box.
 - Make the changes that you need, then press 'enter' on your keyboard to save. 
  
 ### Deleting Tabs, Fields and Options
  
  To delete any tab, field or option:
  
- - Click the 'Del' button to the right of the relevant field or tab. If you delete a tab, all of the fields in it will automatically be deleted as well. 
+ - Click the 'Del' button to the right of the relevant field or tab. If you delete a tab, all the fields in it will automatically be deleted as well. 
 
 
 ##### Tags
