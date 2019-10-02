@@ -6,7 +6,7 @@
 
 Each individual and {{org}} has a profile. You may have {{family}} profiles in your system too. The profile holds all the information that relates to that {{person}}, {{org}} or {{family}}. 
 
-To see the profile for a particular {{person}}, start typing their name in the search box on the top right-hand corner of your screen. {{Lamplight}} will predict the name that you are searching for, and when it appears on the drop-down list you just need to click on it.  You can search by name, postcode, Lamplight ID number, email address and date of birth.
+To see the profile for a specific {{person}}, start typing their name in the search box on the top right-hand corner of your screen. {{Lamplight}} will predict the name that you are searching for, and when it appears on the drop-down list you just need to click on it.  You can search by name, postcode, Lamplight ID number, email address and date of birth.
 
 ![{{Lamplight}} search as you type](5.1.0a.png)
 
