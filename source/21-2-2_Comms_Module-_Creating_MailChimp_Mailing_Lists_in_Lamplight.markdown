@@ -3,7 +3,7 @@
 > You can use {{group}}s in {{Lamplight}} to set up mailing lists in MailChimp
 
 
-You can sync existing {{Lamplight}} {{group}}s to Mailchimp. See section [12.0.0  Introduction to {{group}}s](/help/index/p/12.0.0) for more on creating these. 
+You can sync existing {{Lamplight}} {{group}}s to Mailchimp. See section [12.0.0  Introduction to {{Group}}s](/help/index/p/12.0.0) for more on creating these. 
 
 ### To Sync {{Lamplight}} {{Group}}s to Mailchimp
 
