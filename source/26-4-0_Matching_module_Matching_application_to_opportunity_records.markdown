@@ -33,7 +33,7 @@ This will only look for records that have some availability overlap.  If start a
 
 When you run a match (using any of the options above) you will see a summary of the {{volunteering opportunity}} that you are seeking matches for, and then summaries of each {{volunteering application}} that matches:
 
-![Showing matches](26.4.1a.PNG)
+![Showing matches](26.4.0a.PNG)
 
 From here you can review the possible matches.  The bottom half of the window has a scrollbar to scroll down through the matching records: the best matches are shown at the top.  If you wish to match a {{volunteering application}} to the {{volunteering opportunity}}, click the 'Add to the opportunity' button on the {{volunteering application}} in question.
 
