@@ -12,11 +12,11 @@
 - Open their '{{work}}' tab.
 - On the right of this tab, click 'Add'.
 
-Either of these will open up a new work record:
+Either of these will open a new work record:
 
 ![A New {{Work}} Record](7.1.0a.png)
 
-There are a number of tabs on this record to fill in. You can find the details of these in the pages that follow. 
+There are several tabs on this record to fill in. You can find the details of these in the pages that follow. 
 
 - [7.1.1 When and Where](/help/index/p/7.1.1).
 - [7.1.2 Adding Attendance Details](/help/index/p/7.1.2).
