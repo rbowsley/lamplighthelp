@@ -45,7 +45,7 @@
 
 #### Use 'Sticky Titles' That Always Appear on Screen When You Scroll Down
 
-   If you use a header bar on your profiles (see [12.2.3 Using a Data View to Create Headers](/help/index/p/12.2.3)) selecting this option will mean that it stays at the top of the screen as you scroll down, and you continue to see the information wherever you are in the profile.
+   If you use a header bar on your profiles (see [13.2.3 Using a Data View to Create Headers](/help/index/p/13.2.3)) selecting this option will mean that it stays at the top of the screen as you scroll down, and you continue to see the information wherever you are in the profile.
 
 #### Show a Menu Button on Tables
 
