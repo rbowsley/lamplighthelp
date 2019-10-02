@@ -23,7 +23,7 @@ From here you can:
   - View the {{person}} or {{org}}'s [profile](/help/index/p/5.1.0),
   - Make them 'my {{user}}'. For more on this relationship type see [4.2.0 My {{User}}s](/help/index/p/4.2.0).
   - Archive the profile. For more on archiving, see [16.8.2 Archiving Profiles](/help/index/p/16.8.2).
-  - Communicate (if you have the {{comm}}s module. This will open up a {{comm}} record so that you can send an email or draft a letter, for example. For more on {{comm}}s, see [10.0.0 Core {{Comm}}s](/help/index/p/10.0.0).
+  - Communicate (if you have the {{comm}}s module. This will open a {{comm}} record so that you can send an email or draft a letter, for example. For more on {{comm}}s, see [10.0.0 Core {{Comm}}s](/help/index/p/10.0.0).
 
 To view other types of {{people}}, go to {{people}} -> view all-> and select the type of {{person}} you want to see:
 
