@@ -46,11 +46,11 @@ We use AWS Auto-Scaling policies to ensure that multiple application servers are
 
 A high availability Application Load Balancer is deployed to handle requests and direct them to application servers.
 
-We use AWS Aurora for the database, with a redundant “hot spare” server online at all times.  Failover from primary to secondary servers is automatic and rapid (generally within a few seconds), and is built into the service.
+We use AWS Aurora for the database, with a redundant “hot spare” server online at all times.  Failover from primary to secondary servers is automatic and rapid (generally within a few seconds) and is built into the service.
 
 Both Aurora data and S3 file data is automatically replicated across multiple disks and is self-healing in the event of disk failure.  Both are scalable well beyond conceivable requirements.
 
-We use Cloudfront monitoring to oversee performance and availability of all services.  We aim to deliver responses within 300ms (from the load balancer request to response) and currently average around 250ms during weekdays.
+We use CloudFront monitoring to oversee performance and availability of all services.  We aim to deliver responses within 300ms (from the load balancer request to response) and currently average around 250ms during weekdays.
 
 Disaster Recovery procedures apply when your data centre is likely to be out of action for an extended period of time, and you need to switch to an alternative provision. Amazon already provides Availability Zones within the London region for High Availability; however, to ensure data stays within the UK we do not use other regions as standby DR sites. We judge that the risk in which an entire Amazon region is offline for an extended period is sufficiently small that it does not justify the cost of maintaining a third-party DR site.
 
