@@ -13,7 +13,7 @@ This section covers
 - [16.5.5 Login Security Policies](/help/index/p/16.5.5).
 - [16.5.6 Password Policies](/help/index/p/16.5.6).
 
-It is important to keep up-to-date with who your database operators are. If a member of staff leaves your organisation, for example, they will retain access to the system until you either lock their account or delete them as a database operator. 
+It is important to keep up to date with who your database operators are. If a member of staff leaves your organisation, for example, they will retain access to the system until you either lock their account or delete them as a database operator. 
 
 
 ##### Tags
