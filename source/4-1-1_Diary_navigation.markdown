@@ -20,7 +20,7 @@ In order from left to right, the buttons:
   
   <span style="color: red;">5.</span> Go to the next day or week.
 
-To select a single day to view, click on the header of the day that you would like to see. So if in this example you click on Monday March 25:
+To select a single day to view, click on the header of the day that you would like to see. If in this example you click on Monday March 25:
 
 ![Diary day header](4.1.1b.png) 
 
