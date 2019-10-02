@@ -35,7 +35,7 @@ You can create {{message}}s for yourself, or for anyone else with a profile in {
   - View. This will open the {{message}} in a pop-up box so that you can view the details.
   - Save. When you create a new {{message}} or edit an existing one, you must always click on the 'save' box in the same row to keep your changes.
   - Delete. This will delete your {{message}} from the system. Alternatively, if you want to archive your {{message}}, you can fill in the 'Date complete' row (see above).
-  - Add. Clicking on the 'add row' button in any row will open up a new line where you can add a {{message}}.
+  - Add. Clicking on the 'add row' button in any row will open a new line where you can add a {{message}}.
   
 ### Viewing {{Message}}s
 
