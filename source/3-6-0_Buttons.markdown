@@ -4,7 +4,7 @@
 
 
 
-Many screens have buttons that allow you to do particular things: usually adding or editing information (normally the top right of the page), or saving it (normally the bottom right of the page/pop-up box). Just click the button. 
+Many screens have buttons that allow you to do particular things: usually adding or editing information (normally the top right of the page) or saving it (normally the bottom right of the page/pop-up box). Just click the button. 
 
 ![Save buttons](23a.png)
 
