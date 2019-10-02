@@ -4,7 +4,7 @@
 
 
 
-For more information on what {{group}} data views are and what you can do with them, see [12.0.0 {{Group}} Data Views](/help/index/p/12.0.0).
+For more information on what {{group}} data views are and what you can do with them, see [13.0.0 {{Group}} Data Views](/help/index/p/13.0.0).
 
 <iframe title="How to Create a {{Group}} Data View"" width="640" height="564" src="https://player.vimeo.com/video/279244765" data-video-display="home" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
