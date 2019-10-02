@@ -29,7 +29,7 @@ Once you have the app installed and working,
 
 If your phone is lost or stolen, you should ask your System Administrator to reset two-factor authentication for your login as soon as possible.  
 - Go to 'system admin -> Database Operators and Security -> Manage database operators'.
-- From the table of operators, find the name of the person who wants to remove 2FA and right-click on it.
+- From the table of operators, find the name of the person who wants to remove 2FA and right click on it.
 - Choose 'Remove two-factor authentication' from the menu.
 - You can then set up two factor authentication again, which will generate a new shared secret.  
 
