@@ -17,7 +17,7 @@ A popup window will appear asking you to confirm their details:
 
 - Click the 'save' button when you have checked the information is how you want it to be.
 
-{{Lamplight}} will double-check whether this {{person}} is already on the system, and tries to check for spelling differences. If there are any {{people}} already on the system who have similar names, they will be shown in another popup window:
+{{Lamplight}} will double-check whether this {{person}} is already on the system, including a check for spelling differences. If there are any {{people}} already on the system who have similar names, they will be shown in another popup window:
 
 ![Adding a new {{person}} - duplicates](5.2.1a.png)
 
