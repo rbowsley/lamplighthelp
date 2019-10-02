@@ -1,6 +1,6 @@
 # 7.2.1  <i class="fas fa-hammer"></i>  Editing a {{Work}} Record
 
-> To edit {{work}} records locate the record in a table or diary, click the context menu, and select 'edit'.
+> To edit {{work}} records, locate the record in a table or diary, click the context menu, and select 'edit'
 
 
 
