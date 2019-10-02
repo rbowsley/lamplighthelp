@@ -12,13 +12,13 @@ When you save a new profile, it will be blank except for the name you have enter
 
 At the top of the page, you can enter the address details. 
 
-- If you have the postcode look-ups feature enabled, enter the post code and you will see a list of addresses in a pop-up box. 
+- If you have the postcode lookups feature enabled, enter the post code and you will see a list of addresses in a pop-up box. 
 
-![Postcode Look-up](5.3.0b.png)
+![Postcode Lookup](5.3.0b.png)
 
 - Click on the correct address in the list, and the details will be automatically added to the appropriate fields. 
-- The look-up is based on Ordnance Survey data and is accurate in most locations. If you do not see the correct address click on the screen away from the pop-up box and enter the details manually.
-- If you do not have postcode look-ups, enter the address details in the format agreed within your organisation.
+- The lookup is based on Ordnance Survey data and is accurate in most locations. If you do not see the correct address click on the screen away from the pop-up box and enter the details manually.
+- If you do not have postcode lookups, enter the address details in the format agreed within your organisation.
 - You can then add other details, such as telephone numbers and email address.
 - You may also have some custom fields on this page. If this is the case, you can fill those in on this screen too.
 - Once you have finished, click save in the bottom right hand corner of the screen. 
