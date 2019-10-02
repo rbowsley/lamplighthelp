@@ -5,7 +5,7 @@
 
 
 
-{{Outcome}}s scores already recorded for the individual or organisation are displayed on this tab. There are three different ways to show the information: a radar chart, in a advanced table, and in a normal table view. You can choose which of these you see by changing your Personal Settings (for more on this, go to [16.4.2 Personal Settings: Profiles](/help/index/p/16.4.2)).
+{{Outcome}}s scores already recorded for the individual or organisation are displayed on this tab. There are three different ways to show the information: a radar chart, in an advanced table, and in a normal table view. You can choose which of these you see by changing your Personal Settings (for more on this, go to [16.4.2 Personal Settings: Profiles](/help/index/p/16.4.2)).
 
 The information you see on the '{{Outcome}}s' tab in a profile will only be for the {{person}} or {{org}} whose profile you are viewing.
 
@@ -47,7 +47,7 @@ You can customise your table in the following ways:
 
 - Click on the top row of a column to re-order the records. For example, you could choose to sort by date, category or {{workarea}}. 
 
-- View more or less records on one page by choosing an options from the 'Show' drop-down above the table. Alternatively you can click on the page numbers (also above the table) to move through the records.
+- View more or fewer records on one page by choosing an option from the 'Show' drop-down above the table. Alternatively, you can click on the page numbers (also above the table) to move through the records.
 
 - Change the columns that you see in the table by right-clicking on the top header-row to see a list of what is available.
 
@@ -63,11 +63,11 @@ Right clicking on a row of the {{outcome}} table will give you a range of option
 #### View full details
 This opens the {{outcome}} record on one page so that you can view the details.
 #### Edit
-This will open the data entry window where you can edit the details of the {{outcome}}. (See section [8.1.0  Adding {{Outcome}}s](/help/index/p/8.1.0)).
+This will open the data entry window where you can edit the details of the {{outcome}}. (See section [8.1.0 Adding {{Outcome}}s](/help/index/p/8.1.0)).
 #### Delete
 Use this option to remove the {{outcome}} from the system. It will still be possible to find it in the {{outcome}}s table (for more on this see [8.3.0 Viewing All {{Outcome}s Records](/help/index/p/8.3.0), but it will not show in reports or data views.
 
-If you use {{linked case}}s in your system, there more options (See section [9.0.0  {{Linked case}}s](/help/index/p/9.0.0) for more on {{linked case}}s):
+If you use {{linked case}}s in your system, there more options (See section [9.0.0 {{Linked case}}s](/help/index/p/9.0.0) for more on {{linked case}}s):
 
 #### Link to {{linked case}}
 You can add this {{outcome}} to a {{linked case}}. 
