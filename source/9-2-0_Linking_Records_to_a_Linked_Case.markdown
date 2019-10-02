@@ -7,14 +7,14 @@
 ### To Link a Record to the {{Linked Case}} from the {{Activity}} Record Context Menu
 
 - Find the record that you want to link. This could be in the '{{Linked Case}} tab, or elsewhere in the system (in the {{Activity}} -> View -> {{Work}} table, for example). 
-- Right click on the row of the table that it is in, or left click on the context menu to the left of the record. 
+- Right click on the row of the table that it is in or left click on the context menu to the left of the record. 
 - This will bring up a context menu. 
 
 ![The {{Work}} Record Context Menu](9.2.0a.png)
 
 
 - Click 'link to {{linked case}}'. (If you do not see this option it is because it is not enabled in your system. Your System Administrator will be able to change this if required - see [16.12.4 Global Settings: Data Display Options](/help/index/p/16.12.4).) 
-- This will open up a pop-up box where you can start typing the name of the {{linked case}} to find the one that you need. Once it appears in the list, click on it to add the record.
+- This will open a pop-up box where you can start typing the name of the {{linked case}} to find the one that you need. Once it appears in the list, click on it to add the record.
 
 ### To Link a Record in the Table
 
@@ -34,7 +34,7 @@ Once a record is linked to a {{linked case}} it appears in the '{{linked case}} 
 
 ### What to Look for If 'Link to {{Linked Case}}' Is Not an Option on the Menu
 
-- If a record is already linked to a {{linked case}}, you cannot link it to another. The 'link to {{linked case}}' option will be disabled (grey text). You will need to remove the link to the existing {{linked case}} first (see section [9.5.0  Removing a Link to a {{Linked Case}}](/help/index//p/9.5.0) ).
+- If a record is already linked to a {{linked case}}, you cannot link it to another. The 'link to {{linked case}}' option will be disabled (grey text). You will need to remove the link to the existing {{linked case}} first (see section [9.5.0 Removing a Link to a {{Linked Case}}](/help/index//p/9.5.0) ).
 
 - You also cannot link a record to a {{linked case}} which has been closed. In this instance you will need to re-open the {{linked case}} before you can attach the record. For information on this, (see section [9.7.0 Re-opening a Closed {{Linked Case}}](/help/index//p/9.7.0)).
 
