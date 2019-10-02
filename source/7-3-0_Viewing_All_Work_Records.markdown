@@ -4,7 +4,7 @@
 
 
 
-You can view all of the {{work}} records in your system in a single table. However, if your organisation has a large number of records, it would be best to filter these down (see below) so that they do not take too long to retrieve. 
+You can view all the {{work}} records in your system in a single table. However, if your organisation has a large number of records, it would be best to filter these down (see below) so that they do not take too long to retrieve. 
 
 ### Viewing the Table
 
@@ -17,7 +17,7 @@ You will see the following screen:
 
 ![{{Work}} records list](59a.png)
 
-The table shows all {{work}} records occurring within a set date range ordered by date latest in the range showing at the top.  The default range of dates shown (for example, all records from two months in the past to two months in the future) can be set in your 'Personal Settings', and can be different for each individual. For more on this see [16.4.3 Personal Settings: Default Values for Dates on Lists](/help/index/p/16.4.3). 
+The table shows all {{work}} records occurring within a set date range ordered by date latest in the range showing at the top.  The default range of dates shown (for example, all records from two months in the past to two months in the future) can be set in your 'Personal Settings'. These can be different for each individual. For more on this see [16.4.3 Personal Settings: Default Values for Dates on Lists](/help/index/p/16.4.3). 
 
 #### Choose and Save which Table Columns You See
 
@@ -42,7 +42,7 @@ The top section gives you filters that you can use to narrow down the selection 
 - Date and time. You can choose the date range that you want the records to cover.
 - {{Workarea}}. You can restrict the records to specific {{workarea}}s and {{subworkarea}}s. 
 - {{Staff}} member adding record. This drop-down box lists all {{staff}} on the system. If you only want to see records added by a specific person, choose their name from the list. 
-- Location. Use this to restrict your search to sessions which have happened in a particular place. 
+- Location. Use this to restrict your search to sessions which have happened in a specific place. 
 - Show deleted records. If you want to see deleted records in your search, tick this box. No current records will be included in the results. 
 
 #### Additional Data Columns to Display
