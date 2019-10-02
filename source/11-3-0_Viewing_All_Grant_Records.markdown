@@ -1,6 +1,6 @@
 # 11.3.0 Viewing All {{Grant}} Records
 
-> You can open up a table from the main menu which will show you all the {{grant}} records recorded in {{Lamplight}}. You can also use filters to search for the ones you need
+> You can open a table from the main menu which will show you all the {{grant}} records recorded in {{Lamplight}}. You can also use filters to search for the ones you need
 
 ### Viewing the Table
 
@@ -13,7 +13,7 @@ You will see the following screen:
 
 ![{{Grant}} records list](60.3.0a.png)
 
-The table shows all {{grant}} records occurring within a set date range ordered by most recent date to oldest (that is the date saved in the record, not the date that they were entered onto the system). The default range of dates shown (for example, all records from two months in the past to two months in the future) can be set in your 'Personal Settings', and can be different for each individual. For more on this see [16.4.3 Personal Settings: Default Values for Dates on Lists](/help/index/p/16.4.3). 
+The table shows all {{grant}} records occurring within a set date range ordered by most recent date to oldest (that is the date saved in the record, not the date that they were entered onto the system). The default range of dates shown (for example, all records from two months in the past to two months in the future) can be set in your 'Personal Settings'. These can be different for each individual. For more on this see [16.4.3 Personal Settings: Default Values for Dates on Lists](/help/index/p/16.4.3). 
 
 ### Choose and Save which Table Columns You See
 
