@@ -4,13 +4,13 @@
 
 
 
-A summary tab can be added to profiles which allows you to choose information from different tabs and show it in one place. It is fully customisable, and each database operator can set up a different summary tab, or share the same one. A {{group}} data view is used to set the parameters for the information that will be shown in the tab. You can change or remove the tab at any time.
+A summary tab can be added to profiles which allows you to choose information from different tabs and show it in one place. It is fully customisable, and each database operator can set up a different summary tab or share the same one. A {{group}} data view is used to set the parameters for the information that will be shown in the tab. You can change or remove the tab at any time.
 
 To add a summary tab:
 
-- Create a {{group}} data view including all the information you want on the summary tab (see section [13.1  Creating {{Group}} Data Views](/help/index/p/13.1)). 
+- Create a {{group}} data view including all the information you want on the summary tab (see section [13.1 Creating {{Group}} Data Views](/help/index/p/13.1)). 
 - Once this is saved, go to '{{Group}}s -> {{group}} data views -> view' on the main menu.
-- Right-click on the {{group}} that you want to use, or click on the menu button to the left of it in the table.
+- Right-click on the {{group}} that you want to use or click on the menu button to the left of it in the table.
 - Choose 'use in summary tab in profiles' from the popup menu. 
 - You will receive a confirmation message that the setting has changed.
 
@@ -20,7 +20,7 @@ Now when you view a profile you'll see a new 'summary' tab displayed as the firs
 
 To change the {{group}} data view you use, just repeat this process. 
 
-To remove the summary tab completely, open a it tab in any profile, scroll to the bottom and click 'remove summary tab'.
+To remove the summary tab completely, open it in any profile, scroll to the bottom and click 'remove summary tab'.
 
 
 ##### Tags
