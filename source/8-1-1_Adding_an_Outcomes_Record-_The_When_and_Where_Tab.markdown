@@ -10,7 +10,7 @@ You must select one {{workarea}}, and you can choose any number of {{subworkarea
 
 ![Adding an {{outcome}} record {{workarea}}- when and where](8.1.1a.png)
 
-The {{subworkarea}}s for the {{workarea}} you have chosen will appear to the right hand side. 
+The {{subworkarea}}s for the {{workarea}} you have chosen will appear to the right-hand side. 
 
 You can select as many locations as necessary or none. If one is selected in error, simply click again to deselect. 
 
