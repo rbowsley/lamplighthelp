@@ -12,7 +12,7 @@ The filters are the same as for other {{report}}s. You can restrict the {{report
 
 ### Projects
 
-If you have more than one {{project}} on your system you can select which {{project}}s you would like to draw data from in this tab. See [14.1.3  {{Report}}s Across Several {{Project}}s](/help/index/p/14.1.3) for more information.
+If you have more than one {{project}} on your system you can select which {{project}}s you would like to draw data from in this tab. See [14.1.3 {{Report}}s Across Several {{Project}}s](/help/index/p/14.1.3) for more information.
 
 ### {{Report}} Presentation
 
@@ -25,7 +25,7 @@ You have three options:
 
 #### Show overall statistics for the period. 
 
-This is the default option, giving you a sense of turnover and total waiting times. It returns  the following data for each {{waiting list}} selected:
+This is the default option, giving you a sense of turnover and total waiting times. It returns the following data for each {{waiting list}} selected:
 
   - Number of {{people}} at the start of the period: the number of {{people}} on the {{waiting list}} on the first day in the range specified.
   - Number joining the {{waiting list}} in the period: number of {{people}} added between the two dates.
