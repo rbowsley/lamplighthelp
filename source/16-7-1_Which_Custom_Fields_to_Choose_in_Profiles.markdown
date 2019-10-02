@@ -4,16 +4,16 @@
 
 
 
-The choice of fields that can be added is the same wherever you are  putting them. When making a decision on which field to choose, think carefully about not only what information you would like to capture, but also how you will need to report on it. You can run a {{report}} using the information in a drop-down list, for example, but while a free-text field is good for storing qualitative information, you will not be able to use it in {{report}}s or {{group}}s.
+The choice of fields that can be added is the same wherever you are putting them. When deciding on which field to choose, think carefully about not only what information you would like to capture, but also how you will need to report on it. You can run a {{report}} using the information in a drop-down list, for example, but while a free-text field is good for storing qualitative information, you will not be able to use it in {{report}}s or {{group}}s.
 
 ### Reporting on Custom Fields
-There are a number of different ways in which custom fields in profiles can be used for reporting. Depending on the type of field that you choose you will be able to:
+There are several different ways in which custom fields in profiles can be used for reporting. Depending on the type of field that you choose you will be able to:
 
 - Use it for presenting {{report}}s: this allows you to show columns in a {{report}} using this field. If you have a demographic field, for example gender, you could run a report on the number of {{work}} sessions you've had in the last six months, and then choose to present it by your 'Gender' field. This would then give you a column or row for each of the options in that field so that you could see the results for each different group at a glance. (For more on this see [13.1.4 {{Report}} Presentation](/help/index/13/1/4).)
 - For creating {{group}}s: again, using the above field example you can create an auto {{group}} with gender as a filter. (For more on this see [12.1.3 {{Group}}s: {{Work}}, {{Referral}} and {{Grant}} Fields](/help/index/p/12.1.3)).
 - Add as a column or filter records in a table: you can view tables of records from the main menu (to find out more please see [7.3.0 Viewing All {{Work}} Records](/help/index/p/7.3.0)). In this example, you could use the search bar above the table to add in a column for each of the options.
 
-There are a number of different ways in which custom fields in profiles can be used for reporting.  The table below gives details for each type of field. 
+The table below gives details for each type of field. 
 
 
 | Field name | Description |For Filtering {{Report}}s | For Presenting {{Report}}s | For Creating {{Group}}s | As a {{Group}} Data View Column |
@@ -29,7 +29,7 @@ There are a number of different ways in which custom fields in profiles can be u
 | Date/Times | Dates and times are entered on a 24-hour clock from select boxes | No | No | Yes | Yes |
 |Date of birth selector | Dates are entered in UK format by selecting from the day/month/year select boxes and a current age is displayed | No | Yes | Yes | Yes |
 | Number box | Enter numbers only into a small text box | No | Yes | Yes | Yes |
-| Caption | To add a label for instructions or sub headings | No | No | No | No |
+| Caption | To add a label for instructions or subheadings | No | No | No | No |
 | Fixed text box | Descriptive text that cannot be altered - useful for adding descriptive text or reminders about the other information on the tab | No | No | No | No |
 | Year selector | Choose just the year from a drop-down | No | Yes | Yes | Yes |
 | Radio buttons | Select one from a range of options | No | Yes | Yes | Yes |
@@ -53,7 +53,7 @@ There are a number of different ways in which custom fields in profiles can be u
 ### Linked Fields
 Linked fields are useful for saving information that you will view through the profile. You will not be able to use them in {{report}}s, {{group}}s or {{group}} data views.
 
-Most of the time your fields will have a single value that doesn't change (unless you enter an incorrect value by mistake). For example, a person only has one date of birth, and this will never change. In some other cases you may need to be able to enter multiple records under a particular field. For example, you may need to be able to enter multiple text entries describing medical conditions as a person's medical condition changes. You may also need to be able to {{group}} a set of records together - in this example you may need a 'date diagnosed' field, a 'description of condition' field, and a medication 'field', all linked together. On the profile, this would be displayed as a table:
+Most of the time your fields will have a single value that doesn't change (unless you enter an incorrect value by mistake). For example, a person only has one date of birth, and this will never change. In some other cases you may need to be able to enter multiple records under a specific field. For example, you may need to be able to enter multiple text entries describing medical conditions as a person's medical condition changes. You may also need to be able to {{group}} a set of records together - in this example you may need a 'date diagnosed' field, a 'description of condition' field, and a medication 'field', all linked together. On the profile, this would be displayed as a table:
 
 ![Linked Fields](16.7.1f.png)
 
