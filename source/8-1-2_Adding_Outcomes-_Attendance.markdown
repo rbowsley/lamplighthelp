@@ -26,7 +26,7 @@ You can also add members of a {{group}} in bulk:
 
 ![Adding members of a {{group}} to an {{outcome}} record](8.1.2a.png)
 
-Once you have your participants in the table, you can alter their role or attendance type by clicking on the relevant table cell and making a selection from the drop-down box. Your system administrator can add options to these lists (see section [16.6.0  System Administration - Lists](/help/index/p/16.6.0) ).
+Once you have your participants in the table, you can alter their role or attendance type by clicking on the relevant table cell and selecting from the drop-down box. Your system administrator can add options to these lists (see section [16.6.0 System Administration - Lists](/help/index/p/16.6.0) ).
 
 To remove someone added in error, click the delete box - the right-hand table cell of the row you wish to delete. 
 
