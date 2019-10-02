@@ -29,11 +29,11 @@ By default the appointments in the diary are coloured according the {{workarea}}
 
 ![Diary Colour Scheme Based On](4.1.2c.png)
 
-This allows you to see at a glance where an {{activity}} is happening, and can be particularly useful when checking if there is a room free at a specific time, for example.
+This allows you to see at a glance where an {{activity}} is happening and can be particularly useful when checking if there is a room free at a specific time, for example.
 
 ### {{Staff}} Attending
 
-If you only want to see the appointments that relate to particular {{staff}}, there is a box on the right under the diary which lists the {{staff}} that are on your system. 
+If you only want to see the appointments that relate to specific {{staff}}, there is a box on the right under the diary which lists the {{staff}} that are on your system. 
 
 ![Diary {{Staff}} attending](4.1.2d.png)
 
