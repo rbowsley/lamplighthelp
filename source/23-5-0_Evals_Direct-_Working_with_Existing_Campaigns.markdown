@@ -77,7 +77,7 @@ If you want to stop an existing campaign, you can edit it to change the 'date to
 
 - Email all invitees/have responded/not yet responded: takes you to a {{comm}}s page to email these invitees (for more see [23.3.0 Communicating with Invitees of an {{Eval}}s Direct Campaign](/help/index/p/23.3.0)).
 
-- View report of responses:  takes you to an {{eval}}s report (for more see [{{Eval}} Report 14.2.0](/help/index/p/14.2.0)).
+- View report of responses:  takes you to an {{eval}}s report (for more see [{{Eval}} Report 15.2.0](/help/index/p/15.2.0)).
 
 ### Downloading, Printing and Split Print
 
@@ -86,7 +86,7 @@ If you wish to download the information in the table into a spreadsheet:
 - Clicking the print button will open a new tab, with the table in a print friendly format.  
 - Split print allows you to create multiple print friendly tables, split by whatever item you choose.
 
-**Please note:** this will only download the table, not the information from individual campaigns. You can download the responses to your campaigns in reporting (see [14.2.0 {{Eval}} Report](/help/index/p/14.2.0)).
+**Please note:** this will only download the table, not the information from individual campaigns. You can download the responses to your campaigns in reporting (see [15.2.0 {{Eval}} Report](/help/index/p/15.2.0)).
    
    
 ###### datadirect module
