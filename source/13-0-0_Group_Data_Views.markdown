@@ -18,7 +18,7 @@ For example, once you have created a {{group}} you may want to be able to view t
 
 It is best not to create {{group}} data views with too much in them.  If you are asking for a lot of information it will need a large table with multiple columns which would be difficult to view.  It takes longer for {{Lamplight}} to process and show the data. It is  better to create a number of smaller {{group}} data views for different purposes.
 
-To use the {{group}} data views you have created, see section [12.2.0 Using {{Group}} Data Views in {{Lamplight}}](/help/index/p/12.2.0).
+To use the {{group}} data views you have created, see section [13.2.0 Using {{Group}} Data Views in {{Lamplight}}](/help/index/p/13.2.0).
 
 You can also see [our video introducing {{group}} data views](/help/index/p/52.2.3):
 
