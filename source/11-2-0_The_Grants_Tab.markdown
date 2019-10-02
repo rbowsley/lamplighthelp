@@ -24,7 +24,7 @@ There are other filter options here too - you can choose to restrict the records
 
 There is also an 'additional data columns to display' section, which you can use to include additional information in your results table.
 
-It works in the same was as the search bar in {{work}} records - you can find out more about it in [7.3 Viewing All {{Work}} Records](/help/index/p/7.3.0).
+It works in the same way as the search bar in {{work}} records - you can find out more about it in [7.3 Viewing All {{Work}} Records](/help/index/p/7.3.0).
 
 ### Viewing and Editing Individual Records
 
@@ -34,7 +34,7 @@ To view a {{grant}} record, right click on the row in the table showing the {{re
 
 - View full details. You can open the record to view everything recorded there in one page. 
 - Edit. If you need to change any details in this record, opening it to edit will allow you to do this. The record will be shown in the same format as if you were entering a new one. 
-- Duplicate record. This copies the record, so that if you are adding one that is similar you can then go to edit the copied version. You need to remember to change the details, and delete any information that is not needed in the new version.
+- Duplicate record. This copies the record, so that if you are adding one that is similar you can then go to edit the copied version. You need to remember to change the details and delete any information that is not needed in the new version.
 - Delete. Managers and System Administrators can delete {{grant}} records from the system. **If you do this they cannot be retrieved**.
 - If you use {{linked case}}s in your system, you will also see various {{linked case}} options on this menu. For more on {{linked case}}s, see [9.0.0 {{Linked Case}}s](/help/index/p/9.0.0). 
 
