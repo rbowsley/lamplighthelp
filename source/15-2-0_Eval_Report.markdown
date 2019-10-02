@@ -41,7 +41,7 @@ Once you have run the initial {{report}} an extra tab will be added: '{{Eval}} f
 
 ![{{Eval}}s {{Report}} Filters](14.2.0b.png)
 
-Select the filters you wish to use and run the {{report}} again for a smaller set of {{eval}} responses. The results in the tables will now be shown just for those people who gave the answers that you chose.. 
+Select the filters you wish to use and run the {{report}} again for a smaller set of {{eval}} responses. The results in the tables will now be shown just for those people who gave the answers that you chose.
 
 ### Downloading Your Results
 
