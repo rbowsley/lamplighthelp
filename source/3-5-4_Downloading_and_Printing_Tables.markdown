@@ -28,11 +28,11 @@ To print, use your keyboard shortcut (Ctrl+P on a windows machine, Cmd+P on a Ma
 
 ### Split Print
 
-The final option is to 'split print'. This allows you to create multiple print-friendly tables, split by whatever item you choose. So for example, if you split by {{workarea}} (as in the image below), you will get a separate table for each different {{workarea}} in your table. These will each open in a separate tab. 
+The final option is to 'split print'. This allows you to create multiple print-friendly tables, split by whatever item you choose. For example, if you split by {{workarea}} (as in the image below), you will get a separate table for each different {{workarea}} in your table. These will each open in a separate tab. 
 
 ![Split Print](3.5.4c.png)
 
-Split print opens up a tab for each value, and your web browser may block this.  If so, your browser will probably show an error message in the top bar of the browser giving you the option to allow popups from Lamplight. Once you've done that you should be able to choose 'split print' and see all the tables.
+Split print opens a tab for each value, and your web browser may block this.  If so, your browser will probably show an error message in the top bar of the browser giving you the option to allow popups from Lamplight. Once you've done that you should be able to choose 'split print' and see all the tables.
 
 
 ##### Tags
