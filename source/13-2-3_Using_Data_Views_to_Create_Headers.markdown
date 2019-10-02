@@ -8,7 +8,7 @@ If there is information about {{people}} or {{org}}s held on {{Lamplight}} that 
 
 ![Header](12.2.3a.png)
 
-This is a personal setting, and needs to be set-up for individual {{user}}s.  However, you can copy one operator's personal settings to another user (see [16.5.2 System Administration - Adding a New Database Operator and Editing Operator Settings](/help/index/p/16.5.2) for more details.)
+This is a personal setting and needs to be set-up for individual {{user}}s.  However, you can copy one operator's personal settings to another user (see [16.5.2 System Administration - Adding a New Database Operator and Editing Operator Settings](/help/index/p/16.5.2) for more details.)
 
 You will need to set up the data view before you can add it as a header bar (see [13.1 Creating {{Group}} Data Views](/help/index/p/13.1).)
 
