@@ -16,7 +16,7 @@ You will see a table listing all {{group}}s, with columns including:
   - Name.
   - Description: this will be text that you added to clarify what it is for when creating the {{group}}.
   - Criteria: {{Lamplight}} generates this from the filters that you've applied if you created an auto {{group}}. If you are not seeing the names you expect when you run a {{group}}, this column is a good place to check to see that your filters are as you expect.
-  - {{Group}} size: the number shown here will be for the last time that you used the {{group}}, so for {{auto group}}s this figure may have changed. If you need to be sure how many members a {{group}} currently has, use the menu button on the left and select 'Quick view in popup' for the up-to-date list (see section [12.5  Viewing {{Group}} Members](/help/index/p/12.5)). 
+  - {{Group}} size: the number shown here will be for the last time that you used the {{group}}, so for {{auto group}}s this figure may have changed. If you need to be sure how many members a {{group}} currently has, use the menu button on the left and select 'Quick view in popup' for the up-to-date list (see section [13.5  Viewing {{Group}} Members](/help/index/p/13.5)). 
   - Type: this will show if your {{group}} is a {{manual group}}, {{auto group}} or {{merge group}}. 
  
 If you want to see all the columns that you can have in your table, right-clicking on the coloured header row at the top will bring up a menu of the available options. You can tick and untick to add and remove columns.
@@ -32,7 +32,7 @@ In the left-hand column of the table you may see a menu button next to each {{gr
 ![The {{Group}}s Context Menu](11.4.0b.png)
 
 - View full details: hover over this option to see all the data views in your system, and choose one with which to view the {{group}}. For more on this, see [13.2.1 View {{Group}} Members Using {{Group}} Data Views](/help/index/p/13.2.1).
-- Quick view in popup: this is a quick way to see members of a {{group}}. For more on this see [12.5 Viewing {{Group}} Members](/help/index/p/12.5).
+- Quick view in popup: this is a quick way to see members of a {{group}}. For more on this see [13.5 Viewing {{Group}} Members](/help/index/p/13.5).
 - Edit: choose this to open the {{group}} editing dialogue and change details of the filters in your {{group}}. For more on this, see [12.6 Editing {{Group}}s](/help/index/p/12.6).
 - Duplicate record: you can make an exact copy of the {{group}}. This is useful if you have a {{group}} which is very similar to another, as you can duplicate the original and then edit the details for the second one. 
 - Print: choosing this option brings up a new window where you can see all the profile details for each member of the list. You can select which of these details you want to print. For more on printing profile details, see [5.7 Printing Profile Information](/help/index/p/5.7).  This will take some time for a large {{group}}.
