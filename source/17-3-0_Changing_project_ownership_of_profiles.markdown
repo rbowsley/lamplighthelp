@@ -7,7 +7,9 @@ A profile is 'owned' by the {{project}} in which it was created, and it may be s
 
 In the {{project}} that owns the profile, navigate to the profile and click the 'project sharing' tab.  At the bottom of this tab there is a dropdown that allows you to change the ownership.
 
-**Please note** that you may 'lose' control of the profile once this has been done, if you don't have access to the {{project}} that you're moving it to.
+![Project Ownership Drop-down](17.3.0a.png)
+
+**Please note**: you may 'lose' control of the profile once this has been done, if you don't have access to the {{project}} that you're moving it to.
 
 If you cannot see the dropdown please contact us at Lamplight and we can enable this functionality for you.
 
