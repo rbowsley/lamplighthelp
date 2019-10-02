@@ -12,7 +12,7 @@ There are a number of ways that you can customise what you see. For more informa
 - [4.1.1 Diary Navigation](help/index/p/4.1.1).
 - [4.1.2 Changing What you See in your Diary](help/index/p/4.1.2).
 
-By default when you first log in to {{Lamplight}}, only the My {{User}}s tab will be visible unless this has been set differently by your System Administrator. Please see section [16.4.1 Personal Settings - Logging In and General Settings](/help/index/p/16.4.1) to enable the diary tabs and personalise your settings. 
+By default, when you first log in to {{Lamplight}}, only the My {{User}}s tab will be visible unless this has been set differently by your System Administrator. Please see section [16.4.1 Personal Settings - Logging In and General Settings](/help/index/p/16.4.1) to enable the diary tabs and personalise your settings. 
 
 For a demonstration of how the diary works, why not watch our video?
 
