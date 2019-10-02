@@ -4,7 +4,7 @@
 
 
 
-For more on setting up a {{group}} data view, see [12.1.0 Creating {{Group}} Data Views](/help/index/p/12.1.0).
+For more on setting up a {{group}} data view, see [13.1.0 Creating {{Group}} Data Views](/help/index/p/13.1.0).
 
 <iframe title="How to Use {{Group}} Data Views as Headers in Profiles" width="640" height="564" src="https://player.vimeo.com/video/279244805" data-video-display="home" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
