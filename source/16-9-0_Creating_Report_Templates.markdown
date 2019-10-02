@@ -21,7 +21,7 @@ You'll need to be a System Administrator to create templates.
 ![{{Work}} {{Report}} Templates](16.9.0c.png)
 
 ### Completing the Template
-- We recommend test your planned {{report}} as a one-off from the main menu first to ensure it is has the filters that you want and is showing appropriate data. You can then  recreate it in the {{report}} templates section. This is because when you complete the template it will save without showing you the {{report}} results. For more on running a {{report}}, see [13.1.0 Running {{Report}}s](/help/index/p/13.1.0).
+- We recommend test your planned {{report}} as a one-off from the main menu first to ensure it is has the filters that you want and is showing appropriate data. You can then  recreate it in the {{report}} templates section. This is because when you complete the template it will save without showing you the {{report}} results. For more on running a {{report}}, see [14.1.0 Running {{Report}}s](/help/index/p/14.1.0).
 
 - The first page of the template is where you give the {{report}} a name, and a description, so that staff will know what it is designed to do.  We encourage you to be as specific as possible. 
 
