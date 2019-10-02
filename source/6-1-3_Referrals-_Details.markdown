@@ -4,7 +4,7 @@
 
 
 
-There are a number of fields in this tab.
+There are several fields in this tab.
 
 - 'Referral direction' is where you can record whether it is a {{referral}} out of your organisation, or if you are receiving a {{referral}} in. You may also be able to show other types of referral, depending on the options in the drop-down list. This can be customised by your System Administrator (for more on this see [16.6.0 System Administration - Lists](/help/index/p/16.6.0)).
 
