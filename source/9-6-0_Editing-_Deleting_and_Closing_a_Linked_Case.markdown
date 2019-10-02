@@ -1,6 +1,6 @@
 # 9.6.0  <i class="fas fa-link"></i> Editing, Deleting and Closing a {{Linked Case}}
 
-> Once you have created a {{linked case}}, it is possible to edit it, close it when it is complete, and also delete it entirely if it was entered in error
+> Once you have created a {{linked case}} it is possible to edit it, close it when it is complete, and also delete it entirely if it was entered in error
 
 
 
@@ -11,7 +11,7 @@ The easiest way to carry out these actions is in the {{linked case}} tab on prof
 - Click on the case that you would like to edit in the list of {{linked case}}s to the left of the screen.
 - Scroll down to the bottom of the '{{Linked case}} details'.
 - Click on 'edit'.
-- This will open up a screen where you can change and add to the details of the {{linked case}}. 
+- This will open a screen where you can change and add to the details of the {{linked case}}. 
 - Click 'save' when finished.
 
 ### To Close
@@ -19,7 +19,7 @@ The easiest way to carry out these actions is in the {{linked case}} tab on prof
 - Click on the case that you would like to close in the list of {{linked case}}s to the left of the screen.
 - Scroll down to the bottom of the '{{Linked case}} details'.
 - Click on 'Close'.
-- A dialogue box will open where you can add any final details, and enter in the 'Date closed'. If you do not enter any date in this box, it will default to today's date.  
+- A dialogue box will open where you can add any final details and enter in the 'Date closed'. If you do not enter any date in this box, it will default to today's date.  
 
 ![The {{Linked Case}} Close Dialogue](9.6.0b.png)
 
