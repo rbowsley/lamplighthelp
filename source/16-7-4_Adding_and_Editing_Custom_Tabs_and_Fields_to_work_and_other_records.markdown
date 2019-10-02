@@ -60,7 +60,7 @@ A pop-up box will open. Complete the details with:
    - Whether it is a required field: if you choose this option it will not be possible to edit the tab and save it without putting data in this field.
    - Whether to restrict the field to Managers and Admins: although you can tick this field, it does not function in this record.
    - If you have more than one project, you have the option to share this new field across your projects.
-   - If you have the Publishing Module, you can also specify whether data in this field should be published. See [28.1.0  Publishing Module Security](/help/index/p/28.1.0) for more information about the Publishing Module and the controls in place.
+   - If you have the Publishing Module, you can also specify whether data in this field should be published. See [28.1.0 Publishing Module Security](/help/index/p/28.1.0) for more information about the Publishing Module and the controls in place.
    - Click to save. 
    
 The third panel will update showing the information added. 
@@ -74,7 +74,7 @@ The easiest way to enter your options is using the text box at the bottom of the
 
 ![Adding Options to a Field](16.7.2h.png)
 
-It is also possible to add them one at a time by using  the ‘click to add’ button.  You'll see your options appear in the list under 'Options'. 
+It is also possible to add them one at a time by using the ‘click to add’ button.  You'll see your options appear in the list under 'Options'. 
 
 ![Final Option Text in Field](16.7.2i.png)
 
@@ -95,7 +95,7 @@ Repeat this process until you have added all the tabs, fields and options that y
 
  
 ### Adding Fields to a Standard System Tab
-All records have the tabs 'Where and Where', 'Attendance', ( this may be called 'Respondent' or 'Involved' in some cases), and Details.  You can't edit of delete the fields which already exist in these tabs (this can only be done by Lamplight), but you can add additional fields to them by 'creating' them in System Admin.  Create a tab with the correct name as below, (capitalisation is essential), and add fields to it.  
+All records have the tabs 'Where and Where', 'Attendance', (this may be called 'Respondent' or 'Involved' in some cases), and Details.  You can't edit of delete the fields which already exist in these tabs (this can only be done by Lamplight), but you can add additional fields to them by 'creating' them in System Admin.  Create a tab with the correct name as below, (capitalisation is essential), and add fields to it.  
 
 ![System Admin - adding fields to system tabs](1221a.png)
 
