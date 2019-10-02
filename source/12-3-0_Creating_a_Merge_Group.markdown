@@ -25,9 +25,9 @@ How to combine the {{group}}s give you three options:
 
 ![How to Combine the {{Group}}s](12.3.0a.png)
 
-- Include profiles that are in any of the {{group}}s.  This is like 'adding up' the {{group}}s - add all of the members of all the {{group}}s together into one big {{group}}.
-- Only include profiles that are in all of the {{group}}s in the table.  So members of the {{merge group}} have to meet all the criteria of all the component {{group}}s.  This can be useful when you want more criteria than you can specify in a single {{auto group}}.  For example, you may want people who have attended both 'Housing advice' sessions AND 'Benefits advice' sessions this year.  A single {{auto group}} can only do one of those; so create two {{auto group}}s, one for each {{workarea}}, and then the {{merge group}} will find those in both.
-- Only include profiles that are in the first list in the table, and are not in any of the others.  Again this can help you combine criteria when it's not possible in a single {{auto group}}.  For example, you could use this to identify {{people}} who have had a {{referral}} in this year, but not a {{referral}} out.  You need to add your {{group}}s in reverse order on the next tab.
+- Include profiles that are in any of the {{group}}s. This is like 'adding up' the {{group}}s - add all the members of all the {{group}}s together into one big {{group}}.
+- Only include profiles that are in all the {{group}}s in the table. Members of the {{merge group}} have to meet all the criteria of all the component {{group}}s.  This can be useful when you want more criteria than you can specify in a single {{auto group}}.  For example, you may want people who have attended both 'Housing advice' sessions AND 'Benefits advice' sessions this year.  A single {{auto group}} can only do one of those; you will need to create two {{auto group}}s, one for each {{workarea}}, and then the {{merge group}} will find those in both.
+- Only include profiles that are in the first list in the table and are not in any of the others.  Again, this can help you combine criteria when it's not possible in a single {{auto group}}.  For example, you could use this to identify {{people}} who have had a {{referral}} in this year, but not a {{referral}} out.  You need to add your {{group}}s in reverse order on the next tab.
 
 ### Selecting the constituent {{group}}s 
 
@@ -41,7 +41,7 @@ To choose the {{group}}s that make up your {{merge group}}, search for them in t
 - Each time you add a {{group}} it is added to the top of the table.  If you are selected 'in the first list but none of the others', you will need to add the {{group}}s in reverse order.
 - Click 'Save'. 
 
-If you are creating a new {{group}} you will see the members of the {{group}}.  If you are editing you'll see the table of {{group}}s updated with the new number of members.
+If you are creating a new {{group}}, you will see the members of the {{group}}.  If you are editing be taken back to the table of {{group}}s, which will have been updated to show the new number of members for this {{group}}.
 
 ##### Tags
 {{Group}}
