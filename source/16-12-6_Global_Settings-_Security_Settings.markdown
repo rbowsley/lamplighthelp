@@ -11,16 +11,43 @@ You can set the length of time operators can leave their system open without it 
 
 The next three fields, restricting database operators, relate to a my user restriction. 
 
-The ‘My User’ restriction allows for a stricter level of access limitation to {{Lamplight}}. Database operators can be linked to other profiles (such as clients on their caseload) using the ‘My User’ relationship (this may have been renamed in your system, perhaps something like 'caseworker' or similar). With the ‘My User’ restriction enabled, database operators with access levels of staff, data entry or reception will only be able to see information about those profiles that they are related to as 'My User's.
+The ‘My User’ restriction allows for a stricter level of access limitation to {{Lamplight}}. Database operators can be linked to other profiles (such as clients on their caseload) using the ‘My User’ relationship (this may have been renamed in your system, perhaps something like 'caseworker' or similar). With the ‘My User’ restriction enabled, database operators with access levels of staff, data entry or reception will only be able to see information about those profiles that they are related to as 'My User's.  In the sections below, these database operators are referred to as 'affected operators'.
 
 #### Restrict operators below manager level to only view "my users" they are linked to.
 
-   This turns on the 'My user' restriction.  As explained above, it will limit anyone with a staff, data entry or reception level of access to the system, so that they can only see the profiles of people and organisations they are linked to by a 'my user' relationship.
+   This turns on the 'My user' restriction.  As explained above, it will limit any affected operators so that they can only see the profiles of people and organisations they are linked to by a 'my user' relationship.
    
 #### Restrict operators below manager level to only view {{activity}} and {{linked case}} records linked to the "my users" they are linked to.
    
-   Similar to the above restriction, this restricts access to all {{work}} and other {{activity}} records so that those with the lower level of access will only be able to see records relating to people who are linked to them with a 'my user' relationship. This relates to the main menu options under 'activity -> view'.
+   Similar to the above restriction, this restricts access to all {{work}} and other {{activity}} records so that affected operators will only be able to see records relating to people who are linked to them with a 'my user' relationship. This relates to the main menu options under 'activity -> view'.
+
+Whichever option is selected here, an affected operator will only be able to see the names of their 'my users' in the attendance table for an {{activity}} record they can view.  So there may be 10 people listed on an {{activity}} record, but an affected operator may only be able to see three of their names.
    
+   The options in this section are :
+   
+**No restriction** 
+Operators will be able to see all {{activity}} records they would be able to without the 'my user' restriction.  
+
+**Show records I am listed on, or my users are listed on, or which have no Service Users Attending** 
+Affected operators will be able to see {{activity}} records that:
+ - they are listed on, or
+ - have at least one of their "my users" listed on, or
+ - have no-one listed using attendance role 'Service User' and type 'Attended'.  
+
+They would be able to see a record with just another staff member listed (with attendance role 'staff'), for example, or an empty record.  **Please note** this uses the attendance role and type, not the type of profile (which isn't taken into account at all).
+
+**Show records I am listed on, or my users are listed on, or which have no-one listed at all**
+Affected operators will be able to see {{activity}} records that:
+ - they are listed on, or
+ - have at least one of their "my users" listed on, or
+ - have no-one listed on at all.
+   
+**Only show records I am listed on, or my users are listed on**
+Affected operators will be able to see {{activity}} records that:
+ - they are listed on, or
+ - have at least one of their "my users" listed on.
+Records with no attendees will not be visible with this option.
+
 #### If using "my users" restriction above, should newly added profiles be made a "my user".
 
    By choosing this option, when a database user creates a new profile in the system, it will automatically be linked to them as 'my user'. This is to prevent the need for another operator with a higher level of access to go in and create the relationship before they can edit information in the profile.
