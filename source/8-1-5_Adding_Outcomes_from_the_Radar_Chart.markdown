@@ -12,7 +12,7 @@ You can add {{outcome}} scores directly to the radar chart in the '{{Outcome}}s'
 
 ![Mode in the {{Outcome}}s Tab](8.1.5a.png)
 
-This opens up a new box where you can enter in more details.
+This opens a new box where you can enter in more details.
 
 ![Details for Outcome Entry on Radar Chart](8.1.5b.png)
 
