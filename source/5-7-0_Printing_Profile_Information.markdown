@@ -30,7 +30,7 @@ It is possible to print profile information for specific profiles. This can be d
 - Once it has been set up, go to '{{group}}s -> view -> view all' and find it in the list.
 - Either right-click on the {{group}} or left-click on the menu button to the left of it. 
 - Choose 'print' from the context menu.
-- This opens up the same print menu as for the individual profile, above. You can select which sections of the profiles you would like to print from here.
+- This opens the same print menu as for the individual profile, above. You can select which sections of the profiles you would like to print from here.
 
 **Please note:** if you do this for a large {{group}} it will take some time and may slow down Lamplight as it has to load all information from all tabs for all the profiles in the {{group}}.
 
