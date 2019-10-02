@@ -23,7 +23,7 @@
 - This is the change or difference you have made to your {{user}}s. This is measured over time and more than once to show before and after scores for comparison. To understand more about {{outcome}}s, please see section [8 Outcomes](/help/index/p/8.0.0).
 
 ### {{Group}}
-- {{Group}}s are used to make sets of {{people}} or {{org}}s that you have brought together for some reason: to communicate with, to report on, or to work with. You can create as many {{group}}s as you need and use them in various ways. For more on setting up {{group}}s, please see section [11 {{Group}}s](/help/index/p/11.0.0). 
+- {{Group}}s are used to make sets of {{people}} or {{org}}s that you have brought together for some reason: to communicate with, to report on, or to work with. You can create as many {{group}}s as you need and use them in various ways. For more on setting up {{group}}s, please see section [11 {{Group}}s](/help/index/p/12.0.0). 
 
 ### Tab
 - Most pages in Lamplight are organised into tabs to keep everything tidy. Tabs are like folder dividers in a ring binder. To view the content of a tab, click on its title (see [3.4 Tabs](help/index/p/3.4.0)).
