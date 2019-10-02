@@ -13,13 +13,13 @@ When you open this tab you will see the unlinked records, with all the {{linked 
 ![{{Linked Case}} Tab](9.8.0a.png)
 
 
-If you wish to look at a the details of a {{linked case}}, click on the relevant button. 
+If you wish to look at the details of a {{linked case}}, click on the relevant button. 
 
 ![{{Linked Case}} View](9.8.0b.png)
 
 When you have done this, you will see the {{linked case}} information at the top of the page, with a table showing all records linked to it underneath. 
 
-You can choose the columns that you see in this table by right-clicking on the coloured header. For more on tables in {{Lamplight}}, please see section [3.5.0  Tables](/help/index/p/3.5.0). 
+You can choose the columns that you see in this table by right-clicking on the coloured header. For more on tables in {{Lamplight}}, please see section [3.5.0 Tables](/help/index/p/3.5.0). 
 
 
 ###### core module
