@@ -1,10 +1,10 @@
 # 8.1.0 <i class="fas fa-trophy"></i>  Adding an {{Outcome}}s Record
 
-> There are a number of different places that you can add {{outcomes}} records for your {{user}}s. If you want to open up the whole {{outcome}}s record, you can do this from the main menu, profile or the context menu of a {{work}} record.
+> There are a number of different places that you can add {{outcomes}} records for your {{user}}s. If you want to open the whole {{outcome}}s record, you can do this from the main menu, profile or the context menu of a {{work}} record
 
 
 
-You can open up new {{outcome}} record to edit all the details, add notes and record scores for a number of different measures in one go. Although like all {{activity}} records, {{outcome}}s are stored centrally, you can get to them in a number of different places.
+You can add scores, comments and details for a number of outcome measures in one go. Although like all {{activity}} records, {{outcome}}s are stored centrally, you can get to them in a number of different places.
 
 #### From the Main Menu
 Choose '{{Activity}} -> add new -> {{outcome}}:
