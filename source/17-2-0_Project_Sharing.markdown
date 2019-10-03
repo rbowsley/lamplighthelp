@@ -1,6 +1,6 @@
 # 17.2.0 <i class="fas fa-project-diagram"></i> {{Project}} Sharing
 
-> By default no information is shared between different {{project}}s. {{Project}} sharing allows you to do so. You will need to ask us  to enable {{project}} sharing for you
+> By default, no information is shared between different {{project}}s. {{Project}} sharing allows you to do so. You will need to ask us to enable {{project}} sharing for you
 
 
 
@@ -16,14 +16,14 @@ This sharing is controlled by policies which specify:
 These policies will need to be set up by your System Administrator. 
 
 For more information on setting up policies see:
-- [17.2.1  {{Project}} Sharing: Setting Up {{Activity}} Sharing Policies](/help/index/p/17.2.1). 
-- [17.2.3  {{Project}} Sharing: Setting Up Profile Sharing Policies](/help/index/p/17.2.3).
+- [17.2.1 {{Project}} Sharing: Setting Up {{Activity}} Sharing Policies](/help/index/p/17.2.1). 
+- [17.2.3 {{Project}} Sharing: Setting Up Profile Sharing Policies](/help/index/p/17.2.3).
 
 Once these policies are in place, you need to apply them to particular records. **No information is shared until you explicitly choose to do so.**
 
 For more information on using sharing policies see:
-- [17.2.2  {{Project}} Sharing: Sharing {{Work}} Etc. Records](/help/index/p/17.2.2).
-- [17.2.4  {{Project}} Sharing: Sharing Profiles](/help/index/p/17.2.4). 
+- [17.2.2 {{Project}} Sharing: Sharing {{Work}} Etc. Records](/help/index/p/17.2.2).
+- [17.2.4 {{Project}} Sharing: Sharing Profiles](/help/index/p/17.2.4). 
  
 
 ###### core module
