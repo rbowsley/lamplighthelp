@@ -22,7 +22,7 @@ Your API key is similar to (but not the same as) a username and password that on
 
 ![API Key in Mailchimp](21.2.1a.png)
 
-- Click on  ‘Create a key’ (under ‘Your API keys’). 
+- Click on ‘Create a key’ (under ‘Your API keys’). 
 - Copy this key and open {{Lamplight}}.
 
 ![MailChimp API](225a.PNG)
@@ -38,7 +38,7 @@ Your API key is similar to (but not the same as) a username and password that on
 
 You can also set up your Mailchimp options on this page.
 - Which Mailchimp audience to use with Lamplight?: this will be greyed out as it is set up automatically.
-- Default {{workarea}} to flag Mailchimp campaigns with: this field lets you choose which {{workarea}} Mailchimp emails will be logged against. You can an existing  {{workarea}} and {{subworkarea}} or set up new ones through system admin.
+- Default {{workarea}} to flag Mailchimp campaigns with: this field lets you choose which {{workarea}} Mailchimp emails will be logged against. You can use an existing {{workarea}} and {{subworkarea}} or set up new ones through system admin.
    - It will show up in the {{comm}}s table in a profile.
    - You can use it as a filter when running reports. 
 - Default {{comm}} type to flag campaigns with: choose a {{comm}} type from the drop-down for tagging your Mailchimp communications. The default is 'email'. Again, you could set up a new type of {{comm}} for this in system administration if needed.
