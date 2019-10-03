@@ -79,5 +79,5 @@ Once an {{eval}} has been created, try completing it to ensure everything is dis
 There is no limit to the number of {{eval}}s you can have in {{Lamplight}}. To add more follow the process above (clicking the ‘click to add’ button in the left-hand column).
 
 
-###### eval module
+###### evaluation module
 

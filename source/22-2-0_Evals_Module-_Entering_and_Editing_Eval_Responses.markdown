@@ -33,5 +33,5 @@ You can edit responses once they have been added:
 - Click on save when you have finished.
 
 
-###### eval module
+###### evaluation module
 

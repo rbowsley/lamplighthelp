@@ -39,5 +39,5 @@ Before deleting {{eval}}s, make sure that you have run all the reports you will 
 - A prompt will appear asking for the deletion to be confirmed. If you are sure, click the ‘OK’ button.
 
 
-###### eval module
+###### evaluation module
  

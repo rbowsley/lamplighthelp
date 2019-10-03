@@ -13,5 +13,5 @@ This screen is very similar to viewing {{work}} records or {{outcome}}s: see sec
 If you have added {{people}} or {{org}}s in the 'attendance' tab of the {{eval}} records, you can also view any responses the '{{eval}}s' tab on their profile. 
 
 
-###### eval module
+###### evaluation module
 

@@ -18,5 +18,5 @@ You may also want to add the [evaluations direct module](/help/index/p/23) that 
 If you need to report on one-off data, {{eval}}s can be used as another way of tracking impact on your {{user}}s. See section [8.0.0 {{Outcome}}s](/help/index/p/8.0.0) for a discussion of the difference between {{outcome}}s and {{eval}}s in {{Lamplight}}. 
 
 
-###### eval module
+###### evaluation module
 
