@@ -11,7 +11,7 @@ To set up an attendance-based charge rule:
 
 ![Setting Up an Attendance-based Charge Rule](20.2.4a.png)
 
-Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields. 
+Section [20.2.1 Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields. 
 
 You can set an amount or a percentage for each attendance type. 
    - If you set an amount (e.g. £50) then they will be charged that amount: this is not cumulative from previous rules. 
@@ -24,7 +24,7 @@ You can mix and match fixed amounts and percentages for different attendance typ
 
 When you have finished, click 'save' in the bottom-right hand corner. You will be taken back to the charge settings menu, and you'll see your new rule in the 'charge rules' section.
 
-In general you are likely to want to combine both attendance roles and types: see section [20.2.5  Setting Up an Attendance/Role Based Charge Rule](/help/index/p/20.2.5) for more information. 
+In general you are likely to want to combine both attendance roles and types: see section [20.2.5 Setting Up an Attendance/Role Based Charge Rule](/help/index/p/20.2.5) for more information. 
 
  
 ###### charge module
