@@ -54,7 +54,7 @@ A date-based charge rule calculates an amount based on the date someone booked o
 
 #### {{Group}}-bands Rule
 
-A {{group}}-bands charge rule checks if a {{person}} is a member of a particular {{group}}, and if they are applies the rate specified. You can create charge bands, each based on a different {{group}}. **For example**, you could create an 'unwaged rate' rule. You will need to [set up the {{group}}s](/help/index/p/12) you want to use first.  See [20.2.7 Setting Up a {{Group}}-bands Charge Rule](/help/index/p/20.2.7) for more.
+A {{group}}-bands charge rule checks if a {{person}} is a member of a particular {{group}}, and if they are {{Lamplight}} applies the rate specified. You can create charge bands, each based on a different {{group}}. **For example**, you could create an 'unwaged rate' rule. You will need to [set up the {{group}}s](/help/index/p/12) you want to use first.  See [20.2.7 Setting Up a {{Group}}-bands Charge Rule](/help/index/p/20.2.7) for more.
 
 #### {{Work}} Record Charge Rule
 
