@@ -101,7 +101,7 @@ As you can see in the image above, once you’ve run the table you still have th
 
 #### Do you want translations of terms within your system to be {{project}} specific?
 
-   If you have multiple {{Lamplight}} systems, selecting this option allows you to use different languages for each one. For example, one could be in English, and another in French..
+   If you have multiple {{Lamplight}} systems, selecting this option allows you to use different languages for each one. For example, one could be in English, and another in French.
    
 #### What languages do you want to use?
 
