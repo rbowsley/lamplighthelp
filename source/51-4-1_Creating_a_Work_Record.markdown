@@ -60,7 +60,7 @@ Let’s look through them together.
    As well as an attendance type, every attendee has a role. This means that, for example, someone who both uses services and volunteers can attend in either capacity. Clicking in the ‘role’ column, will display the list of roles. Click the relevant role from the list.
 
    - Anonymous attendees  
-   The box below the attendance table is for recording anonymous attendees. If you didn’t take names at a session you can use this to record the number of {{people}} who were there. Be mindful that, if you use this feature, you will not be able to accurately report on the number of individuals attending across a number of {{work}} records, because you won’t know whether you’re double-counting those anonymous individuals.
+   The box below the attendance table is for recording anonymous attendees. If you didn’t take names at a session you can use this to record the number of {{people}} who were there. Be mindful that, if you use this feature, you will not be able to accurately report on the number of individuals attending across a number of {{work}} records, because you won’t know whether you’re double counting those anonymous individuals.
    
 - **Details**  
 
