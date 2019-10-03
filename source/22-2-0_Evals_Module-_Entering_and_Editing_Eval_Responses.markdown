@@ -12,7 +12,7 @@
 
 ![Adding an {{eval}}](22.2.0b.png)
 
-- The 'when and where' and 'attendance' tabs are the same as those for {{work}} records and {{outcome}}s (see section [7.1.1  When and Where](/help/index//p/7.1.1) and [7.1.2  Adding Attendance Details to a {{Work}} Record](/help/index/p/7.1.2) for more details). 
+- The 'when and where' and 'attendance' tabs are the same as those for {{work}} records and {{outcome}}s (see section [7.1.1 When and Where](/help/index//p/7.1.1) and [7.1.2 Adding Attendance Details to a {{Work}} Record](/help/index/p/7.1.2) for more details). 
 - If you would like your {{eval}}s to be anonymous you can leave the attendance table blank. However, if you do this you will not be able to view the {{eval}} results in that {{user}}'s profile, and when running {{report}}s you will not be able to use any demographics from profiles to inform the report. 
 - The third tab will show title of your {{eval}}. When you click on this, you will see the questions for this {{eval}}:
 
