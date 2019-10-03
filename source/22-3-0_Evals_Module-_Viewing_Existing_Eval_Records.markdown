@@ -8,7 +8,7 @@ To view {{eval}}s records:
 - Go to {{work}}-> view all-> {{eval}}s on the main menu. 
 - A list of completed {{eval}}s will be shown. 
 
-This screen is very similar to viewing {{work}} records or {{outcome}}s: see section [7.3.0  Viewing all {{work}} records](/help/index/p/7.3.0) for more information.
+This screen is very similar to viewing {{work}} records or {{outcome}}s: see section [7.3.0 Viewing all {{work}} records](/help/index/p/7.3.0) for more information.
 
 If you have added {{people}} or {{org}}s in the 'attendance' tab of the {{eval}} records, you can also view any responses the '{{eval}}s' tab on their profile. 
 
