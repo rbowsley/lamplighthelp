@@ -31,7 +31,7 @@ If you want to, you can add {{people}} to the {{waiting list}} as you create it.
    
 You can choose to remove {{people}} automatically from a {{waiting list}} if they are listed on a {{work}} record with a particular {{workarea}} or {{subworkarea}}, or on a {{referral}} record.  
 
-**{{Work}} Record Auto-removal**
+**{{Work}} Record Auto-removal**  
 To activate auto-removal based on a {{work}} record, select the checkbox titled ‘Remove people from {{waiting list}} automatically when they attend a {{work}} record’. 
    
 Choose the {{workarea}} and {{subworkarea}}s to which this applies. You can select more than one {{workarea}} or {{subworkarea}}s, or none at all.  **If you are choosing {{subworkarea}}s be sure to deselect the {{workarea}} associated with it, or Lamplight will continue to apply deselection to the whole {{workarea}}.**
@@ -56,7 +56,7 @@ In the field starting ‘Alert me when…’, select days, weeks, months or year
 
 You can set a target time by which people should have been removed from the {{waiting list}}. 
 
-Once a person has passed this target time they will be shown in red on the {{waiting list}}.  Choose from ‘days, weeks, months, years’ in the drop-down list.  Enter the appropriate number in the text box, as for the previous section.
+Once a person has passed this target time, they will be shown in red on the {{waiting list}}.  Choose from ‘days, weeks, months, years’ in the drop-down list.  Enter the appropriate number in the text box, as for the previous section.
  
 #### {{Project}} Sharing
  
