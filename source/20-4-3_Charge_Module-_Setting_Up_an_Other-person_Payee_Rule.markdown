@@ -1,6 +1,6 @@
 # 20.4.3 Charge Module: Setting Up an Other-person Payee Rule
 
-> An other-person payee rule will allocate an amount to be paid by a third-party, for example, a funder. For example, you may have a contract with a Local Authority that will pay a proportion of the training costs for people living in their are
+> An other-person payee rule will allocate an amount to be paid by a third-party, for example, a funder. For example, you may have a contract with a Local Authority that will pay a proportion of the training costs for people living in their area
 
 
 
@@ -25,7 +25,7 @@ To create the rule, you need to add one or more bands (rows) by clicking on the 
 
 If you want to add several (potential) payees in a single rule, you can click 'add row' to add a subsequent payee. The order is important again: {{Lamplight}} will check and allocate amounts in the order of the table, and if you choose 'no' to 'continue to subsequent payees' it will not check subsequent rows as soon as it has a match for each attendee. 
 
-Alternatively, if you want to use  payees in different combinations for different policies then create them as separate rules, each  with a single payee (row in the table).  
+Alternatively, if you want to use payees in different combinations for different policies then create them as separate rules, each  with a single payee (row in the table).  
 
 ![Charge Attendance to Other People Payee Rule](20.4.3a.png)
 
