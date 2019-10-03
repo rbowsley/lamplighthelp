@@ -1,6 +1,6 @@
 # 20.2.2 Charge Module: Setting Up a Flat-rate Charge Rule
 
-> Flat-rate charge rules let you apply the a single charge to all profiles listed on the {{work}} record
+> Flat-rate charge rules let you apply a single charge to all profiles listed on the {{work}} record
 
 
 
