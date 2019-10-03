@@ -12,7 +12,7 @@ To set up a date-based charge rule:
 
 ![Setting up a date-based charge rule](20.2.6a.png)
 
-- Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields.
+- Section [20.2.1 Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields.
 - You can add several date bands to the rule, each with different settings. The first date band to match will be used.
 - Click on the date (by default today's date) in the first row. 
 - A calendar will appear: select the date you want. 
@@ -21,7 +21,7 @@ To set up a date-based charge rule:
    - 'Date added' is the date this attendance was last updated (when you edit a record it 're-adds' them to the record). For late cancellation fee type rules, you will want to choose 'date added'. 
    - For early-bird discounts, you will want to choose 'date booked'. This is when they were first entered into the attendance table.
 - Once you have completed this field, click the little save button in the cell. 
-- You may optionally also set filters for attendance type and role: again click the cells in the table and choose those that you need.
+- You may optionally also set filters for attendance type and role: again, click the cells in the table and choose those that you need.
 - Finally, add a rate. 
    - If it is a number (for example £10) it will be interpreted as a fixed amount of money.
    - If it is a percentage this will be calculated based on the charge already applied in previous rules. 
