@@ -41,7 +41,7 @@ System Administrators can view restricted profiles.
 If the restriction needs to be lifted and the data subject has been notified that it will be, you can unrestrict the profile. Only System Admins can do this. 
 
 Follow the steps above to find the profile you want to unrestrict in the table. You can either unrestrict it in the table:
-   - Find the {{person}} in the table, and click on the menu button to the left of their name. You can also right click in the table row. 
+   - Find the {{person}} in the table and click on the menu button to the left of their name. You can also right click in the table row. 
    - From the menu, choose 'Unrestrict'.
    
 Or you can open the profile by clicking on their name:
