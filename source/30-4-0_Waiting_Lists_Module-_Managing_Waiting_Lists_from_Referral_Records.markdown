@@ -12,7 +12,7 @@ Towards the bottom of the 'Details' tab, there is an 'Also add this person to a 
 
 When all the details within the {{referral}} record have been completed, click 'save' at the bottom right of any page.
 
-The {{user}} will have be added automatically to the chosen {{waiting list}}.  The date they joined the {{waiting list}} will be the date chosen for the {{referral}} record (in the 'When and where' tab), NOT the date the record was entered into {{Lamplight}}. 
+The {{user}} will have been added automatically to the chosen {{waiting list}}.  The date they joined the {{waiting list}} will be the date chosen for the {{referral}} record (in the 'When and where' tab), NOT the date the record was entered into {{Lamplight}}. 
 
 
 ###### waiting module
