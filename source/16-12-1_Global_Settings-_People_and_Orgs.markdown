@@ -71,7 +71,7 @@
    
    - Names which sound similar but may be spelled differently.  This can help catch typos or different spellings (e.g. Claire, Clare, Clair) but expects English words, so detection of duplicates from other languages may not work as effectively.  This is the default and will generally be the best option.
     - Names which contain other names.  This will search the full names for your new profile name
-	- Identical names.  Will search (non case sensitively) for exactly the same name in your system.
+	- Identical names.  Will search (non case-sensitively) for exactly the same name in your system.
 	
 If you have the ['my user restriction'](/help/index/p/16.12.6) duplicates will still be detected, but operators affected will not be able to resolve it as they won't have access to the existing possible duplicates.
 
