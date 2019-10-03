@@ -8,14 +8,14 @@
 
 When using 2 factor authentication, you don’t enter your Gmail password into Lamplight.  Instead you ask Google to generate a unique password key, just for Lamplight.
 
-- In Gmail, select the menu icon in the top right  (9 small dots). 
+- In Gmail, select the menu icon in the top right (9 small dots). 
 - Select the 'Account' option from the drop-down menu.
 
 ![Google Account](16.11.2a.png)
 
 - Choose ‘Security’ from the left-hand menu.  
 - You’ll see a section titled ‘Signing into Google’. In this section, select ‘App passwords’.  
-- Gmail will ask you to confirm your password, and will take you to a screen to generate a password.
+- Gmail will ask you to confirm your password and will take you to a screen to generate a new password.
 
 ![Google Password Box](16.11.2b.png)
 
