@@ -4,7 +4,7 @@
 
 
 
-System Administrators can create  categories which are added to uploaded files and used to filter library searches. You can add new items and edit and delete old ones at any time.
+System Administrators can create categories which are added to uploaded files and used to filter library searches. You can add new items and edit and delete old ones at any time.
 
 ### Setting Up File Categories
 - Go to ‘admin -> system administration’.
