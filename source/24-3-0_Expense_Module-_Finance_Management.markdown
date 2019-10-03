@@ -1,6 +1,6 @@
 # 24.3.0 Expense Module: Finance Management
 
-> You can access an overview of all costs that you have entered for your {{activity}} records in the 'Finance management' section. This is also where you can marked them as authorised and subsequently paid
+> You can access an overview of all costs that you have entered for your {{activity}} records in the 'Finance management' section. This is also where you can mark them as authorised and subsequently paid
 
 
 
