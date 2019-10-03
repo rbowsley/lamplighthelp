@@ -4,7 +4,7 @@
 
 
 
-When you add a new {{work}} record you will notice the 'Expenses' tab. (For more information on {{work}} records, see [7.1.0  Adding a {{Work}} Record](/help/index/p/7.1.0).
+When you add a new {{work}} record you will notice the 'Expenses' tab. (For more information on {{work}} records, see [7.1.0 Adding a {{Work}} Record](/help/index/p/7.1.0).
 
 To add expenses to your {{work}} record:
 - Open the {{work}} record and click on the 'Expenses' tab.
