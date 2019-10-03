@@ -1,4 +1,4 @@
-# 17.2.3 <i class="fas fa-project-diagram"></i> Setting Up Profile-sharing Policies
+# 17.3.3 <i class="fas fa-project-diagram"></i> Setting Up Profile-sharing Policies
 
 > If you have more than one {{project}} in your system, it is possible to set up policies to dictate which parts of profiles (if any) can be shared, and by whom
 
