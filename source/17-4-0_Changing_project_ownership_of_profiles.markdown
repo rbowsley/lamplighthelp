@@ -1,4 +1,4 @@
-# 17.3.0 <i class="fas fa-project-diagram"></i> Changing {{Project}} Ownership of Profiles
+# 17.4.0 <i class="fas fa-project-diagram"></i> Changing {{Project}} Ownership of Profiles
 
 > If you have more than one {{project}}, each profile is 'owned' by the {{project}} that created it.  You can change which {{project}} owns a profile in the '{{project}} sharing' tab in their profile
 
