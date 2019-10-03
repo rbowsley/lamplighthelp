@@ -1,4 +1,4 @@
-# 7.0.0 {{Work}} Records
+# 7.0.0 <i class="fas fa-hammer"></i> {{Work}} Records
 
 > {{Lamplight}} stores details of the {{work}} you do (services you provide) as {{work}} records
 

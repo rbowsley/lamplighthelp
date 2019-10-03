@@ -1,4 +1,4 @@
-# 11.3.0 Viewing All {{Grant}} Records
+# 11.3.0 <i class="fas fa-money-bill-alt"></i> Viewing All {{Grant}} Records
 
 > You can open a table from the main menu which will show you all the {{grant}} records recorded in {{Lamplight}}. You can also use filters to search for the ones you need
 

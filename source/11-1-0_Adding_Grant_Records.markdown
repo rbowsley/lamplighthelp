@@ -1,4 +1,4 @@
-# 11.1.0 Adding {{Grant}} Records
+# 11.1.0 <i class="fas fa-money-bill-alt"></i> Adding {{Grant}} Records
 
 > As with {{work}} and {{referral}} records, a {{grant}} record can either be added through a profile or by opening a new record via the main menu bar
 

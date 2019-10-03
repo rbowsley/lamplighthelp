@@ -1,4 +1,4 @@
-# 11.0.0 {{Grant}} Records
+# 11.0.0 <i class="fas fa-money-bill-alt"></i> {{Grant}} Records
 
 > {{Grant}} records in Lamplight allow you to record money coming into your organisation
 
