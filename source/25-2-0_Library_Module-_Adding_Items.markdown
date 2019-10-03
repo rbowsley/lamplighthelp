@@ -40,8 +40,8 @@ You can also add records from your system to your library.
 - Go to the record that you are adding. This can either be from the diary, within a profile or via the main menu. 
 - If it is in the diary, click on it, if it is in a table of records click on the context menu button to the left, or right-click directly on the record itself.
 - Choose 'View full details'. 
-- When the record opens, click on the 'Add to library' button on the top right hand corner. 
-- This opens up the same dialogue box as above, allowing you to add a title, message, tags and  a category.  
+- When the record opens, click on the 'Add to library' button on the top right-hand corner. 
+- This opens up the same dialogue box as above, allowing you to add a title, message, tags and a category.  
 
 
 ###### library module
