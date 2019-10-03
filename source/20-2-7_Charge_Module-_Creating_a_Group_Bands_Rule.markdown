@@ -6,7 +6,7 @@
 
 The {{group}} bands rule allows you to charge people based on their membership of a particular auto {{group}}. This will be useful in order to provide an 'unwaged' rate, for example, or to charge based on the turnover of the organisation attending. 
 
-A rule can contain several bands, each based on a {{group}} - you will need to set up the auto {{group}}s you are using first (see section [12.1.0  Creating an Auto{{Group}}](/help/index/p/12.1.0) for details). 
+A rule can contain several bands, each based on a {{group}} - you will need to set up the auto {{group}}s you are using first (see section [12.1.0 Creating an Auto{{Group}}](/help/index/p/12.1.0) for details). 
 - In the 'unwaged' example, you would need a {{group}} that checks for unwaged status. 
 - In the 'turnover' example, you would need one auto {{group}} for each band. The first auto {{group}} would be (for example) 'turnover below £100,000', the second 'turnover between £100,001 and £250,000' and a third 'turnover greater than £250,001'. 
 - When you have created your auto {{group}}s, you can set up the rule. 
@@ -15,12 +15,12 @@ A rule can contain several bands, each based on a {{group}} - you will need to s
 
 - Go to 'admin -> system administration -> Module Administration -> Charge Module -> Manage charge module rules and policies'.
 - Click the 'create a new {{group}} bands charge rule' button. 
-- Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields. (It's likely that you will want to tick the 'Should previous rules apply if there is no match using this rule?' box.) 
+- Section [20.2.1 Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields. (It's likely that you will want to tick the 'Should previous rules apply if there is no match using this rule?' box.) 
 - Click on the first cell of the table to give the band a name. 
 - Click on the second cell ('{{Group}} to check membership of') and select the {{group}} you wish to use from the drop- down list. 
 - In the rate cell, enter a number or a percentage. 
    - Numbers are interpreted as amounts of money. 
-   - Percentages are of any amount calculated by a previous rule. So to charge unwaged attendees a flat £10, regardless of any previous rules, you would enter 10 in the rate box. To charge 20% of the full rate (calculated by previous rules), you would enter 20% in the rate box. 
+   - Percentages are of any amount calculated by a previous rule. To charge unwaged attendees a flat £10, regardless of any previous rules, you would enter 10 in the rate box. To charge 20% of the full rate (calculated by previous rules), you would enter 20% in the rate box. 
    - If you use percentages, this should not be the first rule in a policy. This is because it will have no previous amount to calculate from, so all charges will come out as 0 (as any % of 0 is 0). 
 
 ![A simple {{group}}-bands based charge rule](20.2.7a.png)
