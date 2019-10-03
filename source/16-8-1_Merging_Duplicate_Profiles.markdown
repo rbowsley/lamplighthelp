@@ -6,7 +6,7 @@
 
 ### To Merge Profiles
 - Go to 'admin -> System administration -> Data Management'.
-- Click on  'Find and merge duplicate profiles'.
+- Click on 'Find and merge duplicate profiles'.
 - On this page you can choose what criteria you use to find duplicates, whether it's all or part of a profile name or address.
 
 ![Search for Duplicates By](16.8.1a.png)
@@ -21,7 +21,7 @@
  
 - The source profile (which is the one that will be archived once the profiles are merged) is always the one listed on the right. The destination profile (which is the one which you will keep once the profiles are merged) will always be the one on the left. The data that you see on the left-hand side of the screen once when you are merging sections is the data that will ultimately be kept in the profile for that person.
 
-- Once you've selected the profiles to merge, you will see sections for different types of information. At the bottom of each of these  you will be asked what information you want to keep.  
+- Once you've selected the profiles to merge, you will see sections for different types of information. At the bottom of each of these you will be asked what information you want to keep.  
 
   ![Information to Keep](16.8.1d.png)
 
