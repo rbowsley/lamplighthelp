@@ -24,7 +24,7 @@ We have a few tabs in this system, containing examples of the types of fields yo
 Click the ‘Edit tab’ button to the right. You’ll see we have various fields in which to enter data.
 
    - **Date Field**
-   In our ‘Personal’ tab, the first is a date of birth field. Either click the drop-downs for the day, month and year, or use the calendar icon to the right. If you click on the calendar icon, you can either scroll through the months using the arrows at the top, or click on the month and year and pick a date.
+   In our ‘Personal’ tab, the first is a date of birth field. Either click the dropdowns for the day, month and year, or use the calendar icon to the right. If you click on the calendar icon, you can either scroll through the months using the arrows at the top, or click on the month and year and pick a date.
 
    - **Select Field**
    The second field, ‘Gender’, is a single select field. Click where it says ‘Select’ and choose one of the options by clicking it. If you have a long list, you may need to scroll down.
