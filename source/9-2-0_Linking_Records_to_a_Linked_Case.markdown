@@ -34,7 +34,7 @@ Once a record is linked to a {{linked case}} it appears in the '{{linked case}} 
 
 ### What to Look for If 'Link to {{Linked Case}}' Is Not an Option on the Menu
 
-- If a record is already linked to a {{linked case}}, you cannot link it to another. The 'link to {{linked case}}' option will be disabled (grey text). You will need to remove the link to the existing {{linked case}} first (see section [9.5.0 Removing a Link to a {{Linked Case}}](/help/index//p/9.5.0) ).
+- If a record is already linked to a {{linked case}}, you cannot link it to another. The 'link to {{linked case}}' option will be disabled (grey text). You will need to remove the link to the existing {{linked case}} first (see section [9.5.0 Removing a Link to a {{Linked Case}}](/help/index//p/9.5.0)).
 
 - You also cannot link a record to a {{linked case}} which has been closed. In this instance you will need to re-open the {{linked case}} before you can attach the record. For information on this, (see section [9.7.0 Re-opening a Closed {{Linked Case}}](/help/index//p/9.7.0)).
 
