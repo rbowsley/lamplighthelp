@@ -17,11 +17,11 @@ Fill out the email form as you would normally (for more information on this see 
 
 ![comm invitees](23.3.0a.png)
 
-This has mail-merge fields so that you can add each recipient's URL (if you have set up your campaign to send to invitees individually), the title, start date and end dates for the campaign. Using these options you can send personalised emails to each recipient, inviting them to complete the {{eval}} and giving them a link in the email that will take them straight to it.
+This has mail-merge fields so that you can add each recipient's URL (if you have set up your campaign to send to invitees individually), the title, start date and end dates for the campaign. Using these options, you can send personalised emails to each recipient, inviting them to complete the {{eval}} and giving them a link in the email that will take them straight to it.
 
 When you have finished writing your email, click the 'create/send' button.  Emails will be sent to each recipient (so long as they have an email address saved in their profile, and have not opted out of email communications). 
 
-You will need to make alternative arrangements for anyone without an email address (see section [23.5.0  Working with Existing {{Eval}} Direct Campaigns](/help/index/p/23.5.0) for how to view an existing campaign. When you go in to view, URLs are shown at the bottom of the screen).  Please also note that if you are using the campaign merge fields (for example 'campaign_URL') the invitee list of the campaign must match the recipient list for the email for the merge fields to sync. 
+You will need to make alternative arrangements for anyone without an email address (see section [23.5.0 Working with Existing {{Eval}} Direct Campaigns](/help/index/p/23.5.0) for how to view an existing campaign. When you go to view, URLs are shown at the bottom of the screen).  Please also note that if you are using the campaign merge fields (for example 'campaign_URL') the invitee list of the campaign must match the recipient list for the email for the merge fields to sync. 
 
 
 ###### datadirect module
