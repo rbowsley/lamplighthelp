@@ -1,4 +1,4 @@
-# 16.11.5  <i class="fas fa-envelope-open"></i> Setting Up Outlook Emails With Your Own Server (Not Office 365)
+# 16.11.5  <i class="fas fa-envelope-open"></i> Setting Up Outlook Emails with Your Own Server (Not Office 365)
 
 > Instructions for setting up email in {{Lamplight}} if you have an Outlook account hosted on your own server
 
