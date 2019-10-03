@@ -19,7 +19,7 @@ The options for this tab are:
    
 #### If so, you can specify a custom template for the "unlinked records" button here
 
-   If you have the {{linked case}} tab enabled on profiles (see option above), there is a button above the list of {{linked case}}s that shows all records not included in a {{linked case}}. You can specify what details appear on this button using the codes outlined in the  menu. In the case below we show the number of records on the button:
+   If you have the {{linked case}} tab enabled on profiles (see option above), there is a button above the list of {{linked case}}s that shows all records not included in a {{linked case}}. You can specify what details appear on this button using the codes outlined in the menu. In the case below we show the number of records on the button:
    
    These buttons act as summaries of the {{linked case}}, so these templates can be used if you need to see different information about each at a glance.  When you click on the buttons the full details of the {{linked case}} are loaded and shown.
    
