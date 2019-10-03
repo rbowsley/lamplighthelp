@@ -4,7 +4,7 @@
 
 
 
-With a {{work}} record charge you can specify amounts to charge depending on the {{workarea}}s and {{subworkarea}}s chosen in the record, plus {{staff}} attending and location used. The different aspects of calculations for these rules are cumulative,  so the total charge will be {{workarea}} charges + {{subworkarea}} charges + {{staff}} charges + location charges. If a {{work}} record has a {{workarea}} and two {{subworkarea}}s, and each of these has a charge against them in the rule, the total charge will be the sum of these three (plus {{staff}} and locations). 
+With a {{work}} record charge you can specify amounts to charge depending on the {{workarea}}s and {{subworkarea}}s chosen in the record, plus {{staff}} attending and location used. The different aspects of calculations for these rules are cumulative, so the total charge will be {{workarea}} charges + {{subworkarea}} charges + {{staff}} charges + location charges. If a {{work}} record has a {{workarea}} and two {{subworkarea}}s, and each of these has a charge against them in the rule, the total charge will be the sum of these three (plus {{staff}} and locations). 
 
 Each of these charges is applied to everyone in full. This means that if you are applying a charge for the location or staffing, 100% of this will be charged to each attendee (unless other rules, such as attendance role charge rules, are set up to mitigate this).
 
@@ -15,7 +15,7 @@ Each of these charges is applied to everyone in full. This means that if you are
 
 ![Setting up a {{work}} record charge rule](20.2.8a.png)
 
-- Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields. (It's likely that you will want to tick the 'Should previous rules apply if there is no match using this rule?' box.) 
+- Section [20.2.1 Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields. (It's likely that you will want to tick the 'Should previous rules apply if there is no match using this rule?' box.) 
 
 
 #### {{Workarea}}s and {{Subworkarea}}s
