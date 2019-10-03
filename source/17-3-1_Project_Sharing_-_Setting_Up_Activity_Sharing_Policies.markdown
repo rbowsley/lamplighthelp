@@ -1,4 +1,4 @@
-# 17.2.1 <i class="fas fa-project-diagram"></i> {{Project}} Sharing - Setting Up {{Activity}} Sharing Policies
+# 17.3.1 <i class="fas fa-project-diagram"></i> {{Project}} Sharing - Setting Up {{Activity}} Sharing Policies
 
 > The System Administrator will need to set up {{activity}} sharing policies that determine what information is shared between {{project}}s.
 
