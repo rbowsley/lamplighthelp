@@ -34,7 +34,7 @@ This allows you to view the current members of the {{waiting list}} in a pop-up 
    
 #### Historical view in pop-up
 
-You can use this option to see an historical view which shows the details of all {{people}} and {{org}}s who have been on the list, past and present. Again this table can be downloaded or printed if required.  
+You can use this option to see an historical view which shows the details of all {{people}} and {{org}}s who have been on the list, past and present. Again, this table can be downloaded or printed if required.  
    
 #### Edit
 
