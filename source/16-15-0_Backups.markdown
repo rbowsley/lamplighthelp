@@ -9,7 +9,7 @@ You can request backups of your database at any time. They will be created in My
 To request a download:
 
 - Go to system admin.
-- Find the 'File Transfer' section, and click on 'Request a backup for download'.
+- Find the 'File Transfer' section and click on 'Request a backup for download'.
 
 ![Request a Backup for Download](16.15.0a.png)
 
@@ -19,7 +19,7 @@ The file will be ready in a couple of hours.
 To view a list or download backups, 
 
 - Go to system admin.
-- Find the 'File Transfer' section, and click on 'View recent backups'.
+- Find the 'File Transfer' section and click on 'View recent backups'.
 - Here you will see a list of available backups. Click the one that you would like to download. 
 
 
