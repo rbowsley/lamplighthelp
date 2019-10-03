@@ -10,11 +10,11 @@ When you save a {{work}} record, {{Lamplight}} will look at each {{person}} atte
 
 ### Charge Policies
 
-The very simplest charge rule is a flat-rate rule. This will apply a set amount (for example £50) to everyone listed on a {{work}} record. So if you just charge a flat-rate all the time, that's a good place to start. 
+The very simplest charge rule is a flat-rate rule. This will apply a set amount (for example £50) to everyone listed on a {{work}} record. If you just charge a flat-rate all the time, that's a good place to start. 
 
 ![Flat-Rate Charge Rule](20.1.0b.png)
 
-However, you probably don't want to charge your staff members for attending. So you could create a second rule, a role-based charge rule. This lets you specify how much to charge based on the role of the {{person}} in that particular {{work}} record. You could either specify fixed amounts, or percentages in this rule: 100% for service users and 0% for staff and others. 
+However, you probably don't want to charge your staff members for attending, so you could create a second role-based charge rule. This lets you specify how much to charge based on the role of the {{person}} in that particular {{work}} record. You could either specify fixed amounts, or percentages in this rule: 100% for service users and 0% for staff and others. 
 
 ![Role Based Charge Rule](20.1.0a.png)
 
@@ -22,7 +22,7 @@ You can now combine these two rules in a charge policy, with the flat-rate rule 
 
 ![Summer Outing Charge Policy](20.1.0c.png)
 
-When you apply this policy, {{Lamplight}} will look at each {{person}} listed on the {{work}} record. It will apply the first rule, and charge them £50. It will then apply the second rule: if they are listed as a Service user charge 100% of £50 (i.e. £50), if not charge 0% of £50 (i.e. £0). 
+When you apply this policy, {{Lamplight}} will look at each {{person}} listed on the {{work}} record. It will apply the first rule and charge them £50. It will then apply the second rule: if they are listed as a Service user charge 100% of £50 (i.e. £50), if not charge 0% of £50 (i.e. £0). 
 
 This is a slightly artificial example to demonstrate the idea: this example could be achieved by a single Role base charge rule that specified £50 for the Service user and 0 for the rest.  However, rules can be re-used in several policies, so in some circumstances it would be sensible to split things up as in this example.
 
