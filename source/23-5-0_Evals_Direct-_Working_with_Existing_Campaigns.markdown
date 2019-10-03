@@ -39,7 +39,7 @@ To customise the columns shown in the table:
 - Right click in the header row of the table: this will show you a list of all available columns for your table. 
    - Ticked columns are currently visible in the table, and unticked ones are hidden.  
 - Click on the item you wish to show or hide. 
-- Once you have the table as you want it, you can save it as your default table view. Right click again to bring up the pop-up list, and at the bottom choose 'Save table columns layout'. (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)This only affects you, not any other database operators.
+- Once you have the table as you want it, you can save it as your default table view. Right click again to bring up the pop-up list, and at the bottom choose 'Save table columns layout'. (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.) This only affects you, not any other database operators.
 
 Choose 'Reset table columns layout' to return to the default layout.  
 
@@ -69,11 +69,11 @@ When you have made the changes you want to, click the 'save' button.  They will 
 
 - Delete: deletes the campaign.  You cannot undo this.
 
-You can only delete campaigns that have not had any responses. If you try to delete one that has some replies saved you will receive an error message. 
+You can only delete campaigns that have not had any responses. If you try to delete one that has some replies saved, you will receive an error message. 
 
 If you want to stop an existing campaign, you can edit it to change the 'date to' to the current time and date, which will prevent any more responses. Anyone attempting to respond to it will see an error message. 
 
-- Duplicate record: duplicates the campaign, so that if it is similar to one you are setting up you can alter the details rather then creating one from scratch.
+- Duplicate record: duplicates the campaign, so that if it is similar to one you are setting up you can alter the details rather than creating one from scratch.
 
 - Email all invitees/have responded/not yet responded: takes you to a {{comm}}s page to email these invitees (for more see [23.3.0 Communicating with Invitees of an {{Eval}}s Direct Campaign](/help/index/p/23.3.0)).
 
