@@ -1,6 +1,6 @@
 # 17.2.4 <i class="fas fa-project-diagram"></i> {{Project}} Sharing: Sharing Profiles
 
-> If you have profile-sharing policies you can use them when adding a new profile or in the '{{Project}} sharing' tab
+> If you have profile-sharing policies, you can use them when adding a new profile or in the '{{Project}} sharing' tab
 
 
 If you have {{project}} sharing enabled, then when adding a new profile you will see an additional drop-down box: 'Select {{project}} sharing policy'. You will have to select something from this drop-down, but the default option is always 'No sharing'. Please check directly with your System Administrator if you are unsure about which to use.
