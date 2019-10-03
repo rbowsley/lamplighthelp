@@ -45,7 +45,7 @@ To view the calculated cost of a particular {{work}} record,
 
 - Go to '{{activity}} -> view -> {{work}}' (or other type of {{activity}} record as necessary).
 - Right-click on the coloured header bar at the top of the table. This will give you a list of the available columns for the table. 
-- Click  'Total cost'. This adds the cost column to your table. 
+- Click 'Total cost'. This adds the cost column to your table. 
 - If you would like to include this column in your default view for this table, open the column menu again and click on 'Save table columns layout'.
 - You can follow this same process to view costs in an individual's {{work}} or other {{activity}} profile tabs.
 
