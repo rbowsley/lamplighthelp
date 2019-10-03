@@ -37,7 +37,7 @@ A quick reminder that you may have additional custom fields on any of your tabs 
 
    For a {{referral}} you need have up to three different profiles (which is to say, {{people}} or {{org}}s), attending or involved:
 - The {{user}} being referred (they may already be in the table if you started from their profile)
-- The {{person}} or {{org}} who is referring the {{user}}  (who will attend with the role ‘referrer’.)  Let’s enter in the name of our referrer now.
+- The {{person}} or {{org}} who is referring the {{user}} (who will attend with the role ‘referrer’.)  Let’s enter in the name of our referrer now.
 - Who they are being referred to, which in this case is our {{org}}.
 
    Of course, if you are recording a {{referral}} out, some of these roles will be swapped.  For example, the {{referral}} would come from your organisation, making you the referrer, and the external organisation would be who they are being referred to.  Depending on your system set-up, you may make {{referral}}s from your organisation as a whole, or you may have different departments entered as separate profiles to refer from.  
