@@ -26,7 +26,7 @@ You will see a page where you can click to add a file from your computer:
 You can also add media to records when viewing them.
 
 - Find the record that you would like to add media to in the {{activity}} table.  This can be in the {{person}} or {{org}}'s profile, or in {{activity}}->view->{{work}}.
-- Scroll across the row to find the column called 'Files', and click on it. (If you can't see it initially, right-click on the header row of the table to se available columns, and tick next to 'files'. This will add it to the your table.)
+- Scroll across the row to find the column called 'Files' and click on it. (If you can't see it initially, right-click on the header row of the table to see available columns and tick 'files'. This will add it to your table.)
 - This will bring up a box giving details of the files already attached to the record, and the option to attach more. 
 - Click on the 'Browse' button to find the file that you want, then 'save'.
 
