@@ -31,7 +31,7 @@ Each {{work}} record in the table has a context menu to the left of it. If you c
 #### View full details
 This opens the {{work}} record in a popup window so that you can see all the information on one page.
 #### Edit
-This opens the data entry window where you can change the details of the {{work}}, for example add new attendees or follow-up details. (See section [7.1.0 Adding a {{work}} record](/help/index//p/7.1.0) )
+This opens the data entry window where you can change the details of the {{work}}, for example add new attendees or follow-up details. (See section [7.1.0 Adding a {{work}} record](/help/index//p/7.1.0).)
 #### Duplicate
 You can use this to create an exact copy of the {{work}} record which you can then edit as you like.  This can be useful if you are creating a similar record for a different date.  Be aware this will copy all content, including notes from the 'Details' tab.
 
