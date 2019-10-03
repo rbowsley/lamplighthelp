@@ -1,6 +1,6 @@
 # 20.6.2 Charge Module: Creating Invoices
 
-> You can choose whether to create one invoice at a time from profiles, or to create batch invoices for a number of {{people}} or {{org}}s  at once
+> You can choose whether to create one invoice at a time from profiles, or to create batch invoices for a number of {{people}} or {{org}}s at once
 
 
 
@@ -23,7 +23,7 @@
 
 ![Batch Invoice Information Screen](20.6.2c.png)
 
-- When you are ready, click the 'save' button in the bottom-right hand corner. You will then see a confirmation message, and be able to download a .csv file containing this invoice information, ready to import into your accounting software. 
+- When you are ready, click the 'save' button in the bottom-right hand corner. You will then see a confirmation message and be able to download a .csv file containing this invoice information, ready to import into your accounting software. 
 
 ![Confirmation of Invoice Creation](20.6.2e.png)
 
@@ -37,7 +37,7 @@
 ![Creating Invoices from Profiles](20.6.2f.png)
 
 - This will open a form to where you can add additional invoice information. 
-- When you have finished click 'save'. This creates invoice details as specified, and prepare an export file that you can use to import into your accounting software. {{Lamplight}} does not create printable invoices itself; it is better to do this within your existing accountancy software. 
+- When you have finished click 'save'. This creates invoice details as specified, and prepares an export file that you can use to import into your accounting software. {{Lamplight}} does not create printable invoices itself; it is better to do this within your existing accountancy software. 
 
 
 ###### charge module
