@@ -18,7 +18,7 @@ If a record is being shared, it will look more like this:
 
 This box shows what is being shared and with whom. If you need to change this, you can edit the {{work}} record and select a different option in the sharing drop-down.
 
-If you share a {{work}} record, but have not shared the profiles of those attending.  When someone views the {{work}} record in another {{project}}, they will not see the names of the {{people}}, just blank rows. However, if you have shared both the {{people}} and {{work}} record they will be visible, and the {{work}} record will be listed in the '{{Work}} records' tab of the shared person's profile. 
+If you share a {{work}} record but have not shared the profiles of those attending, when someone views the {{work}} record in another {{project}} the names of the {{people}} will not be shown in the attendance table, just blank rows. However, if you have shared both the {{people}} and {{work}} record they will be visible in the table, and the {{work}} record will also be listed in the '{{Work}} records' tab of each shared person's profile. 
 
 
 ###### core module
