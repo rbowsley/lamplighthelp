@@ -46,7 +46,7 @@ At the very bottom of this page is an option to change how the translation happe
 The literal translator will translate an entire phrase as it appears in {{Lamplight}}.  Each field and label is a "phrase" - for example "How do you want Lamplight to translate phrases?".  You could enter this as a term to translate in the 'Additional translations' box above, and the label would be changed.
 
 ### Keyword translator
-The keywords listed on the translations page will often appear within other phrases (for example "Filter by workarea").  The keyword "workarea" will often need to be translated on it's own within the rest of the phrase. 
+The keywords listed on the translations page will often appear within other phrases (for example "Filter by workarea").  The keyword "workarea" will often need to be translated on its own within the rest of the phrase. 
 
 ### Which translator to use?
 
