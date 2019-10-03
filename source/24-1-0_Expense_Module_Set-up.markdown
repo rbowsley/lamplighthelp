@@ -13,7 +13,7 @@ Settings are added, edited and deleted in the same way.
 ### To Find Cost Status Items and Cost Categories  
 
 - Go to ‘admin -> system administration' and find the 'Module Administration' section.
-- In the 'Expenses Module' box, click on  either 'Cost status items' or 'Cost categories'.
+- In the 'Expenses Module' box, click on either 'Cost status items' or 'Cost categories'.
 
 ![Adding Categories to the Expenses Module](24.1.0c.png)
 
@@ -37,7 +37,7 @@ Settings are added, edited and deleted in the same way.
 
 - Click on the item you no longer need and drag it to the grey box at the bottom which says ‘Drag here to delete’. 
 - The item will appear in the grey box, confirming that it is being deleted. 
-**Please note:** It is not possible to delete a list item that has just been created without first leaving the page. If you see the  ‘Unable to delete item’ error message, click back to the system administration menu then return to the editing page.
+**Please note:** It is not possible to delete a list item that has just been created without first leaving the page. If you see the ‘Unable to delete item’ error message, click back to the system administration menu then return to the editing page.
    
 #### Changing the List Order  
 
@@ -48,7 +48,7 @@ Settings are added, edited and deleted in the same way.
 
 The costs of using locations can also be calculated if hourly rates are already assigned to them. To assign rates:
 
-- Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists', and click on 'Locations'.
+- Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists' and click on 'Locations'.
 - Click ‘add contact details’ under the name of the location.
 
 ![Adding Costs to a Location](24.1.0a.png)
