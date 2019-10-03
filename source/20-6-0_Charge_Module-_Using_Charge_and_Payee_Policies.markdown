@@ -11,7 +11,7 @@ To add charge and payee policies to {{work}} records:
 
 ![Using charge and payee policies](20.6.0a.png)
 
-- If the drop-downs are empty, you will need to create some policies - start at section [22.2.0 Setting Up Rules and Policies](/help/index/p/20.2.0) for help on how to do this. 
+- If the dropdowns are empty, you will need to create some policies - start at section [22.2.0 Setting Up Rules and Policies](/help/index/p/20.2.0) for help on how to do this. 
 - If you can see policies, select the ones you wish to use for this {{work}} record from the dropdowns. 
 - When you save the record {{Lamplight}} will calculate charges for each person listed on the attendance tab, and then determine who will pay them. 
 - When you save the record you will see this information in summary in the attendance table: 
