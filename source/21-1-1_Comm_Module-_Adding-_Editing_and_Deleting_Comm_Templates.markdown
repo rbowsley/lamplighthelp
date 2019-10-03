@@ -1,6 +1,6 @@
 # 21.1.1  {{Comm}} Module: Adding, Editing and Deleting {{Comm}} Templates
 
-> {{Comm}} templates enable you to save frequently-used letters or emails so that you can use them to create new communications quickly and easily
+> {{Comm}} templates enable you to save frequently used letters or emails so that you can use them to create new communications quickly and easily
 
 
 
@@ -74,7 +74,7 @@ It will be inserted where the cursor is placed.  Carry on to complete your new t
 ### HTML Checks
 
 {{Comm}}s composed in {{Lamplight}} are formatted in HTML and it is possible to view them in HTML and run an HTML check.
-It is only recommend to use this if you have an understanding of HTML. 
+We would recommend that you only use this if you have an understanding of HTML. 
 
 ![HTML Checks](21.1.1h.png)
 
