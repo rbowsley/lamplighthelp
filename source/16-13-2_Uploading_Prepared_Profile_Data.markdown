@@ -23,7 +23,7 @@ To upload prepared profile data in a .csv file:
 
 If the upload was successful you will receive confirmation. If it wasn't then your file was too big (over 1MB), or not a csv file. 
 
-On the next page {{Lamplight}} will show you the fields it's been able to match, and to what they have been matched. Check these, scrolling right if needed.  Any fields the system has not been able to match will also be displayed. Check these, correct your spreadsheet as necessary, and restart the upload.
+On the next page {{Lamplight}} will show you the fields it's been able to match and to what they have been matched. Check these, scrolling right if needed.  Any fields the system has not been able to match will also be displayed. Check these, correct your spreadsheet as necessary, and restart the upload.
  
 ![Matched Fields Upload Dialogue](16.13.2a.png)
 
@@ -33,15 +33,15 @@ It is important that all the information is matched to a field. If importing to 
 
 #### Validating data: 
 
-The system will ensure all the data has been checked before uploading, and list any records not imported due to invalid data.  This checks things like mobile phone numbers are valid.  We don't actually recommend using this: it's better to check your data carefully first.
+The system will ensure all the data has been checked before uploading and list any records not imported due to invalid data.  This checks things like mobile phone numbers are valid.  We don't actually recommend using this: it's better to check your data carefully first.
 
 #### Duplicate data
 
-This will check each name and address for duplicates, and skip them if any are found.  As this is non-interactive, we recommend not using this in general, unless you think there are high numbers of duplicates.
+This will check each name and address for duplicates and skip them if any are found.  As this is non-interactive, we recommend not using this in general, unless you think there are high numbers of duplicates.
 
 #### Titles and suffixes 
 
-Choose this and new titles and suffixes will be added to the lists of available ones (be cautious in case of typos).  Again it's better to set up the system with the titles and suffixes you need, and make sure your data matches these.
+Choose this and new titles and suffixes will be added to the lists of available ones (be cautious in case of typos).  Again, it's better to set up the system with the titles and suffixes you need and make sure your data matches these.
 
 #### Overwrite existing records
 
@@ -49,7 +49,7 @@ You can update existing records, instead of creating new ones, using the ID to m
 
 **Update using external system IDs**
 
-If you chose or entered a source of data on the previous screen, then {{Lamplight}} will check if this [source]-[ID] pair has been uploaded previously, and if so it will update the {{Lamplight}} profile with this data.  If the [source]-[ID] pair is not found, it will create a new profile and store the connection.  This means that you can upload data from multiple sources, and any updates later will update {{Lamplight}}, rather than creating duplicates.
+If you chose or entered a source of data on the previous screen, then {{Lamplight}} will check if this [source]-[ID] pair has been uploaded previously, and if so it will update the {{Lamplight}} profile with this data.  If the [source]-[ID] pair is not found, it will create a new profile and store the connection.  This means that you can upload data from multiple sources and any updates later will update {{Lamplight}}, rather than creating duplicates.
 
 **Update using {{Lamplight}} profile ID**
 
