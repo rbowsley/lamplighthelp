@@ -32,7 +32,7 @@ See below for explanations of the different fields:
 
 #### What is the default length of one {{work}} record (minutes)? 
 
-   When entering {{work}} records in {{Lamplight}}, there is a default duration of sixty minutes. This means that when you enter the  start time for a {{work}} record, the end time is automatically set to sixty minutes later (you can always edit this to the actual end time as needed). 
+   When entering {{work}} records in {{Lamplight}}, there is a default duration of sixty minutes. This means that when you enter the start time for a {{work}} record, the end time is automatically set to sixty minutes later (you can always edit this to the actual end time as needed). 
 
    If you usually see clients for a set amount of time that it not sixty minutes, changing this setting will change the amount of data entry you need to do for each {{work}} record. For example, if a typical appointment within your organisation lasts thirty minutes, it makes sense to change this setting to thirty.
 
@@ -81,7 +81,7 @@ See below for explanations of the different fields:
 
    If you have specified essential fields that must be completed when adding profiles, it is not usually possible to create new profiles from within a {{work}}, {{referral}} or {{outcome}} record. This is because profiles created in this way will not have the essential fields completed was you add them.
 
-   Enabling this option will mean that profiles can be created in the attendance table of {{activity}} records even though they will  not have all the essential information completed at that time.
+   Enabling this option will mean that profiles can be created in the attendance table of {{activity}} records even though they will not have all the essential information completed at that time.
 
    If you want to use this option, it is important to remember that you will need to go back to complete the essential information for these profiles once you have finished creating the {{activity}} record.
 
