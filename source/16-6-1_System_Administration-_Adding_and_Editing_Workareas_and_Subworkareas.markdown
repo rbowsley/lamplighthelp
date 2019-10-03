@@ -4,12 +4,12 @@
 
 
 
-{{Workarea}}s and {{subworkarea}}s are managed in a similar way to other lists in system administration (see section [16.6.0  System Administration - Lists](/help/index/p/16.6.0)).
+{{Workarea}}s and {{subworkarea}}s are managed in a similar way to other lists in system administration (see section [16.6.0 System Administration - Lists](/help/index/p/16.6.0)).
 
 ### Things to Consider When Making Changes to {{Workarea}}s
 
 - When a work record is saved, the {{workarea}} and {{subworkarea}}s selected within that record are saved with it.  
-- If you edit the {{workarea}} or {{subworkarea}} in system administration this will change the {{workarea}} or {{subworkarea}} in all the records where the  original one was recorded. For example, if you edit Counselling so that it is now Sports, every record that had a {{workarea}} of Counselling will now have one of Sports.  
+- If you edit the {{workarea}} or {{subworkarea}} in system administration this will change the {{workarea}} or {{subworkarea}} in all the records where the original one was recorded. For example, if you edit Counselling so that it is now Sports, every record that had a {{workarea}} of Counselling will now have one of Sports.  
 - If you edit the name, you will no longer be able to filter or report on the previous {{workarea}}. As in the above example, the list of filters for {{report}}s or {{group}}s will show Sports, not Counselling. 
 - If you delete a {{workarea}} or {{subworkarea}} you will not be able to filter by it for {{report}}s, {{group}}s or when viewing {{activity}} records. However, if you run a report showing all {{work}} then choose to present it by {{workarea}} or {{subworkarea}}, the deleted ones will still be shown in the table (providing there is data recorded to show). (For more on reporting, see [14.0.0 Reporting](/help/index/p/14.0.0), and for {{group}}s see [12.0.0 {{Group}}s](/help/index/p/12.0.0).). 
 - For this reason we suggest not removing work areas until then end of your reporting period.
@@ -26,12 +26,12 @@
 - Double click on this box, and it will become a text box which you can edit. Enter the name of your new {{workarea}} here, then press 'enter' on your keyboard to save. **Do not click outside this box until you have saved as this may cause the system to hang**. If this does happen you will need to leave the page and open it again. 
 - Once you have saved the {{workarea}}, you can create the first {{subworkarea}} for it in the 'double-click to add' box below. You do this in the same way as for the initial {{workarea}} textbox, so remember to press 'enter' to save each time. 
 - Repeat this process to add any {{subworkarea}}s you need. 
-- If the {{workarea}} already exists and you simply want to create a new {{subworkarea}}, find the {{workarea}} in the list. Under the  existing {{subworkarea}}s there is a 'double-click to add' box. The process for adding is the same as described above.
+- If the {{workarea}} already exists and you simply want to create a new {{subworkarea}}, find the {{workarea}} in the list. Under the existing {{subworkarea}}s there is a 'double-click to add' box. The process for adding is the same as described above.
 
 ![Adding a {{Subworkarea}}](16.6.1a.png)
 
 - Always create and save your {{workarea}} so that it appears in bold before adding the {{subworkarea}}s below it. 
-- We would recommend that colours are added to {{workarea}}s after the headings have been entered. To do this,  double-click over 'Background colour' and move the cursor around the colour pad. When you have the colour you would like, press 'save change'.
+- We would recommend that colours are added to {{workarea}}s after the headings have been entered. To do this, double-click over 'Background colour' and move the cursor around the colour pad. When you have the colour you would like, press 'save change'.
 
 ![Adding Colour to a {{Workarea}}](16.6.1b.png)
  

@@ -20,7 +20,7 @@ To set up and view {{report}}s:
 - {{Work}} {{report}}s count the number of {{people}} you've worked with, time taken and attendances (see [14.3 {{Work}} {{Report}}s](/help/index/p/14.3)).
 - {{Outcome}} {{report}}s show the impact of your work, and the average changes that have been seen (see [14.4 {{Outcome}} {{Report}}s](/help/index/p/14.4)).
 - {{Referral}} {{report}}s count and summarise the {{referral}}s that have occurred within any time frame (see [14.5 {{Referral}} {{Report}}s](/help/index/14.5)).
-- {{Linked case}} {{report}}s provide a summary of the records in {{linked case}}s, and allow analysis of open and closed {{linked case}}s within any time period (see [14.6 {{Linked Case}} {{Report}}s](/help/index/p/14.6)).
+- {{Linked case}} {{report}}s provide a summary of the records in {{linked case}}s and allow analysis of open and closed {{linked case}}s within any time period (see [14.6 {{Linked Case}} {{Report}}s](/help/index/p/14.6)).
 - {{Grant}} {{report}}s show summary data on the {{grant}}s you've entered onto {{funder}} profiles (see [14.7 {{Grant}} {{Report}}s](/help/index/p/14.7)). 
   
 ### Module {{Report}}s 

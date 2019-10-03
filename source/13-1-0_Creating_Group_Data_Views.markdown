@@ -11,7 +11,7 @@ To add a new {{group}} data view:
 
 ![Adding a {{group}} data view](111a.png)
 
-There are a number of tabs. Some of the ones you see (for example Evaluations and Communications) will depend on the modules that you have on your system.  Apart from the 'View name' tab, you only need to edit the ones which contain information that you want to include in your data view. 
+There are several tabs. Some of the ones you see (for example Evaluations and Communications) will depend on the modules that you have on your system.  Apart from the 'View name' tab, you only need to edit the ones which contain information that you want to include in your data view. 
   - View name. This is the only tab that you must complete - both the name and description are required fields. When you view the table of data views in the future the name is what you will see, so try and choose something that will remind you and other people what it's for. 
   - Contact details. You can select which contact information you'd like to see. Please note that if you use this {{group}} data view to view a {{group}}, the {{person}}/{{org}}'s name will already appear by default so you won't need to include it in the data view.
   - {{User}} fields, {{Staff}} fields, {{Funder}} fields and {{Contact}} fields. The information in these tabs relates to the fields in the profile tabs of your {{people}}/{{org}}s. The options within these pages will be unique to your system.
@@ -33,7 +33,7 @@ The example above asks for the number of attendances between 20th February 2019 
 
 When you have added all the information you wish to see, click the 'save' button in the bottom-right of any page. 
 
-You can find our more about this in our video, ['How to Create Group Data Views'](help/index/p/52.2.4).
+You can find out more about this in our video, ['How to Create Group Data Views'](help/index/p/52.2.4).
 
 <iframe src="https://player.vimeo.com/video/279244765" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

@@ -21,7 +21,7 @@ You'll need to be a System Administrator to create templates.
 ![{{Work}} {{Report}} Templates](16.9.0c.png)
 
 ### Completing the Template
-- We recommend test your planned {{report}} as a one-off from the main menu first to ensure it is has the filters that you want and is showing appropriate data. You can then  recreate it in the {{report}} templates section. This is because when you complete the template it will save without showing you the {{report}} results. For more on running a {{report}}, see [14.1.0 Running {{Report}}s](/help/index/p/14.1.0).
+- We recommend test your planned {{report}} as a one-off from the main menu first to ensure it has the filters that you want and is showing appropriate data. You can then recreate it in the {{report}} templates section. This is because when you complete the template it will save without showing you the {{report}} results. For more on running a {{report}}, see [14.1.0 Running {{Report}}s](/help/index/p/14.1.0).
 
 - The first page of the template is where you give the {{report}} a name, and a description, so that staff will know what it is designed to do.  We encourage you to be as specific as possible. 
 
@@ -41,7 +41,7 @@ You'll need to be a System Administrator to create templates.
 
 ![{{work}} {{report}} dynamic dates](1215a.png)
 
-- You will see some other dynamic options too, including 'years' and 'months ago'. Whichever of these you choose, {{Lamplight}} will relate this to the date on which you run the report. So if you chose 'Today' as your 'Date to', for example, this {{report}} will always give results up to the day on which you are running it.
+- You will see some other dynamic options too, including 'years' and 'months ago'. Whichever of these you choose, {{Lamplight}} will relate this to the date on which you run the report. If you chose 'Today' as your 'Date to', for example, this {{report}} will always give results up to the day on which you are running it.
 - The additional filters and presentation work as they would for one-off reporting.
 - Once you have set up the filters and presentation, save your {{report}} using the 'save' button at the end of any page.
 - When you use your template to run a {{report}}, you can scroll past all the filters to see the results table at the bottom of the page. However, as all the filters still appear you can also tweak the {{report}}, for example to change the dates slightly, or to show the results in a different way. This will only update the current {{report}} - the template can only be edited through system administration.

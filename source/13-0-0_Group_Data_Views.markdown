@@ -11,12 +11,12 @@ For example, once you have created a {{group}} you may want to be able to view t
 #### A {{Group}} Without a Data View
 ![{{Group}} Without Data View](12.0.0a.png)
 
-#### The Same {{Group}} With a Data View
+#### The Same {{Group}} with a Data View
 ![{{Group}} With a Data View](12.0.0b.png)
 
 {{Group}} data views do not filter the {{people}} in your {{group}}s: they simply add details to these {{group}}s.
 
-It is best not to create {{group}} data views with too much in them.  If you are asking for a lot of information it will need a large table with multiple columns which would be difficult to view.  It takes longer for {{Lamplight}} to process and show the data. It is  better to create a number of smaller {{group}} data views for different purposes.
+It is best not to create {{group}} data views with too much in them.  If you are asking for a lot of information it will need a large table with multiple columns which would be difficult to view.  It takes longer for {{Lamplight}} to process and show the data. It is better to create a number of smaller {{group}} data views for different purposes.
 
 To use the {{group}} data views you have created, see section [13.2.0 Using {{Group}} Data Views in {{Lamplight}}](/help/index/p/13.2.0).
 

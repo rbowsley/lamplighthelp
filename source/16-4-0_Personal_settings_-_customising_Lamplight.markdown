@@ -1,6 +1,6 @@
 # 16.4.0  <i class="fas fa-tools"></i> Personal Settings - Customising {{Lamplight}}
 
-> Each database operator has the ability to customise aspects of {{Lamplight}} to fit their work flow. The changes they make will not affect anyone else
+> Each database operator has the ability to customise aspects of {{Lamplight}} to fit their workflow. The changes they make will not affect anyone else
 
 
 Personal settings can be found at 'admin -> system administration -> Customise {{Lamplight}} -> change my personal settings'. 
@@ -14,7 +14,7 @@ Personal settings can be found at 'admin -> system administration -> Customise {
 - [Decide if you wish to use a {{group}} data view as a summary tab or header bar](/help/index/p/16.4.2). 
 - Change the database colour scheme. 
 - [Choose your preferred view of {{outcome}}s data on profile '{{Outcome}}s' tabs](/help/index/p/16.4.1).
-- Decide how accurately you want to record minutes in records - do you need to-the-minute accuracy, or will 15 minute intervals do?
+- Decide how accurately you want to record minutes in records - do you need to-the-minute accuracy, or will 15-minute intervals do?
 - Choose which {{project}} is the one which opens first when you log in (for multi-{{project}} systems).
 
 Once changes have been made, always click 'Save' in the bottom right hand corner. 

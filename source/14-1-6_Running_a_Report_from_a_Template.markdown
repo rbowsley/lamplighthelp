@@ -11,7 +11,7 @@ If there are {{report}}s that you need to run regularly, your System Administrat
 
 ![{{Report}} Template List](13.1.6a.png)
 
-- Click on the one that you want. This will open up the {{report}} filters page, where you will need to scroll to the bottom to see the {{report}}. 
+- Click on the one that you want. This will open the {{report}} filters page, where you will need to scroll to the bottom to see the {{report}}. 
 
 ![Running a {{Report}} Template](13.1.6b.png)
 
