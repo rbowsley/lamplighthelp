@@ -1,4 +1,4 @@
-# 17.2.4 <i class="fas fa-project-diagram"></i> {{Project}} Sharing: Sharing Profiles
+# 17.3.4 <i class="fas fa-project-diagram"></i> {{Project}} Sharing: Sharing Profiles
 
 > If you have profile-sharing policies, you can use them when adding a new profile or in the '{{Project}} sharing' tab
 
