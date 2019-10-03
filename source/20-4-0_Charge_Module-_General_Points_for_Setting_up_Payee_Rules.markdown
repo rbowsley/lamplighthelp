@@ -7,8 +7,8 @@
 It is not always the {{person}} attending a session who actually pays for it. A payee policy decides who should be charged, taking the total charge calculated by the charge policy and applying it to one or more people or organisations. 
 
 For more on payee policies see:
-- [20.1.0  Overview of Charge Module Rules and Policies](/help/index/v/p/20.1.0).
-- [20.5.0  Creating a Payee Policy](/help/index/p/20.5.0). 
+- [20.1.0 Overview of Charge Module Rules and Policies](/help/index/v/p/20.1.0).
+- [20.5.0 Creating a Payee Policy](/help/index/p/20.5.0). 
 
 Payee policies are made up of payee rules, in a similar way to charge policies being made up of charge rules. 
 
