@@ -33,7 +33,7 @@ A more complicated payee policy might say:
 
 When you create a {{work}} record using these policies, {{Lamplight}} will calculate the amounts and payees, and they will appear on the {{charge}} tab of the relevant profiles, with a summary shown on the {{work}} record. 
 
-By using these policies it is possible that the amount charged for someone attending a session will not be the same as they pay: indeed often the {{person}} attending will not pay anything. In these cases, the 'charge' should be thought of as the total amount paid by all parties (i.e. funders) for that person attending. 
+By using these policies it is possible that the amount charged for someone attending a session will not be the same as they pay: indeed, often the {{person}} attending will not pay anything. In these cases, the 'charge' should be thought of as the total amount paid by all parties (i.e. funders) for that person attending. 
 
 ### Policies are made up of a series of Rules
 
