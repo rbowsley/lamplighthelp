@@ -34,7 +34,7 @@ We’ll save this {{work}} record by clicking ‘Save’ in the bottom-right-han
 
    This tab and its fields are unique to our system, but you may have custom tabs and fields in {{work}} records in yours.
 
-   It consists of a series of check-boxes with which to record the topics we covered. I’ll use this tab for entering details of a volunteer support session, and simply ignore it when recording a different type of {{work}}.
+   It consists of a series of checkboxes with which to record the topics we covered. I’ll use this tab for entering details of a volunteer support session, and simply ignore it when recording a different type of {{work}}.
 
    I’ll complete the tab, and once I’ve finished, I’ll click ‘Save’.
 
