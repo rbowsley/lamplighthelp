@@ -6,11 +6,11 @@
 
 To set up an attendance/role-based charge rule:
 - Go to 'admin -> system administration -> Module Administration -> Charge Module -> Manage charge module rules and policies'. 
-- Click the 'Create new attendance/role based charge rule' button. 
+- Click the 'Create new attendance/role-based charge rule' button. 
 
 ![Setting up an attendance-role based charge rule](20.2.5a.png)
 
-Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields.
+Section [20.2.1 Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields.
 
 Beneath that, the table shows attendance types down the left, and roles along the top. Each cell represents the combination (e.g. '{{user}} that attended'). For each of these you can specify an amount or a percentage. 
    - If you set an amount (e.g. £50) then they will be charged that amount: this is not cumulative from previous rules. 
