@@ -8,7 +8,7 @@
 
 **To see more about creating a new {{comm}}, see [10.1.0 Creating a {{Comm}}](/help/index/p/10.1.0).**  This page shows the additional functionality available with the {{comm}}s module.
 
-When you  get to the 'Message content' tab, you will see some added options in the text editor bar:
+When you get to the 'Message content' tab, you will see some added options in the text editor bar:
 
 ![Mail merge {{comm}}s](21.3.0b.png)
 
@@ -20,7 +20,7 @@ The 'people merge' fields will insert information about the {{people}} that are 
 #### Document Templates
 These are standard letters and emails (or parts of them) which are unique to your organisation, that any database operator can use - simply select the one that you want to use from the menu.  
    
-See section [21.1.1  {{Comm}} Templates](/help/index/p/21.1.1) for more information about document templates and how System Administrators can set them up.
+See section [21.1.1 {{Comm}} Templates](/help/index/p/21.1.1) for more information about document templates and how System Administrators can set them up.
 
 #### {{Activity}} Merge
 If you have started the {{comm} from an {{activity}} record ({{work}}, {{referral}} etc.), you will be able to use the '{{Activity}} merge options.  See [section 21.3.1](/help/index/p/21.3.1) for how to do this.
@@ -32,7 +32,7 @@ Using these fields will insert information from the {{activity}} record that you
   ![Activity Merge](21.3.0d.png)
   
 #### Image Library
-Images for {{comm}}s are saved in their own library (see section [21.1.4  {{Comm}}s Module Image Library](/help/index/p/21.1.4)).  To insert one into your {{comm}}, go to the 'Image library' drop-down box and select the one you want from the menu.  Once you have inserted an image, you can edit it by double-clicking. This will open a window to alter the size and other characteristics. 
+Images for {{comm}}s are saved in their own library (see section [21.1.4 {{Comm}}s Module Image Library](/help/index/p/21.1.4)).  To insert one into your {{comm}}, go to the 'Image library' drop-down box and select the one you want from the menu.  Once you have inserted an image, you can edit it by double-clicking. This will open a window to alter the size and other characteristics. 
 
 ![Image Editing Window in {{Comm}}s](21.3.0e.png)
 
