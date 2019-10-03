@@ -1,4 +1,4 @@
-# 16.11.6  <i class="fas fa-envelope-open"></i> Setting Up Email With Other Common Providers
+# 16.11.6  <i class="fas fa-envelope-open"></i> Setting Up Email with Other Common Providers
 
 > Instructions for setting up email in {{Lamplight}} if you have an account with another provider
 
@@ -12,13 +12,13 @@ You will need SMTP connection settings for your email server in order to send em
 - Ask your IT support if you have it.
 - Ask your email provider - you may find this information in the provider’s help system.  
 
-There are detailed instructions for [Outlook and Gmail](/help/index/p/16.11.0) in this  manual.
+There are detailed instructions for [Outlook and Gmail](/help/index/p/16.11.0) in this manual.
 
 #### What You’ll Need to Know
 
 - The server: e.g. smtp.mail.example.com
 - The SMTP port: e.g. 587
-- The security method : e.g. TLS
+- The security method: e.g. TLS
 - Authentication method: (Normally login)
 - Your username: e.g. me@myemail.com
 - Your email password.
