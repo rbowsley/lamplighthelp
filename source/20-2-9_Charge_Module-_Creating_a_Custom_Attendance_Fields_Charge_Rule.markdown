@@ -13,7 +13,7 @@ To set up a custom attendance fields charge rule:
 
 ![Setting up a custom attendance fields charge rule](20.2.9a.png)
 
-Section [20.2.1  Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields.
+Section [20.2.1 Setting Up Charge Rules - General Points](/help/index/p/20.2.1) explains the 'name' and 'previous rules' fields.
 
 Beneath that you will see a table with the different fields available to use. For each of these you can specify an amount or a percentage to charge. 
    - If you set an amount (e.g. £50) then they will be charged that amount: this is not cumulative from previous rules. 
