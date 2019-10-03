@@ -14,7 +14,7 @@ You can upload any kind of file using the media module, although individual file
 - Word processing (.doc, .docx, .odt, .rtf)
 - Pdfs (.pdf)
 - Spreadsheets (.xls, .xlsx, .ods, .csv)
-- Powerpoint files (.ppt)
+- PowerPoint files (.ppt)
 
 {{Lamplight}} will create thumbnails for images uploaded (in .jpg, .png, or .gif formats). You can also provide links to files elsewhere on the internet, and Lamplight will fetch them.
 - Links to images on Flickr.
