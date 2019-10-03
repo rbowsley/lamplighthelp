@@ -14,7 +14,7 @@ They are not necessarily the total charge incurred from their attendance at a {{
    
    ![Charge Calculations](20.6.1a.png)
 
-   - You can also view the {{work}} record and the invoice (if an invoice has been created) from this same menu (see section [20.6.2  Creating Invoices](/help/index/p/20.6.2) for more information). 
+   - You can also view the {{work}} record and the invoice (if an invoice has been created) from this same menu (see section [20.6.2 Creating Invoices](/help/index/p/20.6.2) for more information). 
    
 ![Viewing the {{Work}} Record and Invoice](20.6.1b.png)
 
