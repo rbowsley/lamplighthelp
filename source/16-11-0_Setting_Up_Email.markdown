@@ -4,7 +4,7 @@
 
 
 
-Lamplight sends emails through your own email servers. This means the sent items will show in your ‘Sent’ email folder, and replies will come to your inbox.  It also means that emails will show as genuinely from you, and are less likely to be marked as spam.
+Lamplight sends emails through your own email servers. This means the sent items will show in your ‘Sent’ email folder, and replies will come to your inbox.  It also means that emails will show as genuinely from you and are less likely to be marked as spam.
 
 You will need to enter your details in System Administration to allow you to send emails. This is a one-off task. 
 
