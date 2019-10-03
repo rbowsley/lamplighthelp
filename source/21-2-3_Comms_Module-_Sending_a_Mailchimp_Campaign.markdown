@@ -10,7 +10,7 @@ Mailchimp has its own wizard system which you can use to set up the layout and c
 
 ### Selecting Your Recipients
 
-- In Mailchimp, go to the  'Campaigns' page (using the menu tab at the top of the page), then click on the ‘Create Campaign’ box to the right.
+- In Mailchimp, go to the 'Campaigns' page (using the menu tab at the top of the page), then click on the ‘Create Campaign’ box to the right.
 - Choose a type of campaign (normally email) and give it a name. Click 'Begin'.
 - In the following screen, choose 'Add recipients'.
 - Choose your audience.  You’ll probably only have one, named for your system which will include all the profiles synced from {{Lamplight}}. Select this.
@@ -24,7 +24,7 @@ A new section will appear below.  In the drop-down:
 
 ![Choosing Send Groups](21.2.3b.png)
 
-If you are sending to more than one {{group}}, make sure that you select ‘one of’ from the second drop-down. If you select ‘all of’ then the campaign will only be sent to people who are in all of the selected lists.
+If you are sending to more than one {{group}}, make sure that you select ‘one of’ from the second drop-down. If you select ‘all of’ then the campaign will only be sent to people who are in all the selected lists.
 
 Continue through the wizard to complete the options for your mailing, then send when ready.  We would advise you to send yourself or a colleague a test email to check how it looks on screen. You can then go back to make changes to the campaign as necessary. 
 
