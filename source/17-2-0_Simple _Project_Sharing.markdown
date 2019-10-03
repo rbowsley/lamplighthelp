@@ -1,4 +1,4 @@
-# 17.2.0 Simple {{Project}} Sharing
+# 17.2.0  <i class="fas fa-project-diagram"></i> Simple {{Project}} Sharing
 
 > With simple {{project}} sharing you can choose which profiles you want to share across the {{project}}s in your system
 
@@ -17,4 +17,4 @@ To change the {{project}}s this profile is shared with, click on the 'edit' butt
 Don't forget to click 'save' when you have finished.
 
 
-##### core module
+###### core module

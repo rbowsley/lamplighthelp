@@ -27,4 +27,4 @@ Once you have a new record, there are 3 tabs which you need to complete.
 You may also see some other tabs on your record. These could be custom tabs, set up to capture information relevant to your organisation, or they could relate to modules that you have in your system. These work in the same way as they do for other record types.
 
 
-##### core module
+###### core module
