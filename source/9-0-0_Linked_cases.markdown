@@ -11,9 +11,9 @@ In most systems that use {{linked case}}s, you'll find their details in the '{{L
 
 !['{{Linked case}} View' tab}}](9.0.0a.png)
 
-They are a way of organising records within {{Lamplight}}, where you can bring together all the records belonging to a particular area the {{person}} or {{org}} is involved in. For example, if you are working with someone on a number of issues, one of which is housing, you could open a {{linked case}} called 'Jordan Lee - housing', and then connect all the {{referral}}, {{work}} and {{outcome}} records to that {{linked case}} so that all the information is visible in one place.
+They are a way of organising records within {{Lamplight}}, where you can bring together all the records belonging to a specific area the {{person}} or {{org}} is involved in. For example, if you are working with someone on several different issues, one of which is housing, you could open a {{linked case}} called 'Jordan Lee - housing', and then connect all the {{referral}}, {{work}} and {{outcome}} records to that {{linked case}} so that all the information is visible in one place.
 
-One person may have several {{linked case}}s, and each {{linked case}} may involve several different people.
+One person may have a number of {{linked case}}s, and each {{linked case}} may involve several different people.
 
 Using {{linked case}}s you can: 
 - Easily see all the records in each {{linked case}}.
