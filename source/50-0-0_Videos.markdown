@@ -4,7 +4,7 @@
 
 
 
-You can browse through all the videos, or if you are new to the system we recommend that you follow the basic training videos in order. You can also browse through specific topics, or choose a particular system admin task to view. 
+You can browse through all the videos, or if you are new to the system, we recommend that you follow the basic training videos in order. You can also browse through specific topics or choose a particular system admin task to view. 
 
 
 ##### No Manual
