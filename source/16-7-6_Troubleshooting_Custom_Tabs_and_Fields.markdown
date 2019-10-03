@@ -33,7 +33,7 @@ Issues happen when the type of information you are recording is changing. For ex
 
    This could be down to a couple of things:
    
-   - When you initially set up a new tab or field, you need to specify which type of profiles it will appear on, and for what roles. So in the dialogue box when you are adding a new tab or field you will see:
+   - When you initially set up a new tab or field, you need to specify which type of profiles it will appear on, and for what roles. In the dialogue box when you are adding a new tab or field you will see:
    
       ![Type of Person and Role in Custom Tabs and Fields](16.7.6a.png)
       
