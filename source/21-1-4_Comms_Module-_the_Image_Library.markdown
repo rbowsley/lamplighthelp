@@ -1,4 +1,4 @@
-# 21.1.4 {{Comm}}s Module: the Image Library
+# 21.1.4 {{Comm}}s Module: The Image Library
 
 > The image library stores images that you can use in your {{comm}}s and {{comm}} templates
 
@@ -18,7 +18,7 @@ These are also the images that will appear on the drop-down 'Image library' menu
 
 
 Click the 'Add library item' button on the left.  A popup window will appear: 
-   - Give the image a name to describe what it is  (for example, organisation logo)
+   - Give the image a name to describe what it is (for example, organisation logo).
    - Browse to where the image is stored on your computer and select it.  
    - Click the 'save' button to add it to the library.
 
