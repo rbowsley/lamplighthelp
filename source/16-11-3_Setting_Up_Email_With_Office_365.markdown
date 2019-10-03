@@ -1,4 +1,4 @@
-# 16.11.3  <i class="fas fa-envelope-open"></i> Setting Up Email With Office 365
+# 16.11.3  <i class="fas fa-envelope-open"></i> Setting Up Email with Office 365
 
 > Instructions for setting up email in {{Lamplight}} if you have an Outlook account
 
