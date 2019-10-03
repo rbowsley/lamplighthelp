@@ -1,4 +1,4 @@
-# 17.2.2 <i class="fas fa-project-diagram"></i> {{Project}} Sharing: Sharing {{Activity}} Records
+# 17.3.2 <i class="fas fa-project-diagram"></i> {{Project}} Sharing: Sharing {{Activity}} Records
 
 > {{Work}}, {{outcome}}, and {{referral}} and other {{activity}} records can be shared between {{project}}s
 
