@@ -17,7 +17,6 @@ Whenever you search for text, you can select how the search should be carried ou
 
 ![Search Options for Addresses in {{Group}}s](11.1.1b.png)
 
-- 
   - Exact match: the phrases must be identical, but it is not case sensitive (so 'hello' matches 'HeLLo').
   - Match anywhere: will match the entire string wherever it occurs (so 'stone lane' matches '15 Stone Lane', and matches '15 Brightstone Lane', but does not match '15 Stonecroft Lane').
   - Starts like: will match any strings that start with the search string (so 'Brighton' will match 'Brighton Villas' but not 'New Brighton').
@@ -32,6 +31,8 @@ Also note that:
 On this tab you can choose to filter by the relationships that are recorded in the profile.  You can create {{auto group}}s of, for example, all the {{people}} who have a relationship of 'key worker', 'GP' or 'trustee' (if these are relationships that you use in your system - you will probably have different options to choose from). 
 
 ![Relationships Link in {{Group}}s](11.1.1c.png)
+
+The option 'Include related profiles as the second profile for each {{group}} member' controls whether the related profiles should appear as the 'second' profiles when viewing and using the {{group}}.  For example, these can be used in {{comm}}s, so that you can include details of both profiles in a single merged {{comm}}.  But you may also want to exclude this possibility.  Tick the box if you do want the linked profiles to appear.
 
 You can also use relationships to another {{auto group}}. For example, you may have already created an {{auto group}} of "All Unemployed Clients". To create another {{auto group}} of the partners of these unemployed {{people}}:
   - Choose the original 'All Unemployed Clients' {{group}} from the 'show only people that are related to members of {{group}}' drop-down.
