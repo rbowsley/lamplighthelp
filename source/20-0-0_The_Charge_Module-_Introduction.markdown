@@ -4,7 +4,7 @@
 
 The Charge Module is about calculating charges for different sessions. There is a great deal of flexibility in how this is done, and the payments due can be split between different {{people}} and {{org}}s. Once payments have been allocated, they can be batched up into invoices which can then be exported as a csv and used for billing and credit control purposes. 
 
-The Charge Module is designed so that it's really quick and easy to use on a day to day basis. This does mean that setting it up takes a little time. All policies are set up by a System or {{Project}} Administrator.
+The Charge Module is designed so that it's quick and easy to use on a day to day basis. This does mean that setting it up takes a little time. All policies are set up by a System or {{Project}} Administrator.
 
 For day-to-day use, when adding a {{work}} record you will see a {{charge}} tab, which lets you choose a charge policy and a payee policy for the record. 
 
