@@ -10,9 +10,9 @@ Search boxes appear in a number of different places in {{Lamplight}}:
 - When creating a merge {{group}}.
 - When finding profiles to delete in system administration.
 
-Wherever you find one, they all behave in the same way - they search for names as you are typing. You will see a drop-down list of matches appear as you start to type in a name:
+Wherever you find one, they all behave in the same way - they search for names as you are typing. You will see a drop-down list of matches appear as you start to type in a name:  
 
-![Search as you type](27a.png)
+![Search as you type](27a.png)  
 
 {{Lamplight}} will search for names that match what has been typed, as well as those that are similar.
 
