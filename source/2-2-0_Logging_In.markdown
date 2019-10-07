@@ -10,6 +10,10 @@ We recommend that you use Mozilla Firefox, Google Chrome or Edge browsers. If yo
 
 Once the page has loaded, enter your username (your email address) and password in the appropriate boxes. The username and password are case sensitive. 
 
+This page also displays the latest Lamplight news, from recent training dates to system updates. It is worth taking a look before you log in. 
+
+![Lamplight Updates on the Login Page](2.2.0c.png)
+
 
 ##### Tags
 Getting started
