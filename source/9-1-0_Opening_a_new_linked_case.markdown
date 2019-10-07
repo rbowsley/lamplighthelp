@@ -1,6 +1,6 @@
 # 9.1.0 <i class="fas fa-link"></i>  Opening a New {{Linked Case}}
 
-> You can create a new {{linked case}} either through the '{{Linked Case}} View' tab in a profile, or as you link a {{work}} or other record to a {{linked case}}
+> You can create a new {{linked case}} either through the '{{Linked Case}} view' tab in a profile, or as you link a {{work}} or other record to a {{linked case}}
 
 ### Opening New {{Linked Case}}s
 
