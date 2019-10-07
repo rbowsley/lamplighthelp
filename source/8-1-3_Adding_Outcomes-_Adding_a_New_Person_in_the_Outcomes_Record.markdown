@@ -1,4 +1,4 @@
-# 8.1.3    Adding {{Outcome}}s: Adding a New {{Person}} in the {{Outcome}}s Record
+# 8.1.3    Adding {{Outcome}}s: Adding a New {{Person}} in the {{Outcome}} Record
 
 > If the {{person}} is not already on {{Lamplight}}, you may be able to add them from the {{outcome}} record
 
