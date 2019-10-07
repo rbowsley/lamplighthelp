@@ -1,6 +1,6 @@
 # 3.1.0 The Main Menu
 
-> The main menu at the top of the screen is the main way to navigate around the system.
+> The main menu at the top of the screen is the main way to navigate around the system
 
 
 
