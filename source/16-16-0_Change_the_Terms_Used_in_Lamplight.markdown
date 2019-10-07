@@ -60,7 +60,7 @@ If you translate literal terms first, then keywords, then {{Lamplight}} will
  - look for a translation for the entire phrase "Filter by workarea" and substitute this with the translated term
  - then filter any remaining keywords.
  
-Keywords are enclosed in double curly braces.
+Keywords are enclosed in double curly brackets.
 
 
 
