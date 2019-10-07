@@ -40,7 +40,7 @@
 There is always one in the top right of the screen. See [3.2.0 The Search Bar](/help/index/p/3.2.0) for more information. 
 
 ### Help
-- This help manual can be found at any time by clicking on the ‘Help’ button to the right of the search box. This contains detailed information on Lamplight’s set-up and how to carry out the processes that you need. 
+- This help manual can be found at any time by clicking on the ‘Help’ button to the right of the search bar. This contains detailed information on Lamplight’s set-up and how to carry out the processes that you need. 
 
 ![Search Bar and Help Button](2.1.0c.PNG)
 
