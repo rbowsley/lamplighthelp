@@ -1,4 +1,4 @@
-# 7.2.0  <i class="fas fa-hammer"></i>  Viewing {{Work}} Records for an Individual: the {{Work}} Records Tab
+# 7.2.0  <i class="fas fa-hammer"></i>  Viewing {{Work}} Records for an Individual: The {{Work}} Records Tab
 
 > The '{{Work}} records' tab shows the {{work}} you've done with a specific {{person}} or {{org}}
 
