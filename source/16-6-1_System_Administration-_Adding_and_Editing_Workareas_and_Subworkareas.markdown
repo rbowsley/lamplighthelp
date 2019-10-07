@@ -1,6 +1,6 @@
 # 16.6.1 System Administration: Adding and Editing {{Workarea}}s and {{Subworkarea}}s
 
-> In system administration there is a list of the {{workarea}}s you have in your system. You can add to and edit these.
+> In system administration there is a list of the {{workarea}}s you have in your system. You can add to and edit these
 
 
 
