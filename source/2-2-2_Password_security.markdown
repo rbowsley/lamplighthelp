@@ -20,6 +20,8 @@ If you're not able to do this, it is worth remembering and implementing the foll
 
 We would also strongly recommend that each time you leave your desk you log off from {{Lamplight}}. This will keep your log in secure and help protect you from any potential 'hot desk' risk. 
 
+![Logout](2.2.2a.png)
+
 Your system administrator can set rules for passwords including their length and the characters that they should contain. For more on this see section [16.5.6 Password Policy](help/index/p/16.5.6).
 
 
