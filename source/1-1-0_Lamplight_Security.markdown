@@ -14,6 +14,8 @@ All services that are not needed on the server are turned off. Remote access use
 
 ### Application Security
 
+![Online Security](1.1.0a.png)
+
 Authorisation and access control across the entire application defaults to ‘no access’ unless you are logged in and have the appropriate permissions. No application code is located in public directories on the server. Passwords are stored securely (not in plain text), but password policy (strength, frequency of changes etc.) are for the customer to decide and adopt.  Repeated login attempts take an increasingly long time to complete.
 
 All data coming into the application are validated and filtered; all data out are escaped, and all forms are ‘salted’ prevent CSRF attacks.  Each customer’s data are stored in a separate database, with separate access for each customer.  Data changes are logged by who made the change and the date and time of the change.
