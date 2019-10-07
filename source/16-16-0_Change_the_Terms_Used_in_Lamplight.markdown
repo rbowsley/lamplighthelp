@@ -36,19 +36,19 @@ If you can't find the term that you want to change in the list at the top of the
  - Again, save your changes at the bottom of the page, then press F5 or Command-R to refresh the system.  
  
  
-### Translator to use
+### Different Translators
 
 At the very bottom of this page is an option to change how the translation happens from the standard terms to your chosen ones.  For English you will almost certainly want to use the default.  If you are translating {{Lamplight}} into another language completely other options may be useful, depending on the language and how it's structured (some languages don't have capital letters, for example).
 
 {{Lamplight}} has been translated into Swahili and Hindi, and can happily store data entered in other languages and glyphs (e.g. Chinese).
 
-### Literal translator
+#### Literal Translator
 The literal translator will translate an entire phrase as it appears in {{Lamplight}}.  Each field and label is a "phrase" - for example "How do you want Lamplight to translate phrases?".  You could enter this as a term to translate in the 'Additional translations' box above, and the label would be changed.
 
-### Keyword translator
+#### Keyword Translator
 The keywords listed on the translations page will often appear within other phrases (for example "Filter by workarea").  The keyword "workarea" will often need to be translated on its own within the rest of the phrase. 
 
-### Which translator to use?
+#### Which Translator to Use?
 
 Take the sample phrase "Filter by workarea".
 
