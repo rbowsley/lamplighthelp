@@ -13,7 +13,7 @@ There are now three ways to add media to the profile:
 
 ![Drag and Drop Image](27.2.1a.png)
 
-2. **Click the 'Add from internet' button** where you can insert a link to online media in the 'web address' box.
+2. **Click the 'Add from internet' button** where you can insert a link to online media in the 'web address' box.  
 3. **Click on the 'Select files' button** and search for files on your computer to upload.
 
 In each of these cases, a dialogue box will open for you to fill in the details of your upload:
