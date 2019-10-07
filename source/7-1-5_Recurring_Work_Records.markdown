@@ -31,7 +31,7 @@ When a single record has been edited it drops out of the group, and can only be 
 
 ![Recurring Edit](219c.png) 
 
-Why not see how this works in practice in our video, ['Recurring Records'](/help/index/p/51.4.3)
+Why not see how this works in practice in our video, ['Recurring Records'](/help/index/p/51.4.3).
 
 <iframe src="https://player.vimeo.com/video/279240685" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
