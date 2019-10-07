@@ -35,7 +35,7 @@ When you create a {{work}} record using these policies, {{Lamplight}} will calcu
 
 By using these policies it is possible that the amount charged for someone attending a session will not be the same as they pay: indeed, often the {{person}} attending will not pay anything. In these cases, the 'charge' should be thought of as the total amount paid by all parties (i.e. funders) for that person attending. 
 
-### Policies are made up of a series of Rules
+### Rules
 
 You set up multiple rules to create a policy and determine the order in which they apply. This is important, as rules will be applied to attendees in the order in which they are listed. For example, if the first rule in a policy charges a {{volunteer}} £10 based on their attendance, no further rules will be processed for that {{volunteer}}.  This is very important to bear in mind as you read through the rest of this help section.
 
