@@ -16,6 +16,8 @@ If you add a custom tab to an {{activity}} record, you will see that at the top 
 
 ![CustomTabs on {{Work}} Record](16.7.0b.png)
 
+If you have a question about your custom tabs and fields, or you are adding them and finding that you have a problem, take a look at our [troubleshooting guide](/help/index/p/16.7.6).
+
 ### Understanding Terminology
 #### Tab 
 
