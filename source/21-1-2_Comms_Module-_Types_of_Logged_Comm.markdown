@@ -15,13 +15,13 @@ If you have the {{Comm}}s Module you can log {{comm}}s in your system. When you 
 - This opens a text box where you can add in the name of the {{comm}} type that you want to add. 
 - Press enter (the return key) on your keyboard to save. 
 
-### Editing a {{Comm}}s Type
+### Editing a {{Comm}} Type
 
 - Double click on the {{comm}} type that you would like to edit.
 - The box will change to a text field where you can make your changes. 
 - Once you have finished editing press ‘Enter’ (the return key on your keyboard) to save it.
 
-### Deleting a {{Comm}}s Type
+### Deleting a {{Comm}} Type
 
 - Drag the list item you would like to delete into the grey ‘Drag here to delete’ box at the bottom of the list. 
 - The {{comm}} type will appear in the grey box, confirming that it is being deleted.

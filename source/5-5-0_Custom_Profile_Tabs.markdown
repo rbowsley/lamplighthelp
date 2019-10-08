@@ -8,6 +8,9 @@
 
 To add or edit more than one field in custom tabs:
 - Click the 'edit' button on the right-hand side of the tab.
+
+![The Edit Button](5.5.0a.png)
+
 - Complete the information.
 - Click the 'save' button at the bottom of the page.  
 
@@ -16,6 +19,8 @@ To add information to, or edit, a single field in a custom tab:
 - Add the required value or edit the field as necessary. 
 - Save your changes. 
 **Please note:** If you are editing more than one field in this way, please remember to click 'save' after each one. It is possible to click into more than one field at a time to make changes, but {{Lamplight}} will only retain the details of the last one you edited. 
+
+![Editing a Single Custom Field in the Profile](5.5.0b.png)
 
 There are a number of different types of field:
 - Select box - select a single option from the list of options.
@@ -32,7 +37,7 @@ There are a number of different types of field:
 
 If the option you need is not there, speak to your System Administrator about what needs to be added. If you have the appropriate permission levels, see section [16.7.2 Adding Custom Tabs and Fields in Profiles](/help/index/p/16.7.2). 
 
-You can editmore than one of the fields in a single tab at the same time. To do this, click on 'Edit tab' to the right of the page. Click on 'Save' at the bottom right of the page when you have finished. 
+You can edit more than one of the fields in a single tab at the same time. To do this, click on 'Edit tab' to the right of the page. Click on 'Save' at the bottom right of the page when you have finished. 
 
 If you would like a demonstration of how this works, you can watch our ['Custom Tabs and Fields in Profiles' video](/help/index/p/51.2.3). 
 

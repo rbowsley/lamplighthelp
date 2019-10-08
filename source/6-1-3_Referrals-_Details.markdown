@@ -8,7 +8,11 @@ There are several fields in this tab.
 
 - 'Referral direction' is where you can record whether it is a {{referral}} out of your organisation, or if you are receiving a {{referral}} in. You may also be able to show other types of referral, depending on the options in the drop-down list. This can be customised by your System Administrator (for more on this see [16.6.0 System Administration - Lists](/help/index/p/16.6.0)).
 
-As you click inside the {{referral}} reason and {{referral}} notes sections, the rich text editor tools appear. See section [3.8.0 Rich text editor](/help/index/p/3.8.0) for more information about using the rich text editor. 
+- As you click inside the {{referral}} reason and {{referral}} notes sections, the rich text editor tools appear. 
+  
+  ![Rich Text Editing Tools](6.1.3a.png)
+  
+  See section [3.8.0 Rich text editor](/help/index/p/3.8.0) for more information about using the rich text editor. 
 
 - The '{{Referral}} reason' is like the headline, and is what will appear in a {{referral}}s table to give you a quick idea of what it is about. 
 - The '{{Referral}} notes' is a place to record any other details that you will need to keep.

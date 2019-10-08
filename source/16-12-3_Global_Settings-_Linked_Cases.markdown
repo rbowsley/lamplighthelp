@@ -2,7 +2,7 @@
 
 > {{Linked case}}s in Lamplight are a way to link different types of work in one place. This tab is where you can turn them on or off, depending on whether you need to use them, and also contains some settings for them
 
-### Do you want to use {{linked case}}s at all?
+#### Do you want to use {{linked case}}s at all?
 {{Linked case}}s in Lamplight are a way to link different pieces of work. A {{linked case}} has a name, description and start and end dates. There are also three types of category that can be used to label {{linked case}}s - you can set these up in system administration. To do this, go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists -> {{Linked Case}}s. (For more on how to add items to a list in system administration, see [16.6.0 System Administration: Lists](/help/index/p/16.0.0).)
 
 Any {{activity}} record or {{comm}} (if you have the {{comm}}s module) can be added to a {{linked case}}, as well as records which relate to different {{workarea}}s.  For more on this see [9.0.0 {{Linked Case}}s](/help/index/p/9.0.0).

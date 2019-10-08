@@ -1,6 +1,6 @@
 # 12.1.3  <i class="fa fa-users"></i> {{Auto group}}s: {{Work}}, {{Referral}} and {{Grant}} Fields
 
-> You can use the information stored in your {{activity}} record fields to search for {{people}} or {{org}}s who taken part in particular activities, or who have donated in a specific timeframe. For example, you could filter for {{user}}s who have attended {{work}} sessions in the last 6 months, or {{funder}}s who have donated over a certain amount in the last year.
+> You can use the information stored in your {{activity}} record fields to search for {{people}} or {{org}}s who have taken part in particular activities, or who have donated in a specific timeframe. For example, {{user}}s who have attended {{work}} sessions in the last 6 months, or {{funder}}s who have donated over a certain amount in the last year
 
 
 

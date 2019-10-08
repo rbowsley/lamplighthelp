@@ -31,7 +31,7 @@ It is important that all the information is matched to a field. If importing to 
 
 ### Options
 
-#### Validating data: 
+#### Validating data 
 
 The system will ensure all the data has been checked before uploading and list any records not imported due to invalid data.  This checks things like mobile phone numbers are valid.  We don't actually recommend using this: it's better to check your data carefully first.
 
@@ -47,11 +47,11 @@ Choose this and new titles and suffixes will be added to the lists of available 
 
 You can update existing records, instead of creating new ones, using the ID to match from.  There are two ways this can be done if you tick this checkbox:
 
-**Update using external system IDs**
+#### Update using external system IDs
 
 If you chose or entered a source of data on the previous screen, then {{Lamplight}} will check if this [source]-[ID] pair has been uploaded previously, and if so it will update the {{Lamplight}} profile with this data.  If the [source]-[ID] pair is not found, it will create a new profile and store the connection.  This means that you can upload data from multiple sources and any updates later will update {{Lamplight}}, rather than creating duplicates.
 
-**Update using {{Lamplight}} profile ID**
+#### Update using {{Lamplight}} profile ID
 
 If you did not select or enter a data source in the previous step, then {{Lamplight}} will treat an ID column in your data file as the {{Lamplight}} profile ID and update it if it exists.
 

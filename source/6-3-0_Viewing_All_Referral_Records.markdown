@@ -18,7 +18,7 @@ If you want to see all the available columns that you can display in the {{refer
 
 ![The {{Referral}} Table Pop-up Menu](6.3.0a.png)
 
-### Saving your View
+### Saving Your View
 
 Once you have finished selecting the columns you want to see, you can save the columns you have at as the default view, so that the next time you look at this table it will be the same. To do that:
 - Right click again on the top coloured header row of the table.

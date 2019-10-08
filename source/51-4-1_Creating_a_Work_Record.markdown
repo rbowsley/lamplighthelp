@@ -6,7 +6,7 @@
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/279240510" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
-### Script
+### Script   
 
 Hello, it’s Max from Lamplight. Welcome to {{Work}} Records, video one of four: Creating a {{Work}} Record.
 
@@ -23,7 +23,8 @@ These first three tabs are found in any system, and you’ll want to populate th
 
 Let’s look through them together.
 
-- **When and Where**
+#### When and Where  
+
    - Date and time  
    Every piece of work has a start and end time, and these will be used to display {{work}} records in the home page diaries. They’ll also be important for reporting purposes.  
    Select your start time, and the end time will automatically change. The default length of {{work}} records has been set by your system administrator, but you can still change the end time manually. Next, set the date. Unless your piece of work runs into the wee hours or includes an overnight stay, the ‘to’ and ‘from’ dates will be the same.
@@ -42,7 +43,7 @@ Let’s look through them together.
    
    When you’ve completed a tab, navigate to the next one either by clicking the tab name at the top, or clicking the ‘Next’ button in the bottom right corner. If you click ‘Next’ to move to a shorter tab, you may need to scroll up to see it.
 
-- **Attendance Tab**
+#### Attendance Tab  
 
    Next is the attendance tab in which we’ll record everyone who attended including {{user}}s, {{staff}}, {{volunteer}}s, and other professionals. This will allow us to look back and see who was involved, and to report on different {{people}}’s involvement. 
    
@@ -62,7 +63,7 @@ Let’s look through them together.
    - Anonymous attendees  
    The box below the attendance table is for recording anonymous attendees. If you didn’t take names at a session you can use this to record the number of {{people}} who were there. Be mindful that, if you use this feature, you will not be able to accurately report on the number of individuals attending across a number of {{work}} records, because you won’t know whether you’re double counting those anonymous individuals.
    
-- **Details**  
+#### Details  
 
    Next is the ‘Details’ tab.
 
@@ -76,7 +77,7 @@ Let’s look through them together.
    - Follow-up  
    The ‘Follow-up’ field is to record what needs to happen following the session. You may not need to use this.
 
-- **Saving**  
+#### Saving  
 
    At this point, you can save your {{work}} record by clicking the ‘Save’ button in the bottom right-hand corner. If you’ve created the record from a profile, as I have, you’ll see it in the table in the ‘{{work}} records’ tab. We’ll look in more detail at this table later in this series.
 

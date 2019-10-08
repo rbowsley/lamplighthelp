@@ -2,7 +2,7 @@
 
 > {{Comm}} roles mean that you can assign different roles to {{people}} and {{org}}s involved in {{comm}}s. These are like roles in {{activity}} record attendance tables, and are used to generate advanced mail merges
 
-### Why use {{comm}} roles
+### Why Use {{Comm}} Roles?
 
 Ordinarily, if you create a mail-merge letter, a copy is created for each recipient listed.  Their details will be substituted into the document wherever you have data placeholders.
 
@@ -13,14 +13,14 @@ Sometimes it is useful to be able to combine data from several profiles into a s
 
 ![{{Comm}} Roles in a {{Comm}}s Record](21.1.3a.png)
 
-### Adding a {{Comm}}s Role
+### Adding a {{Comm}} Role
 
 - Go to 'admin -> system administration -> {{Comm}} Settings' and click on 'Edit {{comm}} roles'.
 - Go to the bottom of the list and click in the 'double click to add’ box. 
 - This opens a text box where you can type in the name of the role you want to add. 
 - Press enter (the return key) on your keyboard to save. 
 
-### Editing a {{Comm}}s Role
+### Editing a {{Comm}} Role
 
 - Double click on the role that you would like to edit.
 - The box will change to a text field. 
@@ -29,7 +29,7 @@ Sometimes it is useful to be able to combine data from several profiles into a s
 
 - Once you have finished editing press ‘Enter’ (the return key on your keyboard) to save it.
 
-### Deleting a {{Comm}}s Role
+### Deleting a {{Comm}} Role
 
 - Drag the list item you would like to delete into the grey ‘Drag here to delete’ box at the bottom of the list. 
 - The role will appear in the grey box, confirming that it is being deleted.

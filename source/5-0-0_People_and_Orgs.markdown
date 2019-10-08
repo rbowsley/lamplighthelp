@@ -6,6 +6,8 @@
 
 {{Lamplight}} holds details of the individuals, {{family}} and {{org}}s that you work with or are involved with in some other way. Each one of these will have its own profile on your system. 
 
+![People on Lamplight](5.0.0a.png)
+
 {{People}} can fall into any of the following categories:
 
   * {{User}}s

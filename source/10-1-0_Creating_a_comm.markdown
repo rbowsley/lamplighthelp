@@ -1,6 +1,6 @@
 # 10.1.0 <i class="fas fa-envelope-open"></i> Creating a {{Comm}}
 
-> You can create a {{comm}} from the main menu: {{activity}} -> {{comm}} -> create. This could be an email, letter or mailing labels.
+> You can create a {{comm}} from the main menu. This could be an email, letter or mailing labels
 
 
 

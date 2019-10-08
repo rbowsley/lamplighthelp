@@ -21,7 +21,7 @@ You will see a page where you can click to add a file from your computer:
 - To add another file, click on the next 'Browse' button down.
 - When you have added all you need, finish editing the work record and click 'save' at the bottom of any page.
 
-### Adding Media when Viewing Records in a table
+### Adding Media when Viewing Records in a Table
 
 You can also add media to records when viewing them.
 
@@ -31,7 +31,7 @@ You can also add media to records when viewing them.
 - Click on the 'Browse' button to find the file that you want, then 'save'.
 
 
-### Adding Media when viewing full details of an {{activity}} record.
+### Adding Media when Viewing Full Details of an {{Activity}} Record
 
 When [viewing full details of an {{activity}} record](/help/index/p/7.2.2), you can add new files.
 

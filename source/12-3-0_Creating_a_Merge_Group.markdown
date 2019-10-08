@@ -29,7 +29,7 @@ How to combine the {{group}}s give you three options:
 - Only include profiles that are in all the {{group}}s in the table. Members of the {{merge group}} have to meet all the criteria of all the component {{group}}s.  This can be useful when you want more criteria than you can specify in a single {{auto group}}.  For example, you may want people who have attended both 'Housing advice' sessions AND 'Benefits advice' sessions this year.  A single {{auto group}} can only do one of those; you will need to create two {{auto group}}s, one for each {{workarea}}, and then the {{merge group}} will find those in both.
 - Only include profiles that are in the first list in the table and are not in any of the others.  Again, this can help you combine criteria when it's not possible in a single {{auto group}}.  For example, you could use this to identify {{people}} who have had a {{referral}} in this year, but not a {{referral}} out.  You need to add your {{group}}s in reverse order on the next tab.
 
-### Selecting the constituent {{group}}s 
+### Selecting the Constituent {{Group}}s 
 
 ![Adding a {{merge group}}](183a.png)
 

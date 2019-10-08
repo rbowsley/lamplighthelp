@@ -6,7 +6,7 @@
 
 It is possible to remove a record from a {{linked case}}. This removes the link, but does not delete the record. Once the link has been taken away, the record will appear back in the 'Unlinked records' section of the '{{Linked case}} view' tab.
 
-### To remove the link:
+To remove the link:
 - Go to the '{{Linked case}} view' tab in the profile.
 - Find the {{linked case}} that the record is currently linked to from the boxes on the left. Click on it to open.
 - Find the record that you want to unlink in the table, then either right click on it or left click on the context menu in the left-hand column of the table.

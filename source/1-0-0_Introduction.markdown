@@ -4,6 +4,8 @@
 
 
 
+![Lamplight Logo](1.0.0a.png)
+
 {{Lamplight}} is a powerful, web-based management system for charities and voluntary sector organisations. It is designed with day-to-day tasks in mind, as well as the reporting required by management and funders. The system is centred around:
 
 - the **{{people}}** you work with
