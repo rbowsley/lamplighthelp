@@ -50,6 +50,7 @@ The top section gives you filters that you can use to narrow down the selection 
 The second search bar is called 'Additional data columns to display'.  This does not filter, but simply adds additional columns to your table.  Clicking here will give you options to display names of different {{people}} or {{org}}s who are listed in the records' attendance tables, as well as other items from the custom fields in your {{work}} records.
 
 #### Custom Field Filters
+
 The final search bar is called 'Custom field filters'. Click on the bar to open it.  This lets you select additional filtering options to narrow down your selection, using details of who attended the {{work}} record and custom fields unique to your organisation.  
 
 **After applying additional filters, click the 'Fetch data' button to show the matching records.**
