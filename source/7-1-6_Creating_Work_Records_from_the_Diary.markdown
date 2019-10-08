@@ -34,16 +34,27 @@ Left-clicking on a {{work}} record in the diary brings up a context menu.
 ![The Diary Context Menu](7.1.6b.PNG)
 
 #### View full details
+
 This will open the record so that you can see all the information recorded in it on one page.
+
 #### Edit
+
 If you click this option you will be able to open the record up to edit it. If this is one of a series of recurring records, hover your mouse over the word 'Edit', and you will also see the option to edit 'all recurring records in the series'.
+
 #### Add me as attending staff
+
 If you click this option you will be added to the attendance table of the {{work}} record with an attendance type of 'Attended' and a role of {{staff}}. If you are already on the attendance table, then clicking this option will not make any change. 
+
 #### Delete
+
 Managers and System Administrators can permanently delete records from the system.
+
 #### Duplicate record
+
 This will create a duplicate of the {{work}} record, which will appear in the diary on the same day and time. You can then click on the new record to edit it. 
+
 #### Add {{outcome}}s
+
 This will open an {{outcome}} record for everyone included in the attendance table. For more on adding {{outcome}} records, see [8.1.0 Adding {{Outcome}}s from the Main Menu Bar](/help/index/p/8.1.0).
 
 

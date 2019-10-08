@@ -21,8 +21,11 @@ To see more or fewer records, use the search bar:
 - Change the details and click the 'fetch data' button and the table will update showing the requested information.  
 
 #### Restrict by date and work area.
+
 You can set filters here so that you only see {{comm}}s records relation to a specific work area, period of time or location. You can also search for records edited by a specific staff member. The final box in this section allows you to show deleted records.
+
 #### Additional data columns to display.
+
 In this section you can add columns to the table to show {{people}} or {{org}}s who were listed in the recipients table of the {{comm}}s records, and for custom fields that you have on your records.
 
 For more help on the tables see [section 3.5.3 to change columns and save layout](/help/index/p/3.5.3) of your table, and [section 3.5.4 to download it](/help/index/p/3.5.4).

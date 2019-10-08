@@ -23,7 +23,8 @@ You can use various methods to download your information in full:
    - Downloading ‘Complete Reponses’ in {{eval}} reports (see [15.2.0 {{Eval}} Reports](/help/index/p/15.2.0)).
    
 #### MySQL back-up
-   You can also download a full copy of your system in MySQL format in the system admin area of Lamplight (see [16.15.0 Backups](/help/index/p/16.15.0)). This is a full (unencrypted) back-up, but not easy to use directly (you can't just open the file and see the data tables). Lamplight could potentially restore your system from this (though this would incur a charge to cater for adjustments), or it can be imported into a MySQL instance of your own.  We encourage you to download this as it gives you options should you need full access in the future, for example, for a safeguarding issue. 
+
+You can also download a full copy of your system in MySQL format in the system admin area of Lamplight (see [16.15.0 Backups](/help/index/p/16.15.0)). This is a full (unencrypted) back-up, but not easy to use directly (you can't just open the file and see the data tables). Lamplight could potentially restore your system from this (though this would incur a charge to cater for adjustments), or it can be imported into a MySQL instance of your own.  We encourage you to download this as it gives you options should you need full access in the future, for example, for a safeguarding issue. 
 
 **Please remember, if you do download a backup file or other personally identifiable data, you will need to make sure that it is properly encrypted and stored securely.**
 

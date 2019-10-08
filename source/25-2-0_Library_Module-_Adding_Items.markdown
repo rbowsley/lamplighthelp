@@ -22,6 +22,7 @@ Complete as many fields as applicable.
 ![Library tag](199b.jpg)
 
 #### Tips
+
  - Do not include the http:// for a web link, for example www.lamplightdb.co.uk/ NOT https://www.lamplightdb.co.uk/.
  - The categories been created by your System Administrator. If you need to discuss these please speak to them directly. 
 

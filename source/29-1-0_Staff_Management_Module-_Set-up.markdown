@@ -69,12 +69,15 @@ In here you will see 3 options:
 ![{{Staff}} Module Global Settings](29.1.0f.png)
 
 #### Show timesheets combined across {{project}}s
+
 If you choose this option, then {{Lamplight}} will take time logged in {{work}} records across all {{project}}s into account rather than just the one that you are in. This is only relevant if you have more than one {{Lamplight}} {{project}}.
 
 #### Include records in timesheet for which {{staff}} had attendance type(s)
+
 You decide whether you only want to include records in the timesheet where {{staff}} have attended, or whether other attendance types should also be taken into account. To pick more than one role press Ctrl and click. 
  
 #### Include records in timesheet for which {{staff}} members had attendance role(s)
+
 This can be useful where a member of {{staff}} may also have other roles, for example as a fund-raiser or {{user}}. You can restrict the records which count to towards the timesheet so that they only relate to times when they are listed as {{staff}}, or you can choose to include all records, regardless of their role, in the timesheet. To pick more than one role press Ctrl and click. 
 
 

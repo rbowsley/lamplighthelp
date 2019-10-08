@@ -19,6 +19,7 @@ If you add a custom tab to an {{activity}} record, you will see that at the top 
 If you have a question about your custom tabs and fields, or you are adding them and finding that you have a problem, take a look at our [troubleshooting guide](/help/index/p/16.7.6).
 
 ### Understanding Terminology
+
 #### Tab 
 
 This is the place where the information will be found. It might be in a profile or added to a {{work}} record (see above).

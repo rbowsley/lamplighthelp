@@ -15,17 +15,21 @@ Find the record that you want to find matches for.  You can find these in the pr
 For the sake of explanation we'll assume that we are looking at {{volunteering opportunity}} records, and seeking {{volunteering application}} records that match.  You can match in the other direction and it works in just the same way.
 
 #### Match on all criteria
+
 This will search for records that are near to the address; have some crossover in availability; and have most interests in common.
 
 #### Match nearby
+
 This will show records in order of distance, but ignore other factors.  Distance is calculated as the crow flies, using the latitude and longitude of the postcodes of the profiles linked to the {{volunteering application}} and {{volunteering opportunity}}.
 
 #### Match by interests
+
 This will show records by how many interests the {{volunteering application}}s have in common with the {{volunteering opportunity}}.
 
 Interests are the category selectors, which by default are labelled 'interests', 'topics', 'requirements', 'ideal for', and 'skills gained' (although these may be different in your system).
 
 #### Match availability
+
 This will only look for records that have some availability overlap.  If start and end dates are specified they will be used, as well as whether there are any time slots shared by the {{volunteering application}} and {{volunteering opportunity}}.  Records with more common time slots will be ranked higher.
 
 

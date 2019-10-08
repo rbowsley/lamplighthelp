@@ -26,21 +26,23 @@ To run a {{grant}} {{report}}:
 ### {{Report}} Presentation
 
 #### Row Data
-  Choose what information you want to be in the rows of the {{report}} from this drop-down box. This includes fields from your {{grant}} records, such as {{workarea}}, {{grant}} type or custom fields, as well as demographic details from the funders' profiles. For example, you might choose to show the information split up by the {{workarea}} it was linked to:
+
+Choose what information you want to be in the rows of the {{report}} from this drop-down box. This includes fields from your {{grant}} records, such as {{workarea}}, {{grant}} type or custom fields, as well as demographic details from the funders' profiles. For example, you might choose to show the information split up by the {{workarea}} it was linked to:
   
   ![{{Grant}} {{Report}} Split by {{Workarea}}](13.7.0b.png)
   
 #### Column Data and Data to Show
-  You can also choose what information to show in your columns. For example, you may want to show how much was received from each {{grant}} type against your different {{workarea}}s. If you do this, you have to decide what type of data the {{report}} is showing:
+
+You can also choose what information to show in your columns. For example, you may want to show how much was received from each {{grant}} type against your different {{workarea}}s. If you do this, you have to decide what type of data the {{report}} is showing:
   - Total value: the combined amount of the {{grant}}s.
   - Mean value: the mean average amount of the {{grant}}.
   - Number of {{grant}}s: how many grants recorded in the time specified.
-  The example below shows total value of {{grant}}s.
+The example below shows total value of {{grant}}s.
   
   ![{{Grant}} {{Report}} Showing {{Workarea}} by {{Grant}} Type and Total Amount](13.7.0c.png)
   
   
-  ###### core module
+###### core module
   
   
 

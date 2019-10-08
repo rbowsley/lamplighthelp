@@ -39,6 +39,7 @@ To add a new {{project}}, right click on any existing {{project}}s in the table,
 Enter the name of the new {{project}} which will distinguish it from any other {{project}}s on your system.  
 
 #### Create {{Project}} Profile
+
 Creating a {{project}} profile will create a new profile in the system with that {{project}} name which will allow you to assign referrals etc. to it.
 
 If you want to have a blank {{project}} so that you can start entirely from scratch simply leave the rest of the options blank and click save. You’ll have created a new {{project}}.
@@ -98,6 +99,7 @@ Be sure to distinguish between custom fields in {{outcome}}s, which are extra fi
 {{Eval}}s can be managed through the ‘Manage {{eval}}s’ settings (for more on this see [22.1.1 {{Eval}}s Module: Editing and Deleting {{Eval}}s](/help/index/p/22.1.1)).   
 
 #### Unsharing Other Fields
+
    There are some fields you won’t be able to unshare yourself. If you ask Lamplight, we’ll be happy to help. These include:
    - {{workarea}}s.
    - locations.

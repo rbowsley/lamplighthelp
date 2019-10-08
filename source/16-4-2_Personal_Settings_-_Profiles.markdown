@@ -12,6 +12,7 @@ There are a number of settings which use {{group}} data views to display informa
 ![Summary Tab](16.4.2a.png)
 
 ### {{Group}} Data View to Use in Heading on Profiles (Default)
+
    When you specify a data view from this dropdown list, {{Lamplight}} will add a header bar to the top of each profile. This shows the information specified in your chosen data view (in this example role, first name, surname and starting date) underneath the profile name. 
  
    ![Header Bar](16.4.2b.png)
@@ -57,11 +58,13 @@ When you have ticked the tabs that you would like to see, you can left click the
    There are 3 different ways to view {{outcome}}s in the ‘{{Outcome}}s‘ profile tab.
    
 #### The Radar Chart
+
 This option gives you a chart which shows you all the {{outcome}}s recorded for a set of measures. You can also add new scores to the chart directly, or to a set of dropdown boxes. 
       
       ![The Radar Chart](16.4.2f.png)
       
 #### Advanced Table
+
 This table has a column for every month each individual {{outcome}} has been measured. You can add another score to a measure in the final column. 
       
       ![The Advanced Table](16.4.2g.png)
@@ -71,6 +74,7 @@ Click on any of the scores in the table to bring up an editing box where you can
       ![Editing in the Advanced Table](16.4.2h.png)
       
 #### Normal Table
+
 Each row of this table shows one time that a measure has been recorded. You can re-order the table by date, category, {{workarea}} or individual measure, depending on the information you are looking for. 
        
       ![The Normal Table](16.4.2i.png)

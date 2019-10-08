@@ -7,6 +7,7 @@
 System Administrators can create categories which are added to uploaded files and used to filter library searches. You can add new items and edit and delete old ones at any time.
 
 ### Setting Up File Categories
+
 - Go to ‘admin -> system administration’.
 - Find the 'Module Administration' section towards the bottom of the page. 
 - In the 'Library Module' box click 'Manage library categories’.
@@ -22,10 +23,12 @@ Existing file categories can be edited from the same screen:
 **Please note:** it is best not to change the meaning of existing categories if they already have library items linked to them. The existing items will remain linked once the category has been edited.  
 
 #### Changing the List Order
+
 - Click on the item in the list that you would like to re-order, then drag and drop it where you need it to go (left-click and hold the button down while you move your cursor to the new position, before releasing). 
 - The other options will adjust to make space for it.
 
 #### Deleting a List Item
+
 - Find the item that you would like to delete in the list. 
 - Drag it to the end of the list and drop it in the grey box labelled ‘Drag here to delete’. 
 

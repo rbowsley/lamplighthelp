@@ -31,9 +31,11 @@ If you use the duration option without a date, {{Lamplight}} will use the latest
 This section relates to the earliest score recorded for the {{outcome}} measure chosen at the top. If there is only one score recorded, then this is what will be filtered on.
 
 #### Earliest {{Outcome}} Score
+
 You can specify here what you would like the earliest score to be using the options in the drop-down box. It could an exact number, at least, up to and including, or between two numbers.
 
 #### {{Workarea}} of Earliest {{Outcome}}
+
 If you want to, you can filter by {{outcome}}s scored against particular {{workarea}}s. This means that people who have a score for that {{outcome}} measure which is recorded against a different {{workarea}} will be excluded from the {{group}}.
 
 ### Latest {{Outcome}}
@@ -49,6 +51,7 @@ Use this filter to find {{people}} whose scores for the {{outcome}} measure have
 Use the boxes here to filter for people whose last recorded {{outcome}} was an exact score, at least a specific score, up to and including the score or between specific scores. If you have added dates at the top of the page, then {{Lamplight}} will filter for the last score in that date range.
 
 #### {{Workarea}} of Latest {{Outcome}}
+
 You can filter by latest {{outcome}}s scored against specific {{workarea}} and {{subworkarea}}s. This means that a {{person}} whose last score is recorded against a different {{workarea}} will be excluded from the {{group}}.
 
 

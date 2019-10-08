@@ -87,6 +87,7 @@ Lamplight can match uploaded data to existing profiles using the ID field (a uni
 This spreadsheet displays the name and profile ID for each profile, making it easier to match the information to be imported to the appropriate profile ID.
 
 #### Adding Profile IDs Manually
+
 Profile IDs can also be added to the spreadsheet manually. They can be found either using the method above or by opening the profile and moving the cursor over the name at the top.
 
 

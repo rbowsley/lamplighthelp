@@ -43,9 +43,11 @@ At the very bottom of this page is an option to change how the translation happe
 {{Lamplight}} has been translated into Swahili and Hindi, and can happily store data entered in other languages and glyphs (e.g. Chinese).
 
 #### Literal Translator
+
 The literal translator will translate an entire phrase as it appears in {{Lamplight}}.  Each field and label is a "phrase" - for example "How do you want Lamplight to translate phrases?".  You could enter this as a term to translate in the 'Additional translations' box above, and the label would be changed.
 
 #### Keyword Translator
+
 The keywords listed on the translations page will often appear within other phrases (for example "Filter by workarea").  The keyword "workarea" will often need to be translated on its own within the rest of the phrase. 
 
 #### Which Translator to Use?

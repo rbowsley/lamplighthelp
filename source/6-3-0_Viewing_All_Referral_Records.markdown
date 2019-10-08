@@ -31,6 +31,7 @@ This will only apply to you, and not the rest of your team. If you would like to
 The search bar above the table gives options to filter which data you are seeing, and to add in some additional columns. 
 
 #### Restrict by Date and Work Area
+
 To restrict the listing to specific dates or {{workarea}}s:
 - Click the search bar or the '+' icon on the right of the search bar.
 - Search options will appear. Change the details and click the 'fetch data' button.
@@ -39,9 +40,11 @@ To restrict the listing to specific dates or {{workarea}}s:
 ![Searching for Specific {{Referral}} Records](1206a.png)
 
 #### Restrict by Custom Fields
+
 Once you have clicked the search bar as above, and the date and work area options are displayed, you will see a further two search bars shown below this.  The first is called 'Custom field filters'.  This lets you select additional filtering options, from the fields inside your {{referral}} record.  Click the 'Fetch data' button to show records matching these filters.
 
 #### Display Additional Columns
+
 The second search bar is called 'Additional data columns to display'.  This does not filter, but simply adds additional columns to your table.  Options here will allow you to display names of different {{person}}s or {{organisation}}s who have attended, as well as other items from your work records.
 
 ### The {{Referral}} Table Context Menus

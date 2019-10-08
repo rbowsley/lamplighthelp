@@ -35,6 +35,7 @@ The profile is now being shared with the public-facing site. Refresh the page by
 The publishing tab within the profile displays the information being shared.   Any alterations to the information being published will need to be done from within the tab where that data sits usually, with the exception of the 'Publish summary' field, which you can double-click to alter and save.
 
 ### To Remove Sharing from a Profile
+
 - In the 'Publishing' tab, find the field 'Currently published (double click to edit)'.
 - Double click over the word 'Yes'.
 - Untick the box.

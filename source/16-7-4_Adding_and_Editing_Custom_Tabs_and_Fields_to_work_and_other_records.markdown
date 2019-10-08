@@ -14,6 +14,7 @@ Each type of record works on the same principle, with the example below being fo
 
 
 ### Adding Fields to a {{Work}} Record
+
 - Go to 'Manage Custom Fields and Drop-down Lists -> {{Work}} Records Custom Tabs and Fields -> Manage custom tabs and fields on {{work}} records'.
 
 You'll see three columns, with the first showing you a list of tabs available on your {{work}} records.  Depending on your set-up you may see one or more of the three standard tabs on the {{work}} record (When and where, Attendance, Details).  This is where you have custom fields added to these tabs. You will not see the standard fields in these tabs.
@@ -42,6 +43,7 @@ Fill in the details of the pop-up box:
 **Important: You must always add at least one field to a tab, to ensure it remains editable and visible in System Administration.  If you do not, you'll have an empty tab in your record which you will be unable to edit.**  
 
 #### Adding Fields (the Middle Column)
+
 When you click on a tab in the left-hand column, the middle column will show you a list of the fields in that tab.
       
 - To add a new field to a tab, click the 'click to add' button at the bottom of the column in the middle box. 
@@ -82,12 +84,14 @@ Repeat this process until you have added all the tabs, fields and options that y
 
 
 ### Editing a Tab
+
 - Select the relevant tab in the left-hand column.
 - In the middle column, double click on the text 'Tab name'.
 - Edit the existing information (as above).
 
 
 ### Editing a Field
+
 - Find the field you wish to edit in the centre column and click on it.  
 - In the right-hand column you will see the field information appear (you may need to scroll up if you have a long list of fields.) 
 - Double click on the non-bold text, where it says 'Field: _name_.'  
@@ -95,26 +99,31 @@ Repeat this process until you have added all the tabs, fields and options that y
 
  
 ### Adding Fields to a Standard System Tab
+
 All records have the tabs 'Where and Where', 'Attendance', (this may be called 'Respondent' or 'Involved' in some cases), and Details.  You can't edit of delete the fields which already exist in these tabs (this can only be done by Lamplight), but you can add additional fields to them by 'creating' them in System Admin.  Create a tab with the correct name as below, (capitalisation is essential), and add fields to it.  
 
 ![System Admin - adding fields to system tabs](1221a.png)
 
 #### {{Work}} records
+
 - When and where
 - Attendance
 - Details
 
 #### {{Outcome}} records
+
 - When and where
 - Respondent (if you have this tab)
 
 #### {{Referral}} records
+
 - When and where
 - Attendance (if you have this tab)
 - Involving (if you have this tab)
 - details
 
 #### {{Grant}} records
+
 - When and where
 - Attendance
 - details

@@ -35,6 +35,7 @@ This is the default option, giving you a sense of turnover and total waiting tim
   - The mean time spent on {{waiting list}} (weekdays): a similar calculation to the one above excluding weekends (but not bank holidays etc.)
 
 #### Weekly showing average size of {{waiting list}}, or Monthly showing average size of {{waiting list}}. 
+
 These two do the same thing, but over different time spans, showing you how demand for your services has varied week-by-week or month-by-month. This {{report}} gives you: 
   - A table listing the different {{waiting list}}s down the side, and the dates (weeks or months) along the top. 
   - Each figure in the table is the average number of {{people}} on the {{waiting list}} each week (or month). {{Lamplight}} calculates these figures by checking how many {{people}} were on the {{waiting list}} each day, and averaging this over the number of days in the week or month. 
@@ -64,6 +65,7 @@ This will include:
   - {{people}} who were added between the two dates and left again.
   
 ### Row Data
+
 If you choose row data, Lamplight will add rows to your results table to show the information by this field. The options you have in the drop-down will depend on the fields in your database. For example, the table below shows the row data by 'gender'. 
 
 ![{{Waiting List}} {{Report}} Rows Gender](14.5.0a.png)

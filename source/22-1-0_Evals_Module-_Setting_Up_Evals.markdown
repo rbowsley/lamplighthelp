@@ -7,6 +7,7 @@
 ### To Set Up a New {{Eval}}
 
 #### Adding an {{Eval}} in System Admin
+
 - Click ‘admin’ in the main menu, then ‘system administration’.
 - Scroll to the bottom 'Module Administration' section, find the '{{Eval}}s Module' box and click on ‘Manage {{eval}} templates’.
 - The structure of this page will be familiar to those who have edited custom fields in profiles or records, and it works in the same way as those pages. The left-hand column shows existing {{eval}}s.
@@ -60,6 +61,7 @@ To make a field mandatory, tick the ‘Is this a required field’ box. This mea
 Click the ‘save’ button when you are done with that field.
 
 #### Adding Options to Select Fields
+
 If the field has a list of options, these must now be added.  Once the question has been saved it will be shown in the column on the right.  Enter the options, each one separated by a semi-colon, into the box at the bottom of the right-hand column. Don’t enter any spaces on either side of the semi-colon.
 
 ![Setting Up Field Options](22.1.0d.png)
@@ -67,6 +69,7 @@ If the field has a list of options, these must now be added.  Once the question 
 Click the ‘Add’ button below. The items will appear in a list above.  This list can be reordered by clicking and dragging.  List items can be deleted individually by clicking on the 'Del' button to the right of them.
 
 #### Adding More Fields
+
 You can continue adding fields using the process above (clicking the ‘click to add’ button in the middle column) until the {{eval}} fields are all in place.
 
 #### Testing Your {{Eval}}  
@@ -76,6 +79,7 @@ Once an {{eval}} has been created, try completing it to ensure everything is dis
 - For more on completing {{eval}} information, please see [22.2.0 Adding and Editing {{Eval}} Responses](/help/index/p/22.2.0).
 
 ### Creating Another {{Eval}}
+
 There is no limit to the number of {{eval}}s you can have in {{Lamplight}}. To add more follow the process above (clicking the ‘click to add’ button in the left-hand column).
 
 

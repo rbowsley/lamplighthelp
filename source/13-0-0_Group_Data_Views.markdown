@@ -9,9 +9,11 @@
 For example, once you have created a {{group}} you may want to be able to view the date each member last attended a session, and their contact details. You can create a {{group}} data view to pull that information from the records in {{Lamplight}} and then show it in table columns next to the names in your {{group}}. 
 
 #### A {{Group}} Without a Data View
+
 ![{{Group}} Without Data View](12.0.0a.png)
 
 #### The Same {{Group}} with a Data View
+
 ![{{Group}} With a Data View](12.0.0b.png)
 
 {{Group}} data views do not filter the {{people}} in your {{group}}s: they simply add details to these {{group}}s.

@@ -9,6 +9,7 @@ The {{outcome}}s {{report}} summarises the changes experienced over time by your
 ### {{Report}} Presentation
 
 #### How to Summarise the Data
+
 There are four options in this drop-down. Each one will give you a different {{report}}.
 
 - ‘Difference between earliest and latest scores’ enables you to report on your {{outcome}} measures, and how they have changed over time. Each {{person}} will need to have had a measure scored at least twice for it to be counted in this {{report}}, as it is showing difference. See [14.4.1 Data Produced When Looking at Change](/help/index/p/14.4.1).
