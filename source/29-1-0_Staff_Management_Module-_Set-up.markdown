@@ -9,7 +9,7 @@ You’ll need to have a System Administrator role to update the list items and o
 
 ### Managing the Staff Hierarchy  
 
-Due to the potentially sensitive nature of the data held within the Staff Management Module (pay details, annual leave etc), {{staff}} profiles are governed by a hierarchy. By default, the only person who can see the staff management information in a profile is the database operator themselves. The hierarchy then allows some people to see (and report) on others. 
+Due to the potentially sensitive nature of the data held within the Staff Management Module (pay details, annual leave etc.), {{staff}} profiles are governed by a hierarchy. By default, the only person who can see the staff management information in a profile is the database operator themselves. The hierarchy then allows some people to see (and report) on others. 
 
 - Go to the 'admin -> system administration'.
 - Toward the bottom of this page is the 'Module Administration' section. In this section find the 'Staff Module' box.
