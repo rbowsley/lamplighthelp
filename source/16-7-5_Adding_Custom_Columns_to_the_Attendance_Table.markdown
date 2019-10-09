@@ -39,7 +39,7 @@ Some of the options shown here will not be relevant to the attendance table.
 - Type: This selects the type of field you will be creating. By default, a new field will be a 'select' field, unless changed. (For types of custom field see [16.7.3 Types of Custom Tab and Field in {{Activity}} Records](/help/index/p/16.7.3). 
 
 
-Reporting is more limited on custom attendance table fields than for normal fields in a {{work}} record.  You can use them to present your {{report}} (as either row or column data) in {{work} {{report}}s, and display them in a person's {{work}} records profile tab, but they can't be used in {{group}}s, and only in data views using a custom template. 
+Reporting is more limited on custom attendance table fields than for normal fields in a {{work}} record.  You can use them to present your {{report}} (as either row or column data) in {{work}} {{report}}s, and display them in a person's {{work}} records profile tab, but they can't be used in {{group}}s, and only in data views using a custom template. 
 
 In addition:
    - Captions and fixed text fields do not work with attendance table columns (even though it is still possible to select them.) If you create these then the attendance table will not display correctly.
