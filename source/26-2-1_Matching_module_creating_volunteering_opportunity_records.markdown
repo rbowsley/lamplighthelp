@@ -14,7 +14,7 @@ The when and where tab is very similar to that for [{{work}} records](/help/inde
  
 ### {{Opportunity provider}} and {{volunteer}}s
 
-You need to specify the {{opportunity provider}} profile initially.  You can also then add any {{volunteer}} profiles that are fulfilling this {{volunteering opportunity}}.  This may well be empty initially, but as you match {{volunteering application}} records the attendance table will grow.
+You need to specify the {{opportunity provider}} profile initially.  You can also then add any {{volunteer}} profiles that are fulfilling this {{volunteering opportunity}}.  This may well be empty initially, but as you pair up {{volunteering application}} records the attendance table will grow.
 
 Search for profiles by starting to type their name in the search boxes, and select the correct one as you see it in the dropdown list.
 
