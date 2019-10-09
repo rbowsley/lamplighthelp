@@ -36,7 +36,7 @@ A role-based rule varies the charge based on the role type selected in the {{wor
 
 #### Attendance/Role Based Rule
 
-Attendance-role based rules are a combination of the two above; amounts or percentages to be charged are based on both attendance and role type.   See [20.2.5 Setting Up an Attendance/Role-based Charge Rule](/help/index/p/20.2.5) for more.
+Attendance-role based rules are a combination of the two above; amounts or percentages to be charged are based on both attendance and role type. See [20.2.5 Setting Up an Attendance/Role-based Charge Rule](/help/index/p/20.2.5) for more.
 
 **For example**, "charge Service Users who attended £60; Always charge staff and volunteers £0; and charge Cancellations £10" would use an Attendance/Role based rule.  You usually combine rules from the above two rules into one of these.
 
