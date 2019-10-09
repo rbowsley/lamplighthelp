@@ -8,7 +8,7 @@ These options relate to how you view your activities records in {{Lamplight}}, a
 
 ### Date From Type (Earliest Date) and Date From (Value)
 
-   Use these drop-downs to select how far back you would like to show records by default when you open a records table (for example {{activity}}>view>{{work}}). You could decide that you would always like to see all records from two years ago or less – so you would choose a ‘date from’ type of years, and the ‘date from’ value of -2. The date from value should always be a minus (-), as it is in the past.
+   Use these dropdowns to select how far back you would like to show records by default when you open a records table (for example {{activity}}>view>{{work}}). You could decide that you would always like to see all records from two years ago or less – so you would choose a ‘date from’ type of years, and the ‘date from’ value of -2. The date from value should always be a minus (-), as it is in the past.
 
    ![Date Values](16.4.3a.png)
 
@@ -18,7 +18,7 @@ These options relate to how you view your activities records in {{Lamplight}}, a
 
 ### Number of Minutes Between Options on Date-time Dropdowns
 
-   This option allows you to specify how precisely you would like to be able to record minutes in {{work}} and other records. You can choose to be able to record timings exactly to the minute, if it is important to be specific about the amounts of time taken, in 5 minute chunks (so you would only see the options 5,10,15,20 etc. on the drop-down), then in increasing lengths of time – 10,15,20,30 and 60 minute intervals. If you choose 60 minutes, for example, then you would only be able to record the amount of time taken to the nearest hour, and every record would show as starting on the hour.
+   This option allows you to specify how precisely you would like to be able to record minutes in {{work}} and other records. You can choose to be able to record timings exactly to the minute, if it is important to be specific about the amounts of time taken, in 5 minute chunks (so you would only see the options 5,10,15,20 etc. on the dropdown), then in increasing lengths of time – 10,15,20,30 and 60 minute intervals. If you choose 60 minutes, for example, then you would only be able to record the amount of time taken to the nearest hour, and every record would show as starting on the hour.
 
 ### Always Add You to the Attendance Table on {{Work}} Records?
 
