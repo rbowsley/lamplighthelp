@@ -3,7 +3,7 @@
 > As with {{work}} and {{referral}} records, a {{grant}} record can either be added through a profile or by opening a new record via the main menu bar
 
 There are two places that you can open a new record from. 
-- If your {{grant}} record relates to a single {{org}} or person, it is easiest to open their profile in {{Lamplight}}, click on the  '{{Grant}}s' tab to open it, then click 'Add' on the right-hand side of that page. 
+- If your {{grant}} record relates to a single {{org}} or person, it is easiest to open their profile in {{Lamplight}}, click on the '{{Grant}}s' tab to open it, then click 'Add' on the right-hand side of that page. 
 - You can also open a new record by choosing 'activity -> add new -> {{grant}}' from the main menu.
 
 Once you have a new record, there are 3 tabs which you need to complete.
