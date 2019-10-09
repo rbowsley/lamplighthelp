@@ -1,6 +1,6 @@
 # 8.1.0 <i class="fas fa-trophy"></i>  Adding an {{Outcome}}s Record
 
-> There are a number of different places that you can add {{outcomes}} records for your {{user}}s. If you want to open the whole {{outcome}}s record, you can do this from the main menu, profile or the context menu of a {{work}} record
+> There are a number of different places that you can add {{outcome}} records for your {{user}}s. If you want to open the whole {{outcome}}s record, you can do this from the main menu, profile or the context menu of a {{work}} record
 
 
 
