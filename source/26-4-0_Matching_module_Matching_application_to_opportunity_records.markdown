@@ -4,7 +4,7 @@
 
 {{Volunteering application}} and {{volunteering opportunity}} records each have a location; times (availability); and some categorisation about what they involve.  These characteristics can be used to find appropriate matches from one to the other.
 
-You can match {{volunteering application}}s to {{volunteering opportunity}} records; or the other way round.  {{Lamplight}} will calculate an overall match score and show you the best matches in order.
+You can pair {{volunteering application}}s to {{volunteering opportunity}} records; or the other way round.  {{Lamplight}} will calculate an overall match score and show you the best matches in order.
 
 ### How to match
 
