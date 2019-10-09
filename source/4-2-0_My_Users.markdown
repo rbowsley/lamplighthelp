@@ -19,7 +19,7 @@ Once the tab is visible and a relationship has been created, you can use the tab
  - Reverse - allows you to reverse the relationship (so if you have a manager/staff relationship, for example - this allows you to switch which person in the manager, and which the staff member).
  - Close relationship - removes the relationship from the list, but not from the system.
  - Communicate - opens a new {{comm}} page where you can send an email, text or write a letter (you will only see this if you have the {{Comm}}s Module).
- - Copy address from.... - It is unlikely that you will need to use this when looking in the My {{user}}s tab, as choosing this option  will copy the address details of this {{user}}, {{contact}} or {{funder}} into the Contact Details tab on your own profile, replacing your current details. It is not possible to undo this action. 
+ - Copy address from.... - It is unlikely that you will need to use this when looking in the My {{user}}s tab, as choosing this option will copy the address details of this {{user}}, {{contact}} or {{funder}} into the Contact Details tab on your own profile, replacing your current details. It is not possible to undo this action. 
  
 You can also customise what columns you see in the table in the 'My {{user}}s' tab using a {{group}} data view. For more on using data views in this way, see [16.4.2 Personal Settings - Profiles](/help/index/p/16.4.2).
 
