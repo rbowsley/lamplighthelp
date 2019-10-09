@@ -12,7 +12,7 @@ Please note, the system administration page has been updated since this video wa
 
 ![Adding {{Workarea}}s](52.1.2a.png)
 
-<iframe title="Adding {{Workarea}}s and {Subworkarea}}s width="640" height="564" src="https://player.vimeo.com/video/279248052" data-video-display="home" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+<iframe title="Adding {{Workarea}}s and {{Subworkarea}}s" width="640" height="564" src="https://player.vimeo.com/video/279248052" data-video-display="home" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 
 ##### No Manual
