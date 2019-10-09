@@ -6,7 +6,7 @@
 
 ### Creating {{Comm}}s
 
-**To see more about creating a new {{comm}}, see [10.1.0 Creating a {{Comm}}](/help/index/p/10.1.0).**  This page shows the additional functionality available with the {{comm}}s module.
+**To see more about creating a new {{comm}}, see [10.1.0 Creating a {{Comm}}](/help/index/p/10.1.0).** This page shows the additional functionality available with the {{comm}}s module.
 
 When you get to the 'Message content' tab, you will see some added options in the text editor bar:
 
