@@ -1,6 +1,6 @@
 # 16.6.0  <i class="fa fa-cogs"></i>  System Administration - Lists
 
-> Managing drop-down lists in system administration allows you to add, edit and delete {{work area}}s, {{outcomes}}, {{case}} categories, relationship types and {{referral}} success categories
+> Managing drop-down lists in system administration allows you to add, edit and delete {{workarea}}s, {{outcome}}s, {{linked case}} categories, relationship types and {{referral}} success categories
 
 
 
