@@ -12,7 +12,7 @@ Choose '{{Activity}} -> add new -> {{outcome}}:
 
 ![Adding an {{Outcome}} from the Main Menu](8.1.0a.png)
 
-#### In the **'{{Outcome}}s' Tab of a Profile
+#### In the '{{Outcome}}s' Tab of a Profile
 
 Click on the 'Add' button on the right of the page:
 
