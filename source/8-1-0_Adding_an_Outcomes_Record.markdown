@@ -20,7 +20,7 @@ Click on the 'Add' button on the right of the page:
 
 #### In a {{Work}} Record Context Menu
 
-Choose 'Add {{outcome}}s'(for more on {{work}} record context menus see [7.2.0 Viewing {{Work}} Records for an Individual](/help/index/p/7.2.0) and [7.3.0 Viewing All {{Work}} Records](/help/index/p/7.3.0)): 
+Choose 'Add {{outcome}}s' (for more on {{work}} record context menus see [7.2.0 Viewing {{Work}} Records for an Individual](/help/index/p/7.2.0) and [7.3.0 Viewing All {{Work}} Records](/help/index/p/7.3.0)): 
 
 ![Adding an {{Outcome}} from the {{Work}} Record Context Menu](8.1.0c.png)
 
