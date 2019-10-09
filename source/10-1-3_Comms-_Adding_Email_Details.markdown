@@ -6,6 +6,8 @@
 
 If you are sending emails, you will need to complete the email details tab.  
 
+![The Email Details Tab](10.1.3a.png)
+
 ### Subject Line
 
 Enter the subject line for your email.
