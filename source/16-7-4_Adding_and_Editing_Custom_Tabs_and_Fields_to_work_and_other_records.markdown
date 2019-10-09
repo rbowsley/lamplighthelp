@@ -70,7 +70,7 @@ The third panel will update showing the information added.
 
 #### Setting Options
    
-In the right column, you’ll now see the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see.   If you can enter options you’ll see a ‘click to add’ button, and a text box.
+In the right column, you’ll now see the name, and type of field, and if access to it is restricted.  If it’s a field that requires no options, such as ‘Date of Birth’ then that’s all you’ll see. If you can enter options you’ll see a ‘click to add’ button, and a text box.
 
 The easiest way to enter your options is using the text box at the bottom of the column. Type or paste your options in here, separated by semi-colons (no spaces), then click the 'Add' button below the box to save. 
 
