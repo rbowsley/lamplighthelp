@@ -6,6 +6,8 @@
 
 {{Group}} data views are useful for viewing information about {{people}} and organisations in a number of different places in your system.
 
+![Data View Table](13.2.0a.png)
+
 The following pages give instructions about some of these:
 
 - [13.2.1 View {{Group}} Members Using {{Group}} Data Views](/help/index/p/13.2.1).
