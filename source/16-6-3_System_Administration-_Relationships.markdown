@@ -26,7 +26,7 @@ If you decide to link records, then {{people}} or {{org}}s who have this type of
 
 ![Linked Relationships in a {{Work}} Record](16.6.3b.png)
 
-If you choose the linked option (rather than the {{person}}'s name by itself}}), the record will be attached to both profiles and you will be able to report on the attendance of both of them.  It will count as one attendance in reporting, rather than as two if you added them separately.
+If you choose the linked option (rather than the {{person}}'s name by itself), the record will be attached to both profiles and you will be able to report on the attendance of both of them.  It will count as one attendance in reporting, rather than as two if you added them separately.
 
 One example of when this is useful is if you are running training and people attending are there on behalf of an organisation.  You need to know both the name of the person and their organisation, and they need to be shown together so you know which person is from which organisation.  It's only actually one attendance at the training session, so you need to use linked relationships to record their attendance.
 
