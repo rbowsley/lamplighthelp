@@ -25,7 +25,7 @@ You can choose one of more locations from this list to filter your report by.
 
 #### {{Group}}
 
-If you have already set up a {{group}}, you can choose it from the drop-down list so that the initial set of {{people}} or {{org}}s you are reporting on is restricted to members of the {{group}} (for more on {{group}}s, see section [12  {{Group}}s](/help/index/p/12)). 
+If you have already set up a {{group}}, you can choose it from the drop-down list so that the initial set of {{people}} or {{org}}s you are reporting on is restricted to members of the {{group}} (for more on {{group}}s, see section [12 {{Group}}s](/help/index/p/12)). 
 
 The {{report}} will show data for the members of the {{group}}, but does not apply the filters for the {{group}} to the {{report}}.
 
