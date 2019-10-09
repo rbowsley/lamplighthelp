@@ -1,6 +1,6 @@
 # 26.1.0 Matching Module: Set-up
 
-> The Matching Module has a series of select options that are used to match.  You can change these if need be
+> The Matching Module has a series of select options that are used to match. You can change these if need be
 
 #### Categories
 
