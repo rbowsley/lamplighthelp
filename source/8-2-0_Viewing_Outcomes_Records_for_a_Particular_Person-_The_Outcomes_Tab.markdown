@@ -71,7 +71,7 @@ This will open the data entry window where you can edit the details of the {{out
 
 #### Delete
 
-Use this option to remove the {{outcome}} from the system. It will still be possible to find it in the {{outcome}}s table (for more on this see [8.3.0 Viewing All {{Outcome}s Records](/help/index/p/8.3.0), but it will not show in reports or data views.
+Use this option to remove the {{outcome}} from the system. It will still be possible to find it in the {{outcome}}s table (for more on this see [8.3.0 Viewing All {{Outcome}}s Records](/help/index/p/8.3.0), but it will not show in reports or data views.
 
 If you use {{linked case}}s in your system, there more options (See section [9.0.0 {{Linked case}}s](/help/index/p/9.0.0) for more on {{linked case}}s):
 
