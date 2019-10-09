@@ -16,7 +16,7 @@ To add a summary tab:
 
 Now when you view a profile you'll see a new 'summary' tab displayed as the first tab.
 
-![{{Group}} data view](12.2.4a.png )
+![{{Group}} data view](12.2.4a.png)
 
 To change the {{group}} data view you use, just repeat this process. 
 
