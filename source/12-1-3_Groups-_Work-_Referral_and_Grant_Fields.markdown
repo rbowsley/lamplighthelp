@@ -38,7 +38,7 @@ If you have added all the other filters that you need, and filled in the name an
 
 Depending on your workflow, you can also use {{group}}s to show people you first worked with in a specific timeframe. This {{group}} includes {{people}} or {{org}}s who have a {{work}} record in the span of time that you're looking at, but do not have any {{work}} records before that point.
 
-- For Date 1 (this will be your 'from' date), choose 'Fixed date' from the drop-down and select to 1st April 2019. {{Lamplight}} will  **include** this date in the search filter.
+- For Date 1 (this will be your 'from' date), choose 'Fixed date' from the drop-down and select to 1st April 2019. {{Lamplight}} will **include** this date in the search filter.
 - For Date 2 (your 'to' date) choose 'Today'. That will filter up to the current day, whenever you run the {{group}}.
 - You want to find {{people}} who have a record between those dates, so go to the 'Number of records in profile **between** date 1 and 2' (the middle line from the next set of three), choose 'At least' on the drop-down, then type '1' in the text box after it.
 - To narrow it down to people who did not attend any {{work}} sessions before that date, go to the line above 'Number of records in profile prior to (but not including) date 1'. From the drop-down box, choose 'Exactly', and in the next box enter '0'. This will now only show people who did not have any {{work}} records before your start date.
