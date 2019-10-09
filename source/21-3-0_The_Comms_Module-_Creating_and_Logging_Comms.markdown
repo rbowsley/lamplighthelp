@@ -26,7 +26,7 @@ See section [21.1.1 {{Comm}} Templates](/help/index/p/21.1.1) for more informati
 
 #### {{Activity}} Merge
 
-If you have started the {{comm} from an {{activity}} record ({{work}}, {{referral}} etc.), you will be able to use the '{{Activity}} merge options.  See [section 21.3.1](/help/index/p/21.3.1) for how to do this.
+If you have started the {{comm}} from an {{activity}} record ({{work}}, {{referral}} etc.), you will be able to use the '{{Activity}} merge options.  See [section 21.3.1](/help/index/p/21.3.1) for how to do this.
   
   ![Sending a {{Comm}} Through the {{Work}} Record](21.3.0c.png)
   
