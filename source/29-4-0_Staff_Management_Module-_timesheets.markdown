@@ -12,7 +12,7 @@ The timesheet table in each {{staff}} profile shows the different ways time has 
 There is a column for each category of time spent (absence, {{work}}, non-contact etc.), and these are added together to give the total time spent for each week.  {{Lamplight}} pulls the contracted hours from information added in the 'Contract details' tab.
    
  - The 'Difference' column calculates the difference between contracted hours and the total recorded for the week.
- - 'Wage' is based on the amount of contracted hours recorded for the week multiplied by the hourly rate for that worker recorded in the 'Contract details' tab. 
+ - 'Wage' is based on the number of contracted hours recorded for the week multiplied by the hourly rate for that worker recorded in the 'Contract details' tab. 
 
 This table can be downloaded into a spreadsheet if required. To do this, click the 'Download data' link found at the bottom of the table.  You can also prepare it for print format by clicking the 'Print' button below the table.
 
