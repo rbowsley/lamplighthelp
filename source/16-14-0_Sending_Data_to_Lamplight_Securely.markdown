@@ -1,6 +1,6 @@
 # 16.14.0 <i class="fas fa-exchange-alt"></i> Sending Data to Lamplight Securely
 
-> If you are sending us data, you should make sure that you do it securely over encrypted channels.  Email is not secure and should not be used for any personally identifiable data
+> If you are sending us data, you should make sure that you do it securely over encrypted channels. Email is not secure and should not be used for any personally identifiable data
 
 
 You can send Lamplight a file within the system. You should never email personally identifiable information - email is not secure enough.
