@@ -14,6 +14,8 @@ A {{group}} is a collection of {{people}} or {{org}}s. You can set up any number
  - All youth work staff.
  - Organisations working with children.
  
+ ![{{Group}}s in {{Lamplight}}](12.0.0c.png)
+ 
 They are shared across database operators, so that if you set up a {{group}} another database operator with access to your system will be able to use it too.
 
 ### Types of {{Group}}
