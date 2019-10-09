@@ -49,7 +49,7 @@ The ‘Body mail merge’ menu contains fields that can be inserted from profile
    
 When creating a template, make sure that you only select relevant options. For example, if you use fields relating to a volunteer in a template to partner organisations, those fields would be empty when merged, as this information would not exist in an organisation profile.
 
-Select the relevant merge field from the drop-down list and use it in the text as you would to normal content. For example, write ‘Dear (First name)’ by typing ‘Dear ’ and then selecting ‘Body Mail merge > Contact details > First Name’ from the drop-down menu. When you use this template to send a {{comm}}, (First name) will be replaced by the name of each person to whom you send the {{comm}}.
+Select the relevant merge field from the drop-down list and use it in the text as you would to normal content. For example, write ‘Dear (First name)’ by typing ‘Dear’ and then selecting ‘Body Mail merge > Contact details > First Name’ from the drop-down menu. When you use this template to send a {{comm}}, (First name) will be replaced by the name of each person to whom you send the {{comm}}.
 
 If any recipient doesn’t have information in the field you used, the system will leave a single blank space.
    
