@@ -82,7 +82,7 @@ The fields in the {{comm}}s tab are:
    Ticking this option means that any replies to an SMS are forwarded to the email address you specify. Please note that each reply costs an extra 24x credit, and recipients will see a different ‘from’ number. If you enable this, when you come to send an SMS you have the option of providing an email address. If you do not do this the mobile number you provide will be the reply-to number.
    
 
-### Mailing Label {Comm}}s Settings
+### Mailing Label {{Comm}}s Settings
 
 #### Default mailing label size
 
