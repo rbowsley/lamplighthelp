@@ -218,7 +218,7 @@ Key features of an API Feed:
 - specify postcode and search radius
 - specify whether to include a search form
 - set how many results to show per page
-- specify css files to include in the `<head>` of the iframe
+- specify CSS files to include in the `<head>` of the iframe
 
 By default, the iframe will render fairly simple results.  'Next page' links will be shown,
 and clicking on an opportunity will show full details.
