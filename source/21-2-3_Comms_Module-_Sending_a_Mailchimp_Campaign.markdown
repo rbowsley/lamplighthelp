@@ -19,14 +19,16 @@ Mailchimp has its own wizard system which you can use to set up the layout and c
 ![Choosing Mailchimp Audience](21.2.3a.png)
 
 A new section will appear below.  In the drop-down: 
-- under ‘Groups’ select ‘Lamplight sync category’ 
-- choose the {{group}}s you wish to send to.
+- Under ‘Groups’ select ‘Lamplight sync category’ 
+- Choose the {{group}}s you wish to send to.
 
 ![Choosing Send Groups](21.2.3b.png)
 
 If you are sending to more than one {{group}}, make sure that you select ‘one of’ from the second drop-down. If you select ‘all of’ then the campaign will only be sent to people who are in all the selected lists.
 
 Continue through the wizard to complete the options for your mailing, then send when ready.  We would advise you to send yourself or a colleague a test email to check how it looks on screen. You can then go back to make changes to the campaign as necessary. 
+
+When you send emails to a group of people through Mailchimp, the communication will be logged in Lamplight.  In the same way, people who unsubscribe from a Mailchimp list will be marked as not allowing bulk emails in their Lamplight profile.
 
 Please [use the Mailchimp Knowledge Base](https://us1.admin.mailchimp.com/support/) if you require further support to create your Campaign.
 
