@@ -22,7 +22,7 @@ A simple search form can be embedded in the feed, so that people using your site
 Use the geocoded addresses of the {{opportunity provider}} (or the {{volunteering opportunity}} to only show records centred on the postcode you provide here.  You also need to specify a maximum distance from this point for this to take effect.
 
 #### CSS files to include in the header
-What you get from an API feed is well-structured html with no styling, so that it can take on the styles of your own site.  See [section 26.5.1 ](/help/index/p/26.5.1) to see more technical details about the structure of the response you'll get.
+What you get from an API feed is well-structured html with no styling, so that it can take on the styles of your own site.  See [section 26.5.1](/help/index/p/26.5.1) to see more technical details about the structure of the response you'll get.
 
 Any CSS files you specify here will be included in the head element of the embedded iframe, so you can reference the CSS of your main site if you want to.
 
