@@ -32,7 +32,7 @@ If you want to, you can add {{people}} to the {{waiting list}} as you create it.
 You can choose to remove {{people}} automatically from a {{waiting list}} if they are listed on a {{work}} record with a particular {{workarea}} or {{subworkarea}}, or on a {{referral}} record.  
 
 **{{Work}} Record Auto-removal**  
-To activate auto-removal based on a {{work}} record, select the checkbox titled ‘Remove people from {{waiting list}} automatically when they attend a {{work}} record’. 
+To activate auto-removal based on a {{work}} record, select the checkbox titled ‘Remove people from the {{waiting list}} automatically when they attend a {{work}} record’. 
    
 Choose the {{workarea}} and {{subworkarea}}s to which this applies. You can select more than one {{workarea}} or {{subworkarea}}s, or none at all.  **If you are choosing {{subworkarea}}s be sure to deselect the {{workarea}} associated with it, or Lamplight will continue to apply deselection to the whole {{workarea}}.**
    
