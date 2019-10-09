@@ -32,7 +32,7 @@ Select 'Click here to add' at the bottom of the left-hand column.
 Fill in the details of the pop-up box:
    - Text: this will be the tab name.
    - What type of person is this for?: you can't edit this field - it is only applicable to custom tabs in profiles.
-   - Restrict this field to managers/admins?:  although you can tick this field, it does not function in this record.
+   - Restrict this field to managers/admins?: although you can tick this field, it does not function in this record.
    - Projects: you can select which projects this tab will apply to (if you have more than one {{Lamplight}} project).
    - You may also see fields about publishing, if you have the Publishing Module.  See section [28.0.0 Publishing Module](/help/index/p/28.0.0)
    
