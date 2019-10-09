@@ -8,6 +8,8 @@
 
 For example, your organisation may be working to improve the self-confidence of the {{people}} you work with. In January you could measure how confident John felt on a scale of 1-10 and enter it into Lamplight. A couple of months later you measure John again. Then three months after that you ask John again how confident he feels. In five months you can show how much improvement there has been in John's confidence levels. 
 
+![Outcome Scores](8.0.0a.png)
+
 Collecting this type of data can be very powerful. It is possible to then {{report}} on the amount of change {{user}}s experience overall, as well as looking at how quickly change occurs, and how this varies between different groups of {{people}}. It is also possible to look at the relationship between the amount of {{work}} you have done, and the impact it has had.
 
 {{Lamplight}} lets you collect this kind of data for your {{user}}s, whether they are {{people}}, {{family}} or {{org}}s. You can also use {{outcome}}s with {{staff}} to track their development, for example, or with partner agencies to see if you have any impact on their practices.
