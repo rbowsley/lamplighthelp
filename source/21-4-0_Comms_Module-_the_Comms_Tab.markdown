@@ -10,7 +10,7 @@ The {{comm}}s tab is the log of all {{comm}}s for the {{person}} or {{org}} whos
 
 ### Viewing and Editing {{Comm}}s
 
-If you want to look at details of a {{comm}} record, the following options are available in the context menu (you can see this by clicking on the menu to the left of the relevant {{comm}, or right clicking the table row):
+If you want to look at details of a {{comm}} record, the following options are available in the context menu (you can see this by clicking on the menu to the left of the relevant {{comm}}, or right clicking the table row):
 
 ![{{Comm}}s Context Menu](21.4.0a.png)
 
