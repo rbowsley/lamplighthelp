@@ -35,6 +35,6 @@ It is possible to print profile information for specific profiles. This can be d
 **Please note:** if you do this for a large {{group}} it will take some time and may slow down Lamplight as it has to load all information from all tabs for all the profiles in the {{group}}.
 
 ##### Tags
-Data protection
+GDPR
 
 ###### core module

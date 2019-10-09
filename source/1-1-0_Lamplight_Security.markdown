@@ -58,7 +58,7 @@ Disaster Recovery procedures apply when your data centre is likely to be out of 
 
 
 ##### Tags
-Data protection
+GDPR
 
 
 ###### core module
