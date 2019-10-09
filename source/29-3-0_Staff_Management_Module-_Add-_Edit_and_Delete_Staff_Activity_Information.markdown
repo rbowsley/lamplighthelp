@@ -14,7 +14,7 @@ If you have the {{Staff}} Management Module but can't see these tabs in a profil
 
 ### Creating a New Record
 
-This follows a similar process to adding {{work}} records (see section [7.1.0  Adding a {{Work}} Record](/help/index/p/7.1.0)).
+This follows a similar process to adding {{work}} records (see section [7.1.0 Adding a {{Work}} Record](/help/index/p/7.1.0)).
 
 - Go to the {{staff}} member's profile and click on the tab you wish to enter information into. 
 - On the right-hand side of the screen click 'add'. 
