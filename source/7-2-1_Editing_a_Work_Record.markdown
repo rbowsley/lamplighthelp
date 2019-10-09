@@ -10,6 +10,8 @@ To edit a {{work}} record:
 - Either click on the context menu button to the left of it in the table, or right click on the table row. 
 - From the pop-up menu, choose 'Edit'. 
 
+![The Context Menu](7.2.1a.png)
+
 The editing window will open, and you can make any changes that you need. 
 
 - Click the 'save' button at the bottom of any page when you have finished.
