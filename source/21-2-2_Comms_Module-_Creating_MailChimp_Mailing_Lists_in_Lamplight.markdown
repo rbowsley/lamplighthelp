@@ -19,7 +19,7 @@ You can sync existing {{Lamplight}} {{group}}s to Mailchimp. See section [12.0.0
 - You can also update a {{group}} which is already on Mailchimp from the same screen. You’ll see a description of the current status of the {{group}}, and the option: ‘To sync with Mailchimp, click here.’
 
 
-### Viewing Your {{Group}}s in Mailchimp  
+### Viewing Your Audience Members in Mailchimp  
 
 To view the profiles you've imported in Mailchimp, you can view your 'Mailchimp Audience'.  
 
