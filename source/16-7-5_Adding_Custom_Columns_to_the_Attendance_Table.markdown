@@ -28,7 +28,7 @@ This opens up a pop-up box with the following fields:
 ### Adding a Field
 - In the middle column, choose the button 'Click to add'. 
 - A new section will now appear in the right-hand column: 'Column: Click to add.' 
-- Double click on the non-bold text (not the title) 'Column name:Click to add'
+- Double click on the non-bold text (not the title) 'Column name: Click to add'
 - A pop-up box will open. 
 
 ![Custom Column Fields](16.7.5a.png)
