@@ -10,7 +10,7 @@ The searchable index is used by the text searches in the Publishing Module. This
 
 The search index is updated whenever you edit a published profile or {{work}} record. 
 
-However, if you go to system administration in {{Lamplight}} and change the fields that can be published, the index will need to be rebuilt. This will ensure that  data from the correct fields is included in the index and can be searched for on your website. This is particularly important if you are removing fields that have previously been published.
+However, if you go to system administration in {{Lamplight}} and change the fields that can be published, the index will need to be rebuilt. This will ensure that data from the correct fields is included in the index and can be searched for on your website. This is particularly important if you are removing fields that have previously been published.
 
 You'll need to tell {{Lamplight}} when you need to rebuild a search index.
 
