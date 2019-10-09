@@ -6,7 +6,14 @@ We have collected pages from around the manual into useful collections - that's 
 
 #### [Getting started](/help/index/p/tagged_Getting%20started)
 
+<div class="pure-g">
+<div class="pure-u-1-2">
+![Getting started](getting_started.jpg)
+</div>
+<div class="pure-u-1-2">
 A selection of pages that will help you if you are brand new to {{Lamplight}} and need help finding your way around and understanding concepts
+</div>
+</div>
 
 #### [Next steps](/help/index/p/tagged_Next%20steps)
 
