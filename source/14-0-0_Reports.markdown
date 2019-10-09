@@ -6,6 +6,8 @@
 
 {{Report}}s in {{Lamplight}} show numerical summaries of the data held in the system. This could be of the work you have done, the impact you've had or funding that you have received, for example. 
 
+![Sample {{Work}} Report](14.0.0a.png)
+
 There is a great deal of flexibility in how you filter and present the information. There are some aspects of {{report}}s which are common to all (or most) (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1), and some that are specific to each different one.
 
 Please note that you need to have Staff, Manager, System Administrator or Reporter database operator level to view and run {{report}}s. 
