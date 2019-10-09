@@ -37,7 +37,7 @@ Issues happen when the type of information you are recording is changing. For ex
    
       ![Type of Person and Role in Custom Tabs and Fields](16.7.6a.png)
       
-      You can only choose one ‘person’ type, but to select multiple ‘roles’ for a tab or field, hold down the ‘Ctrl’ key as you click items in the list.    This has to be completed for both the tab and each field in it. When you look on the tab and field management page, you can see what person type and role have been selected when you click on each one.
+      You can only choose one ‘person’ type, but to select multiple ‘roles’ for a tab or field, hold down the ‘Ctrl’ key as you click items in the list. This has to be completed for both the tab and each field in it. When you look on the tab and field management page, you can see what person type and role have been selected when you click on each one.
       
       You can see in the example below that the ‘Personal Details’ tab is visible to individuals who are clients, staff, contacts and volunteers. The ‘Gender’ field in that tab is visible to individuals who are clients, staff and volunteers:
       
