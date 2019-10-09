@@ -31,7 +31,7 @@ If you are using {{linked case}}s in your system, you will also see the followin
 
 ### Creating and Logging {{Comm}}s
 
-You can also create or log a new {{comm}} for the {{person}} or {{org}} whose profile you are in by clicking the 'Create {{comm}}' or 'Log {{comm}}' buttons in the top or bottom right hand corner (see sections [10.1.0  Creating a {{Comm}}](/help/index/p/10.1.0) and [21.3.0  {{Comm}}s Module: Logging a {{Comm}}](/help/index/p/21.3.0) for more). 
+You can also create or log a new {{comm}} for the {{person}} or {{org}} whose profile you are in by clicking the 'Create {{comm}}' or 'Log {{comm}}' buttons in the top or bottom right hand corner (see sections [10.1.0 Creating a {{Comm}}](/help/index/p/10.1.0) and [21.3.0 {{Comm}}s Module: Logging a {{Comm}}](/help/index/p/21.3.0) for more). 
 
 
 ###### comms module
