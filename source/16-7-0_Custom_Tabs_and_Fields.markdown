@@ -32,7 +32,7 @@ This is the information that you want to collect, for example 'Gender', or 'DBS 
 
 #### Options 
 
-These are the different things that would appear in a list to choose from  - for example, Male, Female, Non-binary, Other. A notes (text) field will not need any options. All databases use lists of options so that you can break down information and use it for reporting. It is usually not possible to report on text fields.  As a general guide, avoid text fields if you can use one of the other types of fields.
+These are the different things that would appear in a list to choose from - for example, Male, Female, Non-binary, Other. A notes (text) field will not need any options. All databases use lists of options so that you can break down information and use it for reporting. It is usually not possible to report on text fields.  As a general guide, avoid text fields if you can use one of the other types of fields.
 
 
 ##### Tags
