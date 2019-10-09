@@ -23,7 +23,7 @@ The ‘My User’ restriction allows for a stricter level of access limitation t
 
 Whichever option is selected here, an affected operator will only be able to see the names of their 'my users' in the attendance table for an {{activity}} record they can view.  So there may be 10 people listed on an {{activity}} record, but an affected operator may only be able to see three of their names.
    
-   The options in this section are :
+   The options in this section are:
    
 **No restriction** 
 Operators will be able to see all {{activity}} records they would be able to without the 'My User' restriction.  
