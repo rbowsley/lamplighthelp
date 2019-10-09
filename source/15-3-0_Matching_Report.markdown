@@ -22,7 +22,7 @@ The {{volunteering application}} {{report}} will give a table similar to this:
 It gives similar data but from the side of {{volunteering application}} records.
 
 
-You can create [{{report}} templates (sect 14.1.6)](/help/index/p/14.1.6) for both of these {{report}}s wordif needed.
+You can create [{{report}} templates (sect 14.1.6)](/help/index/p/14.1.6) for both of these {{report}}s word if needed.
 
 
 ###### match module
