@@ -32,7 +32,7 @@ The profile is now being shared with the public-facing site. Refresh the page by
 
 ### Data That's Published
 
-The publishing tab within the profile displays the information being shared.   Any alterations to the information being published will need to be done from within the tab where that data sits usually, with the exception of the 'Publish summary' field, which you can double-click to alter and save.
+The publishing tab within the profile displays the information being shared. Any alterations to the information being published will need to be done from within the tab where that data sits usually, with the exception of the 'Publish summary' field, which you can double-click to alter and save.
 
 ### To Remove Sharing from a Profile
 
