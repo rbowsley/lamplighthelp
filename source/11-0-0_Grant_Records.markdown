@@ -4,7 +4,7 @@
 
 You can keep records of money coming in to your organisation using {{grant}} records. If you can't see these in your system, it is possible for a System Administrator to turn them on in global settings (see [16.12.2 Global Settings: Data to Store](/help/index/p/16.12.2) for more details).
 
-[{{Grant}} Record](11.0.0a.png)
+![{{Grant}} Record](11.0.0a.png)
 
 These records can be used in a number of different ways:
 - For grants and donations coming in to the organisation.
