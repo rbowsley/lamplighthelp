@@ -49,7 +49,7 @@ To add items to these:
 
 ![{{Staff}} Module List Options](29.1.0e.png)
 
-Each one of is a list of categories for the Staff Module, and you can work through them so that you have the options you need when adding information. 
+Each one is a list of categories for the Staff Module, and you can work through them so that you have the options you need when adding information. 
 
 For more on adding options to lists in system administration, see [16.6.0 System Administration: Lists](/help/index/p/16.6.0).
 
