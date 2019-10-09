@@ -4,7 +4,7 @@
 
 
 
-As part of the initial set-up your System Administrator will have specified the type of profiles they are happy for {{Lamplight}} to publish and what information should be published from within them (see section [28.2.0  System Administration - Publishing Module](/help/index/p/28.2.0)). 
+As part of the initial set-up your System Administrator will have specified the type of profiles they are happy for {{Lamplight}} to publish and what information should be published from within them (see section [28.2.0 System Administration - Publishing Module](/help/index/p/28.2.0)). 
 
 Once the System Administrator has decided what can be published, database operators can choose whether to publish specific profiles.
 
@@ -12,7 +12,7 @@ By default, no profiles are published.
 
 ### To Publish a {{Person}} or {{Org}}'s Profile
 
-- Open the profile (see section [5.8.0  Finding {{People}}](/help/index/p/5.8.0) for help with this). 
+- Open the profile (see section [5.8.0 Finding {{People}}](/help/index/p/5.8.0) for help with this). 
 - Click on the 'Publishing' tab.  
 
 In this tab you will be able to see:
