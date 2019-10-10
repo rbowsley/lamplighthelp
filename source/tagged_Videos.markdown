@@ -18,7 +18,6 @@ Basic Training is a collection of videos aimed at new staff, to give them an und
 An introduction to Lamplight. You'll find explanations on:
 - [introduction and main menu](/help/index/p/51.1.0)
 - [home page diary and tabs](/help/index/p/51.1.1)
-(2 videos)
 
 </div>
 </div>
@@ -36,7 +35,6 @@ In this section you'll find how to :
 - [add contact details](/help/index/p/51.2.2)
 - [complete custom tabs and fields in profiles](/help/index/p/51.2.3)
 - [use relationships](/help/index/p/51.2.4) 
-(4 videos)
 
 </div>
 </div>
@@ -52,7 +50,6 @@ In this section you'll find how to :
 These videos show you how to:
 - [understand the referral record](/help/index/p/51.3.1)
 - [enter new referral details into Lamplight](/help/index/p/51.3.2) 
-(2 videos)
 
 </div>
 </div>
@@ -70,7 +67,6 @@ In this section you'll learn about {{work}} records in {{Lamplight}}, including 
 - [complete custom tabs and fields in {{work}} records](/help/index/p/51.4.2)
 - [set up recurring records](/help/index/p/51.4.3)
 - [view and edit {{work}} records](/help/index/p/51.4.4)
-(4 videos)
 
 </div>
 </div>
@@ -85,7 +81,6 @@ In this section you'll learn about {{work}} records in {{Lamplight}}, including 
 
 This section shows;
 - [what {{outcome}} records are and how to add them](/help/index/p/51.5.1)
-(1 video)
 
 ### [How To Videos](/help/index/p/52.0.0)
 
