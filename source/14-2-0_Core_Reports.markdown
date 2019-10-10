@@ -5,6 +5,8 @@
     
     
 Every {{Lamplight}} system has a suite of reports available for the core functions. These are available on all systems so long as they have been chosen in Global Settings (for more information see [16.12.2 Global Settings: Data to Store](/help/index/p/16.12.2)).
+
+[{{Report}}s Tab](14.2.0g.png)
     
 These core {{report}}s are:
 
