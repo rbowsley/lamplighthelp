@@ -4,7 +4,11 @@
 
 
 
-If you have any modules or {{project}}s in your system, any system administration controls relating to them will be covered in the section on the module itself. For more on modules see:
+If you have any modules or {{project}}s in your system, any system administration controls relating to them will be covered in the section on the module itself. 
+
+![System Admin for Modules](16.20.0a.png) 
+
+For more on modules see:
 
 - [17.0.0 {{Project}}s](/help/index/p/17.0.0).
 - [18.0.0 The Archiving Module](/help/index/p/18.0.0).
