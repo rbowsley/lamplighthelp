@@ -3,7 +3,7 @@
 > If your {{Lamplight}} system has modules then you will be able to run further {{report}}s on these
 
 
-[More {{Report}}s](15.0.0a.png)
+![More {{Report}}s](15.0.0a.png)
 The module {{report}}s are:
 
 - [15.1 {{Comm}}s {{Report}}](/help/index/p/15.1): this counts and presents information on {{comm}}s made.
