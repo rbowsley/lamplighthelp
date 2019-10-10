@@ -29,7 +29,7 @@ These instructions apply to Windows: a similar approach will work on other platf
 - If it doesn't look a bit like this example, (and particularly if there's lots of squiggly characters), it's not a csv file at all. You need to go back to your spreadsheet package and make sure you 'Save as' csv.
 - In Notepad, click 'Save as' and make sure that the 'Save as type' dropdown says 'Text documents'. 
 
-[File Saving as Text](16.12.7a.png)
+![File Saving as Text](16.12.7a.png)
 
 - Give the file a new name and save it.
 - You should now be able to upload this new file (the notepad file) to Lamplight.
