@@ -11,7 +11,7 @@ We have collected pages from around the manual into useful collections - that's 
 </div>
 <div class="pure-u-1-2">
 
-#### [Getting started](/help/index/p/tagged_Getting%20started)
+#### [Getting Started](/help/index/p/tagged_Getting%20started)
 
 A selection of pages that will help you if you are brand new to {{Lamplight}} and need help finding your way around and understanding concepts.  You'll find:
 
@@ -30,7 +30,7 @@ A selection of pages that will help you if you are brand new to {{Lamplight}} an
 </div>
 <div class="pure-u-1-2">
 
-#### [Next steps](/help/index/p/tagged_Next%20steps)
+#### [Next Steps](/help/index/p/tagged_Next%20steps)
 
 If you are getting comfortable with {{Lamplight}} but want to start exploring a bit further, these pages will help you along the way.  You'll find help about
 
@@ -49,7 +49,7 @@ If you are getting comfortable with {{Lamplight}} but want to start exploring a 
 </div>
 <div class="pure-u-1-2">
 
-#### [Experienced user](/help/index/p/tagged_Experienced%20user)
+#### [Experienced User](/help/index/p/tagged_Experienced%20user)
 
 If you are confident in your day to day use of {{Lamplight}} but want to start exploring how else you can use it and make the most of the system, these pages will be for you.
 
@@ -67,7 +67,7 @@ If you are confident in your day to day use of {{Lamplight}} but want to start e
 </div>
 <div class="pure-u-1-2">
 
-#### [Advanced topics](/help/index/p/tagged_Advanced%20topics)
+#### [Advanced Topics](/help/index/p/tagged_Advanced%20topics)
 
 Explore some hidden depths and niche features that will give you {{Lamplight}} super powers!
 
@@ -93,7 +93,7 @@ You can also [browse all the pages that include videos](/help/index/p/tagged_Vid
 </div>
 </div>
 
-### Other collections
+### Other Collections
 
 <div class="pure-g">
 <div class="pure-u-1-2">
