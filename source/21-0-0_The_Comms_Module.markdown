@@ -6,6 +6,8 @@
 
 
 
+![The {{Comm}}s Module in a Profile](21.0.0a.png)
+
 The in addition to core {{comm}}s capability, the Communications Module lets you:
 
 - log all {{comm}}s created in {{Lamplight}} in the profiles of the recipients
