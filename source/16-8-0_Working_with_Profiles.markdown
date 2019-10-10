@@ -4,6 +4,8 @@
 
 
 
+[Profile in {{Lamplight}}](16.8.0a.png)
+
 There may be profiles on your system that you no longer need. You have three options for what you can do with these:
 
 - If it is a duplicate profile, and you want all the records to be in one place, then you can merge the two profiles together (see [16.8.1 Merging Profiles](/help/index/p/16.8.1)).
