@@ -10,7 +10,7 @@ To set up charge/payee rules and policies, go to Admin -> System administration 
 
 You will also see a list of any policies and rules you have already set up. 
 
-[![Charge and Payee Rules](20.2.0b.png)
+![Charge and Payee Rules](20.2.0b.png)
 
 ### Things to Remember
 
