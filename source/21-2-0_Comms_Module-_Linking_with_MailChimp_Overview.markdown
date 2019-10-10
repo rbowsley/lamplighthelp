@@ -12,9 +12,15 @@ To get started you will need to create a free MailChimp account and then tell us
 As an overview, the link between the two systems works like this:
 
   - You set up a {{group}} in {{Lamplight}} that you want to use as a mailing list in Mailchimp, and then ask {{Lamplight}} to tell MailChimp the email addresses it will need to send to.
+  
+  ![{{Lamplight}} Mailing List](21.2.0a.png)
+  
   - You compose your email in MailChimp, either by designing your newsletter or using one of the templates.
   - Mailchimp sends your email to the chosen mailing list.
   - A copy of the email is sent to {{Lamplight}} and stored as a {{comm}} record.
+  
+  ![Mailchimp Mailing Logged in {{Lamplight}}](21.2.0b.png)
+  
   - You can view basic statistics about your newsletter in MailChimp.
   - If anyone clicks on an 'unsubscribe' link in the email, MailChimp receives this notification and passes it on to {{Lamplight}}. {{Lamplight}} updates the contact details of the person involved to show 'no' to bulk email.
 
