@@ -88,7 +88,7 @@ If you prefer to watch and learn we have created two series of training videos t
 
 The training video pages include the text of the videos translated into the terminology used in your syste.
 
-You can also [browse all the pages that include videos](/help/index/tagged_Video).
+You can also [browse all the pages that include videos](/help/index/p/tagged_Video).
 
 </div>
 </div>
