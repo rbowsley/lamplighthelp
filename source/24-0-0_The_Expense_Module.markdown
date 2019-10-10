@@ -6,6 +6,8 @@
 
 This module will enable you to allocate the cost of staff and other resources so that you can calculate what your different services cost on a per-beneficiary basis.  It also provides a mechanism that allows you to manage staff expenses.
 
+![Expenses in a {{Work}} Record](24.0.0a.png)
+
 ### Costing
 You can track different types of cost:
 - by {{workarea}} - do different types of service have different underlying cost basis?
