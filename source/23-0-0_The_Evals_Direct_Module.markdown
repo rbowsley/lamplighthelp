@@ -4,6 +4,8 @@
 
 The {{Eval}}s Direct Module works with the {{Eval}}s Module, allowing you to create online links to your existing surveys/{{eval}}s.  You [create the templates](/help/index/p/22.1) as normal, and then create a 'campaign', where you ask a set of people to complete the survey online.
 
+![{{Eval}}s Direct in the Menu Bar](23.0.0a.png)
+
 You have control over:
 
 - presentation – use your logo and colour scheme
