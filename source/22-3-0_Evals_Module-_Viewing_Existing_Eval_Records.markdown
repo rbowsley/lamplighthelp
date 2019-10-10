@@ -6,7 +6,9 @@
 
 To view {{eval}}s records:
 - Go to {{work}}-> view all-> {{eval}}s on the main menu. 
-- A list of completed {{eval}}s will be shown. 
+- A table of completed {{eval}}s will be shown. 
+
+![The {{Eval}}s Table](22.3.0a.png)
 
 This screen is very similar to viewing {{work}} records or {{outcome}}s: see section [7.3.0 Viewing all {{work}} records](/help/index/p/7.3.0) for more information.
 
