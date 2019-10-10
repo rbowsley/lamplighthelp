@@ -4,6 +4,8 @@
 
 
 
+![Staff Module Tab in System Admin](16.12.7b.png)
+
 This tab in global settings relates to how records are handled in the timesheet of the Staff Management Module. For more information on this, and on the set-up of the module, please see [29.1.0 Staff Management Module: Set-up](/help/index/p/29.1.0).
 
 
