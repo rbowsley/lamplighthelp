@@ -4,6 +4,8 @@
 
 
 
+![Database Operators in System Admin](16.5.0a.png)
+
 This section covers
 
 - [16.5.1 Operator Permission Levels](/help/index/p/16.5.1).
