@@ -8,6 +8,8 @@ The Library Module is used to store documents and can be used however necessary.
 
 All resources are saved centrally and are not linked to a specific profile. It is possible to tag and catagorise items to make them easy to search for.
 
+![The Library in {{Lamplight}}](25.0.0a.png)
+
 
 ###### library module
 
