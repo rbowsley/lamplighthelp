@@ -20,6 +20,8 @@ You can upload any kind of file using the media module, although individual file
 - Links to images on Flickr.
 - Links to films on YouTube.
 
+![The Multimedia Carousel](27.2.0a.png)
+
 ### The Security of Linking to External Sites
 
 Whenever you view media on {{Lamplight}} that has been taken from an external website such as Flickr or YouTube, you will see that the padlock icon disappears from your address bar. This does not mean that your information is no longer safe. 
