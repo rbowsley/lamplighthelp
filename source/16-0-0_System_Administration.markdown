@@ -8,6 +8,8 @@
 
 To view the system administration page, click 'admin' on the main menu, then choose 'system administration.'
 
+![The System Admin Tab](16.0.0a.png)
+
 The main functions that an administrator can perform are:
 
 - Adding new database operators to the system, assigning the appropriate user level and deleting them where necessary (see [16.5.0 Database Operators](/help/index/p/16.5.0)).
