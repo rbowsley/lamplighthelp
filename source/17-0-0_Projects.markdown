@@ -3,6 +3,8 @@
 > A {{project}} in {{Lamplight}} is like a completely separate {{Lamplight}} system. You can have complete separation between {{project}}s, or introduce different levels of sharing. You can also run {{report}}s across all your {{project}}s
 
 
+![Changing {{Project}} in {{Lamplight}}](17.0.0a.png)
+
 In {{Lamplight}}, a {{project}} is a self-contained system within the overall one. By default, the information within one {{project}} is not visible to other {{project}}s, and the settings for each {{project}} may be completely different too. 
 
 You may choose to have several {{project}}s because:
