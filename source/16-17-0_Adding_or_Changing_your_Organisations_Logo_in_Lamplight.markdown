@@ -6,6 +6,8 @@
 
 You can add your organisation's logo or change it at any time. To do this you will need a picture which is 250 px wide, and 80 px high.
 
+![Adding a Logo in System Admin](16.17.0b.png)
+
 - Go to 'admin -> system administration -> Customise Lamplight -> Add or change your organisation logo'.
 - Give the logo a name, and select which {{project}}s it will be used for (if you use {{project}}s in {{Lamplight}}).
 - Click on the 'Browse' button to find and select the picture file.
