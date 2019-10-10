@@ -10,6 +10,8 @@ Almost all charge rules have two fields in common:
   
   2. Should previous rules apply if there is no match using this rule?
   
+  ![Common Fields for Charge Rules](20.2.1a.png)
+  
 ### Rule Name
 
 The 'rule name' is what you'll see when adding rules to policies. Please remember that one rule can be re-used in several different policies, so it'll be easier if the name describes what it does, rather than how you think you might use it. So 'base flat 80' to describe a flat-rate charge rule that charges £80 is better than 'training standard rate'. 
