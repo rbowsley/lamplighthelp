@@ -4,7 +4,7 @@
 
 
 
-!{[An {{Eval}} in {{Lamplight}}](22.0.0a.png)
+![An {{Eval}} in {{Lamplight}}](22.0.0a.png)
 
 Evaluation forms are a common way of getting a snapshot view of things are going with your {{user}}s and with your services. {{Lamplight}} can help you record and analyse that information in an intuitive and flexible way. You can set up as many surveys as you need with different types of questions in them. You can then analyse the results in various ways. 
 
