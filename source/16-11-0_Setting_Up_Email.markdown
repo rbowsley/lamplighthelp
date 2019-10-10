@@ -8,6 +8,8 @@ Lamplight sends emails through your own email servers. This means the sent items
 
 You will need to enter your details in System Administration to allow you to send emails. This is a one-off task. 
 
+![Email Settings in System Admin](16.11.0a.png)
+
 You can either
 - Set-up each database operator to send emails from their own account.
 - Set-up all operators to send email through a group email address.
