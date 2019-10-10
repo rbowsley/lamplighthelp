@@ -4,7 +4,13 @@
 
 
 
-To set up charge/payee rules and policies, go to Admin -> System administration and click 'Set up charge module rules and policies'. You will also see a list of any policies and rules you have already set up. 
+To set up charge/payee rules and policies, go to Admin -> System administration and click 'Set up charge module rules and policies'. 
+
+![Charge Module in System Admin](20.0.0a.png)
+
+You will also see a list of any policies and rules you have already set up. 
+
+[![Charge and Payee Rules](20.2.0b.png)
 
 ### Things to Remember
 
