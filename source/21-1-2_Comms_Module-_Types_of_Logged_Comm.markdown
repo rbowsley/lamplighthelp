@@ -11,7 +11,10 @@ If you have the {{Comm}}s Module you can log {{comm}}s in your system. When you 
 ### Add a {{Comm}} Type
 
 - Go to 'admin -> system administration -> {{Comm}} Settings' and click on 'Edit types of logged {{comm}}s'.
-- Go to the bottom of the list and click in the 'double click to add’ box. 
+- Go to the bottom of the list and click in the 'double click to add’ box.
+
+![Adding a New Logged {{Comm}} Type](21.1.2a.png)
+
 - This opens a text box where you can add in the name of the {{comm}} type that you want to add. 
 - Press enter (the return key) on your keyboard to save. 
 
