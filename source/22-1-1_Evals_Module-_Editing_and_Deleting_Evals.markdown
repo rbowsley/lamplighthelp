@@ -18,14 +18,26 @@ It is possible to edit and delete existing {{eval}}s in {{Lamplight}}, but there
 #### Editing the {{Eval}} Name
 - Select the {{eval}} you wish to edit in the left column.
 - Double-click the non-bold text ‘{{Eval}} title’ in the middle column.
+
+![{{Eval}} Title](22.1.1a.png)
+
 - Change the name of the {{eval}} at the top of the dialogue box.
 - If you have more than one project, choose which this {{eval}} applies to.
+
+![{{Eval}} Editing Box](22.1.1b.png)
+
 - Click the ‘save’ button.
 
 #### Editing or Deleting a Field or Field Option
 - Select the {{eval}} in the left-hand column.
 - Select the field in the middle column.
-- Double-click the non-bold text ‘Question’ in the right-hand column. This opens a dialogue box in which the field name and type can be changed.
+- Double-click the non-bold text ‘Question’ in the right-hand column. 
+
+![Editing the {{Eval}} Field](22.1.1c.png)
+
+-This opens a dialogue box in which the field name and type can be changed.
+
+![{{Eval}} Field Editing Box](22.1.1d.png)
 
 **Be careful:** existing data can be hidden by changing the field type (for example, if a ‘Text box’ is changed to a ‘Select box’, previous responses will no longer be visible). However, the information is retained in the system, and will be made visible again by changing the field back to its original type. If you are uncertain about this, please call Lamplight support.
 
