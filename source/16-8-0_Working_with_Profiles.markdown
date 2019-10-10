@@ -4,7 +4,7 @@
 
 
 
-[Profile in {{Lamplight}}](16.8.0a.png)
+![Profile in {{Lamplight}}](16.8.0a.png)
 
 There may be profiles on your system that you no longer need. You have three options for what you can do with these:
 
