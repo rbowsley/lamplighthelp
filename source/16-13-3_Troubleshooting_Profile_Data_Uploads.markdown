@@ -27,7 +27,11 @@ These instructions apply to Windows: a similar approach will work on other platf
 - Go to 'File -> Open' on the menu, and open the file you've prepared for upload to Lamplight. It should look something like this:
    `'id','name','address1','web','primary purpose' '123','Argyle Homeless Shelter','123 Long Lane','www.lamplightdb.co.uk','Any/all' 'A456','Runway Employment Project','456 Test Road','Community centre'`.
 - If it doesn't look a bit like this example, (and particularly if there's lots of squiggly characters), it's not a csv file at all. You need to go back to your spreadsheet package and make sure you 'Save as' csv.
-- In Notepad, click 'Save as' and make sure that the 'Save as type' dropdown says 'Text documents'. Give the file a new name and save it.
+- In Notepad, click 'Save as' and make sure that the 'Save as type' dropdown says 'Text documents'. 
+
+[File Saving as Text](16.12.7a.png)
+
+- Give the file a new name and save it.
 - You should now be able to upload this new file (the notepad file) to Lamplight.
 
 
