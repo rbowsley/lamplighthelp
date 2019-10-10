@@ -5,7 +5,7 @@ We have collected pages from around the manual into useful collections - that's 
 ### Learning {{Lamplight}}
 
 <div class="pure-g">
-<div class="pure-u-1-2"><a href="(/help/index/p/tagged_Getting%20started">
+<div class="pure-u-1-2">
 ![Getting started](getting_started.jpg)
 </a>
 </div>
@@ -25,9 +25,9 @@ A selection of pages that will help you if you are brand new to {{Lamplight}} an
 </div>
 
 <div class="pure-g">
-<div class="pure-u-1-2"><a href="/help/index/p/tagged_Next%20steps">
+<div class="pure-u-1-2">
 ![Getting started](next_steps.jpg)
-</a></div>
+</div>
 <div class="pure-u-1-2">
 
 #### [Next steps](/help/index/p/tagged_Next%20steps)
@@ -44,9 +44,9 @@ If you are getting comfortable with {{Lamplight}} but want to start exploring a 
 </div>
 
 <div class="pure-g">
-<div class="pure-u-1-2"><a href="/help/index/p/tagged_Experienced%20user">
+<div class="pure-u-1-2">
 ![Getting started](experienced_user.jpg)
-</a></div>
+</div>
 <div class="pure-u-1-2">
 
 #### [Experienced user](/help/index/p/tagged_Experienced%20user)
@@ -62,9 +62,9 @@ If you are confident in your day to day use of {{Lamplight}} but want to start e
 </div>
 
 <div class="pure-g">
-<div class="pure-u-1-2"><a href="/help/index/p/tagged_Advanced%20topics">
+<div class="pure-u-1-2">
 ![Getting started](advanced.jpg)
-</a></div>
+</div>
 <div class="pure-u-1-2">
 
 #### [Advanced topics](/help/index/p/tagged_Advanced%20topics)
@@ -96,9 +96,9 @@ You can also [browse all the pages that include videos](/help/index/p/tagged_Vid
 ### Other collections
 
 <div class="pure-g">
-<div class="pure-u-1-2"><a href="/help/index/p/tagged_Time%20saving%20tips">
+<div class="pure-u-1-2">
 ![Getting started](time_saving.jpg)
-</a></div>
+</div>
 <div class="pure-u-1-2">
 
 #### [Time saving tips](/help/index/p/tagged_Time%20saving%20tips) 
@@ -109,9 +109,9 @@ A selection of tips and tricks that can save you time in your day-to-day use of 
 </div>
 
 <div class="pure-g">
-<div class="pure-u-1-2"><a href="/help/index/p/tagged_GDPR">
+<div class="pure-u-1-2">
 ![Getting started](data_protection.jpg)
-</a></div>
+</div>
 <div class="pure-u-1-2">
 
 #### [GDPR](/help/index/p/tagged_GDPR)
