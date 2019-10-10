@@ -28,7 +28,7 @@ An introduction to Lamplight. You'll find explanations on:
 </div>
 <div class="pure-u-1-2">
 
-#### [Profiles](/help/index/p/51.2.0))
+#### [Profiles](/help/index/p/51.2.0)
 
 In this section you'll find how to :
 - [create a new profile for {{people}} and {{org}}s](/help/index/p/51.2.1)
