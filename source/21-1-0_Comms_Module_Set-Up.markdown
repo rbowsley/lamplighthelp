@@ -4,6 +4,8 @@
 
 
 
+![System Admin {{Comm}} Settings](21.1.0a.png)
+
 As well as the global settings, which relate to {{comm}}s in the core system, there are several settings for configuring the {{Comm}}s Module. 
 
 To find these, go to 'admin -> system administration -> {{Comm}} Settings'.
