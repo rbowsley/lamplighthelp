@@ -32,7 +32,7 @@ A selection of pages that will help you if you are brand new to {{Lamplight}} an
 
 #### [Next Steps](/help/index/p/tagged_Next%20steps)
 
-If you are getting comfortable with {{Lamplight}} but want to start exploring a bit further, these pages will help you along the way.  You'll find help about
+If you are getting comfortable with {{Lamplight}} but want to start exploring a bit further, these pages will help you along the way.  You'll find help about:
 
 - organising data - finding what you want, sorting it, and downloading
 - adding new profiles to the system
