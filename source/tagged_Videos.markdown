@@ -1,4 +1,4 @@
-# [Videos]((/help/index/p/50.0.0)
+# [Videos](/help/index/p/50.0.0)
 We have created videos to help you learn new skills in {{Lamplight}}, whether you're a new user, or looking to pick up a few tips.
 
 ### [Basic Training](help/index/p/51.0.0)
@@ -9,7 +9,6 @@ Basic Training is a collection of videos aimed at new staff, to give them an und
 <div class="pure-g">
 <div class="pure-u-1-2">
 ![The Home Page and Diary](homepage.jpg)
-</a>
 </div>
 <div class="pure-u-1-2">
 
