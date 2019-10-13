@@ -1,4 +1,4 @@
-# [Videos](/help/index/p/50.0.0)
+# Videos
 We have created videos to help you learn new skills in {{Lamplight}}, whether you're a new user, or looking to pick up a few tips.
 
 ### [Basic Training](help/index/p/51.0.0)
