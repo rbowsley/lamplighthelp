@@ -56,8 +56,8 @@ This can be useful if you are adding a number of {{outcome}} categories at once.
    - **'number'**: This is for recording specific amounts (for example, "by how much has your debt been reduced?" - from 50,000 to 0). 
 
 - Minimum and maximum values: Use these to set your lowest and highest score for the measure (e.g. as above, your scale might be 1 (minimum) and 10 (maximum)). If you're creating a yes/no {{outcome}} use the minimum value of 0 and the maximum value of 1.
-- 'Notes': Double click to open the notes section to add any explanatory notes for operators. These appear when you add the {{outcome}} either through {{activity} -> add new -> {{outcome}}, or if you go to the {{oucome}} tab in a profile then click the 'add' button. You will not see it if you choose to add the {{outcome}} through the profile tab, using the 'add' button in the Mode box in the middle of the page. 
-- If you have more than one {{project}}, you can tick which {{project}}s you would like this {{measure}} to be available to.
+- 'Notes': Double click to open the notes section to add any explanatory notes for operators. These appear when you add the {{outcome}} either through {{activity} -> add new -> {{outcome}}, or if you go to the {{outcome}} tab in a profile then click the 'add' button. You will not see it if you choose to add the {{outcome}} through the profile tab, using the 'add' button in the Mode box in the middle of the page. 
+- If you have more than one {{project}}, you can tick which {{project}}s you would like this measure to be available to.
 
 ![New {{Outcome}} Measure Pop Up](16.6.2e.png)
 
@@ -76,9 +76,9 @@ If you have more than one measure to add to a category, you can also opt to put 
 
 ### Adding Score Descriptors
 
-Sometimes you may want to show descriptors for your {{outcome}}s - this is text which describes what the score for this measurement means. These only really make sense with 'score' type measures. For example, you may have a scale of 1 - 5 where 1 is 'very unhappy' and 5 is 'very happy'. You can add these descriptors to your scores so that they show when the {{outcome}}s are being recorded. (You will only see this when you add the {{outcome}} either through {{activity} -> add new -> {{outcome}}, or if you go to the {{oucome}} tab in a profile then click the 'add' button to the right of the page.)  
+Sometimes you may want to show descriptors for your {{outcome}}s - this is text which describes what the score for this measurement means. These only really make sense with 'score' type measures. For example, you may have a scale of 1 - 5 where 1 is 'very unhappy' and 5 is 'very happy'. You can add these descriptors to your scores so that they show when the {{outcome}}s are being recorded. (You will only see this when you add the {{outcome}} either through {{activity} -> add new -> {{outcome}}, or if you go to the {{outcome}} tab in a profile then click the 'add' button to the right of the page.)  
 
-[{{Outcome Descriptors](16.6.2g.png)
+[{{Outcome}} Descriptors](16.6.2g.png)
 
 You will not see it if you choose to add the {{outcome}} through the profile tab, using the 'add' button in the Mode box in the middle of the page. 
 

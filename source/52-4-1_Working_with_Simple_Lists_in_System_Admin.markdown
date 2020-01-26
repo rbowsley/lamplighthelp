@@ -1,4 +1,4 @@
-# 51.4.1 Working with Simple Lists in System Admin
+# 52.4.1 Working with Simple Lists in System Admin
 
 > This video introduces you to how drop-down list items are added and edited in system administration
 

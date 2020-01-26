@@ -20,7 +20,7 @@ It is possible to edit and delete existing {{eval}} templates in {{Lamplight}}, 
 - Make your changes, then click on 'Update'. (For more on the different fields in an {{eval}} or question, see [21.1.0 {{Eval}}s Module: Setting Up {{Eval}}s](help/index/p/21.1.0).)
 - Remember to click 'save all changes' on the main page before navigating away - if you do not do this then any changes that you have made will be lost. 
 
-### Deleting {{Evals}}, Questions and Options
+### Deleting {{Eval}}s, Questions and Options
 
 If you delete an {{eval}}, all of the questions in it will be deleted too. Similarly, if you delete a question, the options within that will also be erased.
 

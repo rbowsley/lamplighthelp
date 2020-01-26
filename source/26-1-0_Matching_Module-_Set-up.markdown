@@ -8,7 +8,7 @@ The matching module uses five sets of categories for both {{volunteering opportu
 
 - **Interests** of the {{volunteering applicant}}.
 - Would be **ideal for** (e.g. age and any personal circumstances of the {{volunteering applicant}}).
-- **Role** - what they would be doing in the {{volunteeering opportunity}}.
+- **Role** - what they would be doing in the {{volunteering opportunity}}.
 - **Requirements** - any experience, qualifications etc. the {{volunteering applicant}} may need.
 - **Skills** the {{volunteering applicant}} will gain.
 
@@ -76,7 +76,7 @@ To the right of each list item is a series of buttons. The first two of these al
 
 ### Deleting a Category or Sub-category
 
-Before you delete a category or sub-category, consider that any existing tags for these sub/categories will be lost, and you will no longer be able to search your {{volunteer opportunity}} records and {{volunteer application}}s for them.
+Before you delete a category or sub-category, consider that any existing tags for these sub/categories will be lost, and you will no longer be able to search your {{volunteering opportunity}} records and {{volunteering application}}s for them.
 
 You can delete a whole category with all its related subcategories in one go, or choose to remove single subcategories.
 
@@ -86,7 +86,7 @@ You can delete a whole category with all its related subcategories in one go, or
 - If you have done this in error, clicking on the dustbin icon again will 'undelete' the item.
 - Click 'save all changes' at the top or bottom of the page to keep your changes. Once you have done this you will not be able to undelete the item.
 
-![Deleted {{Item}}](26.1.0b.png)
+![Deleted Item](26.1.0b.png)
 
 
 ### Attendance Roles

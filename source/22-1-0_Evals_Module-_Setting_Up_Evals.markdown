@@ -65,7 +65,7 @@ If you want to add a number of questions at the same time:
 - Click the 'bulk add question' button.
 - Type all your questions in the text box, with a semi-colon (;) between each one. You do not need a space before each new one. 
 
-![Bulk Add Questions](21.1.0d.png)
+![Bulk Add Questions](22.1.0d.png)
 
 - When you have finished, click 'add all'. They will appear in a list below the field name.
 

@@ -79,7 +79,7 @@ To find the 'sort' button which will arrange options within a specific field, cl
 
 ### Editing and Deleting Tabs, Fields and Options
 
-This is the same as for custom tabs and fields in the profile. Please see [16.7.2 Adding and Editing Profile Custom Tabs and Fields](/help/index/p/16.7.2). If you are thinking of editing an existing field which already has data in it, please also see [16.7.7 Caution - Editing Existing Fields with Data In](/help/index/p/16.7.7).
+This is the same as for custom tabs and fields in the profile. Please see [16.7.2 Adding and Editing Profile Custom Tabs and Fields](/help/index/p/16.7.2). If you are thinking of editing an existing field which already has data in it, please also see [16.7.6 Troubleshooting Custom Tabs and Fields](/help/index/p/16.7.6).
 
 
 ##### Tags
