@@ -5,35 +5,36 @@
 
 
 ### To Set Up a New {{Eval}}
-
 #### Adding an {{Eval}} in System Admin
 
 - Click ‘admin’ in the main menu, then ‘system administration’.
 - Scroll to the bottom 'Module Administration' section, find the '{{Eval}}s Module' box and click on ‘Manage {{eval}} templates’.
-- The structure of this page will be familiar to those who have edited custom fields in profiles or records, and it works in the same way as those pages. The left-hand column shows existing {{eval}}s.
-- Click the grey ‘click to add’ button. This will reveal options in the middle column.
-- Double-click the non-bold text, ‘{{Eval}} title: click to add’ to open a dialogue box.
+- The structure of this page will be familiar to those who have edited custom fields in profiles or records, and it works in the same way as those pages. 
+- The items currently in the list will show in boxes on the page. Above these are 'add new {{eval}}' (to add a single {{eval}}) and 'bulk add {{eval}}' (to add a number of {{eval}}s) buttons. 
 
-![Adding an {{Eval}} Template](22.1.0a.png)
+![System Admin {{Eval}}s Page](22.1.0a.png)
 
-- In the 'Text' box, give the {{eval}} a name.
-- If the system has multiple projects, specify to which the {{eval}} applies.
-- Click save when done, and the name will appear in the middle column.
+**If you are adding a single {{eval}}:**
+   - Choose 'add new {{eval}}', then type the name of the {{eval}} in the 'Text' box. If you have {{project}}s in your system, you can also choose which ones it will be available to.
+   - Click 'Update'. You will see it added to the list. You will now need to add questions (see below). 
+   - Please remember that until you click 'save all changes' at the top or bottom of the main page this new {{eval}} has not been saved. (You can make all the changes you need on the page without saving in between, but you must not navigate away from the page before saving or all the changes will be lost.)
+**If you are adding a number of {{eval}}s:**
+   - Choose 'bulk add {{eval}}', then type in the name of each {{eval}} separated by a semi-colon (;). You do not need spaces between each one. For example, 'Training feedback;Staff management {{eval}};End of year checklist'.
+   - When you have listed them all, click 'add all'. You will see them added to the list - check that they are all as you expected. You will now need to click on each in turn to add the questions - see below.
+   - Please remember that until you click 'save all changes' at the top or bottom of the main page this new {{eval}} has not been saved. (You can make all the changes you need on the page without saving in between, but you must not navigate away from the page before saving or all the changes will be lost.)
 
-**Please note:** Once an {{eval}} has been created in this way you need to add at least one question, even if it’s just a placeholder, before leaving the page. If you do not do this the {{eval}} will appear blank, and it will no longer be editable. If this happens, please contact Lamplight for support.
+#### Adding Questions to the {{Eval}}
 
-#### Adding a Field to the {{Eval}}
-
-Click the ‘click to add’ button to reveal options in the right-hand column.
-
-![Adding Fields to an {{Eval}}](22.1.0b.png)
-
-Double-click the non-bold text ‘Question: click to add’.
-In the dialogue box that appears, write the question in the ‘Text’ field.
+**To add a single question:**
 
 ![The {{Eval}} Fields Dialogue Box](22.1.0c.png)
 
-Using the ‘Type’ field, select the type of field you wish to use. The options are as follows:
+- In your new {{eval}}, click on the 'add new question' button. 
+- The question itself goes in the 'Enter question text' field.
+- If you tick the 'Is this question required?' field, then it will not be possible for respondents to save the {{eval}} until they have recorded an answer this question. 
+- Placeholder text will appear in the text box for a text-based question (for example 'Add the reason here') if you choose that field type.
+- Descriptive text can be shown below the field as an explanation (for example 'only complete this if the previous answer was 'no').
+- Using the ‘Type’ field, select the type of field you wish to use. The options are as follows:
    - Select box: a drop-down list allowing a single selection.
    - Multi-select box: a drop-down box allowing the selection of multiple items (by holding Ctrl).
    - Text box: a single-line text-entry field.
@@ -56,31 +57,57 @@ Using the ‘Type’ field, select the type of field you wish to use. The option
 
 [Section 16.7.1](/help/index/p/16.7.1) has more information about custom field types.
 
-To make a field mandatory, tick the ‘Is this a required field’ box. This means the {{eval}} won’t save until an answer has been given.
+- When you have finished, click the ‘Update’ button. Again, remember that any changes you make aren't saved until you click 'save all changes' at the top or bottom of the main page.
+- Continue adding questions in this way until you have all that you need. 
 
-Click the ‘save’ button when you are done with that field.
+**To bulk add questions:**
+If you want to add a number of questions at the same time:
+- Click the 'bulk add question' button.
+- Type all your questions in the text box, with a semi-colon (;) between each one. You do not need a space before each new one. 
 
-#### Adding Options to Select Fields
+![Bulk Add Questions](21.1.0d.png)
 
-If the field has a list of options, these must now be added.  Once the question has been saved it will be shown in the column on the right.  Enter the options, each one separated by a semi-colon, into the box at the bottom of the right-hand column. Don’t enter any spaces on either side of the semi-colon.
+- When you have finished, click 'add all'. They will appear in a list below the field name.
 
-![Setting Up Field Options](22.1.0d.png)
+#### Adding Options to Select Questions
 
-Click the ‘Add’ button below. The items will appear in a list above.  This list can be reordered by clicking and dragging.  List items can be deleted individually by clicking on the 'Del' button to the right of them.
+If any of the questions has a list of options, these must now be added. For example, your question may be 'On a scale of 1-5, how would you rate the training today?'
 
-#### Adding More Fields
+If it is a single question that you have just added you will see buttons allowing you to add options underneath it. If it is an existing question that you want to add more options to, or are editing, click on the question name then select the three dots on the right (the 'more' button) to see these 'add' options. 
 
-You can continue adding fields using the process above (clicking the ‘click to add’ button in the middle column) until the {{eval}} fields are all in place.
+**Adding a single option:**
 
-#### Testing Your {{Eval}}  
+- To add your options one at a time, click on the 'add new option' button. This opens a pop-up box where you type the text of your option (in the previous example, you might start with '1 - terrible'). 
+- Click 'Update' when you have finished. 
+- Continue adding all the options you need in this way.
+
+#### Add a Number of Options at Once
+
+- If you have a question which provides a number of different options, click on 'bulk add option'. 
+- Type all your options in the text box, with a semi-colon (;) between each one. You do not need a space before each new one. For example, '1 - terrible;2 - poor; 3 - OK;4 - good;5 - excellent'.
+- When you have finished, click 'add all'. They will appear in a list below the question.
+
+### Changing the Order of {{Eval}}s, Questions and Options
+
+You can re-order {{eval}}s, questions and options at any time. To reorder your {{eval}}s in the list: 
+
+- Click on the name of the one you would like to move, then use the up and down arrows to the right of it to change its position in the list. 
+- Alternatively you can reorder all of your {{eval}}s alphabetically by clicking on the 'sort' button above the list. Pressing this button once will arrange the evaluations in alphabetical order, while pressing again will sort them in reverse order.
+
+The same principal applies to sorting questions (which can be moved up and down within their {{eval}}), and options (which can be reordered within the question):
+
+- Click on the question or option that you  want to move, then use the arrow buttons to the right of it. 
+- If you want to arrange all questions in an {{eval}} (or all options in a question) in alphabetical order, use the 'sort' button at the top of the list.
+
+To find the 'sort' button which will order the questions within an {{eval}}, click on the {{eval}} name and the sort button will be displayed immediately below it. 
+
+To find the 'sort' button which will arrange options within a specific question, click on the question name, then the button with three dots to the right of it. The 'sort' button appears at the top of the list of options.
+
+### Testing Your {{Eval}}  
 
 Once an {{eval}} has been created, try completing it to ensure everything is displayed as intended. 
 - First refresh the page in your browser (by pressing F5 in Windows or Ctrl+R in OS X), and it will then be accessible through the main menu. 
 - For more on completing {{eval}} information, please see [22.2.0 Adding and Editing {{Eval}} Responses](/help/index/p/22.2.0).
-
-### Creating Another {{Eval}}
-
-There is no limit to the number of {{eval}}s you can have in {{Lamplight}}. To add more follow the process above (clicking the ‘click to add’ button in the left-hand column).
 
 
 ###### evaluation module
