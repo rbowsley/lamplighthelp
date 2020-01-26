@@ -116,7 +116,7 @@ Before you make any changes to your categories or measures, you need to be aware
 
 ### Changing the Order of {{Outcome}}s, Measures and Descriptors
 
-It is possible to change the order in which your {{ouctome}}s are listed. To do this: 
+It is possible to change the order in which your {{outcome}}s are listed. To do this: 
 - Go to the one you would like to change and use the up and down arrows to the right of it to change its position in the list. 
 Alternatively you can reorder all of your {{outcome}}s in alphabetical order by category name.
 - Above the list of {{outcome}}s, click on 'sort'. Pressing this button once will arrange the {{outcome}}s in alphabetical order, while pressing again will sort them in reverse order. 
