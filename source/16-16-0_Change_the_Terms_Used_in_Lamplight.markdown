@@ -36,6 +36,25 @@ If you can't find the term that you want to change in the list at the top of the
  - Again, save your changes at the bottom of the page, then press F5 or Command-R to refresh the system.  
  
  
+### Using translations to add information to built-in forms
+
+You can translate the labels of built-in form elements that appear in any of the forms using the 'Additional translations'.  For example, you could add 'Surname;Last name' to the additional translations, and when adding a new profile you'll see 'Last name' as the label on the form.
+
+You can also add placeholder and description labels to these built-in form elements using translations. A placeholder is the 'shadow' text that appears in an empty text form element.  The description is the text that appears below a form element.
+
+To add a placeholder to the Surname field, add 'Surname (placeholder);aka Family name' to the additional translations.  To add a description to the Surname field, add 'Surname (description);If the client is unwilling to give a surname, please ask just for an initial.' to the additional translations.
+
+However, if you've done all of these (i.e. you have translated 'Surname' to 'Last name'), you'll need to use the **translated** version in your 'Additional translations':
+
+Surname;Last name
+Last name (placeholder);aka Family name
+Last name (description);If the client is unwilling to give a surname, please ask just for an initial.
+
+Entering a new profile will then look like this:
+
+![Translating form elements and adding placeholders](16.16.0e.png)
+
+ 
 ### Different Translators
 
 At the very bottom of this page is an option to change how the translation happens from the standard terms to your chosen ones.  For English you will almost certainly want to use the default.  If you are translating {{Lamplight}} into another language completely other options may be useful, depending on the language and how it's structured (some languages don't have capital letters, for example).
