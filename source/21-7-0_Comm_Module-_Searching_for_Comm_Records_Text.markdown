@@ -1,4 +1,4 @@
-# 21.6.0 {{Comm}} Module: Searching for {{Comm}} Records Text
+# 21.7.0 {{Comm}} Module: Searching for {{Comm}} Records Text
 
 > If you have the {{Comm}}s Module it is possible to search for a saved record based on the message content
 
