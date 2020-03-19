@@ -10,11 +10,13 @@
 
 The in addition to core {{comm}}s capability, the Communications Module lets you:
 
-- log all {{comm}}s created in {{Lamplight}} in the profiles of the recipients
-- send mail-merged and non-mail-merged letters, emails and mailing labels from any {{group}}, {{work}} record or profile in the system.
-- use templates to set up standard mail-merged {{comm}}s.
-- buy SMS credits to send text messages directly from Lamplight.
-- use {{Lamplight}} {{group}}s to create Mailchimp mailing lists.
+- [Log all {{comm}}s](/help/index/p/21.3.0) created in {{Lamplight}} in the profiles of the recipients.
+- [Send mail-merged and non-mail-merged letters, emails and mailing labels](/help/index/p/21.3.0) from any {{group}}, [{{work}} record](/help/index/p/21.3.1) or profile in the system.
+- [Use templates](/help/index/p/21.1.1) to set up standard mail-merged {{comm}}s.
+- Buy SMS credits to [send text messages directly from Lamplight](/help/index/p/21.4.0).
+- Use {{Lamplight}} {{group}}s to [create Mailchimp mailing lists](/help/index/p/21.2.0).
+
+You can also see [Communications Module Set-up Guide](/help/index/p/21.1.0) for information on how to get it working in your system.
 
 For more background information about {{comm}}s in {{Lamplight}}, you may find these pages useful:
 - [10.0.0 Core {{Comm}}s](/help/index/p/10.0.0).
