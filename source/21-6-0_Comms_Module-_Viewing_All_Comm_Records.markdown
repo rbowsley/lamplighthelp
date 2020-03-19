@@ -1,4 +1,4 @@
-# 21.5.0 {{Comm}}s Module: Viewing All {{Comm}} Records
+# 21.6.0 {{Comm}}s Module: Viewing All {{Comm}} Records
 
 > If you have the {{Comm}}s Module you can see a table of all the {{comm}}s sent or logged in your system
 
@@ -32,7 +32,7 @@ For more help on the tables see [section 3.5.3 to change columns and save layout
 
 ### The Context Menu
 
-You can see the context menu for a {{comm}} record by clicking on menu button in the left-hand column of the table, or right clicking on the record itself.  It has a number of options - these are the same as you will see in a {{comm}}s record in a profile - for more detail please see [21.4.0 The {{Comm}}s Tab](/help/index/p/21.4.0).
+You can see the context menu for a {{comm}} record by clicking on menu button in the left-hand column of the table, or right clicking on the record itself.  It has a number of options - these are the same as you will see in a {{comm}}s record in a profile - for more detail please see [21.5.0 The {{Comm}}s Tab](/help/index/p/21.5.0).
 
 
 ###### comms module
