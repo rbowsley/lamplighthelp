@@ -4,20 +4,26 @@
 
 
 
-{{Comm}} templates can be set up for use with any type of {{comm}} sent through Lamplight. They can include mail merge fields, which draw data directly from associated profiles or {{work}} records.
+{{Comm}} templates can be set up for use with any type of {{comm}} sent through Lamplight. They can include mail merge fields, which draw data directly from associated profiles or {{work}} records.  You can also upload [specially formatted Word files](/help/index/p/21.1.5) which can be used to generate mail-merged Documents and Letters.
 
-If you have not yet created any {{comm}}s templates, there will be two standard ones already in the table. **Do not delete these** — there must always be at least one template here in order to create others.
+### Text Templates
+
+Text templates are typed into {{Lamplight}} directly, with formatting added in the {{Lamplight}} text editor.  They can be used in all types {{comm}} - so you can use them to generate emails, sms messages, or letters.  You can use one text template in another, so you can create a 'letterhead' template that it used in other templates.  The editor toolbar has drop-down selectors to add mail merge fields.  However, it can be difficult to achieve more complicated formatting, especially when generating Word documents or letters.
+
+### Word file Templates
+
+Word file templates are Microsoft Word files uploaded into {{Lamplight}}, and can only be used to generate Letters and Documents.  You can use the [full range of mail-merge tags in them](/help/index/p/21.1.6), but you have to enter these carefully yourself when creating the template in Word.  They do reliably allow the full range of formatting available in Word, so are a great choice for more complex forms and letters.  [Page 21.1.5](/help/index/p/21.1.5) has instructions on how to create Word file Templates, and [page 21.1.6](/help/index/p/21.1.6) lists all the mail merge tags you can use.
+
 
 ### To Add a New Template
 
 - Go to 'admin -> system administration -> {{Comm}} Settings -> Manage {{comm}} templates.'
 - You will see a table, either with example templates or with ones which have already been set up. 
-- Right click on any row of the table or use a menu button in the left column to bring up a menu.
-- Choose ‘Add new’.
-
-![{{Comm}} Template Pop-up Menu](21.1.1a.png)
+- Click the 'add a new template button'.
 
 Give your template a name, and a short description.
+
+If you are uploaded a Word file Template, select the file and click save.  If you are creating a Text Template, do not select a file and enter the template text below.
 
 If you have [set up {{comm}} roles](/help/index/p/21.1.3) you will see a 'Use {{comm}} roles with mail merge fields in this template?' box. If so, you can choose whether you want to be able to use merge fields relating to the {{comm}}s role you have assigned in the record. 
 
@@ -93,6 +99,7 @@ If you want to test as you go, we suggest that you create a regular {{comm}} rec
 - Open the 'Manage {{comm}} templates' page. 
 - Find the template you want, right click on it or click on the context menu to the left of it.
 - Choose either 'Edit’ or ‘Delete’ options. 
+- To update a Word file Template, simply edit the existing template and upload a new version of the Word file to use.
 **Deleting a template will not affect any {{comm}}s already sent.**
 
 ![Edit and Delete Template Options](21.1.1i.png)
