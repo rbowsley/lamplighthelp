@@ -4,15 +4,21 @@
 
 
 
-{{Comm}} templates can be set up for use with any type of {{comm}} sent through Lamplight. They can include mail merge fields, which draw data directly from associated profiles or {{work}} records.  You can also upload [specially formatted Word files](/help/index/p/21.1.5) which can be used to generate mail-merged Documents and Letters.
+{{Comm}} templates can be set up for use with any type of {{comm}} sent through Lamplight. They can include mail merge fields which draw data directly from associated profiles or {{work}} records. You can also upload [specially formatted Word files](/help/index/p/21.1.5) which can be used to generate mail-merged documents and letters.
 
 ### Text Templates
 
-Text templates are typed into {{Lamplight}} directly, with formatting added in the {{Lamplight}} text editor.  They can be used in all types {{comm}} - so you can use them to generate emails, sms messages, or letters.  You can use one text template in another, so you can create a 'letterhead' template that it used in other templates.  The editor toolbar has drop-down selectors to add mail merge fields.  However, it can be difficult to achieve more complicated formatting, especially when generating Word documents or letters.
+A text template is typed directly into {{Lamplight}}, with formatting added in the {{Lamplight}} text editor. They can be used for all types of {{comm}} including emails, sms messages, or letters. You can use one text template in another one - a common example of this would be creating a standard 'letterhead' template that can be used at the top of other templates. 
 
-### Word file Templates
+xxxxxx Picture here xxxxxx
 
-Word file templates are Microsoft Word files uploaded into {{Lamplight}}, and can only be used to generate Letters and Documents.  You can use the [full range of mail-merge tags in them](/help/index/p/21.1.6), but you have to enter these carefully yourself when creating the template in Word.  They do reliably allow the full range of formatting available in Word, so are a great choice for more complex forms and letters.  [Page 21.1.5](/help/index/p/21.1.5) has instructions on how to create Word file Templates, and [page 21.1.6](/help/index/p/21.1.6) lists all the mail merge tags you can use.
+When you are creating a new template, the 'Text Editing' toolbar has drop-down selectors allowing you to add mail merge fields. These text templates are best used in emails or where less complicated formatting is required.
+
+### Word File Templates
+
+Word file templates are pre-formatted Microsoft Word files which are uploaded into {{Lamplight}}. They can only be used to generate letters and documents.  The advantage of these is that you can use the more complex formatting available in Word, so they're a great choice for more complex forms and letters. You can also use the [full range of mail-merge tags in them](/help/index/p/21.1.6) by entering them carefully when creating the template in Word. 
+
+[Page 21.1.5](/help/index/p/21.1.5) has instructions on how to create Word file templates, and [page 21.1.6](/help/index/p/21.1.6) lists all the mail merge tags you can use.
 
 
 ### To Add a New Template
@@ -20,14 +26,20 @@ Word file templates are Microsoft Word files uploaded into {{Lamplight}}, and ca
 - Go to 'admin -> system administration -> {{Comm}} Settings -> Manage {{comm}} templates.'
 - You will see a table, either with example templates or with ones which have already been set up. 
 - Click the 'add a new template button'.
+- Give your template a name, and a short description.
+- If you are uploading a Word file template, find the file in your computer's directory click 'save'.  If you are creating a text template, do not select a file and simply enter the template text below.
 
-Give your template a name, and a short description.
+**Using Communication Roles in Templates**
 
-If you are uploaded a Word file Template, select the file and click save.  If you are creating a Text Template, do not select a file and enter the template text below.
+You may have [{{comm}} roles](/help/index/p/21.1.3) set up in your system which you can assign to people in the attendance table of your {{comm}} record. 
 
-If you have [set up {{comm}} roles](/help/index/p/21.1.3) you will see a 'Use {{comm}} roles with mail merge fields in this template?' box. If so, you can choose whether you want to be able to use merge fields relating to the {{comm}}s role you have assigned in the record. 
+xxxxxx Picture here xxxxxxx
 
-For example, you may have {{comm}} roles called 'service user' and 'referrer', and have added people with these respective roles to the attendance table of the {{comm}} record. When composing the {{comm}}, you can then use merge fields like this: "Dear 'referrer title' 'referrer surname', thank you for referring 'service user name' to us."  {{Comm}} roles in a template are used when you are sending a letter to a single recipient; others in the attendance table are just used for merge information drawn from their profiles.
+If so, you'll see the option to 'Use {{comm}} roles with mail merge fields in this template?'. This extends the merge information that you can use to customise your messages.
+
+For example, you may have added people to the {{comm}} record attendance table with the {{comm}} roles of 'service user' and 'referrer'. When composing the message, you could then use merge fields like this: "Dear 'referrer title' 'referrer surname', thank you for referring 'service user name' to us."  These {{comm}} roles are only used when you are sending a letter to a single recipient which will include merge information from the profiles of others in the attendance table.
+
+xxxxxx Picture here xxxxxx
 
 Click the + symbol in the top, right-hand corner of the text box to reveal the text editing tools. This will allow you to apply formatting to the document, as well as including images and merge fields.
 
