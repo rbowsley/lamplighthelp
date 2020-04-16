@@ -3,7 +3,7 @@
 > A {{comm}} Word file template is pre-formatted in Microsoft Word, then uploaded into {{Lamplight}}. It allows for more complex formatting of forms and letters
 
 
-Word file Templates are created in Microsoft Word and then uploaded into {{Lamplight}}.  You can use mail-merge tags by entering the specially formatted placeholders in the Word doc. {{Lamplight}} will then recognise these and replace them with the relevant data each time you use the template.  [Section 21.1.6 has a list of all the tags](/help/index/p/21.1.6) you can use in your files.
+Word file Templates are created in Microsoft Word and then uploaded into {{Lamplight}}.  You can use mail-merge tags by entering the specially formatted placeholders in the Word doc. {{Lamplight}} will then recognise these and replace them with the relevant data each time you use the template.  [Section 21.1.6 has a list of all the tags](/help/index/p/21.1.4) you can use in your files.
 
 ### File Format
 
@@ -40,7 +40,7 @@ Mail merge tags can be used to tell {{Lamplight}} to insert some of the informat
 These are not Microsoft ‘fields’ - they are just text typed in.  You do not need to use Microsoft's mail merge or field menus to add these tags to your template.
 
 You need to be particularly careful about two things:
-- Make sure that you enter the field names exactly, paying particular attention to capitalisation, spelling and spaces , which all need to appear exactly as they do in [section 21.1.6](/help/index/p/21.1.6) or, in the case of custom profile fields, as they appear in your system.  You may wish to [download your system settings](https://lamplight.online/en/admin/uploadfields/type/get_settings) into a spreadsheet that you can copy and paste from.
+- Make sure that you enter the field names exactly, paying particular attention to capitalisation, spelling and spaces , which all need to appear exactly as they do in [section 21.1.4](/help/index/p/21.1.4) or, in the case of custom profile fields, as they appear in your system.  You may wish to [download your system settings](https://lamplight.online/en/admin/uploadfields/type/get_settings) into a spreadsheet that you can copy and paste from.
 - If you are formatting a mail merge tag, as bold for example, either format the whole tag or none of it - do not partially-format it as this will stop it from working. For example ${*First* name} would fail (the ** indicate bold here), because the extra formatting breaks up the tag.  {{Lamplight}} will look for '${First name}' in the file, but it will find something like '${!hey word show this bold!First!ok stop bold now! name}'.  So a search for ${First name} will fail. 
 
 As a general rule, it will be best to create your document without mail merge tags first, then apply formatting, and then finally type in the merge tags you need.
@@ -83,7 +83,7 @@ You can also insert merge fields from {{activity}} records. This template can be
 
 {{Comm}} roles can be used when you wish to generate a single document from multiple profiles.  For example you might write to a GP (who has their own profile) and include information from a {{user}}’s profile. In this instance you can use {{comm}} roles to tell {{Lamplight}} which profile to use for which mail merge tags.
 
-First of all you would need to [set up {{comm}} roles](/help/index/p/21.1.3) for 'GP' and 'user', and note down their IDs (you can see the ID number in the table once the role has been saved).  For this example let's say the role 'GP' has ID 5 and 'user' has ID 12.
+First of all you would need to [set up {{comm}} roles](/help/index/p/21.1.6) for 'GP' and 'user', and note down their IDs (you can see the ID number in the table once the role has been saved).  For this example let's say the role 'GP' has ID 5 and 'user' has ID 12.
 
 The letter will be addressed to the GP and refer to the user, so your template starts:
 
@@ -93,7 +93,7 @@ Dear Dr ${commsrole5|Surname},
 
 You add the identifier 'commsrole5|' for the GP (as GP is role ID 5) and 'comssrole12|' for the user (as 'user' is role ID 12) to the merge tags so the {{Lamplight}} looks for the information in the correct profiles.
 
-If you are using {{comm}}s roles in a template, we'd strongly recommend you note this in the name or description of the template when you upload it, so that you and others are aware of this when they use the template.  See [section 21.1.3](/help/index/p/21.1.3) for more on how to generate a {{comm}} using {{comm}} roles.
+If you are using {{comm}}s roles in a template, we'd strongly recommend you note this in the name or description of the template when you upload it, so that you and others are aware of this when they use the template.  See [section 21.1.6](/help/index/p/21.1.6) for more on how to generate a {{comm}} using {{comm}} roles.
 
 ### Uploading Your Template
 
