@@ -17,7 +17,7 @@ It is possible to edit and delete existing {{eval}} templates in {{Lamplight}}, 
 
 {{Eval}} templates are edited in the section of system admin as they were created in (admin -> system administration -> (in the module administration secton, {{Eval}}s Module) Manage {{eval}} templates).
 - Select the {{eval}} you wish to edit in the list, then click on the pen and paper symbol to the right of it. 
-- Make your changes, then click on 'Update'. (For more on the different fields in an {{eval}} or question, see [21.1.0 {{Eval}}s Module: Setting Up {{Eval}}s](help/index/p/21.1.0).)
+- Make your changes, then click on 'Update'. (For more on the different fields in an {{eval}} or question, see [22.1.0 {{Eval}}s Module: Setting Up {{Eval}}s](help/index/p/22.1.0).)
 - Remember to click 'save all changes' on the main page before navigating away - if you do not do this then any changes that you have made will be lost. 
 
 ### Deleting {{Eval}}s, Questions and Options
