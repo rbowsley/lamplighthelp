@@ -1,4 +1,4 @@
-# 21.1.6 List of all Word template merge tags
+# 21.1.4 List of all Word template merge tags
 
 > Merge tags in Word Templates are replaced with information from profiles and {{activity}} records.  This is the list of all the tags you can use.
 
