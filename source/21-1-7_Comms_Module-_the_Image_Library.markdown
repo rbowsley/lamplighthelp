@@ -1,4 +1,4 @@
-# 21.1.4 {{Comm}}s Module: The Image Library
+# 21.1.7 {{Comm}}s Module: The Image Library
 
 > The image library stores images that you can use in your {{comm}}s and {{comm}} templates
 
