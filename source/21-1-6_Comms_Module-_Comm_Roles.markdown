@@ -1,4 +1,4 @@
-# 21.1.3 {{Comm}}s Module: {{Comm}} Roles
+# 21.1.6 {{Comm}}s Module: {{Comm}} Roles
 
 > {{Comm}} roles mean that you can assign different roles to {{people}} and {{org}}s involved in {{comm}}s. These are like roles in {{activity}} record attendance tables, and are used to generate advanced mail merges
 
