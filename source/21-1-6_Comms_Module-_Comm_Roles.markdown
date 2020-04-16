@@ -26,7 +26,7 @@ xxxxx picture here xxxxx
 
 ### Adding, Editing and Deleting {{Comm}} Roles
 
-The process for adding, editing and deleting communication roles is the same as that for [adding types of logged communication](/help/index/p/21.1.2). Click on the link for more details. 
+The process for adding, editing and deleting communication roles is the same as that for [adding types of logged communication](/help/index/p/21.1.5). Click on the link for more details. 
 
 
 ###### comms module
