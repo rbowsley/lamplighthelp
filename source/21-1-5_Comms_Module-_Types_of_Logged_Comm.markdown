@@ -1,4 +1,4 @@
-# 21.1.2 {{Comm}}s Module: Types of Logged {{Comm}}
+# 21.1.5 {{Comm}}s Module: Types of Logged {{Comm}}
 
 > You can flag logged {{comm}}s by type. Your System Administrator can edit and add to this list of types 
 
