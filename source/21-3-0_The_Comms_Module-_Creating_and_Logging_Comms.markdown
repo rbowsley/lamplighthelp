@@ -40,7 +40,7 @@ Using these fields will insert information from the {{activity}} record that you
   
 #### Image Library
 
-Images for {{comm}}s are saved in their own library (see section [21.1.4 {{Comm}}s Module Image Library](/help/index/p/21.1.4)).  To insert one into your {{comm}}, go to the 'Image library' drop-down box and select the one you want from the menu.  Once you have inserted an image, you can edit it by double-clicking. This will open a window to alter the size and other characteristics. 
+Images for {{comm}}s are saved in their own library (see section [21.1.7 {{Comm}}s Module Image Library](/help/index/p/21.1.7)).  To insert one into your {{comm}}, go to the 'Image library' drop-down box and select the one you want from the menu.  Once you have inserted an image, you can edit it by double-clicking. This will open a window to alter the size and other characteristics. 
 
 ![Image Editing Window in {{Comm}}s](21.3.0e.png)
 
@@ -53,7 +53,7 @@ In some cases you may not want to create a document or email, but may need to re
 
 ![Logging a {{comm}}](89a.png)
 
-In the first tab you can record the type of {{comm}}, time and {{workarea}} that it relates to. (It is possible to add types of {{comm}} to this list - for more see [21.1.2 {{Comm}}s Module: Types of Logged {{Comm}}](/help/index/p/21.1.2).
+In the first tab you can record the type of {{comm}}, time and {{workarea}} that it relates to. (It is possible to add types of {{comm}} to this list - for more see [21.1.5 {{Comm}}s Module: Types of Logged {{Comm}}](/help/index/p/21.1.5).
 
 {{Comm}} logs don't have a duration in {{Lamplight}} so if your {{comm}} took time to complete (e.g. a telephone meeting or writing a detailed letter) then consider capturing it as a {{work}} record instead.  The remaining tabs are all filled out in the same way as you would complete a normal {{comm}} record.
 
