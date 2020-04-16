@@ -55,7 +55,7 @@ For more on this see [21.3.1 Communicating with Everyone Attending a Particular 
 
 #### Using Communication Roles in Templates
 
-You may use [{{comm}} roles](/help/index/p/21.1.3) in your system. If you do, you will be able to assign people roles in the ‘Recipients’ table of your {{comm}}s records. 
+You may use [{{comm}} roles](/help/index/p/21.1.6) in your system. If you do, you will be able to assign people roles in the ‘Recipients’ table of your {{comm}}s records. 
 
 xxxxxx Picture here xxxxxxx
 
@@ -68,10 +68,10 @@ When composing the message, you could then use merge fields like this: "Dear 're
 
 xxxxxx Picture here xxxxxx
 
-For more on this see [21.1.3 {{Comm}}s Module: {{Comm}} Roles](/help/index/p/21.1.3).
+For more on this see [21.1.6 {{Comm}}s Module: {{Comm}} Roles](/help/index/p/21.1.6).
 
 #### Images
-- You can insert images from the {{comm}}s library using the ‘Image library’ dropdown menu. (For more on adding images to the library, see [21.1.4 {{Comm}}s Module Image Library](/help/index/p/21.1.4).  
+- You can insert images from the {{comm}}s library using the ‘Image library’ dropdown menu. (For more on adding images to the library, see [21.1.7 {{Comm}}s Module Image Library](/help/index/p/21.1.7).  
 - Once inserted, you can choose to justify the picture left, centrally or right by selecting it with your mouse and using the text justification buttons.
 - You can also add images from the web by clicking the small image icon in the ‘Insert’ section of the text editor and specifying the relevant URL.
 
