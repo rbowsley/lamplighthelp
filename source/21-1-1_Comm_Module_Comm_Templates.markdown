@@ -4,7 +4,7 @@
 
 
 
-{{Comm}} templates can be set up for use with any type of {{comm}} sent through Lamplight. They can include mail merge fields which draw data directly from associated profiles or {{work}} records. You can also upload [specially formatted Word files](/help/index/p/21.1.5) which can be used to generate mail-merged documents and letters.
+{{Comm}} templates can be set up for use with any type of {{comm}} sent through Lamplight. They can include mail merge fields which draw data directly from associated profiles or {{work}} records. You can also upload [specially formatted Word files](/help/index/p/21.1.3) which can be used to generate mail-merged documents and letters.
 
 ### [Text Templates](/help/index/p/21.1.2)
 
@@ -16,7 +16,7 @@ When you are creating a new template, the 'Text Editing' toolbar has drop-down s
 
 ### [Word File Templates](/help/index/p/21.1.3)
 
-Word file templates are pre-formatted Microsoft Word files which are uploaded into {{Lamplight}}. They can only be used to generate letters and documents.  The advantage of these is that you can use the more complex formatting available in Word, so they're a great choice for more complex forms and letters. You can also use the [full range of mail-merge tags in them](/help/index/p/21.1.6) by entering them carefully when creating the template in Word. 
+Word file templates are pre-formatted Microsoft Word files which are uploaded into {{Lamplight}}. They can only be used to generate letters and documents.  The advantage of these is that you can use the more complex formatting available in Word, so they're a great choice for more complex forms and letters. You can also use the [full range of mail-merge tags in them](/help/index/p/21.1.4) by entering them carefully when creating the template in Word. 
 
-[Page 21.1.5](/help/index/p/21.1.5) has instructions on how to create Word file templates, and [page 21.1.6](/help/index/p/21.1.6) lists all the mail merge tags you can use.
+[Page 21.1.3](/help/index/p/21.1.3) has instructions on how to create Word file templates, and [page 21.1.4](/help/index/p/21.1.4) lists all the mail merge tags you can use.
 
