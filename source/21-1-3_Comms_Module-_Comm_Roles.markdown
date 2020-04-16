@@ -4,19 +4,25 @@
 
 ### Why Use {{Comm}} Roles?
 
-Ordinarily, if you create a mail-merge letter, a copy is created for each recipient listed. Their details will be substituted into the document wherever you have data placeholders.
+Ordinarily, if you create a mail-merge letter, a copy is created for each recipient listed. Specific details will be added to the document wherever you have a merge field.
 
-Sometimes it is useful to be able to combine data from several profiles into a single document. For example, you may need to write to a parent using data from both their profile and their child's. Or you may be writing a letter on behalf of a client and their carer. In these circumstances you want a single document with the relevant names and data in the right place. This is when you use {{comm}} roles.  {{Comm}} roles are the way that {{Lamplight}} uses to determine which profiles information goes where.  They are best when you need to send a similar {{comm}} and can set up a {{comm}} template containing the merge fields.
+Sometimes it is useful to be able to combine data from several profiles into a single document. For example, you may need to write to a parent using contact details from their profile as well as personal details from their child's. Or you may be writing a letter on behalf of a client and their carer. You can use {{comm}} roles in your communication so that {{Lamplight}} knows which profile to look in for each piece of merged information. 
 
-### Creating a {{comm}} using {{comm}}s roles
+### Creating a {{Comm}} Using {{Comm}}s Roles
 
-When creating the {{comm}} add recipients as normal, but additionally select the relevant role for each profile in the table. When adding merge fields to your {{comm}} content, you specify which role each mail merge field is getting the information from. So instead of mail-merge fields like [first name], you would have [parent first name] and [child first name].
+- Creating the {{comm}} and add recipients as normal but for each person in the 'recipients' table you should also select the relevant role.
+
+xxxxx picure here xxxxx
+
+- For each merge feild you add, you will need to specify which role it is getting the information from. For example, instead of mail merge fields '[first name]', you would have '[parent first name]' or '[child first name]'.
 
 ![{{Comm}} Roles in a {{Comm}}s Record](21.1.3a.png)
 
-Once you have selected the roles, you also need to change 'Combine to single {{comm}}?' below the table, to 'Produce a single letter, using mail-merge fields based on {{comm}} role'.
+- In the 'recipients' tab of your {{comm}} record, choose 'Produce a single letter, using mail-merge fields based on {{comm}} role' underneath the recipients' table.
 
-In the message content section, select the template or enter your message content as normal.  If you do add any merge fields in the text editor, you will be prompted to select which {{comm}}s role the field is for.
+- In the message content section, select the template or enter your message content as normal.  When you add merge fields in the text editor, you will be prompted to select which {{comm}}s role the field is for.
+
+xxxxx picture here xxxxx
 
 ### Adding, Editing and Deleting {{Comm}} Roles
 
