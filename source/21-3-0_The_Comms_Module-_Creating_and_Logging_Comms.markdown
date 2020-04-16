@@ -20,11 +20,13 @@ The 'people merge' fields will insert information about the {{people}} that are 
 
 #### Document Templates
 
-These are standard letters and emails (or parts of them) which are unique to your organisation, that any database operator can use - simply select the Text Template that you want to use from the menu in the editor.
+These are standard letters and emails (or parts of them) which have been set up for your organisation that any database operator can use. There are two types - text templates or Word file templates.
 
-Word file Templates appear as a list below the main text editor.  If you want to use one of these to generate a letter or document, just ignore the text editor and select the file from the listing.
+- To use a text template, select it from the 'Document templates' drop down in the text editor of the 'Message content' tab. 
+- To use a Word file template, find it in the list below the main text editor and click on it. Do not add any text to the box. You will not see the contents of the template in the editor, but the documents will be merged, and a copy saved to each individual profile.
+
    
-See section [21.1.1 {{Comm}} Templates](/help/index/p/21.1.1) for more information about document templates and how System Administrators can set them up.
+See section [21.1.1 {{Comm}} Templates](/help/index/p/21.1.1) for more information about templates and how System Administrators can set them up.
 
 #### {{Activity}} Merge
 
