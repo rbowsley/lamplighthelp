@@ -77,7 +77,7 @@ These {{comm}} roles can only used when you are sending a letter to a single rec
 For more on this see [21.1.6 {{Comm}}s Module: {{Comm}} Roles](/help/index/p/21.1.6).
 
 #### Images
-- You can insert images from the {{comm}}s library using the ‘Image library’ dropdown menu. (For more on adding images to the library, see [21.1.7 {{Comm}}s Module Image Library](/help/index/p/21.1.7).  
+- You can insert images from the {{comm}}s library using the ‘Image library’ dropdown menu. (For more on adding images to the library, see [21.1.7 {{Comm}}s Module Image Library](/help/index/p/21.1.7).)  
 - Once inserted, you can choose to justify the picture left, centrally or right by selecting it with your mouse and using the text justification buttons.
 - Double-clicking on the image will bring up a dialogue box where you can format the image's size, text-flow, padding and border.
 
