@@ -1,6 +1,6 @@
 # 21.1.2 {{Comm}} Module: Adding, Editing and Deleting {{Comm}} Text  Templates
 
-> A {{comm}} text template is typed directly into a {{Lamplight}} text box. It is best for enable simple communications such as emails and SMS messages, which do not require too much formatting
+> A {{comm}} text template is typed directly into a {{Lamplight}} text box. Any database operator can then use it as often as they need rather than retyping the content each time. It is best for simple communications such as emails and SMS messages, which do not require too much formatting
 
 
 Text templates can be created directly in the communications section of system administration, then used for any type of communication. 
@@ -8,7 +8,10 @@ Text templates can be created directly in the communications section of system a
 ### To Add a New Template
 
 - Go to 'admin -> system administration -> {{Comm}} Settings -> Manage {{comm}} templates. You’ll see a table, either showing existing templates or with an example one. 
-- Click the 'add a new template’ button.
+- Click the 'Add a new template’ button.
+
+![Add new template](21.1.2d.png)
+
 - Give your template a name, and a short description. The name is what database operators will see listed in the drop down menu when creating a new {{comm}}, so it should be as clear as possible.
 - As this is a text template do not select a file. 
 - Click the + symbol in the top, right-hand corner of the text box to reveal the text editing tools. This will allow you to apply formatting to the document, as well as including images and merge fields.
@@ -32,11 +35,9 @@ The ‘Body mail merge’ menu contains fields that can be inserted from profile
 When creating a template, make sure that you only select relevant options. For example, if you use fields specifically relating to {{volunteer}}s in a template to partner {{org}}s, those fields would be empty when merged as this information would not exist in an {{org}} profile.
 - Select the relevant merge field from the drop-down list and use it in the text as you would to normal content. For example, write ‘Dear (First name)’ by typing ‘Dear’ and then selecting ‘Body Mail merge > Contact details > First Name’ from the drop-down menu. 
 
-Xxxxx Picture here xxxxx
+[Choosing Body Mail Merge Fields](21.1.2e.png)
 
-- When you use this template to send a {{comm}}, (First name) will be replaced by the name of each person to whom you send the {{comm}}.
-
-Xxxxx Picture here xxxxx
+- When you use this template to send a {{comm}}, {{Lamplight}} will automatically '(First name)' replace this field with the name in each individual {{comm}} (although it will still  be saved in their records with '(First name)').
 
 - If any recipient doesn’t have information in the field you used, {{Lamplight}} will leave a single blank space.
    
@@ -44,12 +45,14 @@ Xxxxx Picture here xxxxx
    
 {{Activity}} merge fields give you the option of using the information from {{activity}} records, for example {{work}} or {{referral}}s. 
 
-![{{Activity}} Merge](21.1.1e.png)
+![{{Activity}} Merge](21.1.2e.png)
+(Please note, in the image above {{Activity}} is shown as {{Activity}} because of system customisation).
 
 - To use these in your template, select the relevant fields from the ‘{{Activity}} merge’ dropdown menu.
+
 - Make sure that your template has a name which indicates these fields have been used. For the information to be completed in your {{comm}}, you will need to have started by clicking on the ‘Communicate’ option in the context menu of the relevant {{activity}} record so that {{Lamplight}} knows which information to use. 
 
-Xxxxx Picture here xxxxx
+[Using a {{Comm}}s Activity Merge Template](21.1.2f.png)
 
 For more on this see [21.3.1 Communicating with Everyone Attending a Particular {{Work}} Record](/help/index/p/21.3.1).
 
@@ -57,30 +60,35 @@ For more on this see [21.3.1 Communicating with Everyone Attending a Particular 
 
 You may use [{{comm}} roles](/help/index/p/21.1.6) in your system. If you do, you will be able to assign people roles in the ‘Recipients’ table of your {{comm}}s records. 
 
-xxxxxx Picture here xxxxxxx
+[Adding {{Comm}} Roles in the Recipients' Table](21.1.2g.png)
 
 In this case, when you set up a new {{comm}} template you will be given the option to 'Use {{comm}} roles with mail merge fields in this template'. If you choose this option, you will be able to use profile information relating to the different people in the ‘Recipients’ table of the the {{comm}}.
-For example, you may have added recipients the roles of 'service user' and 'referrer'. 
+For example, if as in the example above, you have the recipients' roles of 'service user' and 'referrer', you can use merge fields like this: "Dear 'referrer title' 'referrer surname', thank you for referring 'service user name' to us."  
+To add them to the template, use the 'body mail merge' drop-down options. If you've chosen the option of using {{comm}} roles with mail merge fields, when click on an option (for example '(First name), a pop-up box will appear asking you which {{comm}} role that relates to.
 
-Xxxxxx Picture here xxxxxx
+[{{Comm}} Role Options in the Body Merge Drop-down](21.1.2h.png)
 
-When composing the message, you could then use merge fields like this: "Dear 'referrer title' 'referrer surname', thank you for referring 'service user name' to us."  These {{comm}} roles can only used when you are sending a letter to a single recipient.
+{{Lamplight}} will then enter the merge tag that you need into the template.
 
-xxxxxx Picture here xxxxxx
+[{{Comm}} Role Field in {{Comm}} Template](21.1.2i.png)
+
+These {{comm}} roles can only used when you are sending a letter to a single recipient.
 
 For more on this see [21.1.6 {{Comm}}s Module: {{Comm}} Roles](/help/index/p/21.1.6).
 
 #### Images
 - You can insert images from the {{comm}}s library using the ‘Image library’ dropdown menu. (For more on adding images to the library, see [21.1.7 {{Comm}}s Module Image Library](/help/index/p/21.1.7).  
 - Once inserted, you can choose to justify the picture left, centrally or right by selecting it with your mouse and using the text justification buttons.
-- You can also add images from the web by clicking the small image icon in the ‘Insert’ section of the text editor and specifying the relevant URL.
+- Double-clicking on the image will bring up a dialogue box where you can format the image's size, text-flow, padding and border.
 
-Xxxxx Picture here xxxxx 
+[Picture Formatting Menu](21.1.2j.png)
+
+- You can also add images from the web by clicking the small image icon in the ‘Insert’ section of the text editor and specifying the relevant URL.
 
    
 ### Nested Templates
 
-{{Comm}} templates can be nested within each other. For example, a header containing logo and contact details can be saved as a template and then inserted into other {{comm}}s templates. To use one template within another: 
+{{Comm}} templates can be nested within each other. For example, a header containing a logo and contact details can be saved as a template and then inserted into other {{comm}}s templates. To use one template within another: 
 - Add a new template, as usual.
 - Select the template that you want to use nest from the 'document template' drop-down. 
 
@@ -119,7 +127,7 @@ If you’d rather test as you go, we suggest that you create a regular {{comm}} 
 - Open the 'Manage {{comm}} templates' page. 
 - Find the template you want, right click on it or click on the context menu to the left of it.
 - Choose either 'Edit’ or ‘Delete’ options. 
-**Deleting a template will not affect any {{comm}}s already sent.**
+**Deleting a template will not affect any {{comm}}s that have already been sent.**
 
 ![Edit and Delete Template Options](21.1.1i.png)
 
