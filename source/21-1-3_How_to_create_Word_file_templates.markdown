@@ -120,11 +120,11 @@ To upload a Word file template:
 
 When creating a {{comm}}, your Word file Templates will be listed below the main text editor on the 'Content' tab.  Ignore the text editor and select the file you wish to use from the list.  
 
-xxxx[New pic The List of Word File Templates for a New {{Comm}}](21.1.3d.png)
+![The List of Word File Templates for a New {{Comm}}](21.1.3d.png)
 
 The text will not show up in the text editor, but it will show the name of the Word template.
 
-xxxxx [New pic The Word Template in the Text Editor](21.1.3e.png)
+![The Word Template in the Text Editor](21.1.3e.png)
 
 When you download the document, {{Lamplight}} will merge the details and a copy will be saved to the profile of each recipient.
 
