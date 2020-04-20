@@ -14,7 +14,7 @@ Sometimes it is useful to be able to combine data from several profiles into a s
 
 ![Roles in the {{Comm}} Recipients' Table](21.1.6a.png)
 
--Towards the bottom of the 'Recipients' tab, choose the 'Produce a single letter, using mail-merge fields based on communication role' option.
+- Towards the bottom of the 'Recipients' tab, choose the 'Produce a single letter, using mail-merge fields based on communication role' option.
 
 - In the 'Message content' section, enter your message content as normal or select the text template you want to use.
 - You can add merge fields, using information held in {{Lamplight}} for your {{comm}}. For each field you add from the 'People mail merge' drop down, {{Lamplight}} will ask you which profile you're referring to. For example, if you choose mail merge field '[first name]', you will need to specify who this relates to (in the example below, it could be Staff, Client, Key worker or Legal adviser). This will depend on what roles you have set up in your system. 
