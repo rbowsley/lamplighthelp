@@ -19,7 +19,7 @@ If you want to generate a document which is going to multiple recipients (e.g. a
 When you have a large chunk of text to repeat, for example mail merged form letters, ${repeat_template} is best.
 - Put '${repeat_template}' at the start of the letter text.
 - Put '${/repeat_template}' (note the forward slash) at the end. If you want a new page for each document or letter, remember to put a page break immediately before the final ${/repeat_template}.
-It will look like this (the contents in italicised brackets are for information only, and should not be included in a template): 
+- It will look like this (the contents in italicised brackets are for information only, and should not be included in a template): 
 
 ${repeat_template}
 Dear ${First name}
