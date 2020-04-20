@@ -1,10 +1,10 @@
-# 21.1.4 List of all Word template merge tags
+# 21.1.4 List of All Word Template Merge Tags
 
-> Merge tags in Word Templates are replaced with information from profiles and {{activity}} records.  This is the list of all the tags you can use.
+> Merge tags in Word Templates are replaced with information from profiles and {{activity}} records. This is the list of all the tags you can use.
 
-These are the mail merge tags you can use in Word templates.  They are all case-senstive and need to be entered into your templates exactly as they appear here.  Ignore any translations in your system (e.g. you have 'House number' instead of 'Address line 1' on the contact details tab of a profile, you need to use 'Address line 1' in your templates.
+These are the mail merge tags you can use in [Word templates](/help/index/p/21.1.3). They are all case-senstive and need to be entered into your templates exactly as they appear here. Some of these fields might have been translated (or renamed) in your system, but you will need to use the original names (e.g. if you have 'House number' instead of 'Address line 1' on the contact details tab of a profile, you need to use 'Address line 1' in your templates). You can see which terms have been changed in your system by going to Admin > System administration > Customise {{Lamplight}} > Change terms used in Lamplight For en_GB'.
 
-### Profile tags - name and contact details
+### Profile Tags - Name and Contact Details
 
 | Field | Tag |
 | :--- | :--- |
@@ -31,7 +31,7 @@ These are the mail merge tags you can use in Word templates.  They are all case-
 | ID | ${bodyid} |
 
 
-### Linked (related) profile tags
+### Linked (Related) Profile Tags
 
 You can use the tags above to add information from a linked profile (where two profiles appear in one line of the recipients table) by inserting the word 'Linked' into the tag name.
 
@@ -59,7 +59,7 @@ You can use the tags above to add information from a linked profile (where two p
 | Web | ${Linked Web} |
 
 
-### Operator profile tags
+### Operator Profile Tags
 
 You can use the tags below to add information from the profile of the operator creating the {{comm}}:
 
@@ -88,26 +88,29 @@ You can use the tags below to add information from the profile of the operator c
 
 
 
-### Special tags
+### Special Tags
 
-${today} will insert today's date in the form '1st March 2020'
+${today} will insert today's date in the format '1st March 2020'.
 
-${repeat_template} (your template here) ${/repeat_template} will create a copy of (your template here) for each recipient, merged appropriately.
+${repeat_template} (your content here) ${/repeat_template} will create a copy of (your content here) for each recipient, with any merge fields completed. If you want to start a new letter or document for each recipient, put a page break after (your content here), and the '${/repeat_template}' at the top of the new page. 
 
 ${repeat_row} at the start of a table row will repeat that row for each recipient of the {{comm}}, with merge tags in the rest of the row merged from the profile.
 
 
-### Custom profile fields
+### Custom Profile Fields
 
-Data from the recipient custom profile fields can be inserted by typing the field name in the merge tag.  So the tag for the field 'Gender' in your system would be ${Gender}.
+Data from the custom profile fields of recipients can be inserted by typing the field name in the merge tag. So the tag for the field 'Gender' in your system would be ${Gender}.
 
-The spelling and capitalisation has to be exactly as it appears in your system and if you have any difficulties we recommend that you download the settings from your system, which gives you field names in an Excel spreadsheet you can copy and paste from.
+The spelling and capitalisation has to be exactly as it appears in your system. If you have any difficulties with this we recommend that you [download your system settings](https://lamplight.online/en/admin/uploadfields/type/get_settings) into a spreadsheet that you can copy and paste from.  
 
-Note that if you have any custom fields with the same names as any of the built-in fields in this page you will get unpredictable results.  Please edit your custom field names slightly to avoid these conflicts.
+Please note: all the fields in your system need to have a unique name. If you have two with the same name (even if they are in separate profile tabs) you will get unpredictable results, as {{Lamplight}} will not know which one you’re referring to.  
+
+Custom field names with $, { or } in them may also result in unpredictable results as this will confuse the formatting in your template, so should be avoided for this reason. 
 
 
-### {{Work}} record tags
+### {{Work}} Record Tags
 
+These can be used in [templates used from a specific {{work}} record](/help/index/p/21.3.1).
 
 | Field | Tag | Example |
 | :--- | :--- | :--- |
@@ -123,8 +126,9 @@ Note that if you have any custom fields with the same names as any of the built-
 | Follow up | ${followup} | (just the text that appears in the record) |
 
 
-### {{Referral}} record tags
+### {{Referral}} Record Tags
 
+These can be used for templates which will be used in conjunction with a {{referral}} record - this is the same principal as for {{work}} records, above.
 
 | Field | Tag | Example |
 | :--- | :--- | :--- |
@@ -139,7 +143,9 @@ Note that if you have any custom fields with the same names as any of the built-
 | {{Referral}} notes | ${referral notes} | (just the text that appears in the record) |
 | Appointment date | ${appointment date} | 14/04/2020 |
 
-### {{Grant}} record tags
+### {{Grant}} Record Tags
+
+These can be used for templates which will be used in conjunction with a {{grant}} record - this is the same principal as for {{work}} records, above.
 
 
 | Field | Tag | Example |
@@ -158,3 +164,5 @@ Note that if you have any custom fields with the same names as any of the built-
 | {{Grant}} type | ${grant type} | Capital |
 | Approval date | ${approval date} | 18/04/2020 |
 
+
+###### comms module
