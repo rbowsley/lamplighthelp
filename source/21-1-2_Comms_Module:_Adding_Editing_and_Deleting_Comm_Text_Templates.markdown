@@ -86,7 +86,7 @@ For more on this see [21.1.6 {{Comm}}s Module: {{Comm}} Roles](/help/index/p/21.
 - You can also add images from the web by clicking the small image icon in the ‘Insert’ section of the text editor and specifying the relevant URL.
 
    
-### Nested Templates
+#### Nested Templates
 
 {{Comm}} templates can be nested within each other. For example, a header containing a logo and contact details can be saved as a template and then inserted into other {{comm}}s templates. To use one template within another: 
 - Add a new template, as usual.
