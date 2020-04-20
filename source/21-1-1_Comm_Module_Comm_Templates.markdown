@@ -8,15 +8,22 @@
 
 ### [Text Templates](/help/index/p/21.1.2)
 
-A text template is typed directly into {{Lamplight}}, with formatting added in the {{Lamplight}} text editor. They can be used for all types of {{comm}} including emails, sms messages, or letters. You can usYou can use one text template in another one - a common example of this would be creating a standard 'letterhead' template that can be used at the top of other templates. 
+A text template is typed directly into {{Lamplight}}, with formatting added in the {{Lamplight}} text editor. It can be used for all types of {{comm}} including emails, sms messages, or letters. You can also use one text template as part of another one - a common example of this would be creating a standard 'letterhead' template that can be used at the top of other letter templates. 
 
-xxxxxx Picture here xxxxxx
+When you are creating a new template, the 'Text Editing' toolbar has drop-down selectors allowing you to add mail merge fields. 
 
-When you are creating a new template, the 'Text Editing' toolbar has drop-down selectors allowing you to add mail merge fields. These text templates are best used in emails or where less complicated formatting is required.
+![Drop-down merge field selectors](21.1.1j.png)
+
+These text templates are best used in emails or where less complicated formatting is required.
+
+
 
 ### [Word File Templates](/help/index/p/21.1.3)
 
 Word file templates are pre-formatted Microsoft Word files which are uploaded into {{Lamplight}}. They can only be used to generate letters and documents.  The advantage of these is that you can use the more complex formatting available in Word, so they're a great choice for more complex forms and letters. You can also use the [full range of mail-merge tags in them](/help/index/p/21.1.4) by entering them carefully when creating the template in Word. 
 
 [Page 21.1.3](/help/index/p/21.1.3) has instructions on how to create Word file templates, and [page 21.1.4](/help/index/p/21.1.4) lists all the mail merge tags you can use.
+
+
+###### comms module
 
