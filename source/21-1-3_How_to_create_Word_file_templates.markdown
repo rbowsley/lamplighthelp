@@ -3,7 +3,7 @@
 > A {{comm}} Word file template is pre-formatted in Microsoft Word, then uploaded into {{Lamplight}}. It allows for more complex formatting of forms and letters
 
 
-Word file Templates are created in Microsoft Word and then uploaded into {{Lamplight}}. You can use {{Lamplight}} mail merge tags by entering the specially formatted placeholders in the Word doc. {{Lamplight}} will then recognise these and replace them with the relevant data each time you use the template.  [Section 21.1.6 has a list of all the tags](/help/index/p/21.1.4) you can use in your files.
+Word file Templates are created in Microsoft Word and then uploaded into {{Lamplight}}. You can use {{Lamplight}} mail merge tags by entering the specially formatted placeholders in the Word doc. {{Lamplight}} will then recognise these and replace them with the relevant data each time you use the template.  [Section 21.1.4 has a list of all the tags](/help/index/p/21.1.4) you can use in your files.
 
 ### File Format
 
@@ -27,9 +27,9 @@ Thank you so much for your donation. I enclose our newsletter telling you more a
   
 Kind regards  
 The Services Team  
-*(Insert page break here)*  
+**(Insert page break here)**
   
-*(At the top of the next sheet)* ${/repeat_template}  
+**(At the top of the next sheet)** ${/repeat_template}  
   
 
  {{Lamplight}} will make a copy of the text between the tags for each recipient, with the merge information substituted into each copy.
@@ -53,8 +53,8 @@ Mail merge tags can be used to tell {{Lamplight}} to insert some of the informat
 These are not Microsoft ‘fields’ - they are just text typed in.  You do not need to use Microsoft's mail merge or field menus to add these tags to your template.
 
 You need to be particularly careful about two things:
-- Make sure that you enter the field names exactly, paying particular attention to capitalisation, spelling and spaces which all need to appear exactly as they do in [section 21.1.4](/help/index/p/21.1.4) or, in the case of custom profile fields, as they appear in your system. You may wish to [download your system settings](https://lamplight.online/en/admin/uploadfields/type/get_settings) into a spreadsheet that you can copy and paste from.
-- If you are formatting a mail merge tag, for example making it bold, either format the whole tag or none of it - do not partially format it as this will stop it from working. For example ${**First** name} would fail (the ** indicates the start and finish of bold here), because the extra formatting breaks up the tag.  {{Lamplight}} will look for '${First name}' in the file, but it will find something like '${!hey word show this bold!First!ok stop bold now! name}'.  So a search for ${First name} will fail. **${First name}** would work.
+- Make sure that you enter the field names exactly, paying particular attention to capitalisation, spelling and spaces which all need to appear exactly as they do in [section 21.1.4](/help/index/p/21.1.4) or, in the case of custom profile fields, as they appear in your system. You may wish to download your system settings into a spreadsheet that you can copy and paste from.
+- If you are formatting a mail merge tag, for example making it bold, either format the whole tag or none of it - do not partially format it as this will stop it from working. For example ${**First** name} would fail, because the extra formatting breaks up the tag.  {{Lamplight}} will look for '${First name}' in the file, but it will find something like '${!hey word show this bold!First!ok stop bold now! name}'.  So a search for '${First name}' will fail. **${First name}** would work.
 
 As a general rule, it is best to create your document without mail merge tags first, then apply formatting, and then finally type in the merge tags you need.
 
@@ -72,7 +72,7 @@ Note that {{Lamplight}} can only insert data in the fields you’re using if the
 
 You also need to make sure that all the fields in your system have a unique name. If you have two with the same name (even if they are in separate profile tabs) you will get unpredictable results, as {{Lamplight}} will not know which one you’re referring to.
 
-Custom field names with $, { or } in them may also result in unpredictable results as this will confuse the formatting in your template, so should be avoided for this reason.
+Custom field names with $, { or } in them may also result in unpredictable results as this will confuse the formatting in your template, so should be avoided.
 
 ### Inserting Information from the Profile of the Person Creating the {{Comm}}
 
@@ -85,12 +85,12 @@ ${me|First name} ${me|Surname}
 ${me|Email}
 ${me|Phone}
 
-(The vertical line symbol - | - is called a 'pipe' and is usually on the key next to the z on your keyboard).
-This can save time if you will have multiple members of staff using the same Word templates.
+
+This can save time if you will have multiple members of staff using the same Word templates.  (The vertical line symbol - | - is called a 'pipe' and is usually on the key next to the z on your keyboard).
 
 ### {{Activity}} Tags
 
-You can also insert merge fields from {{activity}} records. This template can be used when you are generating the {{comm}} record from a particular {{activity}} where the recipients will be the attendees of the {{activity}} (see 21.3.1 Communicating with Everyone Listed on a Particular {{Work}} Record](/help/index/p/21.3.1). You can include details such as the date, time, summary text, grant amounts etc. from the record.
+You can also insert merge fields from {{activity}} records. This template can be used when you are generating the {{comm}} record from a particular {{activity}} where the recipients will be the attendees of the {{activity}} [see 21.3.1 Communicating with Everyone Listed on a Particular {{Work}} Record](/help/index/p/21.3.1). You can include details such as the date, time, summary text, grant amounts etc. from the record.
 
 ### {{Comm}} Role Tags
 
@@ -102,7 +102,7 @@ The letter will be addressed to the GP and refer to the user, and you add an ide
 
 Dear Dr ${commsrole5|Surname},
 
-*Re. ${commsrole12|First name} ${commsrole12|Surname}, dob: ${commsrole12|Date of birth}.*
+Re. ${commsrole12|First name} ${commsrole12|Surname}, dob: ${commsrole12|Date of birth}.
 
 
 If you are using {{comm}}s roles in a template, we'd strongly recommend you note this in the name or description of the template when you upload it, so that you and others are aware of this when they use the template.  See [21.1.6 {{Comm}} Roles](/help/index/p/21.1.6) for more on how to generate a {{comm}} using {{comm}} roles.
