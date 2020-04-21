@@ -1,10 +1,10 @@
 # 21.4.0 The {{Comm}}s Module: Using SMS in {{Lamplight}}
 
-> With the {{Comms}} Module you also have the option to send SMS through the system, and receive replies to a number you choose
+> With the {{Comm}}s Module you also have the option to send SMS through the system, and receive replies to a number you choose
 
 #### Getting Started with SMS in {{Lamplight}}
 
-If you have the {{Comms}} Module and would like to start SMS direct from {{Lamplight}}, let us know and we will switch this feature on for you.
+If you have the {{Comm}}s Module and would like to start SMS direct from {{Lamplight}}, let us know and we will switch this feature on for you.
 
 Once you've added SMS to your system, you'll need to add the settings. For more on this see 'Mobile Phone and SMS Communications Settings' in [16.12.5 Global Settings: Communications](/help/index/p/16.12.5). You'll also see a link to 24x here, which you can follow to but credits for your account. Once you're at their login page, you will see a link to create a new account.
 
