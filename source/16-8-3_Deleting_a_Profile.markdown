@@ -37,5 +37,6 @@ Once you have selected,
 
 ##### Tags
 GDPR
+System admin
 
 ###### core module
