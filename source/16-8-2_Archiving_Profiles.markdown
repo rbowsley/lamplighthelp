@@ -43,6 +43,7 @@ For more on this see [5.2.1 Creating Duplicate Profiles](/help/index/p/5.2.1).
 
 ##### Tags
 GDPR
+System admin
 
 ###### core module
 
