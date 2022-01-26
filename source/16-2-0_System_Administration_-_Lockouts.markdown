@@ -45,5 +45,6 @@ If the operator will not need to access the database again, for example if they 
 ##### Tags
 Getting started  
 System admin
+Security
 
 ###### core module

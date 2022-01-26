@@ -40,5 +40,6 @@ Why not watch our video demonstration? (Please note, the layout of the system ad
 Advanced topics
 System admin
 GDPR
+Security
 
 ###### core module
