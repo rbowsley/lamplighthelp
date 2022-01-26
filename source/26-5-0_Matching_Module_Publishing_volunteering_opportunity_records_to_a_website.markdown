@@ -11,7 +11,7 @@ For {{volunteering opportunity}} records to appear in the API feeds, you will ne
 - Go to admin > system  administration and in the 'Matching Module' section click 'create new API feed'.  (If you can't see this option, please contact Lamplight).
 - You will see any feeds you have already set up, and below that a form to create a new one:
 
-![Create new {{volunteering opportunity}} feed](26.5.0a.PNG)
+![Create new {{volunteering opportunity}} feed](26.5.0a.png)
 
 #### Feed Name
 This is just for your reference. You can create multiple feeds for different purposes (perhaps a small 'near us' widget on a home page, and a full search form on a separate page).  Give your feed a name that will remind you what it is for.
@@ -29,7 +29,7 @@ Any CSS files you specify here will be included in the head element of the embed
 
 Click 'save' when you are done and you will see something like this:
 
-![Created {{volunteering opportunity}} feed](26.5.0b.PNG)
+![Created {{volunteering opportunity}} feed](26.5.0b.png)
 
 Copy and paste the html (the bit in the box starting &lt;iframe) to your own website and you should see {{volunteering opportunity}} records immediately.
 

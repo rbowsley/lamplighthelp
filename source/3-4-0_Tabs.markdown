@@ -10,7 +10,7 @@ Many of the screens in {{Lamplight}} use tabs. For example, you will see them al
 
 Or when you are creating a {{report}}:
 
-![{{Report}} tab view in {{Lamplight}}](3.4.0a.PNG)
+![{{Report}} tab view in {{Lamplight}}](3.4.0a.png)
 
 Click on a tab to open it and view the information held there. 
 

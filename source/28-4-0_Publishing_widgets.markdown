@@ -25,7 +25,7 @@ Creating widgets does not alter the overall security settings for the publishing
 
 To see and add widgets go to admin > system admin > Publishing module > Manage publishing widgets that show published data on your website.  You'll see any widgets you already have, and buttons to create new ones.
 
-![System administration - publishing widgets](28.4.0a.PNG)
+![System administration - publishing widgets](28.4.0a.png)
 
 Click the 'edit' or 'delete' buttons to change an existing widget.  Note that if you do make a change, it will take effect straight away.  If you're already using a widget on your website, it will be changed, and if you delete it, it will stop working immediately.
 
@@ -37,13 +37,13 @@ If you want to test a widget before including it in your website, you can copy t
 
 To create a new profile list widget, click the 'profile listing' button at the top of the admin screen.  You'll see a popup window like this:
 
-![System administration - creating a profile listing widget](28.4.0b.PNG)
+![System administration - creating a profile listing widget](28.4.0b.png)
 
 The publishing feed name is just for your reference and is only shown in the system admin section.  CSS statements can be entered if needed.  You need to choose a profile role and type, and you can only choose one of each.  Save the widget, and you'll see the listing of all widgets and the html code you need.
 
 Without any custom CSS, the profile listing will look like this:
 
-![Profile listing widget](28.4.0c.PNG)
+![Profile listing widget](28.4.0c.png)
 
 The image is from [www.gravatar.com](https://www.gravatar.com) - a public system that allows you to associate an image with your email address.  If the email address has a gravatar image associated with it, it will be displayed.  The search box in the top-right corner will search the published data for profiles.
 
@@ -52,11 +52,11 @@ The image is from [www.gravatar.com](https://www.gravatar.com) - a public system
 
 To create a widget that will allow people to create {{referral}} records through your website, click the 'accept {{referral}}' button at the top.  These widgets cannot be configured beyond the name and css:
 
-![Publishing - creating an accept {{referral}} widget](28.4.0d.PNG)
+![Publishing - creating an accept {{referral}} widget](28.4.0d.png)
 
 Without any custom CSS, the accept {{referral}} widget will look like this:
 
-![Accept {{referral}} widget](28.4.0e.PNG)
+![Accept {{referral}} widget](28.4.0e.png)
 
 The referral topic select box lists your {{workarea}}s.  The {{referral}} record that's created will try and match the profile by email address, and include the text from the 'details' in the '{{referral}} reason'.
 
@@ -64,13 +64,13 @@ The referral topic select box lists your {{workarea}}s.  The {{referral}} record
 
 To create a widget that will show a list of published {{work}} records click the '{{work}} record listing' button at the top.  
 
-![Publishing - creating a {{work}} record listing widget](28.4.0f.PNG)
+![Publishing - creating a {{work}} record listing widget](28.4.0f.png)
 
 You can optionally add a filter for {{workarea}} here, to only show records for one or more {{workarea}}s.  If you want to show all, leave this unticked.
 
 Without any custom CSS, the {{work}} record listing widget will look like this:
 
-![{{Work}} record listing widget](28.4.0.g.PNG)
+![{{Work}} record listing widget](28.4.0.g.png)
 
 The 'Title of record for publishing' from the {{work}} record is the main title, with date, time and {{workarea}} displayed below.
 

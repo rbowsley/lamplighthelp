@@ -6,11 +6,11 @@
 
 In the top right-hand corner of each screen there is a search bar. 
 
-![Search bar](3.2.0a.PNG)
+![Search bar](3.2.0a.png)
 
 If you start typing into it a drop-down will appear listing the {{people}} that match what you are typing. 
 
-![Search bar in progress](3.2.0b.PNG)
+![Search bar in progress](3.2.0b.png)
 
 See section [5.8.0 Finding {{People}}](/help/index/p/5.8.0) for more details.
 

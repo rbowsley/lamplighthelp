@@ -12,7 +12,7 @@ You can search for {{volunteering application}}s which match {{volunteering oppo
 
 - [Use the search filters](/help/index/p/26.3.0) to find the record you need, then right-click (or click the menu button in the left-hand column of the table) to bring up the context menu:
 
-![{{Volunteering opportunity}} context menu](26.3.0c.PNG)
+![{{Volunteering opportunity}} context menu](26.3.0c.png)
 
 #### Match on All Criteria
 
@@ -37,7 +37,7 @@ When you choose this option, {{Lamplight}} will only look for records that have 
 
 Running a match (using any of the options above) will return a summary of the {{volunteering opportunity}} that you are seeking matches for, with a summary of each possible matching {{volunteering application}} below it:
 
-![Showing matches](26.4.0a.PNG)
+![Showing matches](26.4.0a.png)
 
 Use the scrollbar in the bottom half of the window to scroll down through the matching records: the best matches are shown at the top.  If you wish to match a {{volunteering application}} to the {{volunteering opportunity}}, click the 'Add to the opportunity' button on the {{volunteering application}} in question. The {{volunteering applicant}} will then be added to the {{volunteering opportunity}} attendance table, and the {{volunteering opportunity}} will show in the {{volunteer}}'s profile tab.
 

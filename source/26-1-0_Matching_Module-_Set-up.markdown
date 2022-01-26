@@ -16,7 +16,7 @@ The items in these lists, and the labels for the lists themselves, can be change
 
 Each list can have two levels - the main categories, and then a series of subcategories within each. When you are creating a {{volunteering application}} or {{volunteering opportunity}} you can select as many items from each list as you want, from any category or subcategory.
 
-![showing matching module lists selected](26.1a.PNG)
+![showing matching module lists selected](26.1a.png)
 
 
 ### Adding Items to a Category or Subcategory

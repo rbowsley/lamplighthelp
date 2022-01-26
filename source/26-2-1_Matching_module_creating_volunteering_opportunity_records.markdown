@@ -28,13 +28,13 @@ If the {{volunteering opportunity}} will take place at the main address of the {
 
 If it happens at an alternative address, untick the 'address of provider' box and enter the details in the boxes below. This will then be used by {{Lamplight}} to make matches.
 
-![Location of opportunity](26.2.1b.PNG)
+![Location of opportunity](26.2.1b.png)
 
 #### {{Volunteering Opportunity}} Availability
 
 Use this section to show when the {{volunteering opportunity}} is available. This includes specifying which days, and also between which dates.
 
-![Availability](26.2.1c.PNG)
+![Availability](26.2.1c.png)
 
 #### What the {{Volunteering Opportunity}} Is
 

@@ -9,7 +9,7 @@ To show a list of the current members in any {{group}}:
 - Select 'Quick view in popup' from the menu.
  
  
- ![View {{Group}} Members](106a.PNG)
+ ![View {{Group}} Members](106a.png)
  
 You can also view the list of names of {{group}} members alongside information that you hold about them by using a {{group}} data view. To find out more about this, see [section 13.2.1 View {{Group}} Members Using Data Views](/help/index/p/13.2.1).
 

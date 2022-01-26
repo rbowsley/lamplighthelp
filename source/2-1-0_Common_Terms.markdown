@@ -28,12 +28,12 @@
 ### Tab
 - Most pages in Lamplight are organised into tabs to keep everything tidy. Tabs are like folder dividers in a ring binder. To view the content of a tab, click on its title (see [3.4 Tabs](help/index/p/3.4.0)).
 
-![Tabs](2.1.0a.PNG)
+![Tabs](2.1.0a.png)
 
 ### Field  
 - This is where you add information to the system. Fields can be text areas, select boxes, date boxes, tick boxes etc.
 
-![Fields](2.1.0b.PNG)
+![Fields](2.1.0b.png)
 
 ### Search Bar
 - The search bar is where you can find people organisations, work, outcomes - whatever you need to find.
@@ -42,7 +42,7 @@ There is always one in the top right of the screen. See [3.2.0 The Search Bar](/
 ### Help
 - This help manual can be found at any time by clicking on the ‘Help’ button to the right of the search bar. This contains detailed information on Lamplight’s set-up and how to carry out the processes that you need. 
 
-![Search Bar and Help Button](2.1.0c.PNG)
+![Search Bar and Help Button](2.1.0c.png)
 
 ### Table
 - Data is organised in tables which display the information in rows across several columns (see [3.5.0 Tables](help/index/p/3.5.0))

@@ -19,7 +19,7 @@ If you click many of these headings a dropdown sub-menu will appear. Simply clic
 
 If you see a black arrow pointing to the right on the sub menu this will mean that there are more options to show. Just click on the arrow to display these.
 
-![{{Lamplight}} menu expanded](3.1.0b.PNG)
+![{{Lamplight}} menu expanded](3.1.0b.png)
 
 Throughout this manual you will see instructions shown with an arrow, for example 'go to {{work}} -> view all on the main menu'. The arrow -> indicates the {{work}} sub- menu. 
 

@@ -14,7 +14,7 @@ On this tab you record when the {{person}} is available, and what they'd like to
 
 Complete the availability details and the text boxes which give more details of any preferences, requirements and practical considerations (these can be used to narrow down the most suitable opportunities when [matching to {{volunteering opportunity}} records](/help/index/p/26.4.0)).  
 
-![Availability details](26.2.1a.PNG)
+![Availability details](26.2.1a.png)
 
 The checkbox categories below this are the same as appear in the {{volunteering opportunity}} records, so they can be used to automatically match skills, interests and specific {{volunteer} requirements.
 
