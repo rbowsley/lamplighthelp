@@ -1,8 +1,6 @@
 # 5.7.0 <i class="fa fa-user"></i> Printing Profile Information
 
-> You can choose to print information from individual profiles of a {{group}} of profiles
-
-
+> You can choose to print an individual profile, or a {{group}} of profiles
 
 
 It is possible to print profile information for specific profiles. This can be done to pdf or to a printer. 
@@ -13,6 +11,12 @@ It is possible to print profile information for specific profiles. This can be d
 - Click the PRINT button on the top right-hand side of the profile. 
 
 ![Printing a Profile](5.7.0a.png)
+
+Your print button may have a downwards arrow to the right of it.  Clicking on the down arrow shows the print templates 
+that have been set up in your system.  A print template will be ready configured to only print certain parts of the
+profile, and possibly add custom text, styles, and your logo.  Select a print template from the menu if required:
+
+![Print templates menu](5.7.0c.png)
 
 - This will open a new window.
 - On the right-hand side of the new window, there is a print menu where you can select the information that you wish to print. 
