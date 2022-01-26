@@ -31,7 +31,7 @@ There are a number of options for how records can recur.
 - Weekly. As above, but the default is that the day of the week on which you are adding the record is checked. You can
   alter this and add more days or change the day completely as needed.
 - Monthly. {{Lamplight}} will assume that you want the session to recur monthly on the same day as the initial
-  appointment. You can set this to be every first, second, third, fourth or fifth instance of that day in the month.
+  appointment. You can set this to be every first, second, third, fourth or fifth, or last instance of that day in the month.
 
 ![Recurring monthly](7.1.5c.png)
 
