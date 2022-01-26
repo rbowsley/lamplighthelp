@@ -2,13 +2,17 @@
 
 > Audit logs show what's happened in your system. To view audit logs, go to system administration > view audit logs.
 
+![View audit logs table results](19.1.0a.png)
+
 You’ll see the most recent actions, when they happened, which member of staff carried it out, and the subject and if
 relevant ID of the affected record. You can search these logs in the usual way – click ‘filter’. You can search by
 
- - when the action happened
- - the types of record or action involved
- - the system operator that carried out the action
- - ID of a particular record
+- when the action happened
+- the types of record or action involved
+- the system operator that carried out the action
+- ID of a particular record
+
+![Filters for audit log tables](19.1.0b.png)
 
 As usual this table can be sorted by clicking on the column header, and downloaded as a csv file for further analysis in
 Excel.
