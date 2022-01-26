@@ -29,9 +29,9 @@ You can choose which columns you see in the table by right clicking in the colou
 
 ![Saving Table Column Layout{{Work}} Records](7.3.0a.png)
 
-### The Table Search Bar
+### The Table Filter Bar
 
-Above the table is a bar marked 'Search'. If you click on this then you will find additional options you can use to filter your records, and some extra columns to add. 
+Above the table is a bar with a button marked 'Filter'. If you click on this then you will find additional options you can use to filter your records, and some extra columns to add. 
 
 #### Filters
 
