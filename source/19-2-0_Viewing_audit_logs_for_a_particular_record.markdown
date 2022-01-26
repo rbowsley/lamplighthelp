@@ -1,4 +1,4 @@
-# 19.2 Viewing audit logs for a particular record
+# 19.2.0 Viewing audit logs for a particular record
 
 > You can view the actions (view, edit etc) that have been carried out on particular records.
 

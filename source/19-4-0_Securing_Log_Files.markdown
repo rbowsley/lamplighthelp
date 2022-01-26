@@ -1,4 +1,4 @@
-# 19.4 Securing Log Files
+# 19.4.0 Securing Log Files
 
 > Log files contain sensitive data and if you download it, should be appropriately secured.
 
