@@ -10,15 +10,46 @@
 
 You can set the length of time operators can leave their system open without it detecting any activity before they are automatically logged out and need to sign in again. This is a security feature aimed at stopping systems with sensitive data being left open at an unattended computer. Be aware that {{Lamplight}} cannot detect some activity, such as entering text. 
 
-### 'My User' Set-up
 
-The next three fields, restricting database operators, relate to a 'My User' restriction. 
+### Speech Recognition
 
-The ‘My User’ restriction allows for a stricter level of access limitation to {{Lamplight}}. Database operators can be linked to other profiles (such as clients on their caseload) using the ‘My User’ relationship (this may have been renamed in your system, perhaps something like 'caseworker' or similar). With the ‘My User’ restriction enabled, database operators with access levels of staff, data entry or reception will only be able to see information about those profiles that they are related to as 'My User's.  In the sections below, these database operators are referred to as 'affected operators'.
+#### Allow operators to use speech recognition with {{Lamplight}}?
 
-#### Restrict operators below manager level to only view "my users" they are linked to.
+   If you use Chrome it has built-in dictation which you can use to write your {{work}} records or other text. If you choose to enable speech recognition here, each operator will have the choice whether or not they would like to use it.
 
-   This turns on the 'My User' restriction.  As explained above, it will limit any affected operators so that they can only see the profiles of people and organisations they are linked to by a 'my user' relationship.
+   You may have privacy concerns about this (which is why it is in this section): Google will receive the audio of what you say in order to turn it into text. You can check their privacy policy at [https://www.google.com/chrome/privacy/whitepaper.html#speech](https://www.google.com/chrome/privacy/whitepaper.html#speech). If you do enable this option, when you click on a text box you’ll get a request to access your microphone: if you say yes, you’ll be able to dictate, and after each pause the text will appear in the box. You only need to allow access once on a particular browser, and you can revoke it at any time.
+   
+
+### Diary feeds
+
+#### Allow operators create diary feeds to show read-only work records in external calender apps (e.g. Outlook)
+
+Diary feeds are a live data export of work records in a format that can be displayed in other calendar apps, such as Google Calendar or Outlook.  This is a security setting because enabling them means that your data from Lamplight will be accessible to the provider of your calendar app (e.g. Google or Microsoft).  If you do enable these, any database operator can create a new Diary Feed or use existing ones.  The {{work}} record data that is exported includes: record identifier, date and times, workarea, location, summary text, and description text.  This cannot be changed.  Records for the previous week and the next 2 weeks will be included in the feed.  Only enable these if you are happy for this data to be exported in this way.  
+
+When you create a diary feed, Lamplight will generate a long, unique URL that you enter into your calendar app.  Anyone with this URL will be able to view the data - there's no additional login step, and it's not possible to add one.
+
+Also, some calendar apps allow you to publish calendars more publicly, including your Lamplight diary feed, and this tends to be controlled within the calendar app.  Your staff may need to be made aware of this so that data is not inadvertently shared.
+
+Operators can create as many diary feeds as needed, and each can use various filters to limit the data provided in the feed.
+
+### Limit access to profiles for particular operators - 'My User' restrictions
+
+The next section allows you to control access to certain profiles by certain database operators.
+
+Database operators can be linked to other profiles (such as clients on their caseload) using the built-in ‘My User’ relationship (this may have been renamed in your system, perhaps something like 'caseworker' or similar). With the ‘My User’ restriction enabled, database operators with lower access levels will only be able to see information about the profiles that they are related to as 'My User's.  In the sections below, these database operators are referred to as 'affected operators'.
+
+Operators at higher access levels will not be affected by these restrictions at all.
+
+#### How should access to profiles be controlled?
+
+There are four options here.  The default is no restriction - operators will be able to see all profiles.  
+
+The first option restricting access is '1) Only allow access to profiles linked via "my user" relationships'.  Affected operators will be able to see their own profile, and only other profiles if they have a current 'my user' relationship.  Either these relationships will be created by a higher-level operator, or,  if the 'newly added profiles' option below is selected, profiles that the operator created.
+
+The second option applies this restriction only to certain profile roles.  Select '2) Disallow access to profiles with one of roles selected below, unless they are a "my user"' and choose the profile roles in the 'Which types of profile should access be restricted to?' field lower down.  With this option, the "my user" restriction only applies to profiles with the chosen roles.  So an affected operator might be able to view all referring organisations regardless of any relationships, but only service users if they are part of their caseload.
+
+The third option, '3) Disallow access to all profiles with one of the roles selected below' does not look at relationships at all.  Affected operators will not be able to see profiles of the type(s) selected.  This would allow you to limit access to funder profiles by staff, for example.
+
    
 #### Restrict operators below manager level to only view {{activity}} and {{linked case}} records linked to the "my users" they are linked to.
    
@@ -53,15 +84,7 @@ Records with no attendees will not be visible with this option.
 
 #### If using "My Users" restriction above, should newly added profiles be made a "my user".
 
-   By choosing this option, when a database user creates a new profile in the system, it will automatically be linked to them as 'my user'. This is to prevent the need for another operator with a higher level of access to go in and create the relationship before they can edit information in the profile.
-   
-### Speech Recognition
-
-#### Allow operators to use speech recognition with {{Lamplight}}?
-
-   If you use Chrome it has built-in dictation which you can use to write your {{work}} records or other text. If you choose to enable speech recognition here, each operator will have the choice whether or not they would like to use it.
-
-   You may have privacy concerns about this (which is why it is in this section): Google will receive the audio of what you say in order to turn it into text. You can check their privacy policy at [https://www.google.com/chrome/privacy/whitepaper.html#speech](https://www.google.com/chrome/privacy/whitepaper.html#speech). If you do enable this option, when you click on a text box you’ll get a request to access your microphone: if you say yes, you’ll be able to dictate, and after each pause the text will appear in the box. You only need to allow access once on a particular browser, and you can revoke it at any time.
+   By choosing this option, when a database user creates a new profile in the system, it will automatically create a relationship with them as 'my user'. This is to prevent the need for another operator with a higher level of access to go in and create the relationship before they can edit information in the profile.
    
 
 
