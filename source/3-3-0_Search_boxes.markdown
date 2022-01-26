@@ -1,6 +1,6 @@
 # 3.3.0 Search Boxes
 
-> When adding details of {{people}} to records, {{Lamplight}} uses search-as- you-type. Click on the name when you see the {{person}} you need to add
+> When adding details of {{people}} to records, {{Lamplight}} uses search-as-you-type. Click on the name when you see the {{person}} you need to add
 
 
 

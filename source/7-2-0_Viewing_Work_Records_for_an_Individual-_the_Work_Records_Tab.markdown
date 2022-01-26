@@ -50,7 +50,7 @@ This is one of the places where you can add this {{work}} record to a {{linked c
 
 Choosing this option duplicates the {{work}} record, opens the duplicate for editing and saves it in the same {{linked case}}. This is a quick way to create a new record in the same {{linked case}} if it shares details with the original {{work}} record. 
 
-**  Remove link to {{linked case}}.**
+**  Remove link to {{linked case}}**
 
 You can remove this {{work}} record from the {{linked case}} it is attached to.
 
