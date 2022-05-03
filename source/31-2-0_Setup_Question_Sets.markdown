@@ -21,6 +21,9 @@ full instructions are given [in section 16.7.0](/en/help/p/16.7.0).
 3. Continue adding questions.
 4. Click 'save all changes' at the top (or bottom) of the screen.
 
+Note that if you add any text to the 'Description' or 'Placeholder' fields, they will be visible
+to {{recruiter_applicant}}s.
+
 ##SCREENSHOT##
 
 ## Adding Mark Schemes
