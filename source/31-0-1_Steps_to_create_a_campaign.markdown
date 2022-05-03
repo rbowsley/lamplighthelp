@@ -143,3 +143,5 @@ From this point the process management leaves Lamplight, although you could use 
 if you want to.  The process and communications typically become more personalised and there's less
 need for a system.
 
+
+###### recruiter module

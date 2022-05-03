@@ -73,4 +73,19 @@ application and shortlisting process.  The process is:
  - applicants can be emailed directly to share the good or bad news
 
 
+## Credits
+
+The functionality in this module has been inspired by a few folk:
+ - Diverse Matters - https://diversematters.co.uk/ - who have helped Lamplight in our approach to 
+ recruitment,
+ - beapplied.com - a platform that offers similar functionality for larger employers.
+ - https://twitter.com/craprecruitment - highlighting where Third Sector organisations 
+can improve their recruitment practices
+
+We added this module because we wanted to use it and couldn't find a product that would work
+for us.  We've used this module and approach over three recruitment rounds over the last couple
+of years and it's been such an improvement.  We get fewer applications, but they are excellent,
+and the feedback from applicants (whatever the outcome) has been really positive.
+
+
 ###### recruiter module
