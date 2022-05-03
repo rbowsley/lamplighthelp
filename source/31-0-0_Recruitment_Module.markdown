@@ -1,11 +1,12 @@
-# 31.0.0 Recruitment Module
+# 31.0.0 {{Recruiter}} Module
 
-> The Recruitment Module is a highly effective approach to recruitment, helping you to attract ideal candidates
+> The {{Recruiter}} Module is a highly effective approach to recruitment, helping you to attract ideal candidates
 > and gain real insight into their suitability for the role. It helps you focus on the requirements of the post
 > and their capabilities, while removing any distracting and irrelevant information that may influence you.
 
-The recruitment module implements a highly opinionated approach to job applications and shortlisting. 
+The {{Recruiter}} module implements a highly opinionated approach to job applications and shortlisting. 
 It's an opinion based on research but is different to a lot of the recruitment practice you see.
+The module focuses on the application and shortlisting phase.
 
 ## 1. You are seeking capable people
 
@@ -48,10 +49,9 @@ You'd never eat.
 In recruitment our brains may be doing the same things - using perceived education, work experience, age, 
 where someone lives, gender, names, ethnicity etc to make quick judgements about suitability.
 
-But this information is not helpful when we're making decisions.  
-So remove all the clues that mislead us and focus on capability.
+But this information is not helpful when we're making decisions.  So remove all the clues that mislead us and focus on capability.
 
-When you're shortlisting the recruitment module only shows you applicant responses to each question - you 
+When you're shortlisting the {{recruiter}} module only shows you applicant responses to each question - you 
 can't see any personal or demographic information, and there are no CVs.  And responses are presented
 to make it most easy to compare responses from the different applicants and judge them fairly.
 
@@ -61,16 +61,16 @@ to monitor your equalities performance.
 
 ## Module functionality
 
-The Lamplight recruitment module is designed for smaller employers, to help with the initial
+The Lamplight {{recruiter}} module is designed for smaller employers, to help with the initial
 application and shortlisting process.  The process is:
 
  - create question sets that applicants complete when applying for a role
  - check language of text that may discourage people from applying
- - create recruitment campaigns that allow applicants to answer capability based questions
+ - create {{recruiter}} campaigns that allow applicants to answer capability based questions
  - each member of the shortlisting panel when scores applications
  - scores are shown for all applicants
  - shortlisting decisions and reasons are made and saved
  - applicants can be emailed directly to share the good or bad news
 
 
-###### recruitment module
+###### recruiter module
