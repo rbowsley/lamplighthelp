@@ -13,7 +13,7 @@ wish to change the mark scheme for.
 You'll then see each question, with text boxes for your notes for each possible score for that question.
 These notes are for the shortlisting panel only.
 
-##SCREENSHOT##
+![Entering Mark Scheme text for a question](31.3.0a.png)
 
 You don't have to add notes for every score point if you don't want to - add what's helpful for the panel.
 You may wish to discuss these points with the panel.

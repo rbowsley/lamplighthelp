@@ -36,7 +36,7 @@ Campaigns under way means that you can accept applications: the campaign has sta
 date is in the future.  You'll see the URL for the campaign in the listing - this is the URL
 that you should advertise to potential applicants.
 
-##SCREENSHOT##
+![A {{recruiter}} campaign under way](31.1.0b.png)
 
 You can see a summary of how the campaign is going - the number of responses you've received so far. 
 However you are not able to view applications or reporting.

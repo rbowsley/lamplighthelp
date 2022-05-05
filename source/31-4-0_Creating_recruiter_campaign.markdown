@@ -6,7 +6,7 @@
 To create a new {{recruiter}} campaign, click {{people}} > {{recruiter}} > add new campaign.  You'll 
 see a form to create the new campaign:
 
-##SCREENSHOT##
+![Creating a {{recruiter}} campaign](31.4.0a.png)
 
 The name of the position will usually be the job title, and will be visible to {{recruiter_applicant}}s.
 Set the date range for the campaign - {{recruiter_applicant}}s will not be able to enter any data

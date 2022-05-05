@@ -27,13 +27,13 @@ particular capability which you assume someone with that qualification has?
 
 Lamplight includes a simple copy-paste language checker that will look for words that are 
 masculine or feminine coded, or which may be problematic in other ways.  Go to {{people}} >
-{{recruiter}} >  and paste in your text to check.
+{{recruiter}} > check language of advert and paste in your text to check.
 
 ## 3. Create a Question Set
 
 If this is a new role, or the first time you've carried out capability based applications,
 you'll need to create a set of questions that applicants need to complete to apply.  To create
-or edit questions, go to admin > system admin > .
+or edit questions, go to admin > system admin > Manage {{recruiter{{ question sets.
 
 The following tips will help as you design your questions:
 
@@ -63,7 +63,6 @@ though, you don't have to do it before seeking applicants.
 
 You'll see a link to create the Mark Scheme from the screen where you edit Question Sets
 
-##SCREENSHOT##
 
 ## 5. Setup and check your equalities fields
 
@@ -140,7 +139,7 @@ with their preferred times.
 ## 10. Interviews
 
 From this point the process management leaves Lamplight, although you could use the {{comm}}s module
-if you want to.  The process and communications typically become more personalised and there's less
+and templates to make it easier.  The process and communications typically become more personalised and there's less
 need for a system.
 
 

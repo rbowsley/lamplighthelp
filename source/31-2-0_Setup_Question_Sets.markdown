@@ -9,6 +9,9 @@ We recommend that most questions are open, text questions.  They should relate c
 capabilities you've identified in the job description and ideally reflect the sorts of tasks 
 that the job involves.
 
+No questions should require personally identifiable information, nor any equalities monitoring questions. 
+These are added elsewhere in the {{recruiter}} campaign and kept separate from the answers to these questions .
+
 To create a Question Set, go to 'admin > system admin > {{Recruiter}} module > Manage {{recruiter}} question sets'.
 
 You create Question Sets in the same way that you add custom tabs and fields for profiles - 
@@ -24,7 +27,7 @@ full instructions are given [in section 16.7.0](/en/help/p/16.7.0).
 Note that if you add any text to the 'Description' or 'Placeholder' fields, they will be visible
 to {{recruiter_applicant}}s.
 
-##SCREENSHOT##
+![Create a new Question Set](31.2.0agif)
 
 ## Adding Mark Schemes
 
