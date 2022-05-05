@@ -25,7 +25,7 @@ particular capability which you assume someone with that qualification has?
 
 ## 2. Check your language
 
-Lamplight includes a simple copy-paste language checker that will look for words that are 
+Lamplight includes a [simple copy-paste language checker](/help/index/p/31.0.1) that will look for words that are 
 masculine or feminine coded, or which may be problematic in other ways.  Go to {{people}} >
 {{recruiter}} > check language of advert and paste in your text to check.
 
