@@ -49,7 +49,7 @@ scoring responses.
 If you're a member of the panel you'll see a summary of where you've got to, and a button to enable you to
 score responses.
 
-##SCREENSHOT##
+![A {{recruiter}} campaign ready for shortlisting](31.1.0d.png)
 
 ## Shortlisting complete
 
