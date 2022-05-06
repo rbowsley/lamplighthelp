@@ -11,6 +11,8 @@ Clicking this will take you into the reporting function and show the number of a
 broken down by the different equalities fields that you chose for the campaign.  You can use this 
 to help monitor whether you are receiving applications from a broad range of people.
 
-##SCREENSHOT##
+
+![A {{recruiter}} report](31.9.0.png)
+
 
 ###### recruiter module
