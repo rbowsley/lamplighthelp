@@ -7,7 +7,7 @@ To get starting with the {{recruiter}} module, and go to 'people > {{recruiter}}
 main menu.  From here you'll see existing campaigns and their status, and buttons to carry out 
 key actions.  This screen is available to 'manager' operators and above.
 
-##SCREENSHOT##
+![A {{recruiter}} campaign under way](31.1.0a.png)
 
 The buttons at the top of the screen take you directly to common actions you'll need to perform
 as part of your recruitment.  Below that, existing campaigns are listed, grouped together
@@ -27,8 +27,6 @@ and you can't start shortlisting until after the closing date.
 
 Campaigns not started have an open date in the future, and if you visit the URL you will see an error
 message.  Campaigns that haven't started can be edited, deleted, and duplicated.
-
-##SCREENSHOT##
 
 ## Campaigns Under Way
 
