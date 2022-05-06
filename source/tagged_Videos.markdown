@@ -145,5 +145,18 @@ Lamplight gives administrators control over their system. These videos will help
 - [managing login policies](/help/index/p/52.1.5)
 
 </div>
+
+
+<div class="pure-u-1-2">
+
+#### [Publishing Module widgets](/help/index/p/52.5.0)
+
+Publishing widgets allow you to link Lamplight to your website.  Matt spends a few minutes with sample settings
+and a website to show you how
+- [introduction and adding a staff listing to your site](/help/index/p/52.5.1)
+- [listing {{work}} records on your site](/help/index/p/52.5.2)
+- [accepting {{referral}}s from your website](/help/index/p/52.5.3)
+
+</div>
 </div>
 
