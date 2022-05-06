@@ -5,6 +5,8 @@
 Once you have made the shortlisting decision, go to {{people}} > {{recruiter}} > view campaigns and 
 find the correct campaign.  You will now see a button to 'Email applicants'.
 
+![Options once shortlisting complete](31.8.0.png)
+
 When you click this, Lamplight will automatically send out emails to all applicants, using the
 correct template depending on your decision.  Once the emails have been sent you'll see a
 confirmation screen showing recipients and any problems.

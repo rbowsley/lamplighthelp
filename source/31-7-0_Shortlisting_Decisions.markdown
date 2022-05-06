@@ -4,11 +4,11 @@
 
 Once all members of the panel have scored all the responses you can move on to make the shortlisting
 decision.  Go to {{people}} > {{recruiter}} > view campaigns and find the correct campaign.  If
-all questions have been scored, you'll see a button to 'View all scores and make decision'.
+all questions have been scored, you'll see a button to 'View scores and make decision'.
 
 When you do, you'll see a screen like this:
 
-##SCREENSHOT##
+![Decision making screen](31.7.0a.png)
 
 Each row is an application, with each question and the scores given in a column.  Applications
 are ordered in order of the total score descending.
@@ -25,6 +25,8 @@ Having reviewed the scores and applications you can record your decision, and th
 Note that the reason could be shared with the {{recruiter_applicant}} if you have included it in 
 your email template.  If so, your reason should be a standalone paragraph that will be helpful to the
 {{recruiter_applicant}}.
+
+![Making the shortlisting decision](31.7.0b.gif)
 
 You can save your decision as a draft and return to it later if you need to.  When you are sure, click
 the 'confirm decision' button.

@@ -5,7 +5,7 @@
 
 To get starting with the {{recruiter}} module, and go to 'people > {{recruiter}} > view campaigns' on the 
 main menu.  From here you'll see existing campaigns and their status, and buttons to carry out 
-key actions.
+key actions.  This screen is available to 'manager' operators and above.
 
 ##SCREENSHOT##
 

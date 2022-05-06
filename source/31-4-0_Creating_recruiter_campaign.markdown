@@ -25,6 +25,8 @@ search box, and click on it when the correct person appears.
 
 Only these people will be able to score responses and view the scores given.
 
+Panel members need to have 'manager' operator access level or higher, or they won't be able to access the campaigns.
+
 ## Text and styling
 
 The Introductory text appears at the top of the page that applicants see.  You can enter whatever you like,
