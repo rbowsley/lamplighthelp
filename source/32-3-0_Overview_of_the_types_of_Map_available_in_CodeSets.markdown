@@ -9,9 +9,9 @@ The types of CodeSet map available are:
 A Constant Value map simply replaces data in a column with the same value in every row.  It's the simplest type of map
 and can be used to blank out data, or create a column with a reference ID for your organisation.
 
-### No-change Value Map
+### Original Data Value Map
 
-A no-change value map keeps the data you have, either exactly as it is, or with some fixed text added to the start
+An original data value map keeps the data you have, either exactly as it is, or with some fixed text added to the start
 or end.  This can be useful if you just need to change the column header, or if you need to add an organisation
 prefix or suffix to IDs.
 

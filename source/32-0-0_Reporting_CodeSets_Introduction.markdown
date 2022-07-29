@@ -57,13 +57,13 @@ As well as changing the values in the table, Maps can also change the column hea
 32.1.0 How to create a new CodeSet
 32.2.0 Which fields can be used in CodeSets?
 32.3.0 Overview of the types of Map available in CodeSets
-32.3.1 Types of Map: Constant value Maps
-32.3.2 Types of Map: No-change Maps
-32.3.3 Types of Map: Date Format Maps
-32.3.4 Types of Map: Numeric Range Maps
-32.3.5 Types of Map: Single Option Maps
-32.3.6 Types of Map: Multi Option Maps
-32.3.7 Types of Map: Text Search Maps
+32.3.1 Types of Map: Constant value Map
+32.3.2 Types of Map: Original data Map
+32.3.3 Types of Map: Date Format Map
+32.3.4 Types of Map: Numeric Range Map
+32.3.5 Types of Map: Single Option Map
+32.3.6 Types of Map: Multi Option Map
+32.3.7 Types of Map: Text Search Map
 32.4.0 Some techniques when using Reporting CodeSets for MHS DS reporting
 32.4.0 Using Reporting CodeSets with {{group}}s and data views.
 32.4.1 Set up an {{activity}} view template using a Reporting CodeSet
