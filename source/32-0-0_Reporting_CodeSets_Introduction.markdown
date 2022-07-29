@@ -65,7 +65,7 @@ As well as changing the values in the table, Maps can also change the column hea
 32.3.6 Types of Map: Multi Option Map
 32.3.7 Types of Map: Text Search Map
 32.4.0 Some techniques when using Reporting CodeSets for MHS DS reporting
-32.4.0 Using Reporting CodeSets with {{group}}s and data views.
-32.4.1 Set up an {{activity}} view template using a Reporting CodeSet
-32.5.0 Using Reporting CodeSets with {{activity}} views
-32.5.1 Set up an {{activity}} view template using a Reporting CodeSet
+32.5.0 Using Reporting CodeSets with {{group}}s and data views.
+32.5.1 Set up an {{grroup}} view template using a Reporting CodeSet
+32.6.0 Using Reporting CodeSets with {{activity}} views
+32.6.1 Set up an {{activity}} view template using a Reporting CodeSet
