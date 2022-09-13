@@ -1,6 +1,6 @@
 # 8.1.4 <i class="fas fa-trophy"></i> Recording the {{Outcome}} Values
 
-> After the 'When and where' and 'Attendance' tabs, the next tabs that you see are for recording {{outcome}} scores
+> After the 'When and where' and 'Respondent' tabs, the next tabs that you see are for recording {{outcome}} scores
 
 
 
