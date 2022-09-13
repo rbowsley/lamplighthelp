@@ -10,7 +10,7 @@ If you enter a username or password which is not stored in {{Lamplight}}, two th
 
 If the database does not recognise your username, you will see a 'login failed' error message below the sign-in boxes.
 
-![Username not recognised](2.2.0a.PNG)
+![Username not recognised](2.2.0a.png)
 
 You will see the same message if your password is not recognised.
 

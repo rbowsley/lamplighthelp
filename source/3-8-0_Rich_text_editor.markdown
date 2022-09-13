@@ -4,7 +4,7 @@
 
 
 
-With rich text editors in {{Lamplight}} you can create formatted text - for example bold, bullet points, colours. 
+With rich text editors in {{Lamplight}} you can create formatted text - for example bold, bullet points, and colours. 
 
 To open the editor:
 - Click on the '+' on the top right of a text box. 

@@ -35,6 +35,7 @@ On the next screen you will be prompted to change to a new password. If your org
 
 ##### Tags
 Getting started
+Security
 
 ###### core module
 

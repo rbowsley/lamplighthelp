@@ -22,6 +22,8 @@ See the following pages for how to enter details into a {{work}} record:
 - [7.4.0 Searching {{Work}} Records](/help/index/p/7.4.0)
 
 
+[There are also a series of videos available](/help/index/p/51.4.0) introducing {{work}} records.
+
 ##### Tags
 Getting started
 

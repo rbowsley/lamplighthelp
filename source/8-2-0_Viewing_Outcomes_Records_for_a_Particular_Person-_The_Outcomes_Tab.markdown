@@ -83,7 +83,7 @@ You can add this {{outcome}} to a {{linked case}}.
 
 If this record is already attached to a {{linked case}} you can remove it here.
 
-#### Close {{linked case}}**
+#### Close {{linked case}}
 
 This will flag the {{linked case}} as closed.
 

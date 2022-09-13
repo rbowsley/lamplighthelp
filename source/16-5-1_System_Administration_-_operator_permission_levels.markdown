@@ -17,5 +17,8 @@ The different levels of access that you can choose from are:
 ![Database Operator Table](16.5.1b.jpg)
 
 
+##### Tags
+Security
+
 ###### core module
 

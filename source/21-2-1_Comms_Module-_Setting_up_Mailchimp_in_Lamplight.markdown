@@ -25,7 +25,7 @@ Your API key is similar to (but not the same as) a username and password that on
 - Click on ‘Create a key’ (under ‘Your API keys’). 
 - Copy this key and open {{Lamplight}}.
 
-![MailChimp API](225a.PNG)
+![MailChimp API](225a.png)
 
 #### Entering the API Key in {{Lamplight}}
 - From the main Lamplight menu, choose ‘admin -> system administration’.  

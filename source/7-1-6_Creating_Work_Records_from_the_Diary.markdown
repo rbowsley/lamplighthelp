@@ -31,7 +31,7 @@ Once {{work}} records have been created, the appointment time and date can be al
 
 Left-clicking on a {{work}} record in the diary brings up a context menu. 
 
-![The Diary Context Menu](7.1.6b.PNG)
+![The Diary Context Menu](7.1.6b.png)
 
 #### View full details
 

@@ -27,5 +27,6 @@ If you need to make sure that all operators change their passwords so that they 
 ##### Tags
 Advanced topics
 System admin
+Security
 
 ###### core module

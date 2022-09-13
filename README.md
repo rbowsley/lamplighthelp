@@ -15,8 +15,8 @@ To add content to the help manual, you will need to
 
 1. clone this repo (once), or make sure your copy is up to date (frequently, pull)
 2. make your changes
-3. submit a pull request to the `review` branch
-4. once changes have been reviewed, they'll be merged into the `master`
+3. submit a pull request to the `review` or other agreed branch
+4. once changes have been reviewed, they'll be merged into the `main`
 
 A separate build process will then take the text from here and update
 customer help files and downloads.  This will happen nightly, so updates should
