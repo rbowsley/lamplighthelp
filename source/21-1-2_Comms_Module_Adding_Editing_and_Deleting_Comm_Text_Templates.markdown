@@ -16,6 +16,7 @@ Text templates can be created directly in the communications section of system a
 - As this is a text template do not select a file. 
 - Click the + symbol in the top, right-hand corner of the text box to reveal the text editing tools. This will allow you to apply formatting to the document, as well as including images and merge fields.
 
+
 ![{{Comm}} From Expand Toolbar](21.1.1b.png)
 
 - Enter the content of your template into the large text field. This could be the text of an email or letter, for example.
