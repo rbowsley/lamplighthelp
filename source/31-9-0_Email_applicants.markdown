@@ -1,4 +1,4 @@
-# 31.8.0 Email {{recruiter_applicant}}s with your decision 
+# 31.9.0 Email {{recruiter_applicant}}s with your decision 
 
 > Once you have confirmed your shortlisting decision you can send out bulk emails to all candidates.
 

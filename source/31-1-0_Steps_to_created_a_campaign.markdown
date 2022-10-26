@@ -1,4 +1,4 @@
-# 31.0.1 Overview of the steps to create a {{recruiter}} campaign
+# 31.1.0 Overview of the steps to create a {{recruiter}} campaign
 
 > The minimum steps are to create a Question Set for the {{recruiter_applicant}} to complete, 
 > ensure equalities monitoring fields are in place, and then create a campaign that

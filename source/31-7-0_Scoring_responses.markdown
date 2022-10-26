@@ -1,4 +1,4 @@
-# 31.6.0 Scoring {{Recruiter_applicant}} responses
+# 31.7.0 Scoring {{Recruiter_applicant}} responses
 
 > After the closing date for the campaign, members of the shortlisting panel need to score the responses.
 > To do this go to {{person}} > {{recruiter}} > list campaigns and select 'Score responses' for the campaign.

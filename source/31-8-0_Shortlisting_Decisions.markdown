@@ -1,4 +1,4 @@
-# 31.7.0 Making the Shortlisting Decision
+# 31.8.0 Making the Shortlisting Decision
 
 > The panel view all the scores for all the applications and decide who to shortlist for interview.
 
@@ -34,4 +34,4 @@ the 'confirm decision' button.
 You will now see the names and contact emails of the candidates, and view (but not change) your decision
 and reasons.
 
-####### recruiter module
+###### recruiter module

@@ -1,4 +1,4 @@
-# 31.0.2 Checking language for bias
+# 31.1.1 Checking language for bias
 
 > The language used in job adverts and documents can easily put people off unintentionally. Lamplight
 > includes a tool to check.
@@ -22,7 +22,7 @@ into the editor and press 'check language'.
 
 It will check the text and highlight any terms that you may want to review and re-word.
 
-## Credits
+#### Credits
 
 This tool uses a similar approach to that here: https://gender-decoder.katmatfield.com/
 although it extends the words to check beyond gender.  

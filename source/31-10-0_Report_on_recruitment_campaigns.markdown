@@ -1,4 +1,4 @@
-# 31.9.0 Reporting on your {{recruiter}} campaign
+# 31.10.0 Reporting on your {{recruiter}} campaign
 
 > The {{recruiter}} report shows how many applications you received from different groups
 > to assist your equalities monitoring and improvement.
