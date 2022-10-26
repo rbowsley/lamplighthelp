@@ -6,7 +6,7 @@ To get starting with the {{recruiter}} module, and go to 'people > {{recruiter}}
 main menu.  From here you'll see existing campaigns and their status, and buttons to carry out 
 key actions.  This screen is available to 'manager' operators and above.
 
-![A {{recruiter}} campaign under way](31.1.0a.png)
+![A {{recruiter}} campaign under way](31.1.0a.gif)
 
 The buttons at the top of the screen take you directly to common actions you'll need to perform
 as part of your recruitment.  Below that, existing campaigns are listed, grouped together
