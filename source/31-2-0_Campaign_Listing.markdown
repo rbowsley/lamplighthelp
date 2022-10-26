@@ -13,10 +13,10 @@ as part of your recruitment.  Below that, existing campaigns are listed, grouped
 by their status.
 
 Campaign status will be one of:
- - campaign not started (the Applications Open date is in the future)
- - campaign under way (applications are open)
- - shortlisting underway (the closing date has been reached and panel members can access them)
- - shortlisting complete (final scores and decisions have been made)
+- campaign not started (the Applications Open date is in the future)
+- campaign under way (applications are open)
+- shortlisting underway (the closing date has been reached and panel members can access them)
+- shortlisting complete (final scores and decisions have been made)
 
 The actions available to you will depend on the status of the campaign.  For example,
 you cannot edit campaigns once they are under way and you've received any applications, 
@@ -54,3 +54,6 @@ Once shortlisting is complete you'll be able to view scores made by the panel.
 
 While you are making a final decision you won't see applicant names; once you have done and confirmed
 the decision, you will be able to see names and access their profiles.
+
+
+###### recruiter module

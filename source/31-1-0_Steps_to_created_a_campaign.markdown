@@ -1,8 +1,8 @@
 # 31.1.0 Overview of the steps to create a {{recruiter}} campaign
 
-> The minimum steps are to create a Question Set for the {{recruiter_applicant}} to complete, 
-> ensure equalities monitoring fields are in place, and then create a campaign that
-> {{recruiter_applicant}}s respond to.  There are a few other things you should do.
+> The minimum steps are to create a Question Set for the applicant to complete, 
+ensure equalities monitoring fields are in place, and then create a campaign that
+applicants respond to.  There are a few other things you should do.
 
 
 
@@ -11,20 +11,20 @@
 First of all we'd recommend you review your job description and person specification.
 You may find this checklist helpful:
 
- - Does it show the salary (range)? 
- - Does it focus on the capabilities required to do the job?
- - Do you really need the educational qualifications you list? Do you really mean some
+- Does it show the salary (range)? 
+- Does it focus on the capabilities required to do the job?
+- Do you really need the educational qualifications you list? Do you really mean some
 particular capability which you assume someone with that qualification has?
- - Do you really need a driving license / car? You can do a lot of work on public transport.
- - What's your approach to flexible / hybrid work? Is it really essential to be in the office?
- - Do you really require experience? What does experience bring? Can you think about the qualities
+- Do you really need a driving license / car? You can do a lot of work on public transport.
+- What's your approach to flexible / hybrid work? Is it really essential to be in the office?
+- Do you really require experience? What does experience bring? Can you think about the qualities
  you're actually looking for that may come with experience? Might those qualities have been developed
  in other ways?
 
 
 ### 2. Check your language
 
-Lamplight includes a [simple copy-paste language checker](/help/index/p/31.0.1) that will look for words that are 
+Lamplight includes a [language checker](/help/index/p/31.1.1) that will look for words that are 
 masculine or feminine coded, or which may be problematic in other ways.  Go to {{people}} >
 {{recruiter}} > check language of advert and paste in your text to check.
 
@@ -32,22 +32,16 @@ masculine or feminine coded, or which may be problematic in other ways.  Go to {
 
 If this is a new role, or the first time you've carried out capability based applications,
 you'll need to create a set of questions that applicants need to complete to apply.  To create
-or edit questions, go to admin > system admin > Manage {{recruiter{{ question sets.
+or edit questions, go to admin > system admin > Manage {{recruiter}} question sets.
 
 The following tips will help as you design your questions:
 
- - Look at the job description and person specification.  For each capability point, consider
- whether you'll assess it in the application, interview, or both.
- - Think about the sorts of things that the successful candidate will have to do. They should
-be in the job description already. Now can you come up with a simplified version of that task
-that doesn't need a lot of explanation or background information?  For example, if written skills
-are important, you could ask them to write an email in a slightly tricky situation.
- - Aim for open questions. You may want to use select type fields for particular technical skills,
- but most should be text boxes.
- - If it doesn't relate to the job description, don't ask it.
- - Specify the closing date and explain that you'll keep to it. Avoid "rolling applications" or 
-"may close early" - this could be discriminatory and is definitely unfair.
- - Don't ask them to do unpaid work for you.  "Suggest a new marketing strategy" probably isn't appropriate.
+- Look at the job description and person specification.  For each capability point, consider whether you'll assess it in the application, interview, or both.
+- Think about the sorts of things that the successful candidate will have to do. They should be in the job description already. Now can you come up with a simplified version of that task that doesn't need a lot of explanation or background information?  For example, if written skills  are important, you could ask them to write an email in a slightly tricky situation.
+- Aim for open questions. You may want to use select type fields for particular technical skills, but most should be text boxes.
+- If it doesn't relate to the job description, don't ask it.
+- Specify the closing date and explain that you'll keep to it. Avoid "rolling applications" or "may close early" - this could be discriminatory and is definitely unfair.
+- Don't ask them to do unpaid work for you.  "Suggest a new marketing strategy" probably isn't appropriate.
 
 You can re-use Question Sets for {{recruiter}} campaigns, so if you've recruited for this role
 previously, you may want to update the questions rather than create a new set.
@@ -60,7 +54,7 @@ Alongside your Question Set you can create a Mark Scheme, which will give the sh
 hints about the sorts of things you'd look for in responses.  You can create these at any time
 though, you don't have to do it before seeking applicants.
 
-You'll see a link to create the Mark Scheme from the screen where you edit Question Sets
+You'll see a link to create the Mark Scheme from the screen where you edit Question Sets.
 
 
 ### 5. Setup and check your equalities fields
@@ -86,7 +80,7 @@ When you create a campaign Lamplight will generate a unique (and long) URL.  Whe
 (not while logged in to Lamplight) you'll see contact details, the questions from your Question Set,
 and equalities fields.
 
-When {{Recruiter_applicant}}s save an application they'll receive an email with a URL which they
+When applicants save an application they'll receive an email with a URL which they
 can return to any time until the closing date of the campaign to update their responses.
 
 ### 7. Shortlist after the closing date

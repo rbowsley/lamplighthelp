@@ -2,9 +2,9 @@
 
 > The {{Recruiter}} Module is a highly effective approach to recruitment, helping you to attract ideal candidates and gain real insight into their suitability for the role. It helps you focus on the requirements of the post and their capabilities, while removing any distracting and irrelevant information that may influence you.
 
-The {{Recruiter}} module implements a highly opinionated approach to job applications and shortlisting. 
+The {{Recruiter}} module implements an opinionated approach to job applications and shortlisting. 
 It's an opinion based on research but is different to a lot of the recruitment practice you see.
-The module focuses on the application and shortlisting phase.
+The module focuses on the application and shortlisting phase. Here's the background thinking to the module.
 
 ### 1. You are seeking capable people
 
@@ -22,8 +22,8 @@ This approach to recruitment encourages you to re-write your job descriptions an
 to really focus on the skills and capabilities you need for the post.
 
 You also need to think about whether the language you use in your adverts and job descriptions is 
-inadvertently putting people off.  Requiring a "confident, ambitious leader with a logical approach"
-will put women off from applying.  Re-phrasing to use less masculine coded language will fix this, 
+inadvertently putting people off.  By phrasing a requirement as "confident, ambitious leader with a logical approach",
+research shows you will put women off from applying.  Re-phrasing to use less masculine coded language will fix this, 
 without putting men off from applying.
 
 ### 2. So ask applicants to show you what they can do
@@ -40,7 +40,7 @@ just the sort of letter that you want to send - and they'll have the opportunity
 ### 3. Judge applications on their capabilities
 
 Our brains are wired to take short-cuts.  Imagine popping to the shop and having to carry out a full
-cost-benefit analysis of every possible different shortcut, considering your current nutrition levels,
+cost-benefit analysis of every possible different snack, considering your current nutrition levels,
 past experience of different snacks, and the different nutrition to be gained from different options.
 You'd never eat.
 
@@ -62,22 +62,22 @@ to monitor your equalities performance.
 The Lamplight {{recruiter}} module is designed for smaller employers, to help with the initial
 application and shortlisting process.  The process is:
 
- - create question sets that applicants complete when applying for a role
- - check language of text that may discourage people from applying
- - create {{recruiter}} campaigns that allow applicants to answer capability based questions
- - each member of the shortlisting panel when scores applications
- - scores are shown for all applicants
- - shortlisting decisions and reasons are made and saved
- - applicants can be emailed directly to share the good or bad news
+ 1. create question sets that applicants complete when applying for a role
+ 2. check language of text that may discourage people from applying
+ 3. create {{recruiter}} campaigns that allow applicants to answer capability based questions
+ 4. each member of the shortlisting panel when scores applications
+ 5. scores are shown for all applicants
+ 6. shortlisting decisions and reasons are made and saved
+ 7. applicants can be emailed directly to share the good or bad news
 
 
 ### Credits
 
 The functionality in this module has been inspired by a few folk:
- - Diverse Matters - https://diversematters.co.uk/ - who have helped Lamplight in our approach to 
- recruitment,
- - beapplied.com - a platform that offers similar functionality for larger employers.
- - https://twitter.com/craprecruitment - highlighting where Third Sector organisations 
+- Diverse Matters - [https://diversematters.co.uk/](https://diversematters.co.uk/) - who have helped Lamplight in our approach to 
+recruitment,
+- [beapplied.com](beapplied.com) - a platform that offers similar functionality for larger employers.
+- [https://twitter.com/craprecruitment](https://twitter.com/craprecruitment) - highlighting where Third Sector organisations 
 can improve their recruitment practices
 
 We added this module because we wanted to use it and couldn't find a product that would work
