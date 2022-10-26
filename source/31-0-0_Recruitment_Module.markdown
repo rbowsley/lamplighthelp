@@ -1,14 +1,12 @@
 # 31.0.0 {{Recruiter}} Module
 
-> The {{Recruiter}} Module is a highly effective approach to recruitment, helping you to attract ideal candidates
-> and gain real insight into their suitability for the role. It helps you focus on the requirements of the post
-> and their capabilities, while removing any distracting and irrelevant information that may influence you.
+> The {{Recruiter}} Module is a highly effective approach to recruitment, helping you to attract ideal candidates and gain real insight into their suitability for the role. It helps you focus on the requirements of the post and their capabilities, while removing any distracting and irrelevant information that may influence you.
 
 The {{Recruiter}} module implements a highly opinionated approach to job applications and shortlisting. 
 It's an opinion based on research but is different to a lot of the recruitment practice you see.
 The module focuses on the application and shortlisting phase.
 
-## 1. You are seeking capable people
+### 1. You are seeking capable people
 
 You want applicants to carry out a role, for which they will need a set of capabilities.
 Where and how they gained those capabilities isn't really relevant; whether they have them is the 
@@ -28,7 +26,7 @@ inadvertently putting people off.  Requiring a "confident, ambitious leader with
 will put women off from applying.  Re-phrasing to use less masculine coded language will fix this, 
 without putting men off from applying.
 
-## 2. So ask applicants to show you what they can do
+### 2. So ask applicants to show you what they can do
 
 No more "apply via CV and cover letter". Ask applicants specific questions that enable them to demonstrate
 their capabilities.  So, instead of "Requirements: GCSE English", ask applicants to 
@@ -39,7 +37,7 @@ You may find that applicants who were excluded from school and didn't get GCSE E
 just the sort of letter that you want to send - and they'll have the opportunity to show you they can.
 
 
-## 3. Judge applications on their capabilities
+### 3. Judge applications on their capabilities
 
 Our brains are wired to take short-cuts.  Imagine popping to the shop and having to carry out a full
 cost-benefit analysis of every possible different shortcut, considering your current nutrition levels,
@@ -59,7 +57,7 @@ The contact and demographic information is captured, so you can in touch afterwa
 to monitor your equalities performance.
 
 
-## Module functionality
+### Module functionality
 
 The Lamplight {{recruiter}} module is designed for smaller employers, to help with the initial
 application and shortlisting process.  The process is:
@@ -73,7 +71,7 @@ application and shortlisting process.  The process is:
  - applicants can be emailed directly to share the good or bad news
 
 
-## Credits
+### Credits
 
 The functionality in this module has been inspired by a few folk:
  - Diverse Matters - https://diversematters.co.uk/ - who have helped Lamplight in our approach to 
