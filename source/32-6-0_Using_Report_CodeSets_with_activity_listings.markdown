@@ -1,7 +1,6 @@
 # 32.6.0 Using Report CodeSets with {{activity}} listings
 
-> Use a CodeSet with an {{activity}} listing to transform the source data to your required output. 
-> Go to {{Activity}}s > View > {{work}} > standard {{work}} listing and select your CodeSet.
+> Use a CodeSet with an {{activity}} listing to transform the source data to your required output.  Go to {{Activity}}s > View > {{work}} > standard {{work}} listing and select your CodeSet.
 
 Once you have created a CodeSet you can start to use it with {{activity}} views to change the 
 data output.  Go to {{Activity}}s > View > {{work}} > standard {{work}} listing on the main menu. Click 

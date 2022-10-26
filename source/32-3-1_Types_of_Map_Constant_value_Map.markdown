@@ -1,7 +1,6 @@
 # 32.3.1 Types of Map: Constant value Map
 
-> A Constant Value map simply replaces data in a column with the same value in every row.  It's the simplest type of map
-and can be used to blank out data, or create a column with a reference ID for your organisation.
+> A Constant Value map simply replaces data in a column with the same value in every row.  It's the simplest type of map and can be used to blank out data, or create a column with a reference ID for your organisation.
 
 All fields can be use a Constant Value Map.  To set a column to be a Constant Value Map, select the field from the dropdown
 and click the 'constant value map' button.

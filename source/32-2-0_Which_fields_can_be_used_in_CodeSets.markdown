@@ -1,7 +1,6 @@
 # 32.2.0 Which fields can be used in CodeSets?
 
-> Fields which can be used in CodeSets are built-in profile fields, custom profile fields, built-in {{activity}} fields,
-> custom {{activity}} fields, attendance table fields, and {{linked case}} fields.
+> Fields which can be used in CodeSets are built-in profile fields, custom profile fields, built-in {{activity}} fields, custom {{activity}} fields, attendance table fields, and {{linked case}} fields.
 
 The main fields that are used in data views and {{activity}} views can be included in CodeSets.  All available fields
 are listed in the 'Field to create Map for' drop-down when editing a CodeSet:

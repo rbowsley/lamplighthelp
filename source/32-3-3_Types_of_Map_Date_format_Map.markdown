@@ -1,7 +1,6 @@
 # 32.3.3 Types of Map: Date Format Data Map
 
-> Date format maps re-format date fields in the way that you select, so that 28/07/2022 could become '2022-07-28' or
-'28th July 2022' or simply 'July'.
+> Date format maps re-format date fields in the way that you select, so that 28/07/2022 could become '2022-07-28' or '28th July 2022' or simply 'July'.
 
 Date format maps are only available for date fields.  To set a column to be an Original Data Value Map, 
 select a date type field from the dropdown and click the 'date format map' button.

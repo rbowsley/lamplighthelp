@@ -1,7 +1,6 @@
 # 32.3.5 Types of Map: Single Option Map
 
-> A single option map will switch drop-down type fields, such as a typical gender field, or {{workarea}}.  You specify
-what each option available should be translated to.
+> A single option map will switch drop-down type fields, such as a typical gender field, or {{workarea}}.  You specify what each option available should be translated to.
 
 Single Option fields are appropriate when you have a drop-down or tickbox style input for the source data, so that you
 know the data is limited to a fixed set of possible values.  They should also be used when you know that the data you

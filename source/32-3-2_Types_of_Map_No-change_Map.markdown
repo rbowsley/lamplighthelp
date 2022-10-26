@@ -1,8 +1,6 @@
 # 32.3.2 Types of Map: Original Data Map
 
-> An Original Data value map keeps the data you have, either exactly as it is, or with some fixed text added to the start
-or end.  This can be useful if you just need to change the column header, or if you need to add an organisation
-prefix or suffix to IDs.
+> An Original Data value map keeps the data you have, either exactly as it is, or with some fixed text added to the start or end.  This can be useful if you just need to change the column header, or if you need to add an organisation prefix or suffix to IDs.
 
 All fields can be use a Original Data Value Map.  To set a column to be an Original Data Value Map, select the field from the dropdown
 and click the 'original value map' button.
