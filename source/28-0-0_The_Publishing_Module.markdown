@@ -17,7 +17,7 @@ In addition you can, if you want, accept data into Lamplight.  For example, you 
 
 ### Widgets
 
-You can create widgets within Lamplight that allow you to embed profile information, {{work}} record listings or {{referral}} forms on your website. To do this you'll need to copy and paste a single line of html code from {{Lamplight}} into your own website.  This is a very quick and easy way to start using the publishing module and doesn't require specialist knowledge. [Section 28.4](/help/index/p/28.4) explains how to create widgets within Lampilght, and how to use them on your website.
+You can create widgets within Lamplight that allow you to embed profile information, {{work}} record listings or {{referral}} forms on your website. To do this you'll need to copy and paste a single line of html code from {{Lamplight}} into your own website.  This is a very quick and easy way to start using the publishing module and doesn't require specialist knowledge. [Section 28.4](/help/index/p/28.4) explains how to create widgets within Lamplight, and how to use them on your website.
 
 ### Public sign-in
 
@@ -39,9 +39,9 @@ Assuming that you have the correct permissions and setup, the types of data that
 | {{Workarea}} | Yes | No | No |
 
 
-We’ve set up a whole website, [http://www.lamplight-publishing.co.uk/](http://www.lamplight-publishing.co.uk/), which gives some working examples and documentation to show how the API works.  It’s aimed at developers and other technical types to show how to get the data out of Lamplight and on to your website.  It goes into full detail about what can and what cannot be done with the module.  
+We’ve set up a whole website, [https://mattparker.github.io/lamplight-phpclient/](https://mattparker.github.io/lamplight-phpclient/), which gives some working examples and documentation to show how the API works.  It’s aimed at developers and other technical types to show how to get the data out of Lamplight and on to your website.  It goes into full detail about what can and what cannot be done with the module.  
 
-You will need a developer to add the Lamplight information to your website.  We strongly recommend that you and your developer review the [publishing website](http://www.lamplight-publishing.co.uk/) to confirm that you will be able to achieve what you need to with the module.
+You will need a developer to add the Lamplight information to your website.  We strongly recommend that you and your developer review the [publishing website](https://mattparker.github.io/lamplight-phpclient/) to confirm that you will be able to achieve what you need to with the module.
 
 
 ###### publish module
