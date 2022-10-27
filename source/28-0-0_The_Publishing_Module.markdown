@@ -19,6 +19,11 @@ In addition you can, if you want, accept data into Lamplight.  For example, you 
 
 You can create widgets within Lamplight that allow you to embed profile information, {{work}} record listings or {{referral}} forms on your website. To do this you'll need to copy and paste a single line of html code from {{Lamplight}} into your own website.  This is a very quick and easy way to start using the publishing module and doesn't require specialist knowledge. [Section 28.4](/help/index/p/28.4) explains how to create widgets within Lamplight, and how to use them on your website.
 
+Widgets are a great place to start: this Customer webinar video gives an introduction to the module and shows you how to get up and running with the publishing module really quickly.
+
+<iframe title="Report CodeSets webinar" width="640" height="564" src="https://player.vimeo.com/video/764557132?h=5f2c1eb0ad&badge=0&autopause=0&player_id=0&app_id=58479"
+data-video-display="home" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+
 ### Public sign-in
 
 The publishing module includes a public sign-in page that displays published {{work}} records and allows your service users to sign in and out of them on the day using their email address or a {{Lamplight}} QR code.  [Section 28.5](/help/index/p/28.5) explains how this works in detail. You'll need to register the devices you're using for public sign-in. Once you've done this you can sign in to the relevant web page on that device to see the day's events and allow people to sign in and out of them. 

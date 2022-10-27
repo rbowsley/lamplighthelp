@@ -2,8 +2,14 @@
 
 > Reporting CodeSets allow you to "translate" your data, so that you can output it using code sets for partners for reporting purposes.  
 
-Reporting CodeSets are like an automated find-and-replace that act on your data.  The easiest way to explain
-what they do is with an example.
+Reporting CodeSets are like an automated find-and-replace that act on your data.  Our customer webinar
+video gives a broad introduction to Report Codesets, explaining what they are, how they work, and how to use them.
+It's the best place to start.
+
+<iframe title="Report CodeSets webinar" width="640" height="564" src="https://player.vimeo.com/video/757121112?h=a3e5ac0cab&badge=0&autopause=0&player_id=0&app_id=58479"
+data-video-display="home" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+
+The next easiest way to explain what they do is with an example:
 
 ### Example scenario: the problem
 
