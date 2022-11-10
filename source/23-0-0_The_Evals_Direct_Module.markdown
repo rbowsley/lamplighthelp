@@ -9,7 +9,7 @@ The Data Direct Module works with the {{Eval}}s Module, allowing you to create o
 You have control over:
 
 - presentation – use your logo and colour scheme
-- anonymity (for {{eval}} campaigns – should responses be linked to profiles or not?
+- anonymity (for {{eval}} campaigns) – should responses be linked to profiles or not?
 - who’s completing them, and when they can do so
 
 With {{outcome}} campaigns, you can:
