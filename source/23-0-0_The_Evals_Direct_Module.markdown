@@ -4,7 +4,7 @@
 
 The Data Direct Module works with the {{Eval}}s Module, allowing you to create online links to your existing surveys/{{eval}}s, as well as the core system {{outcome}}s. You [create the {{eval}} templates](/help/index/p/22.1) or [create the {{outcome}} templates](/help/index/p/16.6.2) as normal, and then create a 'campaign', where you ask a set of people to complete the survey online.
 
-![Data Direct in the Menu Bar](23.png)
+![Data Direct in the Menu Bar](23.0.0b.png)
 
 You have control over:
 
