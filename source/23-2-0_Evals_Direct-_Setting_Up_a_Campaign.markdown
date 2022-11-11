@@ -18,12 +18,12 @@ You need to complete each section:
   
 #### Campaign Details
    
-      - Title for the campaign: choose a title which will allow you to identify it in future. For example, you may have a generic 'training feedback' {{eval}} template, but the campaign title could refer to the specific course (e.g. Health and Safety course May 2011). Please note, this title will be seen by your recipients
+   - Title for the campaign: choose a title which will allow you to identify it in future. For example, you may have a generic 'training feedback' {{eval}} template, but the campaign title could refer to the specific course (e.g. Health and Safety course May 2011). Please note, this title will be seen by your recipients
    - Time and date: the start and finish define when the campaign will be available online for your invitees to complete. If they try outside of these times they will see a message telling them the campaign is closed.
    - {{Workarea}}: when responses return into {{Lamplight}}, you can choose which {{workarea}} they'll be tagged to. This enables you to use the same {{eval}} for different services.
    - Do you want to create a separate page for each invitee?: this option allows you to decide if it's anonymous or not. We recommend you give this some thought as to the type of {{eval}} it is and whether it should be connected to the person or will having it anonymous allow for more honest responses (if it's a feedback form for example). If you leave this option ticked, {{Lamplight}} will create a unique URL (website address) for each invitee.  This means that you will be able to see who has responded, and their answers will be recorded/saved in their profile, ie. not anonymous.  It's good practice to ensure invitees know their responses are not anonymous.  If you untick this box, all invitees will receive the same link, give anonymous replies, and the information will not be saved in individual profiles.
    - Do you want invitees to be able to use their web link more than once?: if you send out individual emails (the box above is ticked and the responses are therefore not anonymous) then you can choose whether invitees only have one chance to respond; whether they can send one response, but come back and edit it a later date; or whether they can send in a number of responses at different times.  Remember that people may share the website address with others.  If you do **not** create separate pages for each invitee, then you cannot control whether the link is used more than once.
-   - - Select {{eval}}: choose the {{eval}} you want to use from the drop-down list.
+   - Select {{eval}}: choose the {{eval}} you want to use from the drop-down list.
 
 #### Invitees
    - Select the {{people}} you wish to complete the survey, in the same way that you would for other records ([Adding attendance 7.1.2](/help/index/p/7.1.2). Please note, additional {{people}} can be added to this campaign at a later date.
