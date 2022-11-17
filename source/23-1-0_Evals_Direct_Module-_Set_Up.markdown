@@ -1,6 +1,6 @@
 # 23.1.0 Data Direct Module: Set Up
 
-> If you have already created some {{eval}} or {{outcome}} templates set up within the core system or in the {{Eval}}s Module, then Data Direct takes minimal setup before you can begin using it
+> If you have already created some {{outcome}} templates set up within the core system {{eval}} or via the {{Eval}}s Module, then Data Direct takes minimal setup before you can begin using it
 
 
 
@@ -39,7 +39,9 @@ When creating a new campaign there is a 'Text and styling’ option towards the 
 
    ![Choosing a Colour Scheme](23.1.0d.png)
 
-For more on this see [23.2.0 Setting Up an {{Eval}}s Direct Campaign](/help/index/p/23.2.0).
+For more information please see:
+- {{Outcome}}: [23.6.0 Setting Up an {{Outcome}} Direct Campaign](/help/index/p/23.6.0).
+- {{Eval}}: [23.2.0 Setting Up an {{Eval}}s Direct Campaign](/help/index/p/23.2.0).
 
 ### Custom CSS
 
