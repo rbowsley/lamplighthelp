@@ -33,12 +33,12 @@ You need to complete each section:
 #### Text and Styling
    
    This tab is where you can customise the appearance, introduction and signoff of the survey.
-    - Introductory text appears at the top of the screen before the survey.
-    - Text to display at the bottom of the page will be added after the survey and before they commit their reply
-    - Text to display after the information has been saved will be shown on a new page when the respondent clicks 'save'.
-    - Style relates to the type of font used to display the survey. To confirm serif is a Times New Roman style font and sans-serif is similar to Arial.
-    - Colour schemes will depend on what has been set up in your system. If your System Administrator has created new ones this is where you will find them - see [23.1 Data Direct Module: Set Up](/help/index/p/23.1).
-    - Do you want your logo displayed? If you tick the box, you will need to have one loaded in System Admin for this to work - see [16.17.0 Adding or Changing Your Organisation Logo](/help/index/p/16.17.0).
+  - Introductory text appears at the top of the screen before the survey.
+  - Text to display at the bottom of the page will be added after the survey and before they commit their reply
+  - Text to display after the information has been saved will be shown on a new page when the respondent clicks 'save'.
+  - Style relates to the type of font used to display the survey. To confirm serif is a Times New Roman style font and sans-serif is similar to Arial.
+  - Colour schemes will depend on what has been set up in your system. If your System Administrator has created new ones this is where you will find them - see [23.1 Data Direct Module: Set Up](/help/index/p/23.1).
+  - Do you want your logo displayed? If you tick the box, you will need to have one loaded in System Admin for this to work - see [16.17.0 Adding or Changing Your Organisation Logo](/help/index/p/16.17.0).
   
 
 ###### datadirect module
