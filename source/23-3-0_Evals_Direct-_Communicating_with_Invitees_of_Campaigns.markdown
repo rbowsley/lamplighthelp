@@ -1,12 +1,12 @@
-# 23.3.0 {{Eval}}s Direct: Communicating with Invitees of Campaigns
+# 23.3.0 Data Direct: Communicating with Invitees of Campaigns
 
-> {{Lamplight}} lets you email the people that you set up as invitees your {{eval}} direct campaign. You can choose to contact those that haven't responded, those that have, or all invitees
+> {{Lamplight}} lets you email the people that you set up as invitees your data direct campaign. You can choose to contact those that haven't responded, those that have, or all invitees
 
 
 
 Sending an email out to invitees of a campaign is a similar process to sending a general email in {{Lamplight}}. The key difference is that the text editor features additional mail-merge options that you can use.  You will need to make sure you have [set up email](/help/index/p/16.11). To send emails to the invited respondents:
 
-- Go to {{activity}} -> Datadirect -> {{eval}} campaigns -> view.
+- Go to {{activity}} -> Datadirect -> {{eval}}/{{outcome}} campaigns -> view.
 - Find the campaign you want, then right-click on it or click on the menu button to the left of it. 
 - Select the appropriate email option - all; those who have responded; or those who have not yet responded (the email will default to 'all' if you have sent the campaign to everyone using the same URL). 
 
@@ -17,7 +17,7 @@ Fill out the email form as you would normally (for more information on this see 
 
 ![comm invitees](23.3.0a.png)
 
-This has mail-merge fields so that you can add each recipient's URL (if you have set up your campaign to send to invitees individually), the title, start date and end dates for the campaign. Using these options, you can send personalised emails to each recipient, inviting them to complete the {{eval}} and giving them a link in the email that will take them straight to it.
+This has mail-merge fields so that you can add each recipient's URL (if you have set up your campaign to send to invitees individually), the title, start date and end dates for the campaign. Using these options, you can send personalised emails to each recipient, inviting them to complete the {{eval}}/{{outcome}} and giving them a link in the email that will take them straight to it.
 
 When you have finished writing your email, click the 'create/send' button.  Emails will be sent to each recipient (so long as they have an email address saved in their profile, and have not opted out of email communications). 
 
