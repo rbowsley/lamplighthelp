@@ -82,7 +82,7 @@ If you want to stop an existing campaign, you can edit it to change the 'date to
 
 - Duplicate record: duplicates the campaign, so that if it is similar to one you are setting up you can alter the details rather than creating one from scratch.
 
-- Email all invitees/have responded/not yet responded: takes you to a {{comm}}s page to email these invitees (for more see [23.3.0 Communicating with Invitees of an {{Eval}}s Direct Campaign](/help/index/p/23.3.0)).
+- Email all invitees/have responded/not yet responded: takes you to a {{comm}}s page to email these invitees (for more see [23.3.0 Communicating with Invitees of an Data Direct Campaign](/help/index/p/23.3.0)).
 
 - For {{eval}} campaigns only: View report of responses: takes you to an {{eval}}s report (for more see [{{Eval}} Report 15.2.0](/help/index/p/15.2.0)).
 
