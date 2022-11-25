@@ -23,6 +23,8 @@ When you have finished writing your email, click the 'create/send' button.  Emai
 
 You will need to make alternative arrangements for anyone without an email address (see section [23.5.0 Working with Existing {{Eval}} Direct Campaigns](/help/index/p/23.5.0) for how to view an existing campaign. When you go to view, URLs are shown at the bottom of the screen).  Please also note that if you are using the campaign merge fields (for example 'campaign_URL') the invitee list of the campaign must match the recipient list for the email for the merge fields to sync. 
 
+If sending out regular emails, it maybe more efficient to create a communication template, with the [{{Comm}}s Module](/help/index/p/21.0) these can be created by system administrators so that all team members can use the same structure for their emails. Please see details on this via [21.1.2 {{Comm}} Module: Adding, Editing and Deleting {{Comm}} Text Templates](/help/index/p/21.1.2)
+
 
 ###### datadirect module
 
