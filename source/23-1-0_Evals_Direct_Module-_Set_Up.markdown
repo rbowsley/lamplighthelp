@@ -1,6 +1,6 @@
 # 23.1.0 Data Direct Module: Set Up
 
-> If you have already created some {{outcome}} templates set up within the core system {{eval}} or via the {{Eval}}s Module, then Data Direct takes minimal setup before you can begin using it
+> If you have already created some {{outcome}} templates set up within the core system {{eval}} or via the {{Eval}}s Module, then Data Direct takes minimal setup to start using it
 
 
 
@@ -10,7 +10,7 @@ There are only a few things in system administration for Data Direct that you ne
 
 ### Managing Colour Schemes
 
-System Administrators can define colour schemes for all database operators to use in campaigns.  This controls the visual appearance of the {{eval}}/{{outcome}} your respondents will see when they visit the page.
+System Administrators can define colour schemes for all database operators to use in campaigns.  This controls the visual appearance of the {{eval}}/{{outcome}} your respondents will see when they visit the page if you need to change if from the fairly neutral default scheme.
 
 - Go to 'admin -> system administration’ then scroll down to the 'Module Administration' section. 
 - Find the '{{Eval}}s Module' section, and click on 'Manage colour schemes for DataDirect campaigns'.
