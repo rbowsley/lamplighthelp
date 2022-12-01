@@ -1,9 +1,9 @@
-# 31.5.0 The Campaign from a {{Recruiter_applicant}}s perspective
+# 31.6.0 The Campaign from an applicants perspective
 
 > The application screen asks for contact details; the application questions; and equalities questions.
 
 
-The screen that {{recruiter_applicant}}s see looks something like this:
+The screen that applicants see looks something like this:
 
 ![The application screen - part 1](31.5.0.png)
 
@@ -12,7 +12,7 @@ The screen that {{recruiter_applicant}}s see looks something like this:
 
 ## After saving
 
-After saving their response, {{recruiter_applicant}}s will see this screen:
+After saving their response, applicants will see this screen:
 
 ![After saving their response](31.5.0c.png)
 

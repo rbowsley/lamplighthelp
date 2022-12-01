@@ -1,10 +1,9 @@
 # 32.3.4 Types of Map: Numeric Range Map
 
-> Numeric fields can be mapped to ranges: age bands are the most frequent use of this.  As a simple example, your Map can take any
-> values 0 to 15 and output "child", and 16 - 100 "adult".  You can have as many bands as you need.
+> Numeric fields can be mapped to ranges: age bands are the most frequent use of this.  As a simple example, your Map can take any values 0 to 15 and output "child", and 16 - 100 "adult".  You can have as many bands as you need.
 
 Numeric range maps are only available for number fields, including the age column calculated from a date of birth.  
-To set a column to be an Numeric Range Map, select a numeric type field from the dropdown and click the 
+To set a column to be a Numeric Range Map, select a numeric type field from the dropdown and click the 
 'numeric range map' button.
 
 You can then alter the column header, and enter the details of the first range you want in the map.  For example,

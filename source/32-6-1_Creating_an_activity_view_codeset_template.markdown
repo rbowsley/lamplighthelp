@@ -1,7 +1,6 @@
 # 32.6.1 Creating an {{activity}} view template using a CodeSet
 
-> Creating a template means that you can produce your report in one click and maintain consistency when you have to 
-> run the same report regularly. 
+> Creating a template means that you can produce your report in one click and maintain consistency when you have to run the same report regularly. 
 
 To create a template a system admin will need to go to admin > system administration > manage {{activity}} list
 templates.

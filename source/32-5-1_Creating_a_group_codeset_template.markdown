@@ -1,7 +1,6 @@
 # 32.5.1 Creating a template using a {{Group}}, data view and CodeSet
 
-> Creating a template means that you can produce your report in one click and maintain consistency when you have to 
-> run the same report regularly. 
+> Creating a template means that you can produce your report in one click and maintain consistency when you have to run the same report regularly. 
 
 To create a template a system admin will need to go to admin > system administration > manage {{group}} and data view
 templates.

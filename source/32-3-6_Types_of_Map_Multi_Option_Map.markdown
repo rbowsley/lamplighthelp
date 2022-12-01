@@ -1,9 +1,6 @@
 # 32.3.6 Types of Map: Multi Option Map
 
-> A Multi Option map can be used when a data cell can include multiple values in one cell.  Sometimes this maybe because
-the data is a multi-select field (e.g. 'Languages spoken'), at other times because the data is combined into a single
-cell (e.g. attendance roles).  The data in the cell will be split up and translated one part at a time.  So
-"English, Spanish" might become "EN, SPA", for example.
+> A Multi Option map can be used when a data cell can include multiple values in one cell.  Sometimes this maybe because the data is a multi-select field (e.g. 'Languages spoken'), at other times because the data is combined into a single cell (e.g. attendance roles).  The data in the cell will be split up and translated one part at a time.  So "English, Spanish" might become "EN, SPA", for example.
 
 To create a Multi Option Map, choose a select-type field from the selector, and click the 
 'Multi Option Map' button.

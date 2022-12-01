@@ -11,6 +11,11 @@ To do this you'll need to be able to edit the html of your website. Most website
 do this, but if someone else controls your website you may need to ask them to insert the widget: but it really is just
 a case of pasting a single line of html Lamplight generates.
 
+### Video walkthroughs
+
+We've created three videos that show you how to set up widgets and add them to a website. We work through each 
+step to create three different types of widget. Watch them [in the hub](/help/index/p/52.5).
+
 ### Types of widget
 
 You can create widgets that
@@ -91,7 +96,7 @@ You can also drag and drop the fields into a different order if you need to.
 
 An example Add Profile widget with custom fields and some customised text looks like this:
 
-![Add Profile widget](28.4.0i.PNG)
+![Add Profile widget](28.4.0i.png)
 
 When you save a widget, the form is saved as it is, with the custom fields as they currently are. If you now go and add
 some options to a custom field, the Add Profile widget **will not** update automatically. You will need to edit your

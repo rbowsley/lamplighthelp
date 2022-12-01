@@ -1,7 +1,6 @@
-# 31.4.0 Creating a {{Recruiter}} campaign
+# 31.5.0 Creating a {{Recruiter}} campaign
 
-> A {{recruiter}} campaign is used to seek applications for a particular post.  {{Recruiter_applicant}}s
-> can create and edit their applications between the opening and closing dates. 
+> A {{recruiter}} campaign is used to seek applications for a particular post.  Applicants can create and edit their applications between the opening and closing dates. 
 
 To create a new {{recruiter}} campaign, click {{people}} > {{recruiter}} > add new campaign.  You'll 
 see a form to create the new campaign:

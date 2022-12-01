@@ -1,7 +1,6 @@
-# 31.9.0 Reporting on your {{recruiter}} campaign
+# 31.10.0 Reporting on your {{recruiter}} campaign
 
-> The {{recruiter}} report shows how many applications you received from different groups
-> to assist your equalities monitoring and improvement.
+> The {{recruiter}} report shows how many applications you received from different groups to assist your equalities monitoring and improvement.
 
 After the shortlisting decision has been made you can run a report on the campaign.  
 Go to {{people}} > {{recruiter}} > view campaigns and find the correct campaign.  If

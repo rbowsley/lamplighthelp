@@ -1,7 +1,6 @@
 # 32.5.0 Using Report CodeSets with {{Group}}s and Data Views.
 
-> Use a CodeSet with a {{group}} and {{group}} data view to transform the source data to your required output. 
-> Go to {{Group}}s > View > {{group}} - data views {{report}} on the main menu.
+> Use a CodeSet with a {{group}} and {{group}} data view to transform the source data to your required output.  Go to {{Group}}s > View > {{group}} - data views {{report}} on the main menu.
 
 Once you have created a CodeSet you can start to use it with a {{group}} and {{group}} data view to change the 
 data output.  Go to {{Group}}s > View > {{group}} - data views {{report}} on the main menu. and select the

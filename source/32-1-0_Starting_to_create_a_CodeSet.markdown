@@ -1,7 +1,6 @@
 # 32.1.0 Starting to create a new Report CodeSet
 
-> To create a new Report CodeSet, a system administrator needs to go to admin > system admin > 
-> 'View and edit Report CodeSets' in the modules section.
+> To create a new Report CodeSet, a system administrator needs to go to admin > system admin > 'View and edit Report CodeSets' in the modules section.
 
 Below the explanatory text is a 'Create a new CodeSet' button. Click this and you will be prompted to give your new
 CodeSet a name and description.

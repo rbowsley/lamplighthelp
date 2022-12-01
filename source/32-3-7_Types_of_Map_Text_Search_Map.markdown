@@ -1,8 +1,6 @@
 # 32.3.7 Types of Map: Text Search Map
 
-> A text search map can look for a particular set of phrases, and if it finds it will replace the data in the cell.
-For example, a text search map could look for the word 'happy' in the data and just display '+1' if it finds it;
-and then look for 'sad' in the data, and just display '-1'.  This can be useful for attendance  types amongst others.
+> A text search map can look for a particular set of phrases, and if it finds it will replace the data in the cell. For example, a text search map could look for the word 'happy' in the data and just display '+1' if it finds it; and then look for 'sad' in the data, and just display '-1'.  This can be useful for attendance  types amongst others.
 
 Text search maps are available for most types of field.  Choose the field from the selector and click 'Text search map'.
 

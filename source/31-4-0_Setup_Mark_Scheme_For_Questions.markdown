@@ -1,10 +1,9 @@
-# 31.3.0 Setup Mark Scheme for {{Recruiter}} Questions
+# 31.4.0 Setup Mark Scheme for {{Recruiter}} Questions
 
-> When shortlisting, panel members score each response from 1 to 5. A Mark Scheme identifies the
-> elements of responses that would attract different scores, helping panel members while shortlisting.
+> When shortlisting, panel members score each response from 1 to 5. A Mark Scheme identifies the elements of responses that would attract different scores, helping panel members while shortlisting.
 
 
-To add or edit a Mark Scheme, you will need to [create a Question Set](/en/help/p/31.2.0) first.
+To add or edit a Mark Scheme, you will need to [create a Question Set](/en/help/p/31.3.0) first.
 Then, go to 'admin > system administration > {{Recruiter}} Module > Setup mark schemes for {{recruiter}} responses'.
 
 You will see a list of Question Sets in your system.  Click on the name of the Question Set that you 
