@@ -21,6 +21,7 @@ You need to complete each section:
    - Title for the campaign: choose a title which will allow you to identify it in future and explains the form used. Please note, this title will be seen by your recipients
    - Time and date: the start and finish define when the campaign will be available online for your invitees to complete. If they try outside of these times they will see a message telling them the campaign is closed.
    - {{Workarea}}: when responses return into {{Lamplight}}, you can choose which {{workarea}} they'll be tagged to. This enables you to use the same {{outcome}} for different services.
+   - Receiving {{message}}s - receive notification if there is a problem saving the {{outcome}} data when one of your invitees completes the form. The notification includes the data they tried to save, so that you can follow up as necessary.
    - Select {{outcome}} category: this allows you to choose which {{outcome}} category you wish to use in your campaign. You can select more than one and re-order them by using your mouse and left-clicking and drag the boxes in the preferred order.
 
 ![{{Outcome}} category order](23.6.0b.png)
