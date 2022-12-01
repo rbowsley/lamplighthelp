@@ -39,6 +39,13 @@ You need to complete each section:
   - Style relates to the type of font used to display the survey. To confirm serif is a Times New Roman style font and sans-serif is similar to Arial.
   - Colour schemes will depend on what has been set up in your system. If your System Administrator has created new ones this is where you will find them - see [23.1 Data Direct Module: Set Up](/help/index/p/23.1).
   - Do you want your logo displayed? If you tick the box, you will need to have one loaded in System Admin for this to work - see [16.17.0 Adding or Changing Your Organisation Logo](/help/index/p/16.17.0).
-  
+
+#### Standard email template
+
+The email text you enter here will be used to send the URL to people to ask them to complete the {{outcome}}s you've selected. You will need to enter the text here if you want to be able to quickly send invitations from within profiles, and we recommend that you do.
+
+You **must** make sure that your email includes the **invitees url** mail merge field, as this is substituted for the individual URL when the email is sent.
+
+You can use other merge tags here if you want to too, and we'd recommend that you do to personalise your email. If you are creating campaigns regularly you may want to create a {{comm}}s template to speed this up.
 
 ###### datadirect module
