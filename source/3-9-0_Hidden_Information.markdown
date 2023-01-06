@@ -14,5 +14,9 @@ Once you've made your selection, click 'fetch data' in the bottom right hand cor
 
 ![A revealed search bar](3.9.0b.png)
 
+For record tables, you can alter the default dates that are being applied as a personal setting, so you always see the dated records you're interested in.
+For more information on this see [16.4.3 Personal_Settings - Default Values for Dates on Lists](/help/index/p/16.4.3)
+
+
 ###### core module
 
