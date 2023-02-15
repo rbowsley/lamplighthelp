@@ -22,9 +22,11 @@ Tick the names of the profiles that you want to delete at the top of the next pa
 
 You now choose what to delete:
 
-  - Name and address only. This will delete these details, but the rest of the profile information and {{activity}} records will remain on the system.
+  - Name and address and list membership only. This will delete these details and remove the profile from any lists, but the rest of the profile information and {{activity}} records will remain on the system.
   - Name, address and relationships. As above, but this option will also delete any relationships so that they do not show in profiles.
+  - Name, address, relationships and custom fields. As above, but this option will also delete any information contained in custom fields.
   - Name address, relationships, custom fields, and remove from work etc. records. In addition to the information in the previous options, choosing this one will delete all profile data and remove the {{person}} or {{org}} from all attendance tables in {{activity}} records. This includes {{work}}, {{referral}}s, {{outcome}}s, {{grant}}s etc. The records themselves will not be deleted.
+  - Name, address, relationships, custom fields and remove from Work etc. records. Work etc. records where they are the only {{person}} listed will also be deleted. This option will remove the same information as above in addition it will delete any {{activity}} records where they are the only {{person}} or {{org}} listed in the attendance table.
   - Name, address, relationships, custom fields and delete any work etc. records completely that they are listed on. This is the same as the option above, but instead of deleting the {{person}} or {{org}} from the {{activity}} records, the record itself will be deleted. This means that it will not be counted in any future {{report}}s.
 
 Once you have selected,
